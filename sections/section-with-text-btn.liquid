@@ -1,0 +1,52 @@
+<div class="section-with-text-btn">
+  <div class="container">
+    <div class="section-with-text-btn__wrap">
+      <div class="title">
+        <h1>
+          {{ section.settings.title }}
+        </h1>
+      </div>
+      <div class="text">
+        
+          {{ section.settings.text }}
+       
+      </div>
+      <div class="btn-wrap">
+        <a href="{{section.settings.url}}" class="a-btn">{{ section.settings.btn_name }}</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "section-text-btn",
+    "settings": [
+     {
+        "type": "text",
+        "id": "title",
+        "label": "title"
+      },
+      {
+        "type": "richtext",
+        "id": "text",
+        "label": "text"
+      }, 
+      {
+        "type": "url",
+        "id": "url",
+        "label": "url"
+      }, {
+        "type": "text",
+        "id": "btn_name",
+        "label": "btn name",
+        "default": "Read more"
+      }
+    ],
+    "presets": [
+      {
+        "name": "section-text-btn"
+      }
+    ]
+  }
+{% endschema %}

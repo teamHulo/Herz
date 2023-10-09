@@ -1,0 +1,88 @@
+<div class="section-icon-items">
+  <div class="container">
+    <div class="section-icon-items__wrap">
+      <div class="title">
+        <h2>
+          {{ section.settings.title }}
+        </h2>
+      </div>
+      <div class="text">
+        {{ section.settings.text }}
+      </div>
+      <div class="item-list">
+        {% for block in section.blocks %}
+          <div class="item">
+            <div class="item__wrap">
+              <div class="icon">
+                <img src="{{block.settings.img | img_url: 'master'}}" alt="">
+              </div>
+              <div class="title">
+                <h3>
+                  {{ block.settings.title }}
+                </h3>
+              </div>
+              <div class="text">
+                {{ block.settings.text }}
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      <div class="section-icon-items-btn">
+        <a href="{{section.settings.url}}" class="a-btn">{{ section.settings.btn_name }}</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "section-icon-item",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "title"
+      }, {
+        "type": "richtext",
+        "id": "text",
+        "label": "text"
+      }, {
+        "type": "url",
+        "id": "url",
+        "label": "url"
+      }, {
+        "type": "text",
+        "id": "btn_name",
+        "label": "btn name",
+        "default": "Read more"
+      }
+    ],
+    "blocks": [
+      {
+        "name": "slide",
+        "type": "item",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "img",
+            "label": "image"
+          }, {
+            "type": "text",
+            "id": "title",
+            "label": "title"
+          }, {
+            "type": "richtext",
+            "id": "text",
+            "label": "text detail"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "section-icon-item"
+      }
+    ]
+  }
+{% endschema %}

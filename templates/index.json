@@ -62,10 +62,189 @@
       ],
       "settings": {
       }
+    },
+    "3042eba3-91b9-4a6e-9e08-4e8237a86bf5": {
+      "type": "section-our",
+      "blocks": {
+        "b36b2098-d211-431d-acd0-23649bf238c2": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image_18.png",
+            "title": "Advent mit Kindern",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
+            "url": "#",
+            "btn_name": "Read more"
+          }
+        },
+        "8038429f-adf3-48b3-93d2-f37c76eec66f": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image_18.png",
+            "title": "Advent mit Kindern",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
+            "url": "#",
+            "btn_name": "Read more"
+          }
+        },
+        "05f71cf6-7b93-47b0-b56f-f77333c12898": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image_18.png",
+            "title": "Advent mit Kindern",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
+            "url": "#",
+            "btn_name": "Read more"
+          }
+        },
+        "0f45442c-cec0-47c4-8890-45ecdabc70da": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image_18.png",
+            "title": "Advent mit Kindern",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
+            "url": "#",
+            "btn_name": "Read more"
+          }
+        },
+        "398c0626-0767-4f6d-99e5-4a9f1425b329": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image_18.png",
+            "title": "Advent mit Kindern",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
+            "url": "#",
+            "btn_name": "Read more"
+          }
+        },
+        "ccd6272e-5e42-4713-be72-c67de85b2d0c": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image_18.png",
+            "title": "Advent mit Kindern",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
+            "url": "#",
+            "btn_name": "Read more"
+          }
+        }
+      },
+      "block_order": [
+        "b36b2098-d211-431d-acd0-23649bf238c2",
+        "8038429f-adf3-48b3-93d2-f37c76eec66f",
+        "05f71cf6-7b93-47b0-b56f-f77333c12898",
+        "0f45442c-cec0-47c4-8890-45ecdabc70da",
+        "398c0626-0767-4f6d-99e5-4a9f1425b329",
+        "ccd6272e-5e42-4713-be72-c67de85b2d0c"
+      ],
+      "settings": {
+        "name": "",
+        "title": ""
+      }
+    },
+    "36e0d3e3-5bd7-406a-a6e0-7b82cebec1e4": {
+      "type": "section-with-text-btn",
+      "settings": {
+        "title": "Tragejacken für Herbst & Winter",
+        "text": "<p>Beim Tragen profitiert dein Baby direkt von deiner Körperwärme. Damit ihr auch bei kühlerem Wetter gut angezogen seid, gibt es Tragejacken- und Pullis, die den Wärmeaustausch optimal unterstützen.<\/p>",
+        "url": "",
+        "btn_name": "Read more"
+      }
+    },
+    "26c8d3c8-7ce7-4af3-9637-22df869f6e7b": {
+      "type": "section-full-image",
+      "settings": {
+        "img": "shopify:\/\/shop_images\/mamalila_OJSpro-gr_stineogjarlen_2_1_1.png"
+      }
+    },
+    "32304844-b226-476a-b89c-c9bad2a32f6b": {
+      "type": "section-slider",
+      "blocks": {
+        "2129a232-6fc7-482c-89ad-94e0d89cc98b": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Mood3_1.png",
+            "title": "Leichte Umstands- & Tragejacken",
+            "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.<\/p>",
+            "url": "#",
+            "btn_name": "Jetzt einkaufen"
+          }
+        },
+        "99614f5f-712b-45d9-b81c-35dc9b17ed70": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Mood3_1.png",
+            "title": "Leichte Umstands- & Tragejacken",
+            "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.<\/p>",
+            "url": "#",
+            "btn_name": "Jetzt einkaufen"
+          }
+        },
+        "e676cca9-7ed7-4238-9fc1-bf237e460203": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Mood3_1.png",
+            "title": "Leichte Umstands- & Tragejacken",
+            "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.<\/p>",
+            "url": "#",
+            "btn_name": "Jetzt einkaufen"
+          }
+        }
+      },
+      "block_order": [
+        "2129a232-6fc7-482c-89ad-94e0d89cc98b",
+        "99614f5f-712b-45d9-b81c-35dc9b17ed70",
+        "e676cca9-7ed7-4238-9fc1-bf237e460203"
+      ],
+      "settings": {
+      }
+    },
+    "9c9bf7b0-233a-4e77-bba3-785994bab770": {
+      "type": "section-icon-items",
+      "blocks": {
+        "9b58f64f-ffba-4c57-bda0-068ecad80d39": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/icon.png",
+            "title": "Nachhaltig",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi.<\/p>"
+          }
+        },
+        "3bf6ba22-b7eb-40dc-b069-d5133591fbc0": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/icon_1.png",
+            "title": "Lokal",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi.<\/p>"
+          }
+        },
+        "ceeb4f44-cb89-4599-beb6-04e7a4658e41": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/icon_2.png",
+            "title": "Artgerecht",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9b58f64f-ffba-4c57-bda0-068ecad80d39",
+        "3bf6ba22-b7eb-40dc-b069-d5133591fbc0",
+        "ceeb4f44-cb89-4599-beb6-04e7a4658e41"
+      ],
+      "settings": {
+        "title": "Über uns",
+        "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
+        "url": "",
+        "btn_name": "Read more"
+      }
     }
   },
   "order": [
     "featured-collection-0",
-    "6b26ce6b-052d-410b-ae1c-e654b23ac8ee"
+    "6b26ce6b-052d-410b-ae1c-e654b23ac8ee",
+    "3042eba3-91b9-4a6e-9e08-4e8237a86bf5",
+    "36e0d3e3-5bd7-406a-a6e0-7b82cebec1e4",
+    "26c8d3c8-7ce7-4af3-9637-22df869f6e7b",
+    "32304844-b226-476a-b89c-c9bad2a32f6b",
+    "9c9bf7b0-233a-4e77-bba3-785994bab770"
   ]
 }

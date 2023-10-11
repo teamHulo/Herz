@@ -272,6 +272,16 @@
         "url": "",
         "btn_name": "Read more"
       }
+    },
+    "87ca8f06-a903-47e5-8e13-7b5d55ff9427": {
+      "type": "section-banner-with-form",
+      "settings": {
+        "bg": "#a25c3f",
+        "text_color": "#faf8f3",
+        "icon": "shopify:\/\/shop_images\/mail-surprise.svg",
+        "title": "Erhalte 10% Gutschein",
+        "text": "Melde dich zu unserem Newsletter"
+      }
     }
   },
   "order": [
@@ -283,6 +293,7 @@
     "a0cd7d12-bf7a-4e82-8365-6c3379aab588",
     "32304844-b226-476a-b89c-c9bad2a32f6b",
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba",
-    "9c9bf7b0-233a-4e77-bba3-785994bab770"
+    "9c9bf7b0-233a-4e77-bba3-785994bab770",
+    "87ca8f06-a903-47e5-8e13-7b5d55ff9427"
   ]
 }

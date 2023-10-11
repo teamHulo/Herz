@@ -29,6 +29,7 @@
         "paragraph",
         "email-form"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "inverse",
         "full_width": true,
@@ -39,6 +40,16 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "26bfc885-acc3-4fc1-93a8-9d3988490d59": {
+          "type": "contact",
+          "settings": {
+            "myheading": "Contact Us:",
+            "phone_name": "+41 (0)76 325 84 84",
+            "mail_name": "shop@herzanherz.ch",
+            "mail_url": "",
+            "phone_url": ""
+          }
+        },
         "79837838-030c-4643-ab6a-e63deb6633f3": {
           "type": "link_list",
           "settings": {
@@ -62,19 +73,21 @@
         }
       },
       "block_order": [
+        "26bfc885-acc3-4fc1-93a8-9d3988490d59",
         "79837838-030c-4643-ab6a-e63deb6633f3",
         "cb64fb7c-68f6-426b-bc22-6cd53daa0488",
         "c2803fe8-f4bd-4c67-88ff-d2d64b60d785"
       ],
       "settings": {
+        "img_logo": "shopify:\/\/shop_images\/Group.png",
         "color_scheme": "inverse",
         "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
-        "enable_follow_on_shop": true,
-        "show_social": true,
-        "enable_country_selector": true,
-        "enable_language_selector": true,
-        "payment_enable": true,
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
         "show_policy": false,
         "margin_top": 0,
         "padding_top": 44,

@@ -1122,7 +1122,7 @@ p {
 .footer-social{
   margin-top:20px;
 }
-.footer-social img{
+.footer-social img , .list-social img{
   display:block;
   width:50px;
   height: 50px;

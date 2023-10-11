@@ -1,33 +1,5 @@
 {
   "sections": {
-    "featured-collection-0": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "portrait",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
@@ -61,6 +33,17 @@
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495"
       ],
       "settings": {
+      }
+    },
+    "93c6b928-f3db-48ae-8d88-b0183db2c048": {
+      "type": "section-product-collection",
+      "settings": {
+        "bg": "#F4F1EA",
+        "title": "Bestsellers",
+        "show_contant": true,
+        "align-mobile": "left",
+        "slider_type": "list-products-swiper-1",
+        "collection": "all"
       }
     },
     "3042eba3-91b9-4a6e-9e08-4e8237a86bf5": {
@@ -136,8 +119,8 @@
         "ccd6272e-5e42-4713-be72-c67de85b2d0c"
       ],
       "settings": {
-        "name": "",
-        "title": ""
+        "name": "OUR RECOMMENDATIONS",
+        "title": "Collections"
       }
     },
     "36e0d3e3-5bd7-406a-a6e0-7b82cebec1e4": {
@@ -153,6 +136,17 @@
       "type": "section-full-image",
       "settings": {
         "img": "shopify:\/\/shop_images\/mamalila_OJSpro-gr_stineogjarlen_2_1_1.png"
+      }
+    },
+    "a0cd7d12-bf7a-4e82-8365-6c3379aab588": {
+      "type": "section-product-collection",
+      "settings": {
+        "bg": "#FAF8F3",
+        "title": "Neu eingetroffen:",
+        "show_contant": false,
+        "align-mobile": "left",
+        "slider_type": "list-products-swiper-2",
+        "collection": "all"
       }
     },
     "32304844-b226-476a-b89c-c9bad2a32f6b": {
@@ -281,11 +275,12 @@
     }
   },
   "order": [
-    "featured-collection-0",
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee",
+    "93c6b928-f3db-48ae-8d88-b0183db2c048",
     "3042eba3-91b9-4a6e-9e08-4e8237a86bf5",
     "36e0d3e3-5bd7-406a-a6e0-7b82cebec1e4",
     "26c8d3c8-7ce7-4af3-9637-22df869f6e7b",
+    "a0cd7d12-bf7a-4e82-8365-6c3379aab588",
     "32304844-b226-476a-b89c-c9bad2a32f6b",
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba",
     "9c9bf7b0-233a-4e77-bba3-785994bab770"

@@ -1,0 +1,17 @@
+
+<div class="blog-card">
+    <a class="blog-card__link" href="{{ article.url }}">
+        <div class="blog-card__img">
+            <img src="{{ article.image | img_url: 'master'  }}" alt="">
+        </div>
+        <div class="blog-card__text">
+            <h4>{{ article.title }}</h4>
+            {% if article.excerpt != blank %}
+                <p>{{ article.excerpt }}</p>
+            {% endif %}
+            {% if article.url != blank %}
+                <a href="{{ article.url }}" class="">{{ btn_name }}</a>
+            {% endif %}
+        </div>
+    </a>
+</div>

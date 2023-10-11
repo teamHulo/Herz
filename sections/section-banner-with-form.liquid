@@ -2,8 +2,38 @@
     #shopify-section-{{ section.id }} {
         background-color: {{ section.settings.bg }};
     }
-    .banner-with-contact, .banner-with-contact a, .banner-with-contact p, .banner-with-contact span, .banner-with-contact h1, .banner-with-contact h2, .banner-with-contact h3, .banner-with-contact h4, .banner-with-contact h5, .banner-with-contact h6 {
+    .banner-with-contact, 
+    .banner-with-contact a, 
+    .banner-with-contact label, 
+    .banner-with-contact input, 
+    .banner-with-contact p, 
+    .banner-with-contact span, 
+    .banner-with-contact h1, 
+    .banner-with-contact h2, 
+    .banner-with-contact h3, 
+    .banner-with-contact h4, 
+    .banner-with-contact h5, 
+    .banner-with-contact h6 {
         color: {{ section.settings.text_color }};
+    }
+    #email {
+        outline: none;
+        box-shadow: none;
+        background: transparent;
+        border: none;
+        border-bottom: 1px solid white;
+    }
+    #email:focus~label, #email:not(:placeholder-shown)~label {
+        font-size: 1rem;
+        top: 0;
+        letter-spacing: .04rem;
+    }
+    #email::placeholder {
+        opacity: 0;
+    }
+    .email label {
+        transform: translateX(-50%);
+        left: 50%;
     }
 </style>
 <div class="banner-with-contact">
@@ -14,9 +44,10 @@
         <div class="banner-with-contact__title">{{ section.settings.title }}</div>
         <div class="banner-with-contact__text">{{ section.settings.text }}</div>
         <div class="banner-with-contact__form">
-            {% form 'contact' %}
+            {% form 'customer' %}
                 <div class="email">
-                    <input type="email" name="contact[email]" id="email" />
+                    <input type="email" name="contact[email]" id="email" placeholder="x"/>
+                    <label class="field__label" for="email">YOUR EMAIL</label>
                     <button
                     type="submit"
                     class="newsletter-form__button field__button"

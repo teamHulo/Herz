@@ -975,6 +975,7 @@ p {
   padding: 90px 0;
 }
 .banner-with-contact__wrapper {
+  text-align: center;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -998,17 +999,33 @@ p {
 }
 .banner-with-contact__form {
   margin-top: 24px;
+
+  max-width: 425px;
+  width: 100%;
 }
 .banner-with-contact__form .email {
   position: relative;
-  width: 425px;
 }
-.banner-with-contact__form input {
+.banner-with-contact__form .email label {
+  transform: translateX(-50%);
+  left: 50%;
+}
+.banner-with-contact__form #email {
   width: 100%;
   padding: 16px 0;
+  outline: none;
+  box-shadow: none;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid white;
 }
-.banner-with-contact__form .form_btn::before {
-  content: "U+02192";
+.banner-with-contact__form #email:focus~label, .banner-with-contact__form #email:not(:placeholder-shown)~label{
+  font-size: 1rem;
+  top: 0;
+  letter-spacing: .04rem;
+}
+.banner-with-contact__form #email::placeholder {
+  opacity: 0;
 }
 
 @media (max-width: 1023px) {

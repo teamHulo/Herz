@@ -1,0 +1,83 @@
+<style>
+    #shopify-section-{{ section.id }} {
+        background-color: {{ section.settings.bg }};
+    }
+    .banner-with-contact, .banner-with-contact a, .banner-with-contact p, .banner-with-contact span, .banner-with-contact h1, .banner-with-contact h2, .banner-with-contact h3, .banner-with-contact h4, .banner-with-contact h5, .banner-with-contact h6 {
+        color: {{ section.settings.text_color }};
+    }
+</style>
+<div class="banner-with-contact">
+    <div class="banner-with-contact__wrapper container">
+        <div class="banner-with-contact__icon">
+            <img src="{{ section.settings.icon | img_url: 'master' }}" alt="">
+        </div>
+        <div class="banner-with-contact__title">{{ section.settings.title }}</div>
+        <div class="banner-with-contact__text">{{ section.settings.text }}</div>
+        <div class="banner-with-contact__form">
+            {% form 'contact' %}
+                <div class="email">
+                    <input type="email" name="contact[email]" id="email" />
+                    <button
+                    type="submit"
+                    class="newsletter-form__button field__button"
+                    >
+                    {% render 'icon-arrow' %}
+                  </button>
+                </div>
+            {% endform %}
+        </div>
+    </div>
+</div>
+{% schema %}
+{
+    "name": "Banner with contact",
+    "settings": [
+        {
+            "type": "color",
+            "id": "bg",
+            "label": "Backgroind color"
+        },
+        {
+            "type": "color",
+            "id": "text_color",
+            "label": "Text color"
+        },
+        {
+            "type": "image_picker",
+            "id": "icon",
+            "label": "Icon"
+        },
+        {
+            "type": "text",
+            "id": "title",
+            "label": "Title",
+            "default": "Erhalte 10% Gutschein"
+        },
+        {
+            "type": "text",
+            "id": "text",
+            "label": "Text",
+            "default": "Melde dich zu unserem Newsletter"
+        }
+        
+    ],
+    "blocks": [
+        {
+            "name": "Article",
+            "type": "article",
+            "settings": [
+                {
+                    "type": "article",
+                    "id": "article",
+                    "label": "Article"
+                }
+            ]
+        }
+    ],
+    "presets": [
+        {
+            "name": "Banner with contact"
+        }
+    ]
+}
+{% endschema %}

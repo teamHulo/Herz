@@ -1,0 +1,79 @@
+<div class="banner-location">
+    <div class="banner-location__wrapper container">
+        <div class="banner-location__content">
+            <div class="banner-location__content-wrap">
+                <div class="banner-location__title m-24">{{ section.settings.title }}</div>
+                <div class="banner-location__text">{{ section.settings.text }}</div>
+                {% render 'icon-cart-empty' %}
+                <div class="banner-location__text">{{ section.settings.address }}</div>
+                <div class="banner-location__text">{{ section.settings.tel }}</div>
+                <a class="banner-location__link" href="#">Öffnungszeiten</a>
+            </div>
+        </div>
+        <div class="banner-location__img">
+            <div class="banner-location__img-wrap">
+                <img src="{{ section.settings.img | img_url: 'master' }}" alt="">
+            </div>
+            <img class="banner-location__logo" src="https://cdn.shopify.com/s/files/1/0837/0719/9803/files/Group_1062.png?v=1697049601" alt="">
+        </div>
+    </div>
+</div>
+{% schema %}
+{
+    "name": "Banner location",
+    "settings": [
+        {
+            "type": "image_picker",
+            "id": "img",
+            "label": "Image"
+        },
+        {
+            "type": "text",
+            "id": "title",
+            "label": "Title",
+            "default": "Besuche unseren Laden in Winterthur"
+        },
+        {
+            "type": "text",
+            "id": "text",
+            "label": "Text",
+            "default": "Schweizweit grösste Fläche mit 250m2 nachhaltige Babyprodukte für bewusste Elternschaft."
+        },
+        {
+            "type": "text",
+            "id": "address",
+            "label": "Address",
+            "default": "Paulstrasse 5, Winterthur"
+        },
+        {
+            "type": "text",
+            "id": "tel",
+            "label": "Tel",
+            "default": "+41 (0)76 325 84 84"
+        },
+        {
+            "type": "url",
+            "id": "btn_url",
+            "label": "Url"
+        }
+    ],
+    "blocks": [
+        {
+            "name": "Article",
+            "type": "article",
+            "settings": [
+                {
+                    "type": "article",
+                    "id": "article",
+                    "label": "Article"
+                }
+            ]
+        }
+    ],
+    "presets": [
+        {
+            "name": "Banner location"
+        }
+    ]
+}
+{% endschema %}

@@ -1163,3 +1163,109 @@ p {
   }
 }
 /**** end footer ****/
+
+/* --start-- Banner location  section ------------------------------------------ Banner location  section --start--*/
+
+.banner-location {
+  background: linear-gradient(90deg, rgb(244,241,234) 0%, rgb(244,241,234) 50%, rgb(216,173,152) 50%, rgb(216,173,152) 100%);
+}
+
+.banner-location__wrapper {
+  display: flex;
+  padding: 70px 0;
+}
+.banner-location__content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.banner-location__content-wrap {
+  max-width: 450px;
+  padding: 20px 0;
+}
+.banner-location__content svg {
+  width: 60px;
+}
+.banner-location__img {
+  flex: 1;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.banner-location__logo {
+  position: absolute;
+  right: 0;
+}
+.banner-location__title {
+  font-family: Lora;
+  font-size: 38px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 120%;
+  letter-spacing: -1.52px;
+}
+.banner-location__text {
+  font-family: Work Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+  letter-spacing: -0.64px;
+  margin-bottom: 10px;
+}
+.banner-location__link {
+  color: inherit;
+  font-family: Work Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 16.506px;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+}
+.m-24 {
+  margin: 24px 0;
+}
+.banner-location__img-wrap {
+  width: 80%;
+  position: relative;
+  padding-top: 80%;
+}
+.banner-location__img-wrap img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+}
+@media(max-width: 767px) {
+  .banner-location {
+      background: transparent;
+   }
+  .banner-location__wrapper {
+      flex-direction: column;
+  }
+  .banner-location__content {
+      background-color: #f4f1ea;
+  }
+  .banner-location__img {
+      background-color: #d8ad98;
+      padding: 50px 0;
+  }
+  .banner-location__logo {
+      display: none;
+  }   
+}
+@media(max-width: 500px) {
+  .banner-location__img {
+      padding: 80px;
+  }
+  .banner-location__img-wrap {
+      width: 100%;
+      padding-top: 100%;
+  }
+}
+/* --end-- Banner location  section ------------------------------------------ Banner location  section --end--*/

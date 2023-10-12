@@ -282,6 +282,17 @@
         "title": "Erhalte 10% Gutschein",
         "text": "Melde dich zu unserem Newsletter"
       }
+    },
+    "2ce312ca-1035-4cd3-a33b-f7ea71672691": {
+      "type": "section-banner-location",
+      "settings": {
+        "img": "shopify:\/\/shop_images\/image_92.jpg",
+        "title": "Besuche unseren Laden in Winterthur",
+        "text": "Schweizweit grösste Fläche mit 250m2 nachhaltige Babyprodukte für bewusste Elternschaft.",
+        "address": "Paulstrasse 5, Winterthur",
+        "tel": "+41 (0)76 325 84 84",
+        "btn_url": ""
+      }
     }
   },
   "order": [
@@ -294,6 +305,7 @@
     "32304844-b226-476a-b89c-c9bad2a32f6b",
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba",
     "9c9bf7b0-233a-4e77-bba3-785994bab770",
-    "87ca8f06-a903-47e5-8e13-7b5d55ff9427"
+    "87ca8f06-a903-47e5-8e13-7b5d55ff9427",
+    "2ce312ca-1035-4cd3-a33b-f7ea71672691"
   ]
 }

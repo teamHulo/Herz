@@ -146,7 +146,7 @@ quantity-popover:has(.quantity__input:focus-visible) .quantity-popover__info {
 }
 
 quantity-popover .quantity {
-  background: rgb(var(--color-background));
+  background: white;
 }
 
 quantity-popover .quantity__rules {

@@ -23,10 +23,20 @@
 
 .totals__total {
   margin-top: .5rem;
+  color: #828071;
 }
 
 .totals__total-value {
   font-size: 1.8rem;
+  color: #00281D;
+}
+.totals__total-value, .totals__total {
+  font-family: Work Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -0.48px;
 }
 
 .cart__ctas + .totals {

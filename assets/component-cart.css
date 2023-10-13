@@ -22,7 +22,25 @@ cart-items.is-empty .title-wrapper-with-link,
 }
 
 .cart__empty-text {
+  color: var(--light-green---secondary-text, #828071);
+  font-family: Work Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+  letter-spacing: -0.64px;
   margin: 4.5rem 0 2rem;
+}
+.cart__empty-button {
+  color: var(--green---secondary-text, #545248);
+  font-family: Work Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 160%;
+  letter-spacing: -0.64px;
+  text-decoration-line: underline;
+  text-transform: uppercase;
 }
 
 .cart__contents > * + * {
@@ -155,6 +173,9 @@ cart-items {
 
 .cart__ctas button {
   width: 100%;
+}
+.cart__ctas .a-btn {
+  margin-top: 3rem;
 }
 
 .cart__ctas > *:not(noscript:first-child) + * {

@@ -44,7 +44,7 @@
       endcase
     endfor
   -%}
-
+  
   {%- if block.settings.picker_type == 'button' -%}
     <input
       type="radio"
@@ -59,6 +59,7 @@
         class="disabled"
       {% endif %}
     >
+    
     <label for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
       {{ value -}}
       <span class="visually-hidden">{{ 'products.product.variant_sold_out_or_unavailable' | t }}</span>

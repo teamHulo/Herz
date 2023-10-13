@@ -1,0 +1,24 @@
+{% assign product_form_id = 'product-form-' | append: section.id %}
+
+
+
+
+<div class="swatcher__wrap">
+  <div class="swatcher-list">
+    {% for value in option.values %}
+      <input
+        id="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}"
+        type="radio"
+        name="{{option.name}}"
+        id="color-{{value}}"
+        value="{{ value | escape }}"
+        {% if option.selected_value == value %}checked{% endif %}
+        {% if option_disabled %}class="disabled"{% endif %}>
+        {% assign json_data = 'swatch-color.json' | asset_url | asset_img_tag: 'balsam' %}
+        {% assign color = json_data | json %}
+        {{color.balsam}}
+        {% assign image_filename = 'red' | remove: " " | downcase | append: '.png' %}
+        <label for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}" style="background:url({{image_filename | file_url}}); background-color:{{color.balsam}}"> {{value}}</label>
+    {% endfor %}
+  </div>
+</div>

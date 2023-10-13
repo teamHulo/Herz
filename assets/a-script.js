@@ -211,3 +211,26 @@ $(() => {
     }
   });
 })
+
+
+$(() => {
+  const jsonFileUrl = '/assets/ваш_файл.json';
+
+  // Сделайте GET-запрос для загрузки JSON-файла
+  fetch(jsonFileUrl)
+    .then(response => response.json())
+    .then(data => {
+      console.log(data);
+
+    })
+    .catch(error => {
+      console.error('Произошла ошибка при загрузке JSON-файла', error);
+    });
+
+
+
+  $('.swatch-color').each(function(){
+
+  });
+
+});

@@ -1388,6 +1388,7 @@ p {
   align-items: center;
   }
   .achievements__label {
+    text-align: center;
     font-family: Work Sans;
     font-size: 16px;
     font-style: normal;

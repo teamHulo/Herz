@@ -19,10 +19,98 @@
         "img": "shopify:\/\/shop_images\/image_92.jpg",
         "max_width": 870
       }
+    },
+    "591cf3fa-c46a-4347-90c3-10ffaa7815f1": {
+      "type": "section-our-team",
+      "blocks": {
+        "0d00a222-aa0c-4c8b-aa88-5bfe8def0963": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/lightblue.png",
+            "name": "Anna Smith",
+            "text": "Lorem ipsum dolor sit amet consectetur."
+          }
+        },
+        "c8394d23-9764-4513-aa47-49c63d237f3e": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/lightblue.png",
+            "name": "Anna Smith",
+            "text": "Lorem ipsum dolor sit amet consectetur."
+          }
+        },
+        "d76f6589-f9e4-4a95-ba25-6b155594ccba": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/lightblue.png",
+            "name": "Anna Smith",
+            "text": "Lorem ipsum dolor sit amet consectetur."
+          }
+        },
+        "a7e72277-935e-463c-97b3-335ba595dda4": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/lightblue.png",
+            "name": "Anna Smith",
+            "text": "Lorem ipsum dolor sit amet consectetur."
+          }
+        },
+        "c23d39f7-f33f-45a0-b2e4-29b81b08d713": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/lightblue.png",
+            "name": "Anna Smith",
+            "text": "Lorem ipsum dolor sit amet consectetur."
+          }
+        },
+        "4fa9c249-ea07-48d2-aa2a-530bfde3ace2": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/lightblue.png",
+            "name": "Anna Smith",
+            "text": "Lorem ipsum dolor sit amet consectetur."
+          }
+        },
+        "f9b40a2c-1360-42a4-8cac-7c832ce47bfd": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/lightblue.png",
+            "name": "Anna Smith",
+            "text": "Lorem ipsum dolor sit amet consectetur."
+          }
+        },
+        "d0618dc8-417f-43a1-8ed9-10cda937af57": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/lightblue.png",
+            "name": "Anna Smith",
+            "text": "Lorem ipsum dolor sit amet consectetur."
+          }
+        }
+      },
+      "block_order": [
+        "0d00a222-aa0c-4c8b-aa88-5bfe8def0963",
+        "c8394d23-9764-4513-aa47-49c63d237f3e",
+        "d76f6589-f9e4-4a95-ba25-6b155594ccba",
+        "a7e72277-935e-463c-97b3-335ba595dda4",
+        "c23d39f7-f33f-45a0-b2e4-29b81b08d713",
+        "4fa9c249-ea07-48d2-aa2a-530bfde3ace2",
+        "f9b40a2c-1360-42a4-8cac-7c832ce47bfd",
+        "d0618dc8-417f-43a1-8ed9-10cda937af57"
+      ],
+      "settings": {
+        "bg": "#a25c3f",
+        "text_color": "#faf8f3",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "title": "Our Team",
+        "label": "who we are"
+      }
     }
   },
   "order": [
     "main",
-    "e4f9ed82-6d67-41da-8751-1d3f0a0233f0"
+    "e4f9ed82-6d67-41da-8751-1d3f0a0233f0",
+    "591cf3fa-c46a-4347-90c3-10ffaa7815f1"
   ]
 }

@@ -1,0 +1,113 @@
+<style>
+    #shopify-section-{{ section.id }} {
+        padding-top: {{ section.settings.padding_top }}px;
+        padding-bottom: {{ section.settings.padding_bottom }}px;
+        background-color: {{ section.settings.bg }};
+    }
+
+    .our-team p,
+    .our-team h1,
+    .our-team h2,
+    .our-team h3,
+    .our-team h4,
+    .our-team h5,
+    .our-team h6,
+    .our-team span,
+    .our-team a {
+        color: {{ section.settings.text_color }};
+    }
+
+</style>
+<div class="our-team">
+    <div class="our-team__wrapper container">
+        <span class="our-team__label">{{ section.settings.label }}</span>
+        <h2 class="our-team__title">{{ section.settings.title }}</h2>
+        <div class="our-team__content">
+            {% for block in section.blocks %}
+                <div class="item">
+                    <div class="item__img">
+                        <img src="{{ block.settings.ava |  img_url: 'master'  }}" alt="{{ block.settings.ava.alt }}">
+                    </div>
+                    <h3 class="item__name">{{ block.settings.name }}</h3>
+                    <p class="item__text">{{ block.settings.text }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+{% schema %}
+{
+    "name": "Our team",
+    "settings": [
+        {
+            "type": "color",
+            "id": "bg",
+            "label": "Background color"
+        },
+        {
+            "type": "color",
+            "id": "text_color",
+            "label": "Text color"
+        },
+        {
+            "type": "range",
+            "id": "padding_top",
+            "label": "Paddind top",
+            "min": 0,
+            "max": 200,
+            "step": 2,
+            "unit": "px",
+            "default": 60
+        },
+        {
+            "type": "range",
+            "id": "padding_bottom",
+            "label": "Paddind bottom",
+            "min": 0,
+            "max": 200,
+            "step": 2,
+            "unit": "px",
+            "default": 60
+        },
+        {
+            "type": "text",
+            "id": "title",
+            "label": "Title"
+        },
+        {
+            "type": "text",
+            "id": "label",
+            "label": "Label"
+        }
+    ],
+    "blocks": [
+        {
+            "name": "Person",
+            "type": "person",
+            "settings": [
+                {
+                    "type": "image_picker",
+                    "id": "ava",
+                    "label": "Avatar"
+                },
+                {
+                    "type": "text",
+                    "id": "name",
+                    "label": "Name"
+                },
+                {
+                    "type": "text",
+                    "id": "text",
+                    "label": "Text"
+                }
+            ]
+        }
+    ],
+    "presets": [
+        {
+            "name": "Our team"
+        }
+    ]
+}
+{% endschema %}

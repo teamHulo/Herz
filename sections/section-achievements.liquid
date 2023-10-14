@@ -1,0 +1,118 @@
+<style>
+    #shopify-section-{{ section.id }} {
+        padding-top: {{ section.settings.padding_top }}px;
+        padding-bottom: {{ section.settings.padding_bottom }}px;
+        background-color: {{ section.settings.bg }};
+    }
+
+    .achievements p,
+    .achievements h1,
+    .achievements h2,
+    .achievements h3,
+    .achievements h4,
+    .achievements h5,
+    .achievements h6,
+    .achievements span,
+    .achievements a {
+        color: {{ section.settings.text_color }};
+    }
+
+
+</style>
+<div class="achievements">
+    <div class="achievements__wrapper container">
+        <h2 class="achievements__title">{{ section.settings.title }}</h2>
+        <span class="achievements__label">{{ section.settings.label }}</span>
+        <div class="achievements__content">
+            {% for block in section.blocks %}
+                <div class="item">
+                    <div class="item__img-wrap">
+                        <div class="item__img">
+                            <img src="{{ block.settings.ava |  img_url: 'master'  }}" alt="{{ block.settings.ava.alt }}">
+                        </div>
+                    </div>
+                    <div class="item__content">
+                        <h3 class="item__name">{{ block.settings.name }}</h3>
+                        <p class="item__text">{{ block.settings.text }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+{% schema %}
+{
+    "name": "Achievements",
+    "settings": [
+        {
+            "type": "color",
+            "id": "bg",
+            "label": "Background color"
+        },
+        {
+            "type": "color",
+            "id": "text_color",
+            "label": "Text color"
+        },
+        {
+            "type": "range",
+            "id": "padding_top",
+            "label": "Paddind top",
+            "min": 0,
+            "max": 200,
+            "step": 2,
+            "unit": "px",
+            "default": 60
+        },
+        {
+            "type": "range",
+            "id": "padding_bottom",
+            "label": "Paddind bottom",
+            "min": 0,
+            "max": 200,
+            "step": 2,
+            "unit": "px",
+            "default": 60
+        },
+        {
+            "type": "text",
+            "id": "title",
+            "label": "Title"
+        },
+        {
+            "type": "text",
+            "id": "label",
+            "label": "Label"
+        }
+    ],
+    "blocks": [
+        {
+            "name": "Person",
+            "type": "person",
+            "settings": [
+                {
+                    "type": "image_picker",
+                    "id": "ava",
+                    "label": "Avatar"
+                },
+                {
+                    "type": "text",
+                    "id": "name",
+                    "label": "Name"
+                },
+                {
+                    "type": "text",
+                    "id": "text",
+                    "label": "Text"
+                }
+            ]
+        }
+    ],
+    "presets": [
+        {
+            "name": "Achievements"
+        }
+    ]
+}
+{% endschema %}

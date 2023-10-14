@@ -106,11 +106,72 @@
         "title": "Our Team",
         "label": "who we are"
       }
+    },
+    "e85f1518-7e1b-4e45-a379-09ca75c69fce": {
+      "type": "section-achievements",
+      "blocks": {
+        "d5aea120-3c34-4183-aaea-05e5c393320d": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Vector_1.png",
+            "name": "Award 01",
+            "text": "Lorem ipsum dolor sit amet consectetur."
+          }
+        },
+        "71709b28-2f50-4146-b31c-ff29852b75b1": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Vector_1.png",
+            "name": "Award 01",
+            "text": "Lorem ipsum dolor sit amet consectetur."
+          }
+        },
+        "e3a0d4fe-d2e6-4e55-881b-903312ced00c": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Vector_1.png",
+            "name": "Award 01",
+            "text": "Lorem ipsum dolor sit amet consectetur."
+          }
+        },
+        "70686f75-0757-4b4c-ab47-4adf4556549a": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Vector_1.png",
+            "name": "Award 01",
+            "text": "Lorem ipsum dolor sit amet consectetur."
+          }
+        },
+        "575563b4-1555-4df5-8b27-65c5a79054af": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Vector_1.png",
+            "name": "Award 01",
+            "text": "Lorem ipsum dolor sit amet consectetur."
+          }
+        }
+      },
+      "block_order": [
+        "d5aea120-3c34-4183-aaea-05e5c393320d",
+        "71709b28-2f50-4146-b31c-ff29852b75b1",
+        "e3a0d4fe-d2e6-4e55-881b-903312ced00c",
+        "70686f75-0757-4b4c-ab47-4adf4556549a",
+        "575563b4-1555-4df5-8b27-65c5a79054af"
+      ],
+      "settings": {
+        "bg": "#ffffff",
+        "text_color": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "title": "Achievements",
+        "label": "Lorem ipsum dolor sit amet consectetur. Lacus accumsan sociis eget elit ultricies purus. Vel in at viverra pharetra. Amet feugiat pharetra cursus sapien sed. Gravida quisque nunc vestibulum proin eget. Justo in viverra cursus vitae accumsan."
+      }
     }
   },
   "order": [
     "main",
     "e4f9ed82-6d67-41da-8751-1d3f0a0233f0",
-    "591cf3fa-c46a-4347-90c3-10ffaa7815f1"
+    "591cf3fa-c46a-4347-90c3-10ffaa7815f1",
+    "e85f1518-7e1b-4e45-a379-09ca75c69fce"
   ]
 }

@@ -1,0 +1,170 @@
+{% case section.blocks.size %}
+    {% when 1 %}
+        {% assign pt = '50%' %}
+    {% when 2 %}
+        {% assign pt = '70%' %}
+    {% else %}
+        {% assign pt = '100%' %}
+{% endcase %}
+
+<style>
+    #shopify-section-{{ section.id }} {
+        padding-top: {{ section.settings.padding_top }}px;
+        padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+    .c-img__wrapper {
+        max-width: {{ section.settings.max_width }}px;
+        margin: 0 auto;
+    }
+    .c-img__img-wrap {
+        position: relative;
+        flex-grow: 1;
+        padding-top: 100%;
+    }
+    .c-img__img-wrap img {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        object-fit: contain;
+    }
+    .c-img__img {
+        display: flex;
+    }
+    {% if section.blocks.size > 1 %}
+        .c-img__img-wrap img {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        object-fit: cover;
+    }
+    {% endif %}
+    {% if section.blocks.size == 2 %}
+        .c-img__img-1 {
+            flex-grow: 2;
+        }
+        .c-img__img-2 {
+            flex-grow: 3;
+        }
+        .c-img__img-1 .c-img__img-wrap {
+            padding-top: 150%;
+        }
+        .c-img__img-2 .c-img__img-wrap {
+            padding-top: 100%;
+        }
+        .c-img__img-1 .c-img__img-wrap img {
+            object-fit: cover;
+        }
+    {% endif %}
+    {% if section.blocks.size == 3 %}
+        .c-img__img-1 {
+            flex-grow: 3;
+        }
+        .c-img__img-2 {
+            flex-grow: 2;
+        }
+        .c-img__img-2 .c-img__img-wrap {
+            padding-top: 75%;
+        }
+        .c-img__img-2 .c-img__img-wrap img {
+            object-fit: cover;
+        }
+    {% endif %}
+
+</style>
+<div class="c-img">
+    <div class="c-img__wrapper container">
+        <div class="c-img__img">
+            {% if section.blocks.size == 1 %}
+                {% for block in section.blocks %}                    
+                    <div class="c-img__img-wrap">
+                        <img src="{{ block.settings.img |  img_url: 'master'  }}" alt="">
+                    </div>
+                {% endfor %}               
+            {% endif %}
+            {% if section.blocks.size == 2 %}
+                {% for block in section.blocks %}
+                    <div class="c-img__img-{{ forloop.index }}">
+                        <div class="c-img__img-wrap">
+                            <img src="{{ block.settings.img |  img_url: 'master'  }}" alt="">
+                        </div>
+                    </div>
+                {% endfor %}
+            {% endif %}
+            {% if section.blocks.size == 3 %}
+                <div class="c-img__img-1">
+                    <div class="c-img__img-wrap">
+                        <img src="{{ section.blocks[0].settings.img |  img_url: 'master'  }}" alt="">
+                    </div>
+                </div>
+                <div class="c-img__img-2">
+                    {% for block in section.blocks %}
+                        {% if forloop.index > 1 %}
+                            <div class="c-img__img-wrap">
+                                <img src="{{ block.settings.img |  img_url: 'master'  }}" alt="">
+                            </div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+{% schema %}
+{
+    "name": "Custom image",
+    "settings": [
+        {
+            "type": "range",
+            "id": "padding_top",
+            "label": "Paddind top",
+            "min": 0,
+            "max": 200,
+            "step": 2,
+            "unit": "px",
+            "default": 60
+        },
+        {
+            "type": "range",
+            "id": "padding_bottom",
+            "label": "Paddind bottom",
+            "min": 0,
+            "max": 200,
+            "step": 2,
+            "unit": "px",
+            "default": 60
+        },
+        {
+            "type": "range",
+            "id": "max_width",
+            "label": "Max width",
+            "min": 600,
+            "max": 1320,
+            "step": 10,
+            "unit": "px",
+            "default": 870
+        }
+    ],
+    "blocks": [
+        {
+            "name": "Image",
+            "type": "image",
+            "limit": 3,
+            "settings": [
+                {
+                    "type": "image_picker",
+                    "id": "img",
+                    "label": "Image"
+                }
+            ]
+        }
+    ],
+    "presets": [
+        {
+            "name": "Custom image"
+        }
+    ]
+}
+{% endschema %}

@@ -9,14 +9,11 @@
 </style>
 <div class="about">
     <div class="about__wrapper container">
-        <img class="about__logo" src="{{ section.settings.logo |  img_url: 'master'  }}" alt="{{ section.settings.logo.alt }}">
+        {% if section.settings.logo != blank %}  
+            <img class="about__logo" src="{{ section.settings.logo |  img_url: 'master'  }}" alt="{{ section.settings.logo.alt }}">
+        {% endif %}
         <h2 class="about__title">{{ section.settings.title }}</h2>
         <div class="about__text">{{ section.settings.text }}</div>
-        <div class="about__img">
-            <div class="about__img-wrap">
-                <img src="{{ section.settings.img |  img_url: 'master'  }}" alt="{{ section.settings.img.alt }}">
-            </div>
-        </div>
     </div>
 </div>
 

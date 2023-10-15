@@ -20,6 +20,25 @@
         "max_width": 870
       }
     },
+    "557a871e-89f2-4b5d-ad49-0789bbedaa1c": {
+      "type": "section-custom-image",
+      "blocks": {
+        "df992bcf-5f26-4639-a382-4b1f2417a86a": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image_92.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "df992bcf-5f26-4639-a382-4b1f2417a86a"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "max_width": 890
+      }
+    },
     "591cf3fa-c46a-4347-90c3-10ffaa7815f1": {
       "type": "section-our-team",
       "blocks": {
@@ -171,6 +190,7 @@
   "order": [
     "main",
     "e4f9ed82-6d67-41da-8751-1d3f0a0233f0",
+    "557a871e-89f2-4b5d-ad49-0789bbedaa1c",
     "591cf3fa-c46a-4347-90c3-10ffaa7815f1",
     "e85f1518-7e1b-4e45-a379-09ca75c69fce"
   ]

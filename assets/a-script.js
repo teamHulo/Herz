@@ -214,7 +214,7 @@ $(() => {
 
 
 $(() => {
-  const jsonFileUrl = '/assets/ваш_файл.json';
+  const jsonFileUrl = $('#url_json').val();
 
   // Сделайте GET-запрос для загрузки JSON-файла
   fetch(jsonFileUrl)
@@ -222,6 +222,16 @@ $(() => {
     .then(data => {
       console.log(data);
 
+      $('.swatch-color').each(function(){
+          let valueColor = $(this).val();
+          let hexColor = data[0][valueColor];
+          if(hexColor != undefined){
+            $(this).closest('.div__wrap-swatcher-item').find('.swatch-color-wrap').css('background-color', hexColor);
+          }else{
+            $(this).closest('.div__wrap-swatcher-item').find('.swatch-color-wrap').css('background-color', valueColor);
+          }
+          
+      });
     })
     .catch(error => {
       console.error('Произошла ошибка при загрузке JSON-файла', error);
@@ -229,8 +239,6 @@ $(() => {
 
 
 
-  $('.swatch-color').each(function(){
-
-  });
+  
 
 });

@@ -133,6 +133,17 @@
     "content_for_index": [
 
     ],
+    "blocks": {
+      "5059203847231188605": {
+        "type": "shopify:\/\/apps\/smart-product-filter-search\/blocks\/app-embed\/5cc1944c-3014-4a2a-af40-7d65abc0ef73",
+        "disabled": false,
+        "settings": {
+          "productGridSelector": "",
+          "customJs": "",
+          "customCss": ""
+        }
+      }
+    },
     "color_schemes": {
       "background-1": {
         "settings": {

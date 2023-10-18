@@ -47,7 +47,9 @@
   id="MediaGallery-{{ section.id }}{{ id_append }}"
   role="region"
   {% if section.settings.enable_sticky_info %}
-    class="product__column-sticky"
+    class="product__column-sticky product_gallery"
+  {% else %}
+    class="product_gallery"
   {% endif %}
   aria-label="{{ 'products.product.media.gallery_viewer' | t }}"
   data-desktop-layout="{{ section.settings.gallery_layout }}"

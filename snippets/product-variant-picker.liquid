@@ -21,18 +21,28 @@ Usage:
       {% endif %}
       {{ block.shopify_attributes }}>
       {%- for option in product.options_with_values -%}
-        {% if option.name == 'Color' or option.name == 'color' %}
-        <fieldset class="js product-form__input">
-          {% render 'color-swatch', product: product, option: option, block: block%}
-        </fieldset>
-        {%  else %}
-          <fieldset class="js product-form__input">
-            <legend class="form__label">{{ option.name }}</legend>
-            {% render 'product-variant-options', product: product, option: option, block: block %}
+        {% if option.name != 'Color' and option.name != 'color' %}
+          <fieldset class="js product-form__input custom-select-drop-down" data-index-field="{{forloop.index0}}">
+            <div class="my-custom-select-product-wrap">
+              <div class="select__wrap-header">
+                <legend class="form__label">{{ option.name }}</legend>
+                <div class="custom-select-value">
+                  <p></p>
+                </div>
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                  <path d="M16.25 6.875L10 13.125L3.75 6.875" stroke="#828071" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+              </div>
+              
+              <div class="option_content">
+                {% render 'product-variant-options', product: product, option: option, block: block %}
+              </div>
+            </div>
+           
           </fieldset>
         {% endif %}
       {%- endfor -%}
-      <script type="application/json">
+      <script type="application/json" id="variant-json">
         {{ product.variants | json }}
       </script>
     </variant-radios>

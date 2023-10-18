@@ -51,6 +51,7 @@
       id="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}"
       name="{{ option.name }}"
       value="{{ value | escape }}"
+      class="js my-input-radio"
       form="{{ product_form_id }}"
       {% if option.selected_value == value %}
         checked
@@ -61,7 +62,10 @@
     >
     
     <label for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
-      {{ value -}}
+      {{ value -}}   <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M3.75 10.625L8.75 15.625L16.25 4.375" stroke="#828071" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                   </svg>
+      
       <span class="visually-hidden">{{ 'products.product.variant_sold_out_or_unavailable' | t }}</span>
     </label>
   {%- elsif block.settings.picker_type == 'dropdown' -%}

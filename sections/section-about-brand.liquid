@@ -1,0 +1,56 @@
+{% if section.settings.title != blank or section.settings.text != blank %}
+
+  <div class="about-brand">
+    <div class="container">
+      <div class="about-brand__wrap">
+        <div class="name">
+          <span>
+            {{ section.settings.name }}
+          </span>
+        </div>
+        <div class="brand-logo">
+          <img src="{{section.settings.img | img_url: 'master'}}" alt="">
+        </div>
+        <div class="title">
+          <h3>
+            {{ section.settings.title }}
+          </h3>
+        </div>
+        <div class="text">
+          {{ section.settings.text }}
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
+{% schema %}
+  {
+    "name": "about-brand",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "img",
+        "label": "image"
+      }, {
+        "type": "text",
+        "id": "name",
+        "label": "name",
+        "default": "ABOUT THE BRAND"
+      }, {
+        "type": "text",
+        "id": "title",
+        "label": "title"
+      }, {
+        "type": "richtext",
+        "id": "text",
+        "label": "text"
+      }
+
+    ],
+    "presets": [
+      {
+        "name": "about-brand"
+      }
+    ]
+  }
+{% endschema %}

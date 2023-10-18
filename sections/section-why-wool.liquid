@@ -1,0 +1,61 @@
+{% if section.settings.title != blank or section.settings.text != blank %}
+
+    <div class="why-wool">
+    <div class="container">
+        <div class="why-wool__wrap">
+        <div class="left">
+            <div class="title">
+            <h3>
+                {{ section.settings.title }}
+            </h3>
+            </div>
+            <div class="text">
+            {{ section.settings.text }}
+            </div>
+        </div>
+        <div class="right">
+            <div class="right__wrap">
+            <div class="images__wrap">
+                <div class="main-img">
+                <img src="{{section.settings.main_img | img_url: 'master'}}" alt="">
+                </div>
+                <div class="sub-img">
+                <img src="{{section.settings.sub_img | img_url: 'master'}}" alt="">
+                </div>
+            </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    </div>
+{% endif %}
+{% schema %}
+  {
+    "name": "why-wool",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "main_img",
+        "label": "main image"
+      }, {
+        "type": "image_picker",
+        "id": "sub_img",
+        "label": "sub image"
+      }, {
+        "type": "text",
+        "id": "title",
+        "label": "title"
+      }, {
+        "type": "richtext",
+        "id": "text",
+        "label": "text"
+      }
+
+    ],
+    "presets": [
+      {
+        "name": "why-wool"
+      }
+    ]
+  }
+{% endschema %}

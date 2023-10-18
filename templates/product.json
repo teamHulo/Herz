@@ -48,6 +48,14 @@
             "show_gift_card_recipient": false
           }
         },
+        "bd04fabe-6622-49d9-81a5-be72d3d085f4": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": true
+          }
+        },
         "df3b24f0-414c-4bcf-8546-3ca7b22f0573": {
           "type": "tabs",
           "settings": {
@@ -63,6 +71,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "bd04fabe-6622-49d9-81a5-be72d3d085f4",
         "df3b24f0-414c-4bcf-8546-3ca7b22f0573"
       ],
       "settings": {

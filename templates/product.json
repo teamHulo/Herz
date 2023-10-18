@@ -3,6 +3,11 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -10,13 +15,13 @@
             "text_style": "body"
           }
         },
-        "title": {
-          "type": "title",
+        "rating": {
+          "type": "rating",
           "settings": {
           }
         },
-        "rating": {
-          "type": "rating",
+        "e3b892f2-0503-40a9-a025-88293b373430": {
+          "type": "color-swatch",
           "settings": {
           }
         },
@@ -39,32 +44,26 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
           }
         },
-        "description": {
-          "type": "description",
+        "df3b24f0-414c-4bcf-8546-3ca7b22f0573": {
+          "type": "tabs",
           "settings": {
-          }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
           }
         }
       },
       "block_order": [
-        "vendor",
         "title",
+        "vendor",
         "rating",
+        "e3b892f2-0503-40a9-a025-88293b373430",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
-        "share"
+        "df3b24f0-414c-4bcf-8546-3ca7b22f0573"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -79,6 +78,24 @@
         "enable_video_looping": false,
         "padding_top": 60,
         "padding_bottom": 60
+      }
+    },
+    "6a5f5e8a-a12c-4a12-9e30-c39210705cfc": {
+      "type": "section-about-brand",
+      "settings": {
+        "img": "{{ product.metafields.custom.vendor_brand.value.logo.value }}",
+        "name": "ABOUT THE BRAND",
+        "title": "{{ product.metafields.custom.vendor_brand.value.title.value }}",
+        "text": "{{ product.metafields.custom.vendor_brand.value.text | metafield_tag }}"
+      }
+    },
+    "c4e5aca9-5430-483b-91f0-b974976de951": {
+      "type": "section-why-wool",
+      "settings": {
+        "main_img": "{{ product.metafields.custom.why_is_wool.value.main_image.value }}",
+        "sub_img": "{{ product.metafields.custom.why_is_wool.value.sub_image.value }}",
+        "title": "{{ product.metafields.custom.why_is_wool.value.title.value }}",
+        "text": "{{ product.metafields.custom.why_is_wool.value.text | metafield_tag }}"
       }
     },
     "related-products": {
@@ -102,6 +119,8 @@
   },
   "order": [
     "main",
+    "6a5f5e8a-a12c-4a12-9e30-c39210705cfc",
+    "c4e5aca9-5430-483b-91f0-b974976de951",
     "related-products"
   ]
 }

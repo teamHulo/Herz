@@ -124,12 +124,29 @@
         "padding_top": 0,
         "padding_bottom": 60
       }
+    },
+    "169763020740c65847": {
+      "type": "apps",
+      "blocks": {
+        "a5ad57a8-31bf-436d-9713-d1b16c04a1f8": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "a5ad57a8-31bf-436d-9713-d1b16c04a1f8"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "main",
     "6a5f5e8a-a12c-4a12-9e30-c39210705cfc",
     "c4e5aca9-5430-483b-91f0-b974976de951",
-    "related-products"
+    "related-products",
+    "169763020740c65847"
   ]
 }

@@ -801,6 +801,9 @@ p {
   margin-top: auto;
   padding-top: 12px;
   border-top: 1px solid #828071;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .my-cart-product .title h3 {
   color: #00281d;
@@ -816,6 +819,54 @@ p {
 .my-cart-product .title a {
   color: #00281d;
   text-decoration: none;
+}
+.my-cart-product .product_image{
+  position: relative;
+}
+.my-cart-product .swatch-color-wrap{
+  width:16px;
+  height: 16px;
+}
+.my-cart-product .colors{
+  max-width:80px;
+  overflow: hidden;
+}
+.my-cart-product .colors.active{
+  max-width: 100%;
+  transition: all .5s ease;
+}
+.product-swatch{
+  display:flex;
+  align-items: center;
+  gap: 5px;
+}
+.count-option span{
+  color: var(--light-green---secondary-text, #828071);
+font-family: Work Sans;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 19.2px */
+}
+.swatch-color-body{
+  cursor: pointer;
+}
+.my-cart-product .swatch-color + .swatch-color-body{
+  width:20px !important;
+  height: 20px !important;
+}
+.my-cart-product .swatch-color:checked + .swatch-color-body{
+  border-width: 1px;
+}
+.my-cart-product .product-swatch{
+  position: absolute ;
+  bottom:20px;
+  left:50%;
+  transform: translateX(-50%);
+  border-radius: 18px;
+  background: rgba(250, 248, 243, 0.90);
+  backdrop-filter: blur(2px);
+  padding: 4px 16px;
 }
 .my-cart-product .product_image-wrap {
   position: relative;
@@ -843,8 +894,30 @@ p {
   display: flex;
   gap:5px;
 }
+.my-cart-product .add-my-cart{
+  background: transparent;
+  border:none;
+  line-height: normal;
+  cursor:pointer;
 
-
+  color:  #545248;
+  font-family: Work Sans;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.36px;
+  display:flex;
+  align-items: center;
+  gap:5px;
+}
+.my-cart-product .add-my-cart:hover{
+  opacity:0.7;
+  transition: all .3 ease;
+}
+.my-cart-product .info__wrap .price > *{
+  vertical-align: middle !important;
+}
 .product-collection-slider-btn {
   display: flex;
   justify-content: center;
@@ -852,6 +925,11 @@ p {
 }
 .product-collection-slider-btn {
   display: none;
+}
+.my-cart-product .option-wrap{
+   display:flex;
+   align-items: center;
+   gap:5px;
 }
 .product-collection-slider-btn .swiper-btns {
   position: static;

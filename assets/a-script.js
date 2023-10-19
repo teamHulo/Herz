@@ -398,6 +398,14 @@ $(() => {
         $("cart-drawer").removeClass("is-empty");
       });
   });
+
+  $('.count-option').click(function(){
+    $(this).closest(".my-cart-product").find('.colors').toggleClass('active');
+    
+  });
+
+
+
 });
 
 /********* end **** */

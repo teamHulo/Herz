@@ -1,11 +1,12 @@
 <input type="hidden" id="url_json" value="https://cdn.shopify.com/s/files/1/0837/0719/9803/files/swatch.json?v=1697217553">
+{%  assign count =  0%}
 <div class="colors">
     {%- for option in product.options_with_values -%}
        
         {% if option.name == 'Color' or option.name == 'color' %}
             <div class="option-wrap" data-option-id="{{forloop.index}}">
                 {% for value in option.values %}
-            
+                    {%  assign count =  count | plus: 1%} 
                     <div class="div__wrap-swatcher-item">
                         <input  style="display:none;" class="swatch-color my-input-radio"
                         id="{{section.id}}-{{ product.id }}-{{ option.position }}-{{ forloop.index0 }}"
@@ -26,3 +27,8 @@
         {% endif %}
     {%- endfor -%}
 </div>
+{% if count > 3 %}
+    <div class="count-option">
+        <span>+{{ count | minus: 3  }}</span>
+    </div>
+{% endif %}

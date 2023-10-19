@@ -867,6 +867,7 @@ line-height: 160%; /* 19.2px */
   background: rgba(250, 248, 243, 0.90);
   backdrop-filter: blur(2px);
   padding: 4px 16px;
+  z-index: 4;
 }
 .my-cart-product .product_image-wrap {
   position: relative;

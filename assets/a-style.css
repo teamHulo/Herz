@@ -840,6 +840,18 @@ p {
   align-items: center;
   gap: 5px;
 }
+.my-cart-product .product_image-wrap img {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 3s ease-in-out;
+}
+
+  
+
+.my-cart-product .product_image-wrap img.visible {
+  opacity: 1;
+  visibility: visible;
+}
 .count-option span{
   color: var(--light-green---secondary-text, #828071);
 font-family: Work Sans;

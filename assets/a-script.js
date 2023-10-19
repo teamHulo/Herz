@@ -300,8 +300,28 @@ $(() => {
 /**** Add product cart item ****/
 
 $(() => {
+
+  /*function cartImageUpdate(src, cart){
+    if( src != '' && src != undefined && src != null){
+      $(cart).find('.product_image-wrap img').attr('src',src);
+    }
+  }*/
+  function cartImageUpdate(src, cart) {
+    if (src != '' && src != undefined && src != null) {
+      const image = $(cart).find('.product_image-wrap img');
+      image.attr('src', src);
+    }
+  }
+  
+  
+  
+  
+  
+
+
   function updateVariantId(cart, id, colorValue, optionIndex) {
     let newId;
+    let imgUrl;
     let option1, option2, option3;
     if (cart && cart.querySelector) {
       let variantData = JSON.parse(
@@ -330,13 +350,13 @@ $(() => {
           (variantData[i].option3 === option3 || option3 === undefined)
         ) {
           newId = variantData[i].id;
+          imgUrl = variantData[i].featured_image.src;
           break;
         }
       }
     }
-
-    console.log(newId);
     $(cart).find(".cart-id-first").val(newId);
+    cartImageUpdate(imgUrl, cart);
   }
     
   function handleResponse() {
@@ -401,7 +421,7 @@ $(() => {
 
   $('.count-option').click(function(){
     $(this).closest(".my-cart-product").find('.colors').toggleClass('active');
-    
+
   });
 
 

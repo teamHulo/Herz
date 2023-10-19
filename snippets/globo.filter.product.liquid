@@ -1,9 +1,9 @@
 {% raw %}
   {% assign root_url = {% endraw %}"{%- if routes.root_url != "/" -%}{{ routes.root_url }}{%- endif -%}"{% raw %} %}
   {% assign currencyFormat = {% endraw %}{{ shop.money_format | json }}{% raw %} %}
-  {% assign swatch_options = 'Colour~~Color' | downcase | split: "~~" | uniq  %}
+  {% assign swatch_options = 'color' | downcase | split: "~~" | uniq  %}
   {% assign image_options  = '' | downcase | split: "~~" | uniq  %}
-  {% assign text_options   = 'Size' | downcase | split: "~~" | uniq  %}
+  {% assign text_options   = '' | downcase | split: "~~" | uniq  %}
   {% assign show_selected_variant_info = true %}
  
   {% assign image_size     = '360x504' %}

@@ -6,6 +6,9 @@
                     <img src="{{ image.src | img_url: 'large' }}" alt="{{ product.title }}" />
                 {% endfor %}
             </div>
+            <div class="product-swatch">
+                {% render 'swatcher-cart', product:product, section:section %}
+            </div>
         </a>
         
       </div>
@@ -23,9 +26,17 @@
                   </span>
                   </div>
                   <div class="block-add-btn-wrap">
-                  <form action=""></form>
+                  {% form 'product' , product %}
+                        <input type="hidden" class="cart-id-first" value="{{product.first_available_variant.id}}">
+                        <button class="add-my-cart">
+                            Add to cart
+                        </button>
+                  {% endform %}
                   </div>
               </div>
           </div>
       {% endif %}
+      <script type="application/json">
+        {{ product.variants | json }}
+      </script>
 </div>

@@ -133,7 +133,7 @@ $(() => {
     slidesPerView: 4.5,
     slidesPerGroup: 1,
     spaceBetween: 30,
-    
+
     navigation: {
       nextEl: ".container1 .swiper-button-next-product-collection",
       prevEl: ".container1 .swiper-button-prev-product-collection",
@@ -154,14 +154,14 @@ $(() => {
     },
     breakpoints: {
       100: {
-        slidesPerView: 'auto',
+        slidesPerView: "auto",
         centeredSlides: true,
-        loop:true,
+        loop: true,
         centeredSlidesBounds: true,
         spaceBetween: 20,
       },
       501: {
-        loop:false,
+        loop: false,
         centeredSlides: false,
         centeredSlidesBounds: false,
       },
@@ -178,7 +178,7 @@ $(() => {
         slidesPerGroup: 1,
         spaceBetween: 30,
       },
-    }
+    },
   });
 });
 $(() => {
@@ -208,90 +208,196 @@ $(() => {
         slidesPerGroup: 1,
         spaceBetween: 30,
       },
-    }
+    },
   });
-})
-
+});
 
 $(() => {
-  const jsonFileUrl = $('#url_json').val();
+  const jsonFileUrl = $("#url_json").val();
 
-  // Сделайте GET-запрос для загрузки JSON-файла
   fetch(jsonFileUrl)
-    .then(response => response.json())
-    .then(data => {
+    .then((response) => response.json())
+    .then((data) => {
       console.log(data);
 
-      $('.swatch-color').each(function(){
-          let valueColor = $(this).val();
-          let hexColor = data[0][valueColor];
-          if(hexColor != undefined){
-            $(this).closest('.div__wrap-swatcher-item').find('.swatch-color-wrap').css('background-color', hexColor);
-          }else{
-            $(this).closest('.div__wrap-swatcher-item').find('.swatch-color-wrap').css('background-color', valueColor);
-          }
-          
+      $(".swatch-color").each(function () {
+        let valueColor = $(this).val();
+        let hexColor = data[0][valueColor];
+        if (hexColor != undefined) {
+          $(this)
+            .closest(".div__wrap-swatcher-item")
+            .find(".swatch-color-wrap")
+            .css("background-color", hexColor);
+        } else {
+          $(this)
+            .closest(".div__wrap-swatcher-item")
+            .find(".swatch-color-wrap")
+            .css("background-color", valueColor);
+        }
       });
     })
-    .catch(error => {
-      console.error('Произошла ошибка при загрузке JSON-файла', error);
+    .catch((error) => {
+      console.error("Произошла ошибка при загрузке JSON-файла", error);
     });
-
-
-
-  
-
 });
-
-
 
 $(() => {
-  let valCheck = $('.swatch-color:checked').val();
-  $('.swatch__name p').text(valCheck);
-  $('.swatch-color').on('change', function(){
+  let valCheck = $(".swatch-color:checked").val();
+  $(".swatch__name p").text(valCheck);
+  $(".swatch-color").on("change", function () {
     let valColor = $(this).val();
-    $('.swatch__name p').text(valColor);
+    $(".swatch__name p").text(valColor);
   });
 });
-
 
 $(() => {
   $(document).mouseup(function (e) {
     let container = $(".my-custom-select-product-wrap");
-    if (container.has(e.target).length === 0){
-        $('.my-custom-select-product-wrap').removeClass('active');
+    if (container.has(e.target).length === 0) {
+      $(".my-custom-select-product-wrap").removeClass("active");
     }
   });
-  $('.my-input-radio').each(function() {
+  $(".my-input-radio").each(function () {
     let isChecked = $(this).prop("checked");
     if (isChecked) {
       let valInput = $(this).val();
       console.log(valInput);
-      $(this).closest('.my-custom-select-product-wrap').find('.custom-select-value p').text(valInput);
+      $(this)
+        .closest(".my-custom-select-product-wrap")
+        .find(".custom-select-value p")
+        .text(valInput);
     }
   });
 
-
-  $('.my-input-radio').on('change',function(){
+  $(".my-input-radio").on("change", function () {
     let valInput = $(this).val();
-    $(this).closest('.my-custom-select-product-wrap').find('.custom-select-value p').text(valInput);
+    $(this)
+      .closest(".my-custom-select-product-wrap")
+      .find(".custom-select-value p")
+      .text(valInput);
   });
 
-  $('.select__wrap-header').on('click',function(){
-    $(this).closest('.my-custom-select-product-wrap').toggleClass('active');
+  $(".select__wrap-header").on("click", function () {
+    $(this).closest(".my-custom-select-product-wrap").toggleClass("active");
   });
 
-
-
-
-  $('.tabs__header li').on('click', function(){
-      let indx = $(this).index();
-      $('.tabs__header li').removeClass('active');
-      $(this).addClass('active');
-      $('.product__tabs-wrap .tab').removeClass('active');
-      $(this).closest('.product__tabs-wrap').find('.tab').eq(indx).addClass('active');
+  $(".tabs__header li").on("click", function () {
+    let indx = $(this).index();
+    $(".tabs__header li").removeClass("active");
+    $(this).addClass("active");
+    $(".product__tabs-wrap .tab").removeClass("active");
+    $(this)
+      .closest(".product__tabs-wrap")
+      .find(".tab")
+      .eq(indx)
+      .addClass("active");
   });
-  $('.product-tab-mobile .tab-item').on('click',function(){
-    $(this).toggleClass('active');
+  $(".product-tab-mobile .tab-item").on("click", function () {
+    $(this).toggleClass("active");
   });
 });
+
+/**** Add product cart item ****/
+
+$(() => {
+  function updateVariantId(cart, id, colorValue, optionIndex) {
+    let newId;
+    let option1, option2, option3;
+    if (cart && cart.querySelector) {
+      let variantData = JSON.parse(
+        cart.querySelector('[type="application/json"]').textContent
+      );
+      console.log(variantData);
+      for (let i = 0; i < variantData.length; i++) {
+        if (variantData[i].id == id) {
+          option1 = variantData[i].option1;
+          option2 = variantData[i].option2;
+          option3 = variantData[i].option3;
+        }
+      }
+      if (optionIndex == 1) {
+        option1 = colorValue;
+      } else if (optionIndex == 2) {
+        option2 = colorValue;
+      } else {
+        option3 = colorValue;
+      }
+      console.log(option1, option2, option3);
+      for (let i = 0; i < variantData.length; i++) {
+        if (
+          (variantData[i].option1 === option1 || option1 === undefined) &&
+          (variantData[i].option2 === option2 || option2 === undefined) &&
+          (variantData[i].option3 === option3 || option3 === undefined)
+        ) {
+          newId = variantData[i].id;
+          break;
+        }
+      }
+    }
+
+    console.log(newId);
+    $(cart).find(".cart-id-first").val(newId);
+  }
+    
+  function handleResponse() {
+    let a = this.responseText;
+    console.log(a);
+    let parser = new DOMParser();
+    console.log(parser );
+    let objCarts = JSON.parse(this.responseText);
+    console.log( objCarts );
+    $('#cart-icon-bubble').html($(objCarts["cart-icon-bubble"]).html());
+    $('cart-drawer').html($(objCarts["cart-drawer"]).find('cart-drawer').html());
+  }
+
+  $(".colors .my-input-radio").change(function () {
+    let cart = $(this).closest(".my-cart-product")[0];
+    let colorValue = $(this).val();
+    let optionCount = $(this)
+      .closest(".my-cart-product")
+      .find("[data-option-id]")
+      .attr("data-option-id");
+    let id = $(this).closest(".my-cart-product").find(".cart-id-first").val();
+    updateVariantId(cart, id, colorValue, optionCount);
+  });
+
+  $(".add-my-cart").click(function (e) {
+    e.preventDefault();
+    let variant = $(this)
+      .closest(".my-cart-product")
+      .find(".cart-id-first")
+      .val();
+    formData = {
+      id: variant,
+      quantity: 1,
+    };
+
+    fetch(window.Shopify.routes.root + "cart/add.js", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(formData),
+    })
+      .then((response) => {
+        const request = new XMLHttpRequest();
+        request.addEventListener("load", handleResponse);
+        request.open(
+          "GET",
+          "?sections=cart-drawer,main-cart-items,cart-icon-bubble",
+          true
+        ); ///?sections=cart-drawer,
+        request.send();
+        $("cart-drawer")[0].open();
+        return response.json();
+      })
+      .catch((error) => {
+        console.error("Error:", error);
+      })
+      .finally(function () {
+        $("cart-drawer").removeClass("is-empty");
+      });
+  });
+});
+
+/********* end **** */

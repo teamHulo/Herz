@@ -839,6 +839,12 @@ p {
   line-height: normal;
   letter-spacing: -0.36px;
 }
+.my-cart-product .colors{
+  display: flex;
+  gap:5px;
+}
+
+
 .product-collection-slider-btn {
   display: flex;
   justify-content: center;

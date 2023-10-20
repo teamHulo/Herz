@@ -15,7 +15,7 @@
         "padding_bottom": 0,
         "logo": "shopify:\/\/shop_images\/Group_1062_cdf04b28-cb1e-4f07-93c5-0f6ef16ca409.png",
         "title": "Über Uns",
-        "text": "<p>Bei Herz an Herz - direkt beim Bahnhof Winterthur - findest du auf über 250m2 das schweizweit grösste Sortiment an nachhaltigen Produkten für Schwangerschaft, Geburt, Baby und Kleinkind. Wir freuen uns auf deinen Besuch in unserem schönen und einzigartigen Laden! Zu weit weg? Dann wirf einen Blick in den Onlineshop.<br\/>Neben den Produkten bieten wir viele verschiedene Kurse, Veranstaltungen und Treffen an, die dir das Leben mit Baby oder Kleinkind erleichtern, deinen Horizont erweitern oder dir neue, schöne Begegnungen ermöglichen. In unserer Baby Lounge kannst du zudem mit Baby und Kleinkind verweilen, spielen, einen Kaffee trinken und andere Mamis oder Papis kennenlernen. Komm vorbei und besuche uns!<br\/>Als Fachfrauen für den natürlichen Umgang mit dem Baby und als Mütter von insgesamt 16 Kindern geben wir vom Herz an Herz Team gern unser Wissen weiter. Im Laden beraten wir dich zu unseren Produkten und erzählen dir gern mehr zu unserer Philosophie. Wenn du ein Thema vertiefen und eine Lösung für dich, deine Familie und deine individuelle Situation möchtest, bieten wir verschiedenen Beratungen an: Trageberatung, Schlafberatung, Stillberatungen und Stoffwindelberatungen.<br\/>Wir freuen uns, von dir zu hören!<\/p>",
+        "text": "<p>Willkommen bei Herz an Herz - dem Laden für nachhaltige Produkte und bewusste Elternschaft in Winterthur. Unser Team besteht aus engagierten Fachfrauen, die sich mit Leidenschaft für dich und dein Baby einsetzen. Unser Herz schlägt im Einklang mit deinem, und wir sind hier, um dich auf deiner Reise durch Schwangerschaft, Geburt und das Leben mit deinem Baby zu begleiten.<\/p><p>In unserem Laden, direkt beim Bahnhof Winterthur, findest du auf über 250m² das grösste Sortiment an nachhaltigen Produkten für Schwangerschaft, Geburt, Baby und Kleinkind in der Schweiz. Wir laden dich herzlich ein, unseren einzigartigen Laden zu besuchen.<\/p><p>Neben unserem breiten Produktsortiment bieten wir zahlreiche Kurse, Veranstaltungen und Treffen an, die das Leben mit Baby oder Kleinkind erleichtern, deinen Horizont erweitern und dir die Möglichkeit bieten, neue, wunderbare Begegnungen zu erleben. In unserer gemütlichen Baby Lounge kannst du mit deinem Baby oder Kleinkind entspannen, spielen, einen Kaffee geniessen und andere Mütter oder Väter kennenlernen.<\/p><p>Als Fachfrauen für den natürlichen Umgang mit Babys und als Mütter von insgesamt 16 Kindern teilen wir gerne unser Wissen mit dir. Im Laden beraten wir dich zu unseren Produkten und erzählen dir mehr über unsere Philosophie. Wenn du ein bestimmtes Thema vertiefen möchtest oder eine individuelle Lösung für dich und deine Familie suchst, bieten wir verschiedene Beratungen an, darunter Trageberatung, Schlafberatung, Stillberatung und Stoffwindelberatung.<\/p>",
         "img": "shopify:\/\/shop_images\/image_92.jpg",
         "max_width": 1000
       }
@@ -133,16 +133,16 @@
           "type": "person",
           "settings": {
             "ava": "shopify:\/\/shop_images\/Vector_1.png",
-            "name": "Award 01",
-            "text": "Lorem ipsum dolor sit amet consectetur."
+            "name": "10 Fachfrauen",
+            "text": "Bei Herz an Herz arbeiten 10 Frauen, die sich mit viel Herzblut für dich und dein Baby einsetzen."
           }
         },
         "71709b28-2f50-4146-b31c-ff29852b75b1": {
           "type": "person",
           "settings": {
             "ava": "shopify:\/\/shop_images\/Vector_1.png",
-            "name": "Award 01",
-            "text": "Lorem ipsum dolor sit amet consectetur."
+            "name": "12 Aus- und Weiterbildungen",
+            "text": "Wir legen grossen Wert auf ständige Weiterentwicklung und Bildung, um stets auf dem neuesten Stand in Bezug auf Kinderwunsch, Schwangerschaft, Geburt, Baby und Familie zu sein."
           }
         },
         "e3a0d4fe-d2e6-4e55-881b-903312ced00c": {
@@ -182,8 +182,8 @@
         "text_color": "",
         "padding_top": 60,
         "padding_bottom": 60,
-        "title": "Achievements",
-        "label": "Lorem ipsum dolor sit amet consectetur. Lacus accumsan sociis eget elit ultricies purus. Vel in at viverra pharetra. Amet feugiat pharetra cursus sapien sed. Gravida quisque nunc vestibulum proin eget. Justo in viverra cursus vitae accumsan."
+        "title": "Unser Team in Zahlen",
+        "label": "Bei Herz an Herz arbeiten nicht einfach \"Verkäuferinnen\". Wir sind  Fachfrauen in den unterschliedlichsten Bereichen rund um den natürlichen Umgang mit Schwangerschaft, Geburt, Baby und Familienleben. Und zudem sind wir mit Herzblut Mamas und geben dir unsere Erfahrung und unser Wissen weiter."
       }
     }
   },

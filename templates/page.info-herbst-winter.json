@@ -13,63 +13,37 @@
       "settings": {
         "padding_top": 60,
         "padding_bottom": 60,
-        "title": "Our Philosophy",
-        "text": "<p>Lorem ipsum dolor sit amet consectetur. Lectus blandit a tellus lectus ultrices aliquam nec. Tincidunt sed ultrices aliquet vel suspendisse sit facilisis. Ipsum elit faucibus elit vel posuere ac ac sit. Ac enim sit velit et augue scelerisque tempor adipiscing. In amet neque molestie nisl pellentesque nisi ac dapibus.<br\/>Donec odio et faucibus in hendrerit. Pellentesque quis vel velit luctus. Eleifend nisl at lorem massa mi nec enim. In ut faucibus fermentum ullamcorper adipiscing vulputate. Sem eget faucibus purus pellentesque amet ut fringilla malesuada id.<br\/>Elementum consectetur in massa habitant. Mattis nam ultricies pharetra ut donec dignissim sapien leo. Odio egestas etiam vel ligula lacinia. Sed id convallis pellentesque mauris consequat at. Porttitor sapien sagittis tristique ante. A cras justo diam vulputate integer aliquam imperdiet. Nisl at facilisi hac tristique elementum. Sed blandit eget dignissim etiam. Nullam fermentum ac tincidunt lectus facilisis posuere odio. Ullamcorper laoreet mi facilisis lectus ac scelerisque vel urna. Egestas volutpat diam varius sed dignissim et cursus sit sed. Cursus aliquam libero at nulla eget cursus justo lectus. Fermentum senectus elit amet quis sodales. Dictum aliquet vitae erat id et dictum. Volutpat id feugiat consectetur ipsum.<br\/>Habitant quis pellentesque imperdiet nibh. Senectus fringilla tincidunt dolor porta. Erat blandit eu pulvinar ac congue curabitur nunc. Purus pellentesque aliquam urna at cursus enim dolor. Malesuada nisl vitae sed leo.<br\/>Vitae vulputate lobortis nunc ipsum vitae nulla rhoncus magnis. Eu volutpat sed eget accumsan urna ullamcorper.<\/p>",
+        "logo": "shopify:\/\/shop_images\/Group.png",
+        "title": "Warm durch Herbst & Winter",
+        "text": "",
         "max_width": 1050
       }
     },
-    "760907c0-6404-4e85-bd9b-c0ed55f24ba9": {
-      "type": "multicolumn",
+    "01bd0c23-c272-4bfe-9a96-88558e4ef1f1": {
+      "type": "image-with-text",
       "blocks": {
-        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-1": {
-          "type": "column",
+        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/icon.png",
-            "title": "Nachhaltig",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icon_1.png",
-            "title": "Lokal",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icon_2.png",
-            "title": "Artgerecht",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi.<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<h4>Was ziehe ich meinem Kind bloss an?<\/h4><p>Diese Frage stellen sich früher oder später wohl alle Eltern. Gerade wenn es kühler wird, macht man sich Sorgen, dass das Kind friert (oder schwitzt, weil es zu dick angezogen ist). Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile fast 20 eigenen Kindern in den letzten Jahren ausgiebig getestet haben. Unser Wissen haben wir auf dieser Seite für dich zusammengefasst.<\/p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-1",
-        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-2",
-        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-3"
+        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "third",
-        "image_ratio": "circle",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -106,12 +80,43 @@
         "padding_bottom": 60,
         "max_width": 1320
       }
+    },
+    "107fc879-7e58-493c-be8e-051845dcca5a": {
+      "type": "section-full-image",
+      "settings": {
+      }
+    },
+    "45403bbc-0d8f-4cdb-96ee-c1d13a498625": {
+      "type": "section-custom-image",
+      "blocks": {
+        "203e212b-9412-48ff-8613-7c9c426d037e": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "11f143df-36e9-417e-9af4-1f77f7f15499": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "203e212b-9412-48ff-8613-7c9c426d037e",
+        "11f143df-36e9-417e-9af4-1f77f7f15499"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "max_width": 870
+      }
     }
   },
   "order": [
     "main",
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
-    "760907c0-6404-4e85-bd9b-c0ed55f24ba9",
-    "fe522614-6050-46db-9a38-d46fcddada7f"
+    "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
+    "fe522614-6050-46db-9a38-d46fcddada7f",
+    "107fc879-7e58-493c-be8e-051845dcca5a",
+    "45403bbc-0d8f-4cdb-96ee-c1d13a498625"
   ]
 }

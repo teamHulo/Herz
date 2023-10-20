@@ -45,25 +45,25 @@
         "0d00a222-aa0c-4c8b-aa88-5bfe8def0963": {
           "type": "person",
           "settings": {
-            "ava": "shopify:\/\/shop_images\/lightblue.png",
-            "name": "Anna Smith",
-            "text": "Lorem ipsum dolor sit amet consectetur."
+            "ava": "shopify:\/\/shop_images\/Anita.png",
+            "name": "Anita Eichholzer",
+            "text": ""
           }
         },
         "c8394d23-9764-4513-aa47-49c63d237f3e": {
           "type": "person",
           "settings": {
-            "ava": "shopify:\/\/shop_images\/lightblue.png",
-            "name": "Anna Smith",
-            "text": "Lorem ipsum dolor sit amet consectetur."
+            "ava": "shopify:\/\/shop_images\/Selina.png",
+            "name": "Selina Gerkens",
+            "text": ""
           }
         },
         "d76f6589-f9e4-4a95-ba25-6b155594ccba": {
           "type": "person",
           "settings": {
-            "ava": "shopify:\/\/shop_images\/lightblue.png",
-            "name": "Anna Smith",
-            "text": "Lorem ipsum dolor sit amet consectetur."
+            "ava": "shopify:\/\/shop_images\/Jeannine.png",
+            "name": "Jeannine Rutschmann",
+            "text": ""
           }
         },
         "a7e72277-935e-463c-97b3-335ba595dda4": {
@@ -122,8 +122,8 @@
         "text_color": "#faf8f3",
         "padding_top": 60,
         "padding_bottom": 60,
-        "title": "Our Team",
-        "label": "who we are"
+        "title": "Unser Team",
+        "label": "Wer sind wir"
       }
     },
     "e85f1518-7e1b-4e45-a379-09ca75c69fce": {
@@ -149,8 +149,8 @@
           "type": "person",
           "settings": {
             "ava": "shopify:\/\/shop_images\/Vector_1.png",
-            "name": "Award 01",
-            "text": "Lorem ipsum dolor sit amet consectetur."
+            "name": "16 eigene Kinder",
+            "text": "Unsere tiefgreifende Erfahrung resultiert aus unserer eigenen Elternschaft. Zusammen haben wir 16 Kinder im Alter von 1 bis 10 Jahren, und wir wissen aus erster Hand, wovon wir sprechen."
           }
         },
         "70686f75-0757-4b4c-ab47-4adf4556549a": {

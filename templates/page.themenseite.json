@@ -1,0 +1,117 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "16a27f16-b5b6-4838-b516-46c85c826eb0": {
+      "type": "section-about-text",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "title": "Our Philosophy",
+        "text": "<p>Lorem ipsum dolor sit amet consectetur. Lectus blandit a tellus lectus ultrices aliquam nec. Tincidunt sed ultrices aliquet vel suspendisse sit facilisis. Ipsum elit faucibus elit vel posuere ac ac sit. Ac enim sit velit et augue scelerisque tempor adipiscing. In amet neque molestie nisl pellentesque nisi ac dapibus.<br\/>Donec odio et faucibus in hendrerit. Pellentesque quis vel velit luctus. Eleifend nisl at lorem massa mi nec enim. In ut faucibus fermentum ullamcorper adipiscing vulputate. Sem eget faucibus purus pellentesque amet ut fringilla malesuada id.<br\/>Elementum consectetur in massa habitant. Mattis nam ultricies pharetra ut donec dignissim sapien leo. Odio egestas etiam vel ligula lacinia. Sed id convallis pellentesque mauris consequat at. Porttitor sapien sagittis tristique ante. A cras justo diam vulputate integer aliquam imperdiet. Nisl at facilisi hac tristique elementum. Sed blandit eget dignissim etiam. Nullam fermentum ac tincidunt lectus facilisis posuere odio. Ullamcorper laoreet mi facilisis lectus ac scelerisque vel urna. Egestas volutpat diam varius sed dignissim et cursus sit sed. Cursus aliquam libero at nulla eget cursus justo lectus. Fermentum senectus elit amet quis sodales. Dictum aliquet vitae erat id et dictum. Volutpat id feugiat consectetur ipsum.<br\/>Habitant quis pellentesque imperdiet nibh. Senectus fringilla tincidunt dolor porta. Erat blandit eu pulvinar ac congue curabitur nunc. Purus pellentesque aliquam urna at cursus enim dolor. Malesuada nisl vitae sed leo.<br\/>Vitae vulputate lobortis nunc ipsum vitae nulla rhoncus magnis. Eu volutpat sed eget accumsan urna ullamcorper.<\/p>",
+        "max_width": 1050
+      }
+    },
+    "760907c0-6404-4e85-bd9b-c0ed55f24ba9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon.png",
+            "title": "Nachhaltig",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon_1.png",
+            "title": "Lokal",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon_2.png",
+            "title": "Artgerecht",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-1",
+        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-2",
+        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fe522614-6050-46db-9a38-d46fcddada7f": {
+      "type": "section-custom-image",
+      "blocks": {
+        "c982f1f9-44d1-4871-9b81-4369ae98d209": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image_103.jpg"
+          }
+        },
+        "d669c420-8d11-4bda-a21e-b34a7b4f0664": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image_103.jpg"
+          }
+        },
+        "bd71dc72-3690-49f4-a339-8647812decf3": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image_103.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "c982f1f9-44d1-4871-9b81-4369ae98d209",
+        "d669c420-8d11-4bda-a21e-b34a7b4f0664",
+        "bd71dc72-3690-49f4-a339-8647812decf3"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "max_width": 1320
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16a27f16-b5b6-4838-b516-46c85c826eb0",
+    "760907c0-6404-4e85-bd9b-c0ed55f24ba9",
+    "fe522614-6050-46db-9a38-d46fcddada7f"
+  ]
+}

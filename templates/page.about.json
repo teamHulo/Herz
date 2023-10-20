@@ -93,17 +93,33 @@
         "f9b40a2c-1360-42a4-8cac-7c832ce47bfd": {
           "type": "person",
           "settings": {
-            "ava": "shopify:\/\/shop_images\/lightblue.png",
-            "name": "Anna Smith",
-            "text": "Lorem ipsum dolor sit amet consectetur."
+            "ava": "shopify:\/\/shop_images\/Sabina.png",
+            "name": "Sabina",
+            "text": "Beraterin für Stoffwindeln & Windelfrei"
           }
         },
         "d0618dc8-417f-43a1-8ed9-10cda937af57": {
           "type": "person",
           "settings": {
-            "ava": "shopify:\/\/shop_images\/lightblue.png",
-            "name": "Anna Smith",
-            "text": "Lorem ipsum dolor sit amet consectetur."
+            "ava": "shopify:\/\/shop_images\/Lina.png",
+            "name": "Lina",
+            "text": "Trageberaterin, Babyschlaf-Coach, Yogalehrerin"
+          }
+        },
+        "7fdb0f6f-9e64-4aa6-afd7-1ddcf1b8c8a2": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Lorena.png",
+            "name": "Lorena",
+            "text": "Teammitglied und Mama"
+          }
+        },
+        "be9ada2e-bc4e-467d-849d-55cf5a58c64e": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Zoe.png",
+            "name": "Zoé",
+            "text": "Pflegefachfrau, Babyzeichen-Kursleiterin"
           }
         }
       },
@@ -115,7 +131,9 @@
         "c23d39f7-f33f-45a0-b2e4-29b81b08d713",
         "4fa9c249-ea07-48d2-aa2a-530bfde3ace2",
         "f9b40a2c-1360-42a4-8cac-7c832ce47bfd",
-        "d0618dc8-417f-43a1-8ed9-10cda937af57"
+        "d0618dc8-417f-43a1-8ed9-10cda937af57",
+        "7fdb0f6f-9e64-4aa6-afd7-1ddcf1b8c8a2",
+        "be9ada2e-bc4e-467d-849d-55cf5a58c64e"
       ],
       "settings": {
         "bg": "#a25c3f",

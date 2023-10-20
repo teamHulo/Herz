@@ -48,66 +48,120 @@
         "padding_bottom": 36
       }
     },
-    "fe522614-6050-46db-9a38-d46fcddada7f": {
-      "type": "section-custom-image",
+    "6b097b85-0abe-47cb-8728-a6b07bd3d882": {
+      "type": "rich-text",
       "blocks": {
-        "c982f1f9-44d1-4871-9b81-4369ae98d209": {
-          "type": "image",
+        "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1": {
+          "type": "text",
           "settings": {
-            "img": "shopify:\/\/shop_images\/image_103.jpg"
-          }
-        },
-        "d669c420-8d11-4bda-a21e-b34a7b4f0664": {
-          "type": "image",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/image_103.jpg"
-          }
-        },
-        "bd71dc72-3690-49f4-a339-8647812decf3": {
-          "type": "image",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/image_103.jpg"
+            "text": "<h2>Die Basics für das Schichten-Prinzip<\/h2><h4>1. Schicht<\/h4><p>Als erste Schicht - auch für zuhause geeignet - empfehlen wir einen Langarmbody und Leggings oder Strumpfhose aus Wolle oder einem Wolle-Seide-Gemisch. Wolle-Seide ist etwas leichter und feiner und auch für sehr empfindliche Kinder gut geeignet. Dazu Wollsocken. <\/p><p>Woll-Bodys sind die perfekte Basis für Babys und Kleinkinder. Wolle ist nicht nur temperaturausgleichend, sondern auch antibakteriell und schmutzabweisend. Sie neutralisieret Gerüche und Flüssigkeiten und regeneriert sich durch Auslüften. Daher muss sie selten gewaschen werden.<\/p><p>Tipp: Wähle Strumpfhosen mit Füssen eine Grösse grösser, wenn du dein Kind im Tragetuch oder der Tragehilfe trägst.<\/p>"
           }
         }
       },
       "block_order": [
-        "c982f1f9-44d1-4871-9b81-4369ae98d209",
-        "d669c420-8d11-4bda-a21e-b34a7b4f0664",
-        "bd71dc72-3690-49f4-a339-8647812decf3"
+        "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1"
       ],
       "settings": {
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "max_width": 1320
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
-    "107fc879-7e58-493c-be8e-051845dcca5a": {
-      "type": "section-full-image",
-      "settings": {
-      }
-    },
-    "45403bbc-0d8f-4cdb-96ee-c1d13a498625": {
-      "type": "section-custom-image",
+    "388c73b8-7370-40e1-a909-65073172a5ee": {
+      "type": "rich-text",
       "blocks": {
-        "203e212b-9412-48ff-8613-7c9c426d037e": {
-          "type": "image",
+        "121e17b7-86da-409f-b7fc-df65ab3dc485": {
+          "type": "text",
           "settings": {
-          }
-        },
-        "11f143df-36e9-417e-9af4-1f77f7f15499": {
-          "type": "image",
-          "settings": {
+            "text": "<h4>2. Schicht<\/h4><p>Wir empfehlen einen Woll-Pullover oder Woll-Jäckli. Und bei trockenem Wetter eine etwas dickere Hose oder Leggings aus Wolle. Bei Regen oder Schnee eine Wollwalkhose. Wenn das Baby unter einer Tragejacke getragen wird, braucht es diese zweite Schicht nicht. Meist reicht dann die Wohnungskleidung kombiniert mit passenden Accessoires aus.<\/p>"
           }
         }
       },
       "block_order": [
-        "203e212b-9412-48ff-8613-7c9c426d037e",
-        "11f143df-36e9-417e-9af4-1f77f7f15499"
+        "121e17b7-86da-409f-b7fc-df65ab3dc485"
       ],
       "settings": {
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "max_width": 870
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "3775d3fa-6914-4695-bb24-49ef76cf4845": {
+      "type": "rich-text",
+      "blocks": {
+        "4d5b5399-751a-44ad-b61b-5b61d650bdac": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>3. Schicht<\/h4><p>Die dritte Schicht bildet eine Jacke oder ein Anzug. Wollwalk ist besonders wärmend, robust und angenehm zu tragen. Die perfekte Outdoor-Kleidung für kleine Weltentdecker! Anzüge aus Wollfleece sind etwas feiner und toll für kleine Babys. Wolle wärmt, ist wasserabweisend und auch für Schnee gut geeignet. Für sehr nasse Tage kann eine Regenhose oder ein Regenanzug mit den unteren Schichten kombiniert werden.<\/p><p>Gut zu wissen: Schneeanzüge mit Luftpolstern, sind nicht zum Tragen von Babys geeignet, da die Luftpolster beim Tragen zusammengedrückt werden und so nicht mehr wärmen. Wir empfehlen, Babys unter jährig in Wohnungskleidung unter einer Tragejacke zu tragen, so funktioniert der Wärmeaustausch am besten. Für ältere Kinder, die über der Jacke getragen werden, eignet sich ein Wollwalk-Overall.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "4d5b5399-751a-44ad-b61b-5b61d650bdac"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "8036f04c-8a1b-4f53-9952-98bd167f1f6e": {
+      "type": "rich-text",
+      "blocks": {
+        "22191bc8-f3b2-431d-9f2f-bdc78eda99d2": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>4. Schicht<\/h4><p>An die Füsse: Für Kinder, die hauptsächlich getragen werden, gibt es praktische Tragestiefelchen aus Wolle oder Softshell. Laufen die Kinder schon, eignen sich auch Booties und Barfuss-Winterschuhe mit warmem Woll-Futter.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "22191bc8-f3b2-431d-9f2f-bdc78eda99d2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "f3ae689a-e182-4ac7-949b-2671ccadedf5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Mützen & Stirnbänder<\/strong>",
+        "heading_size": "h2",
+        "description": "<p>Je nach Temperatur eignen sich leichte oder dickere Mützen von Pickapooh oder disana aus Wolle\/Seide, Wollstrick oder Wollwalk. Wir lieben die Schlupfmützen von Manymonths. Sie wärmen den Hals gleich mit. Das ist beim Tragen des Babys nützlich, wo ein Halstuch schwieriger ist. Auch wenn es auf dem Rücken getragen wird und eine Tragejacke drübergezogen wird, verrutscht die Schlupfmütze nicht.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -115,8 +169,10 @@
     "main",
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
-    "fe522614-6050-46db-9a38-d46fcddada7f",
-    "107fc879-7e58-493c-be8e-051845dcca5a",
-    "45403bbc-0d8f-4cdb-96ee-c1d13a498625"
+    "6b097b85-0abe-47cb-8728-a6b07bd3d882",
+    "388c73b8-7370-40e1-a909-65073172a5ee",
+    "3775d3fa-6914-4695-bb24-49ef76cf4845",
+    "8036f04c-8a1b-4f53-9952-98bd167f1f6e",
+    "f3ae689a-e182-4ac7-949b-2671ccadedf5"
   ]
 }

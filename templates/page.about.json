@@ -175,16 +175,8 @@
           "type": "person",
           "settings": {
             "ava": "shopify:\/\/shop_images\/Vector_1.png",
-            "name": "Award 01",
-            "text": "Lorem ipsum dolor sit amet consectetur."
-          }
-        },
-        "575563b4-1555-4df5-8b27-65c5a79054af": {
-          "type": "person",
-          "settings": {
-            "ava": "shopify:\/\/shop_images\/Vector_1.png",
-            "name": "Award 01",
-            "text": "Lorem ipsum dolor sit amet consectetur."
+            "name": "1000 Beratungen",
+            "text": "Tagtäglich beraten wir Familien, sei es im Laden oder in persönlichen Beratungsgesprächen, und helfen ihnen bei ihren individuellen Anliegen. Wir sind hier, um unser Wissen und unsere Erfahrung mit dir zu teilen und dir auf deiner Reise zur Seite zu stehen."
           }
         }
       },
@@ -192,8 +184,7 @@
         "d5aea120-3c34-4183-aaea-05e5c393320d",
         "71709b28-2f50-4146-b31c-ff29852b75b1",
         "e3a0d4fe-d2e6-4e55-881b-903312ced00c",
-        "70686f75-0757-4b4c-ab47-4adf4556549a",
-        "575563b4-1555-4df5-8b27-65c5a79054af"
+        "70686f75-0757-4b4c-ab47-4adf4556549a"
       ],
       "settings": {
         "bg": "#ffffff",

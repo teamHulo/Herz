@@ -13,8 +13,8 @@
       "settings": {
         "padding_top": 60,
         "padding_bottom": 60,
-        "title": "Our Philosophy",
-        "text": "<p>Lorem ipsum dolor sit amet consectetur. Lectus blandit a tellus lectus ultrices aliquam nec. Tincidunt sed ultrices aliquet vel suspendisse sit facilisis. Ipsum elit faucibus elit vel posuere ac ac sit. Ac enim sit velit et augue scelerisque tempor adipiscing. In amet neque molestie nisl pellentesque nisi ac dapibus.<br\/>Donec odio et faucibus in hendrerit. Pellentesque quis vel velit luctus. Eleifend nisl at lorem massa mi nec enim. In ut faucibus fermentum ullamcorper adipiscing vulputate. Sem eget faucibus purus pellentesque amet ut fringilla malesuada id.<br\/>Elementum consectetur in massa habitant. Mattis nam ultricies pharetra ut donec dignissim sapien leo. Odio egestas etiam vel ligula lacinia. Sed id convallis pellentesque mauris consequat at. Porttitor sapien sagittis tristique ante. A cras justo diam vulputate integer aliquam imperdiet. Nisl at facilisi hac tristique elementum. Sed blandit eget dignissim etiam. Nullam fermentum ac tincidunt lectus facilisis posuere odio. Ullamcorper laoreet mi facilisis lectus ac scelerisque vel urna. Egestas volutpat diam varius sed dignissim et cursus sit sed. Cursus aliquam libero at nulla eget cursus justo lectus. Fermentum senectus elit amet quis sodales. Dictum aliquet vitae erat id et dictum. Volutpat id feugiat consectetur ipsum.<br\/>Habitant quis pellentesque imperdiet nibh. Senectus fringilla tincidunt dolor porta. Erat blandit eu pulvinar ac congue curabitur nunc. Purus pellentesque aliquam urna at cursus enim dolor. Malesuada nisl vitae sed leo.<br\/>Vitae vulputate lobortis nunc ipsum vitae nulla rhoncus magnis. Eu volutpat sed eget accumsan urna ullamcorper.<\/p>",
+        "title": "Unsere Philosophie",
+        "text": "<p>Herz an Herz, das ist mehr als nur ein Geschäft - es ist eine Herzensangelegenheit. Unser Ziel ist es, mehr Natürlichkeit in die Themen Schwangerschaft, Geburt und das Leben mit Baby zurückzubringen. Warum? Weil wir fest daran glauben, dass dies das Familienleben erleichtert und entspannt. Wir haben bereits unzählige Male erlebt, wie natürliche Ansätze viele Probleme verhindern und das Familienleben nur davon profitieren kann. <\/p><p>Mit Herz an Herz setzen wir uns für bewusste Elternschaft ein. Wir sind davon überzeugt, dass ein bewusster, natürlicher, artgerechter Umgang mit dem Baby und nachhaltige Entscheidungen in Bezug auf Produkte und Ressourcen eine positive Wirkung auf das Familienleben haben.<\/p><p>Wir freuen uns darauf, von dir zu hören und dich auf deiner Reise durch Schwangerschaft, Geburt und Elternschaft zu unterstützen. Herz an Herz, für eine natürlichere und nachhaltigere Familienwelt.<\/p>",
         "max_width": 1050
       }
     },
@@ -26,17 +26,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/icon.png",
             "title": "Nachhaltig",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icon_1.png",
-            "title": "Lokal",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi.<\/p>",
+            "text": "<p>Wir legen großen Wert auf Nachhaltigkeit. Unsere Produkte sind langlebig und umweltfreundlich, damit du nicht nur das Beste für dein Baby, sondern auch für die Umwelt wählst.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -46,7 +36,17 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/icon_2.png",
             "title": "Artgerecht",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi.<\/p>",
+            "text": "<p>Unser Fokus liegt auf einem liebevollen und bedürfnisorientierten Umgang mit Kindern. Unsere Produkte und Beratungen fördern die natürliche Entwicklung deines Kindes.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon_1.png",
+            "title": "Lokal",
+            "text": "<p>Wir bevorzugen lokale Produzenten. Damit unterstützen wir nicht nur die Gemeinschaft, sondern bieten bestmögliche Qualität und verhindern unnötige Transportemissionen.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -54,8 +54,8 @@
       },
       "block_order": [
         "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-1",
-        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-2",
-        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-3"
+        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-3",
+        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-2"
       ],
       "settings": {
         "title": "",

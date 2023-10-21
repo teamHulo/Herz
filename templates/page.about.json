@@ -194,6 +194,59 @@
         "title": "Unser Team in Zahlen",
         "label": "Bei Herz an Herz arbeiten nicht einfach \"Verkäuferinnen\". Wir sind  Fachfrauen in den unterschliedlichsten Bereichen rund um den natürlichen Umgang mit Schwangerschaft, Geburt, Baby und Familienleben. Und zudem sind wir mit Herzblut Mamas und geben dir unsere Erfahrung und unser Wissen weiter."
       }
+    },
+    "cf5c7238-26a2-4d23-84da-58742fa5239e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-1",
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-2",
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-3"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -201,6 +254,7 @@
     "e4f9ed82-6d67-41da-8751-1d3f0a0233f0",
     "557a871e-89f2-4b5d-ad49-0789bbedaa1c",
     "591cf3fa-c46a-4347-90c3-10ffaa7815f1",
-    "e85f1518-7e1b-4e45-a379-09ca75c69fce"
+    "e85f1518-7e1b-4e45-a379-09ca75c69fce",
+    "cf5c7238-26a2-4d23-84da-58742fa5239e"
   ]
 }

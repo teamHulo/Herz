@@ -8,6 +8,48 @@
         "padding_bottom": 0
       }
     },
+    "69deded2-d25d-40dc-ad4a-fca5b349d668": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Kontaktiere uns<\/h1><p>Herzlich willkommen bei Herz an Herz! Wir freuen uns, dass du den Weg zu unserer Kontaktseite gefunden hast. Dein Feedback, deine Fragen und Anliegen sind uns wichtig. Wir sind hier, um dir zu helfen und auf deine Anfragen zu antworten. Bitte zögere nicht, uns zu kontaktieren, sei es bezüglich unserer Produkte, Bestellungen oder jeglicher anderer Anliegen. Wir sind nur eine Nachricht entfernt – schreibe uns, und wir werden uns so bald wie möglich bei dir melden.<\/p><p><\/p><p>Übrigens haben wir die Antworten auf die gängigsten Fragen in unserem FAQ zusammengefasst. Vielleicht findest du deine Antwort auch dort?<\/p>"
+          }
+        },
+        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "FAQ anschauen",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-heading-1",
+        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-text-1",
+        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "93a3c7ba-b961-4f07-9284-a29fb2d8e2ac": {
       "type": "image-with-text",
       "blocks": {
@@ -62,54 +104,12 @@
         "padding_top": 0,
         "padding_bottom": 60
       }
-    },
-    "69deded2-d25d-40dc-ad4a-fca5b349d668": {
-      "type": "rich-text",
-      "blocks": {
-        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h1>Kontaktiere uns<\/h1><p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-heading-1",
-        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-text-1",
-        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-button-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
+    "69deded2-d25d-40dc-ad4a-fca5b349d668",
     "93a3c7ba-b961-4f07-9284-a29fb2d8e2ac",
-    "form",
-    "69deded2-d25d-40dc-ad4a-fca5b349d668"
+    "form"
   ]
 }

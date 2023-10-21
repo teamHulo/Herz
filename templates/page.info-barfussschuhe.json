@@ -56,10 +56,22 @@
           "settings": {
             "text": "<h2>Die Vorteile von Barfuss-Schuhen<\/h2><p><strong>Was ist ein Barfuss-Schuh?<\/strong><br\/>Ein Barfuss-Schuh zielt darauf ab, ein möglichst naturgetreues Barfussgefühl zu vermitteln, während gleichzeitig Schutz vor äusseren Einflüssen geboten wird. Anders als herkömmliche Schuhe, die oft stark gepolstert und stützend sind, sind Barfuss-Schuhe darauf ausgelegt, die natürliche Bewegung der Füsse zu fördern und die Füsse so zu trainieren, wie es die Evolution vorgesehen hat.<br\/><\/p><p><strong>Was sind die Vorteile von Barfuss-Schuhen?<\/strong><br\/>Da Kinderfüsse noch in der Wachstumsphase sind, ist es besonders wichtig, Schuhe zu wählen, die ein Barfussgefühl simulieren und so dazu beitragen, dass die Kinderfüsse sich auf natürliche Weise entwickeln können:<br\/><\/p><ul><li>Barfuss-Schuhe unterstützen diese natürliche Entwicklung der Füsse, indem sie eine bessere Bewegungsfreiheit ermöglichen. Die flexiblen Sohlen fördern die Entwicklung der Fuss- und Wadenmuskulatur und tragen dazu bei, dass sich das Fussgewölbe auf natürliche Weise entwickelt.<\/li><li>Die dünnen Sohlen ermöglichen Kindern, den Boden unter ihren Füssen zu spüren. Das verbessert ihre sensorische Wahrnehmung, denn die Reize am Fuss sorgen für eine gute Körperkoordination. Gleichzeitig können die Füsse das Körpergewicht abfedern, Bodenunebenheiten ausgleichen und wichtige Informationen für den Gleichgewichtssinn liefern. So wird das Gleichgewicht verbessert.<\/li><li>Barfuss-Schuhe ermutigen Kinder, bewusster aufzutreten und ihre Schritte präziser zu setzen. Dies kann langfristig dazu beitragen, Haltungsschäden und Problemen im Bewegungsapparat vorzubeugen.<\/li><li>Barfuss-Schuhe fördern eine gesunde Fusshaltung, da sie eine natürliche Abrollbewegung begünstigen und den Zehen ausreichend Platz bieten, was die Ausbildung eines gesunden Gangmusters unterstützt. Die Zehen behalten ihre korrekte Stellung und müssen sich nicht einer unnatürlichen Schuhform anpassen.<\/li><li>Die Beweglichkeit der Zehen und die natürliche Bewegung des Fusses tragen dazu bei, die Durchblutung zu verbessern und die Muskulatur zu stimulieren. Dies kann dazu beitragen, die Fussgesundheit insgesamt zu unterstützen.<br\/><br\/><\/li><\/ul>"
           }
+        },
+        "c9b2c8f9-130c-402e-9787-618d8d8c1bea": {
+          "type": "button",
+          "settings": {
+            "button_label": "Barfuss-Schuhe entdecken",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
-        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972"
+        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972",
+        "c9b2c8f9-130c-402e-9787-618d8d8c1bea"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -76,100 +88,12 @@
         "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Die passenden Barfuss-Schuhe kaufen<\/h2><p><strong>Wie erkenne ich einen Barfuss-Schuh?<\/strong><\/p><p>Ein Barfuss-Schuh zeichnet sich durch mehrere Eigenschaften aus:<\/p><ul><li>Er hat eine flexible Sohle, die es den Füssen ermöglicht, sich natürlich zu bewegen und den Boden zu spüren. Sensorische Reize am Fuss sorgen für eine gute Körperkoordination.<\/li><li>Die Schuhe haben eine breite Zehenbox und bieten dadurch ausreichend Platz für die Zehen, um sich frei zu bewegen und auseinanderzuspreizen.<\/li><li>Die Sohlen sind dünn. Das Fussbett hat eine flache Form ohne Polsterung oder Absätze und ermöglicht eine natürliche Abrollbewegung des Fusses. <br\/><\/li><\/ul><p><strong>Worauf muss ich beim Kauf eines Barfuss-Schuhs achten?<br\/><\/strong><\/p><p><strong>Eine gute Passform:<\/strong> Die Schuhe sollten gut passen, nicht einschränken und genügend Platz für die Zehen bieten. Sie sollten trotz ihrer Flexibilität guten Halt bieten und den Fuss gut umschliessen, um Stabilität zu gewährleisten.  Die Ferse sollte nicht zu viel Spiel haben, um ein Abrutschen zu verhindern.<\/p><p><strong>Das gewünschte Material:<\/strong> Achte auf atmungsaktive und hautfreundliche Materialien, um ein angenehmes Tragegefühl zu gewährleisten. Es gibt Modelle aus Leder oder Wolle sowie auch vegane Modelle mit Stoff.<\/p><p><strong>Der passende Verschluss:<\/strong> Um das An- und Ausziehen zu erleichtern sind kindgerechte Verschlüsse wie Klett- oder Reissverschlüsse praktisch. Schuhe mit Schnürsenkeln bieten dafür in der Regel den besseren Halt, da sie sich der Fussform besser anpassen.<br\/><\/p>"
+            "text": "<h2>Die passenden Barfuss-Schuhe kaufen<\/h2><h4>Wie erkenne ich einen Barfuss-Schuh?<\/h4><p>Ein Barfuss-Schuh zeichnet sich durch mehrere Eigenschaften aus:<\/p><ul><li>Er hat eine flexible Sohle, die es den Füssen ermöglicht, sich natürlich zu bewegen und den Boden zu spüren. Sensorische Reize am Fuss sorgen für eine gute Körperkoordination.<\/li><li>Die Schuhe haben eine breite Zehenbox und bieten dadurch ausreichend Platz für die Zehen, um sich frei zu bewegen und auseinanderzuspreizen.<\/li><li>Die Sohlen sind dünn. Das Fussbett hat eine flache Form ohne Polsterung oder Absätze und ermöglicht eine natürliche Abrollbewegung des Fusses. <\/li><\/ul><h4>Worauf muss ich beim Kauf eines Barfuss-Schuhs achten?<br\/><\/h4><p><strong>Eine gute Passform:<\/strong> Die Schuhe sollten gut passen, nicht einschränken und genügend Platz für die Zehen bieten. Sie sollten trotz ihrer Flexibilität guten Halt bieten und den Fuss gut umschliessen, um Stabilität zu gewährleisten.  Die Ferse sollte nicht zu viel Spiel haben, um ein Abrutschen zu verhindern.<\/p><p><strong>Das gewünschte Material:<\/strong> Achte auf atmungsaktive und hautfreundliche Materialien, um ein angenehmes Tragegefühl zu gewährleisten. Es gibt Modelle aus Leder oder Wolle sowie auch vegane Modelle mit Stoff.<\/p><p><strong>Der passende Verschluss:<\/strong> Um das An- und Ausziehen zu erleichtern sind kindgerechte Verschlüsse wie Klett- oder Reissverschlüsse praktisch. Schuhe mit Schnürsenkeln bieten dafür in der Regel den besseren Halt, da sie sich der Fussform besser anpassen.<br\/><\/p><h4>Wie finde ich die passende Grösse für mein Kind?<\/h4><p>Am einfachsten ist es, wenn dein Kind beim Anprobieren dabei ist und es mit den Schuhen kurz Probe laufen kann. So kannst du sicherstellen, dass die Schuhe bequem sind, sich gut anziehen lassen und richtig passen. Alle Schuhe, die du in unserem Onlineshop siehst, haben wir auch im Laden in Winterthur zum Anprobieren da.<br\/><br\/>Sollte ein Besuch bei uns nicht möglich sein, miss die Fusslänge deines Kindes: Das Kind soll barfuss (denn mit Socken sind die Füsse oft etwas kürzer) gerade stehen und mit dem vollen Gewicht auftreten. Miss von der Ferse bis zur längsten Zehe. Führe die Messung am besten an beiden Füssen durch, da sie leicht unterschiedliche Grössen haben können. Füge dann 12 mm zur Messung dazu, denn bei Barfuss-Schuhen ist es wichtig, zusätzlichen Platz für die natürliche Ausdehnung der Zehen beim Gehen zu berücksichtigen. Überprüfe dann die Grössentabelle des Modells, das du kaufen möchtest und finde die passende Innensohlenlänge.<br\/><\/p>"
           }
         }
       },
       "block_order": [
         "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "388c73b8-7370-40e1-a909-65073172a5ee": {
-      "type": "rich-text",
-      "blocks": {
-        "121e17b7-86da-409f-b7fc-df65ab3dc485": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>2. Schicht<\/h4><p>Wir empfehlen einen Woll-Pullover oder Woll-Jäckli. Und bei trockenem Wetter eine etwas dickere Hose oder Leggings aus Wolle. Bei Regen oder Schnee eine Wollwalkhose. Wenn das Baby unter einer Tragejacke getragen wird, braucht es diese zweite Schicht nicht. Meist reicht dann die Wohnungskleidung kombiniert mit passenden Accessoires aus.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "121e17b7-86da-409f-b7fc-df65ab3dc485"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "3775d3fa-6914-4695-bb24-49ef76cf4845": {
-      "type": "rich-text",
-      "blocks": {
-        "4d5b5399-751a-44ad-b61b-5b61d650bdac": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>3. Schicht<\/h4><p>Die dritte Schicht bildet eine Jacke oder ein Anzug. Wollwalk ist besonders wärmend, robust und angenehm zu tragen. Die perfekte Outdoor-Kleidung für kleine Weltentdecker! Anzüge aus Wollfleece sind etwas feiner und toll für kleine Babys. Wolle wärmt, ist wasserabweisend und auch für Schnee gut geeignet. Für sehr nasse Tage kann eine Regenhose oder ein Regenanzug mit den unteren Schichten kombiniert werden.<\/p><p>Gut zu wissen: Schneeanzüge mit Luftpolstern, sind nicht zum Tragen von Babys geeignet, da die Luftpolster beim Tragen zusammengedrückt werden und so nicht mehr wärmen. Wir empfehlen, Babys unter jährig in Wohnungskleidung unter einer Tragejacke zu tragen, so funktioniert der Wärmeaustausch am besten. Für ältere Kinder, die über der Jacke getragen werden, eignet sich ein Wollwalk-Overall.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "4d5b5399-751a-44ad-b61b-5b61d650bdac"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "8036f04c-8a1b-4f53-9952-98bd167f1f6e": {
-      "type": "rich-text",
-      "blocks": {
-        "22191bc8-f3b2-431d-9f2f-bdc78eda99d2": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>4. Schicht<\/h4><p>An die Füsse: Für Kinder, die hauptsächlich getragen werden, gibt es praktische Tragestiefelchen aus Wolle oder Softshell. Laufen die Kinder schon, eignen sich auch Booties und Barfuss-Winterschuhe mit warmem Woll-Futter.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "22191bc8-f3b2-431d-9f2f-bdc78eda99d2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "44c01f17-18ce-4124-bc46-25f6a8583cc9": {
-      "type": "rich-text",
-      "blocks": {
-        "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Accessoires<\/h2><p>Wenn es kalt ist, sind die richtigen Accessoires für dein Kind Gold wert. Auch hier setzen wir hauptsächlich auf Produkte aus Wolle oder Wolle-Seide.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -422,10 +346,6 @@
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
-    "388c73b8-7370-40e1-a909-65073172a5ee",
-    "3775d3fa-6914-4695-bb24-49ef76cf4845",
-    "8036f04c-8a1b-4f53-9952-98bd167f1f6e",
-    "44c01f17-18ce-4124-bc46-25f6a8583cc9",
     "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
     "e0647214-9936-4525-a517-be4c05c8b5c3",

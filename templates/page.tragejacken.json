@@ -111,7 +111,7 @@
             "image": "shopify:\/\/shop_images\/Infobild-Tragejacken-Mantel.jpg",
             "title": "Elegante Mäntel für kühle Tage",
             "text": "<p>Babytragen geht auch stylisch! Wer gerne elegant durch die kühle Jahreszeit geht, wählt am besten einen hochwertigen Wollmantel oder einen lässig geschnittenen Kurzmantel. Natürlich sind auch die eleganteren Modelle funktional und beispielsweise mit einer Membran (für Wind- und Regenschutz) oder einem herausnehmbaren Futter ausgestattet.<\/p>",
-            "link_label": "",
+            "link_label": "Unsere Mäntel entdecken",
             "link": ""
           }
         },
@@ -121,7 +121,7 @@
             "image": "shopify:\/\/shop_images\/Infobild-Tragejacken-Winterjacke.jpg",
             "title": "Zuverlässige Wärme für den Winter",
             "text": "<p>Dir fehlt noch eine richtige Winterjacke im Kleiderschrank? Dann wählst du mit Vorteil eine Winter-Tragejacke, die schön warm gibt. Denn natürlich kannst du diese Jacke auch lange nach der Schwangerschaft und Baby-Tragezeit noch weiter verwenden. Wir haben verschiedene warme Winterjacken im sportlichen oder eleganten Look im Sortiment.<\/p>",
-            "link_label": "",
+            "link_label": "Winterjacken entdecken",
             "link": ""
           }
         }
@@ -144,158 +144,6 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Ein Allrounder für die Übergangszeit<\/h3><p>Du möchtest eine Jacke, die du das ganze Jahr über immer wieder einsetzen kannst? Dann wähle eine Softshell Jacke. Diese Allrounder ist nicht umsonst die beliebteste Jacke in unserem Sortiment. Sie ist praktisch, sportlich und hält Wind und Regen ab. Sie ist ganz leicht gefüttert und passt daher auch im Herbst und Frühling sehr gut. Im Winter kombinierst du sie einfach mit einem kuscheligen Trage-Hoodie - und schon bist du für alle Jahreszeiten gut ausgerüstet.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zu den Mützen",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1",
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Muetzen.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "b3fa52d2-f2d9-4105-abf3-5171c37af62b": {
-      "type": "image-with-text",
-      "blocks": {
-        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Schals<\/h3><p>Klassische Schals zum Binden sind für Kinder wniger geeignet, sie sitzen zu eng, zu locker oder gehen verloren. Wir empfehlen Schlauchschals aus leichter Wolle\/Seide. Sie kratzen auch empfindliche Kinder nicht. Ebenfalls praktisch ist der Dickie von Manymonths, der den gesamten Hals- und Brustbereich wärmt. Für ältere Kinder sind auch dickere, kuschlig warme Loops aus Wolle ideal.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1213e182-6420-4dc6-b2ba-8a8ad1072c57": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zu den Schals",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98",
-        "1213e182-6420-4dc6-b2ba-8a8ad1072c57"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Schals.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e0647214-9936-4525-a517-be4c05c8b5c3": {
-      "type": "image-with-text",
-      "blocks": {
-        "b12b4506-8983-44eb-b9db-3fcbb5c56894": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Stulpen & Pulswärmer<\/h3><p>Unser Lieblings-Accessoire: Stulpen und Pulswärmer bieten eine flexible Extraportion Wärme. Sie sind schnell an- oder ausgezogen und wärmen Handgelenk, Arme oder Beine. Das ist für Trage-Babys super, da sie an- und ausgezogen werden können, ohne das Kind aus der Tragehilfe zu nehmen. Extra-Tipp: Beinstulpen für Babys passen Kindern und Erwachsenen an den Armen!<\/p>",
-            "text_style": "body"
-          }
-        },
-        "ac69770f-93af-4ffa-8278-7abd004dc300": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zu den Stulpen",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "b12b4506-8983-44eb-b9db-3fcbb5c56894",
-        "ac69770f-93af-4ffa-8278-7abd004dc300"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Stulpen.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "9f2d927d-daf8-4fcf-aceb-a840a11d7b82": {
-      "type": "image-with-text",
-      "blocks": {
-        "5c670314-e4f2-497c-a210-812f13bbf66b": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Handschuhe<\/h3><p>Für Babys und kleine Kinder sind Fäustlinge aus Wollwalk bestens geeignet. Sie sind leicht und bequem, warm und wasserabweisend. Bei kleinen Kindern sorgt eine Kordel dafür, dass die Handschuhe nicht verloren gehen. Für ältere Kinder, die in Schnee und Kälte spielen, eignen sich auch dick gefütterte, wasserdichte Handschuhe mit längerem Schaft.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "fbbbd352-9a4f-49a2-be70-e82c0f9155bd": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zu den Handschuhen",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "5c670314-e4f2-497c-a210-812f13bbf66b",
-        "fbbbd352-9a4f-49a2-be70-e82c0f9155bd"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Handschuhe.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -359,10 +207,6 @@
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
     "d0be46a9-f2b1-43ab-9de5-7e2842eae724",
-    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
-    "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
-    "e0647214-9936-4525-a517-be4c05c8b5c3",
-    "9f2d927d-daf8-4fcf-aceb-a840a11d7b82",
     "ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4",
     "df7159be-0e0a-4800-af46-2561da89b3de"
   ]

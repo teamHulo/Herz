@@ -153,11 +153,11 @@
         "c1c2d9d1-70c2-458f-b9a4-deea743746af": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Facebook",
+            "button_link": "https:\/\/www.facebook.com\/herzanherzwinterthur",
             "button_style_secondary": false,
             "button_label_2": "Instagram",
-            "button_link_2": "",
+            "button_link_2": "http:\/\/www.instagram.com\/herzanherzwinterthur",
             "button_style_secondary_2": false
           }
         },

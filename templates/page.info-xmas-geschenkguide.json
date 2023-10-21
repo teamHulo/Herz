@@ -111,7 +111,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Softshell2.jpg",
-            "title": "Swings & Dreams",
+            "title": "Babyschaukeln Swings & Dreams",
             "text": "<p>Diese coole Babyschaukel aus Stoff & Holz kannst du überall aufhängen wo du sie brauchst. Um Spass zu haben oder dein Baby kurz hinein zu setzten wenn es mal nicht auf den Boden kann. Auch grössere Kinder bis ca. 3 Jahre können darin schaukeln. Bis zu 25 kg Gewicht hält die robuste Schaukel aus. So bleibt die Schaukel über viele Jahre hinweg ein beliebtes Spielgerät bei Gross & Klein.<\/p>",
             "link_label": "Schaukeln entdecken",
             "link": ""
@@ -177,8 +177,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Papa.jpg",
-            "title": "Eine Jacke für den Papa",
-            "text": "<p>Auch Papas sollen ihr Baby warm und kuschlig tragen dürfen. Je nach Bedürfnis wählt ihr eine dicke Winterjacke, eine funktionale Softshell oder ein leichter Hoodie. Schaut auch hier darauf, dass die Jacke den bestehenden Kleiderschrank optimal ergänzt, denn sie soll ja auch nach dem Babytragen noch lange Freude machen. Wenn ihr eine ähnliche Statur habt, könnt ihr euch auch gemeinsam für eine Jacke entscheiden. Viele unserer Kunden entscheiden sich für die Kombination aus Softshelljacke und Hoodie.<\/p>",
+            "title": "Der nachhaltige MP3 Player ohne Abo-Kosten",
+            "text": "<p><strong>hörbert - der nachhaltige MP3 Player ohne Abo-Kosten<\/strong><\/p><p>Der hörbert ist ein robuster, nachhaltig produzierter Kinder-MP3-Player aus Holz. Über die bunten Knöpfe können schon die Kleinsten ganz selbständig Musik oder Hörspiele in bester Qualität geniessen.<\/p><p>Der hörbert kann vieles: Mit Bluetooth, Aufzeichnungs-Funktion, Mikrofon, Sleep Timer und der Möglichkeit Internetradio abzuspielen bleiben keine Wünsche offen. Und das alles ohne teure Folgekosten wie Abonnements oder Lizenzen. Auf Wunsch kann der Hörbert mit dem Namen des Kindes graviert werden. <\/p>",
             "link_label": "Papa Jacken entdecken",
             "link": ""
           }
@@ -198,7 +198,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "inverse",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,

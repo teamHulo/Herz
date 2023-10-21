@@ -98,18 +98,19 @@
         "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Tragejacken5.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "Jacke",
+            "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Softshell2.jpg",
+            "title": "Ein Allrounder für den Übergang",
+            "text": "<p>Du möchtest eine Jacke, die du das ganze Jahr über immer wieder einsetzen kannst? Dann wähle eine Softshell Jacke. Diese Allrounder ist nicht umsonst die beliebteste Jacke in unserem Sortiment. Sie ist praktisch, sportlich und hält Wind und Regen ab. Sie ist ganz leicht gefüttert und passt daher auch im Herbst und Frühling sehr gut. Im Winter kombinierst du sie einfach mit einem kuscheligen Trage-Hoodie - und schon bist du für alle Jahreszeiten gut ausgerüstet.<\/p>",
+            "link_label": "Softshelljacken entdecken",
             "link": ""
           }
         },
         "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Infobild-Tragejacken-Mantel.jpg",
+            "title": "Elegante Mäntel für kühle Tage",
+            "text": "<p>Babytragen geht auch stylisch! Wer gerne elegant durch die kühle Jahreszeit geht, wählt am besten einen hochwertigen Wollmantel oder einen lässig geschnittenen Kurzmantel. Natürlich sind auch die eleganteren Modelle funktional und beispielsweise mit einer Membran (für Wind- und Regenschutz) oder einem herausnehmbaren Futter ausgestattet.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -117,8 +118,9 @@
         "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Infobild-Tragejacken-Winterjacke.jpg",
+            "title": "Zuverlässige Wärme für den Winter",
+            "text": "<p>Dir fehlt noch eine richtige Winterjacke im Kleiderschrank? Dann wählst du mit Vorteil eine Winter-Tragejacke, die schön warm gibt. Denn natürlich kannst du diese Jacke auch lange nach der Schwangerschaft und Baby-Tragezeit noch weiter verwenden. Wir haben verschiedene warme Winterjacken im sportlichen oder eleganten Look im Sortiment.<\/p>",
             "link_label": "",
             "link": ""
           }

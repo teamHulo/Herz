@@ -76,7 +76,7 @@
         "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5": {
           "type": "text",
           "settings": {
-            "text": "<h2>Welche Jacke ist die richtige für dich?<\/h2><p>Wenn es kalt ist, sind die richtigen Accessoires für dein Kind Gold wert. Auch hier setzen wir hauptsächlich auf Produkte aus Wolle oder Wolle-Seide.<\/p>"
+            "text": "<h2>Welche Jacke ist die richtige für dich?<\/h2><p>Tragejacken können sowohl in der Schwangerschaft, zum Tragen vorn und hinten und auch ganz ohne Baby benutzt werden. So sind sie eine lohnende Investition von Anfang an - und lange über die Babyzeit hinaus.<\/p><p>Tragejacken gibt es für Mamas und Papas, für den Winter und den Sommer und die Übergangszeit. Für Regen und Schnee, für Praktiker und Modische. Finde die passende Jacke für dich und deinen Lifestyle.<\/p><p>Wähle am besten eine Jacke aus, die deinen Kleiderschrank optimal ergänzt, denn die Jacke soll dir auch ohne Baby noch lange Freude machen.<\/p>"
           }
         }
       },
@@ -90,6 +90,60 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "d0be46a9-f2b1-43ab-9de5-7e2842eae724": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Infobild-Tragejacken5.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "Jacke",
+            "link": ""
+          }
+        },
+        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-1",
+        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-2",
+        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7": {
@@ -302,6 +356,7 @@
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
+    "d0be46a9-f2b1-43ab-9de5-7e2842eae724",
     "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
     "e0647214-9936-4525-a517-be4c05c8b5c3",

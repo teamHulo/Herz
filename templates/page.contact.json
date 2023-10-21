@@ -21,7 +21,7 @@
         "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h1>Kontakt<\/h1><p>Herzlich willkommen bei Herz an Herz! Wir freuen uns, dass du den Weg zu unserer Kontaktseite gefunden hast. Dein Feedback, deine Fragen und Anliegen sind uns wichtig. Wir sind hier, um dir zu helfen und auf deine Anfragen zu antworten. Bitte zögere nicht, uns zu kontaktieren, sei es bezüglich unserer Produkte, Bestellungen oder jeglicher anderer Anliegen. Wir sind nur eine Nachricht entfernt – schreibe uns, und wir werden uns so bald wie möglich bei dir melden.<\/p><p><\/p><p>Übrigens haben wir die Antworten auf die gängigsten Fragen in unserem FAQ zusammengefasst. Vielleicht findest du deine Antwort auch dort?<\/p>"
+            "text": "<h1>Kontakt<\/h1><p>Herzlich willkommen bei Herz an Herz! Wir freuen uns, dass du den Weg zu unserer Kontaktseite gefunden hast. Dein Feedback, deine Fragen und Anliegen sind uns wichtig. Wir sind hier, um dir zu helfen und auf deine Anfragen zu antworten. Bitte zögere nicht, uns zu kontaktieren, sei es bezüglich unserer Produkte, Bestellungen oder jeglicher anderer Anliegen. Wir sind nur eine Nachricht entfernt – schreibe uns, und wir werden uns so bald wie möglich bei dir melden.<\/p>"
           }
         },
         "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-button-1": {
@@ -40,6 +40,48 @@
         "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-heading-1",
         "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-text-1",
         "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "41f13753-da4e-4a91-9c04-741fd47e65ba": {
+      "type": "rich-text",
+      "blocks": {
+        "111423a0-c213-4113-94ee-e223ed1f4954": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "c7e881be-648c-4cd9-b911-598acf36acbd": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>FAQ<\/h3><p>Übrigens haben wir die Antworten auf die gängigsten Fragen in unserem FAQ zusammengefasst. Vielleicht findest du deine Antwort auch dort?<\/p>"
+          }
+        },
+        "b5258e33-433d-4139-acba-c50633744880": {
+          "type": "button",
+          "settings": {
+            "button_label": "FAQ anschauen",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "111423a0-c213-4113-94ee-e223ed1f4954",
+        "c7e881be-648c-4cd9-b911-598acf36acbd",
+        "b5258e33-433d-4139-acba-c50633744880"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -111,7 +153,7 @@
         "479a2316-b9cb-464f-b0be-8f8caadcfb4d": {
           "type": "button",
           "settings": {
-            "button_label": "FAQ anschauen",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -132,6 +174,49 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "65d723f1-e795-4c15-8ce3-890d09ff1e81": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21402263978299__65d723f1-e795-4c15-8ce3-890d09ff1e81-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21402263978299__65d723f1-e795-4c15-8ce3-890d09ff1e81-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21402263978299__65d723f1-e795-4c15-8ce3-890d09ff1e81-column-1",
+        "template--21402263978299__65d723f1-e795-4c15-8ce3-890d09ff1e81-column-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "93a3c7ba-b961-4f07-9284-a29fb2d8e2ac": {
@@ -194,8 +279,10 @@
   "order": [
     "main",
     "69deded2-d25d-40dc-ad4a-fca5b349d668",
+    "41f13753-da4e-4a91-9c04-741fd47e65ba",
     "9d96080f-20a8-4c8b-8b75-07ae1831617b",
     "2cb71f7d-e107-4a9d-80e3-1dfe7180b999",
+    "65d723f1-e795-4c15-8ce3-890d09ff1e81",
     "93a3c7ba-b961-4f07-9284-a29fb2d8e2ac",
     "form"
   ]

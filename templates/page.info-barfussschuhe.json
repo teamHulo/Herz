@@ -148,14 +148,14 @@
         "b1e16a22-d92a-4fef-8e59-67a00b4f1d98": {
           "type": "text",
           "settings": {
-            "text": "<h3>Halb- und Turnschuhe<\/h3><p>Klassische Schals zum Binden sind für Kinder wniger geeignet, sie sitzen zu eng, zu locker oder gehen verloren. Wir empfehlen Schlauchschals aus leichter Wolle\/Seide. Sie kratzen auch empfindliche Kinder nicht. Ebenfalls praktisch ist der Dickie von Manymonths, der den gesamten Hals- und Brustbereich wärmt. Für ältere Kinder sind auch dickere, kuschlig warme Loops aus Wolle ideal.<\/p>",
+            "text": "<h3>Halb- & Turnschuhe<\/h3><p>Klassische Schals zum Binden sind für Kinder wniger geeignet, sie sitzen zu eng, zu locker oder gehen verloren. Wir empfehlen Schlauchschals aus leichter Wolle\/Seide. Sie kratzen auch empfindliche Kinder nicht. Ebenfalls praktisch ist der Dickie von Manymonths, der den gesamten Hals- und Brustbereich wärmt. Für ältere Kinder sind auch dickere, kuschlig warme Loops aus Wolle ideal.<\/p>",
             "text_style": "body"
           }
         },
         "1213e182-6420-4dc6-b2ba-8a8ad1072c57": {
           "type": "button",
           "settings": {
-            "button_label": "Zu den Schals",
+            "button_label": "Zu den Halb- & Turnschuhen",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -256,76 +256,6 @@
         "padding_bottom": 36
       }
     },
-    "de7f5108-2c92-404d-8671-8437b9ae096a": {
-      "type": "rich-text",
-      "blocks": {
-        "e27274ae-5ee3-4d54-9e4d-130cb04651b7": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Und was ziehst du an?<\/h2><p>Wie überstehst du Minustemperaturen auf dem Spielplatz? Am besten trägst du (d)ein Baby unter der Tragejacke. Das hält nicht nur das Baby kuschlig warm, sondern auch dich. Tragejacken gibt es in sportlich, klassisch, elegant oder funktional. Sie ermöglichen auch das Rückentragen dank dem Reissverschluss am Rücken und können auch ganz ohne Trage-Einsatz getragen werden. So sind sie eine langfristige Investition.<br\/><br\/>Unsere liebsten Mama-Accessoires im Herbst & Winter sind übrigens Armstulpen, Stirnbänder und kuschlige Hüftwärmer aus Wolle. (Diese wärmen dein Zentrum - ein echt toller Effekt!).<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "e27274ae-5ee3-4d54-9e4d-130cb04651b7"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "94281f1a-67bb-4bc2-93c5-216dcbf2a8f0": {
-      "type": "image-banner",
-      "blocks": {
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-heading-1",
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-text-1",
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-buttons-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "df7159be-0e0a-4800-af46-2561da89b3de": {
       "type": "slideshow",
       "settings": {
@@ -350,8 +280,6 @@
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
     "e0647214-9936-4525-a517-be4c05c8b5c3",
     "9f2d927d-daf8-4fcf-aceb-a840a11d7b82",
-    "de7f5108-2c92-404d-8671-8437b9ae096a",
-    "94281f1a-67bb-4bc2-93c5-216dcbf2a8f0",
     "df7159be-0e0a-4800-af46-2561da89b3de"
   ]
 }

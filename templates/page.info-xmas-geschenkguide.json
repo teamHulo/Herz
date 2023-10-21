@@ -441,8 +441,8 @@
         "40fd1100-8b0e-462f-b178-330cd5080e6f": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "<h4>Malen & Kneten<\/h4><p>Hier wird Kreativität und Spass vereint. In der Gestaltung entfalten die Kleinen ihre Fantasie und verbessern ihre feinmotorischen Fähigkeiten. Es ist ein interaktives Geschenk, das stundenlange Unterhaltung bietet und gleichzeitig die sensorische Entwicklung fördert.<\/p>",
             "link_label": "",
             "link": ""
           }

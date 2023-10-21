@@ -136,12 +136,23 @@
             "button_label": "Festtagsring & Zubehör",
             "button_link": ""
           }
+        },
+        "500df705-3da4-4a89-a4e9-2c63c4246267": {
+          "type": "row",
+          "settings": {
+            "caption": "Idee 4",
+            "heading": "",
+            "text": "<h2>Dekoriert euer Zuhause<\/h2><p>Eine wunderschöne Idee fürs ganze Jahr - und natürlich insbesondere für die Adventszeit - ist der Jahreszeitentisch. Sei es ein Regal, ein Kästchen oder ein kleiner Tisch: Findet zuhause einen Ort, an dem die aktuelle Jahreszeit für die Kinder sicht- und erlebbar wird. Dort stellt ihr gemeinsam Dinge wie Bastelsachen, Fundstücke aus der Natur, eine passende Wimmelbuchseite, Steckfiguren oder Motivkarten auf. Im Advent passt auch die Adventsspirale, ein Adventskranz oder ein Wichteltürchen dazu.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-1",
         "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-2",
-        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-3"
+        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-3",
+        "500df705-3da4-4a89-a4e9-2c63c4246267"
       ],
       "settings": {
         "image_height": "medium",
@@ -155,118 +166,6 @@
         "section_color_scheme": "",
         "row_color_scheme": "",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "d0be46a9-f2b1-43ab-9de5-7e2842eae724": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Softshell2.jpg",
-            "title": "Allrounder für den Übergang",
-            "text": "<p>Du möchtest eine Jacke, die du das ganze Jahr über immer wieder einsetzen kannst? Dann wähle eine Softshell Jacke. Dieser Allrounder ist nicht umsonst die beliebteste Jacke in unserem Sortiment. Sie ist praktisch, sportlich und hält Wind und Regen ab. Sie ist ganz leicht gefüttert und passt daher auch im Herbst und Frühling sehr gut. Im Winter kombinierst du sie einfach mit einem kuscheligen Trage-Hoodie - und schon bist du für alle Jahreszeiten gut ausgerüstet.<\/p>",
-            "link_label": "Softshelljacken entdecken",
-            "link": ""
-          }
-        },
-        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Tragejacken-Mantel.jpg",
-            "title": "Eleganter Mantel für kühle Tage",
-            "text": "<p>Babytragen geht auch stylisch! Wer gerne elegant durch die kühle Jahreszeit geht, wählt am besten einen hochwertigen Wollmantel oder einen lässig geschnittenen Kurzmantel. Natürlich sind auch die eleganteren Modelle funktional und beispielsweise mit einer Membran (für Wind- und Regenschutz) oder einem herausnehmbaren Futter ausgestattet.<\/p>",
-            "link_label": "Unsere Mäntel entdecken",
-            "link": ""
-          }
-        },
-        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Tragejacken-Winterjacke.jpg",
-            "title": "Zuverlässige Wärme für den Winter",
-            "text": "<p>Dir fehlt noch eine richtige Winterjacke im Kleiderschrank? Dann wählst du mit Vorteil eine Winter-Tragejacke, die schön warm gibt. Denn natürlich kannst du diese Jacke auch lange nach der Schwangerschaft und Baby-Tragezeit noch weiter verwenden. Wir haben verschiedene warme Winterjacken im sportlichen oder eleganten Look im Sortiment.<\/p>",
-            "link_label": "Winterjacken entdecken",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-1",
-        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-2",
-        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "82b7987a-4763-4122-a519-d9e89ff60521": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Outroor.jpg",
-            "title": "Outdoor Regenjacke für jedes Wetter",
-            "text": "<p>Du bist gern draussen, gern in Bewegung und unterwegs? Um dich und dein Baby dabei vor Wind und Wetter zu schützen, ohne dass du viel mitnehmen musst, brauchst du eine zuverlässige Outdoor-Tragejacke: wasser- und winddicht, mit atmungsaktiver Membran und einem sportlichen Schnitt für extra viel Bewegungsfreiheit. Kombiniere diese Jacke am besten mit einem Hoodie - so bist du auch bei kühlerem Wetter gut angezogen.<\/p>",
-            "link_label": "Regenjacken entdecken",
-            "link": ""
-          }
-        },
-        "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Papa.jpg",
-            "title": "Eine Jacke für den Papa",
-            "text": "<p>Auch Papas sollen ihr Baby warm und kuschlig tragen dürfen. Je nach Bedürfnis wählt ihr eine dicke Winterjacke, eine funktionale Softshell oder ein leichter Hoodie. Schaut auch hier darauf, dass die Jacke den bestehenden Kleiderschrank optimal ergänzt, denn sie soll ja auch nach dem Babytragen noch lange Freude machen. Wenn ihr eine ähnliche Statur habt, könnt ihr euch auch gemeinsam für eine Jacke entscheiden. Viele unserer Kunden entscheiden sich für die Kombination aus Softshelljacke und Hoodie.<\/p>",
-            "link_label": "Papa Jacken entdecken",
-            "link": ""
-          }
-        },
-        "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Erweiterung.jpg",
-            "title": "Die Alternative zur Tragejacke",
-            "text": "<p>Eine günstigere Alternative zur Tragejacke ist eine Jackenerweiterung oder ein Cover. Dies ergänzt eure normale Jacke. Der Vorteil ist klar der Preis. Es gibt jedoch auch einige Nachteile. Beispielsweise ist das Anziehen etwas mühsamer, wenn eine Jacke mit oder ohne Einsatz verwendet werden soll. Ausserdem ist das Tragen auf dem Rücken mit einer Jackenerweiterung nicht möglich.<\/p>",
-            "link_label": "Jackenerweiterungen entdecken",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-1",
-        "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-2",
-        "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -330,8 +229,6 @@
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
     "5557db53-3e75-4ef9-a993-f08e092ebf73",
-    "d0be46a9-f2b1-43ab-9de5-7e2842eae724",
-    "82b7987a-4763-4122-a519-d9e89ff60521",
     "ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4",
     "df7159be-0e0a-4800-af46-2561da89b3de"
   ]

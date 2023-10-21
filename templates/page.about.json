@@ -20,23 +20,67 @@
         "max_width": 1000
       }
     },
-    "557a871e-89f2-4b5d-ad49-0789bbedaa1c": {
-      "type": "section-custom-image",
+    "cf5c7238-26a2-4d23-84da-58742fa5239e": {
+      "type": "multicolumn",
       "blocks": {
-        "df992bcf-5f26-4639-a382-4b1f2417a86a": {
-          "type": "image",
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-1": {
+          "type": "column",
           "settings": {
-            "img": "shopify:\/\/shop_images\/image_92.jpg"
+            "title": "10 Fachfrauen",
+            "text": "<p>Bei Herz an Herz arbeiten 10 Frauen, die sich mit viel Herzblut für dich und dein Baby einsetzen.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "12 Aus- und Weiterbildungen",
+            "text": "<p>Wir legen grossen Wert auf ständige Weiterentwicklung und Bildung, um stets auf dem neuesten Stand in Bezug auf Kinderwunsch, Schwangerschaft, Geburt, Baby und Familie zu sein.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "16 eigene Kinder",
+            "text": "<p>Unsere tiefgreifende Erfahrung resultiert aus unserer eigenen Elternschaft. Zusammen haben wir 16 Kinder im Alter von 1 bis 10 Jahren, und wir wissen aus erster Hand, wovon wir sprechen. Unsere Produkte testen wir und unsere Kinder ausgiebig!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "696ff424-f433-4370-b771-567c506767fe": {
+          "type": "column",
+          "settings": {
+            "title": "1000 Beratungen",
+            "text": "<p>Tagtäglich beraten wir Familien, sei es im Laden oder in persönlichen Beratungen, und helfen ihnen bei ihren individuellen Anliegen. Wir sind hier, um unser Wissen und unsere Erfahrung mit dir zu teilen und dir auf deiner Reise zur Seite zu stehen.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "df992bcf-5f26-4639-a382-4b1f2417a86a"
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-1",
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-2",
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-3",
+        "696ff424-f433-4370-b771-567c506767fe"
       ],
       "settings": {
-        "padding_top": 0,
-        "padding_bottom": 60,
-        "max_width": 800
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "591cf3fa-c46a-4347-90c3-10ffaa7815f1": {
@@ -186,6 +230,7 @@
         "e3a0d4fe-d2e6-4e55-881b-903312ced00c",
         "70686f75-0757-4b4c-ab47-4adf4556549a"
       ],
+      "disabled": true,
       "settings": {
         "bg": "#ffffff",
         "text_color": "",
@@ -194,77 +239,13 @@
         "title": "Unser Team in Zahlen",
         "label": "Bei Herz an Herz arbeiten nicht einfach \"Verkäuferinnen\". Wir sind  Fachfrauen in den unterschliedlichsten Bereichen rund um den natürlichen Umgang mit Schwangerschaft, Geburt, Baby und Familienleben. Und zudem sind wir mit Herzblut Mamas und geben dir unsere Erfahrung und unser Wissen weiter."
       }
-    },
-    "cf5c7238-26a2-4d23-84da-58742fa5239e": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "10 Fachfrauen",
-            "text": "<p>Bei Herz an Herz arbeiten 10 Frauen, die sich mit viel Herzblut für dich und dein Baby einsetzen.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "12 Aus- und Weiterbildungen",
-            "text": "<p>Wir legen grossen Wert auf ständige Weiterentwicklung und Bildung, um stets auf dem neuesten Stand in Bezug auf Kinderwunsch, Schwangerschaft, Geburt, Baby und Familie zu sein.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "16 eigene Kinder",
-            "text": "<p>Unsere tiefgreifende Erfahrung resultiert aus unserer eigenen Elternschaft. Zusammen haben wir 16 Kinder im Alter von 1 bis 10 Jahren, und wir wissen aus erster Hand, wovon wir sprechen. Unsere Produkte testen wir und unsere Kinder ausgiebig!<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "696ff424-f433-4370-b771-567c506767fe": {
-          "type": "column",
-          "settings": {
-            "title": "1000 Beratungen",
-            "text": "<p>Tagtäglich beraten wir Familien, sei es im Laden oder in persönlichen Beratungen, und helfen ihnen bei ihren individuellen Anliegen. Wir sind hier, um unser Wissen und unsere Erfahrung mit dir zu teilen und dir auf deiner Reise zur Seite zu stehen.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-1",
-        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-2",
-        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-3",
-        "696ff424-f433-4370-b771-567c506767fe"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "main",
     "e4f9ed82-6d67-41da-8751-1d3f0a0233f0",
-    "557a871e-89f2-4b5d-ad49-0789bbedaa1c",
+    "cf5c7238-26a2-4d23-84da-58742fa5239e",
     "591cf3fa-c46a-4347-90c3-10ffaa7815f1",
-    "e85f1518-7e1b-4e45-a379-09ca75c69fce",
-    "cf5c7238-26a2-4d23-84da-58742fa5239e"
+    "e85f1518-7e1b-4e45-a379-09ca75c69fce"
   ]
 }

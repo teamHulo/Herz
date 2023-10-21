@@ -414,7 +414,6 @@
         "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Softshell2.jpg",
             "title": "",
             "text": "<h4>Greiflinge, Beissringe und Kuschelspielzeug<\/h4><p>Liebevolle Geschenke, die das erste Weihnachtsfest eines Babys besonders zauberhaft machen. Sie schenken Trost und Freude gleichermassen. Sie regen die Sinne an und helfen, die Greif- und Koordinationsfähigkeiten zu entwickeln und verschaffen ganz nebenbei noch Linderung beim Zahnen.<\/p>",
             "link_label": "Zum Babyspielzeug",
@@ -471,6 +470,69 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "0aeb9c5e-761c-4ad4-b0ac-6897db54f59d": {
+      "type": "multicolumn",
+      "blocks": {
+        "faa2de86-616b-4c22-b173-d4df1af8cdcd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Kinderbüechli<\/h4><p>Was gibt es gerade im Winter schöneres, als mit lieben Menschen zusammen zu kuscheln und gemeinsam ein Bilderbuch anzuschauen? Bei uns findest du eine kleine, aber sorgfältige Auswahl an hübschen und sinnvollen Kinderbüchern.<\/p>",
+            "link_label": "Zum Babyspielzeug",
+            "link": ""
+          }
+        },
+        "97eeaa4e-9cc8-487f-ba92-06973187a51f": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Hübsche Bio-Kindermode<\/h4><p>Soll es zu Weihnachten mal ein richtig schönes, hochwertiges Kleidungsstück sein? Ein besonders hübsches Body oder Shirt mit süssem Print oder in der Lieblingsfarbe? Unsere Baumwoll-Kinderkleider sind alle in höchster Bio-Qualität und mit Fokus auf Nachhaltigkeit produziert.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "286436d8-9f8e-4f7b-89d4-3c9cb30fe2e4": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Badespielzeug<\/h4><p>Planschen in der Badewanne macht immer Spass! Wenn dabei kein Mikroplastik im Badewasser landet, umso besser! Unsere Badespielsachen aus Holz oder Naturkautschuk sorgen für umweltfreundlichen Badespass.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1f43e78a-a657-4d01-b89f-ea79f5d6ee40": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Malen & Kneten<\/h4><p>Hier wird Kreativität und Spass vereint. In der Gestaltung entfalten die Kleinen ihre Fantasie und verbessern ihre feinmotorischen Fähigkeiten. Es ist ein interaktives Geschenk, das stundenlange Unterhaltung bietet und gleichzeitig die sensorische Entwicklung fördert.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "faa2de86-616b-4c22-b173-d4df1af8cdcd",
+        "97eeaa4e-9cc8-487f-ba92-06973187a51f",
+        "286436d8-9f8e-4f7b-89d4-3c9cb30fe2e4",
+        "1f43e78a-a657-4d01-b89f-ea79f5d6ee40"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -486,6 +548,7 @@
     "e75477b7-827f-485c-95b4-564b7fc55799",
     "f258b20b-4472-4d7b-860a-9452a525641c",
     "31be1a56-bd03-4057-a35e-b6591d4e77cd",
-    "5bc36a9a-9ad0-4afb-9b4b-5c5656584986"
+    "5bc36a9a-9ad0-4afb-9b4b-5c5656584986",
+    "0aeb9c5e-761c-4ad4-b0ac-6897db54f59d"
   ]
 }

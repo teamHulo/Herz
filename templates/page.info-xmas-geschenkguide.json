@@ -98,7 +98,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
-        "color_scheme": "inverse",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -112,8 +112,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Softshell2.jpg",
             "title": "Allrounder für den Übergang",
-            "text": "<p>Du möchtest eine Jacke, die du das ganze Jahr über immer wieder einsetzen kannst? Dann wähle eine Softshell Jacke. Dieser Allrounder ist nicht umsonst die beliebteste Jacke in unserem Sortiment. Sie ist praktisch, sportlich und hält Wind und Regen ab. Sie ist ganz leicht gefüttert und passt daher auch im Herbst und Frühling sehr gut. Im Winter kombinierst du sie einfach mit einem kuscheligen Trage-Hoodie - und schon bist du für alle Jahreszeiten gut ausgerüstet.<\/p>",
-            "link_label": "Softshelljacken entdecken",
+            "text": "<p>Diese coole Babyschaukel aus Stoff & Holz kannst du überall aufhängen wo du sie brauchst. Um Spass zu haben oder dein Baby kurz hinein zu setzten wenn es mal nicht auf den Boden kann. Auch grössere Kinder bis ca. 3 Jahre können darin schaukeln. Bis zu 25 kg Gewicht hält die robuste Schaukel aus. So bleibt die Schaukel über viele Jahre hinweg ein beliebtes Spielgerät bei Gross & Klein.<\/p>",
+            "link_label": "Schaukeln entdecken",
             "link": ""
           }
         },
@@ -215,57 +215,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Podcast: Tragen im Winter<\/p><p>Weil das Thema so wichtig ist, haben wir dazu eine Podcast-Folge aufgenommen. Selina Gerkens ist Trageberaterin und erklärt im Podcast alles, was du zum Tragen bei kalten Temperaturen wissen musst. (Und noch eine Menge mehr rund ums Babytragen).<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zum Podcast",
-            "button_link": "https:\/\/handufsherz.podigee.io\/5-episode-5",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-text-1",
-        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Tragejacken5.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "df7159be-0e0a-4800-af46-2561da89b3de": {
-      "type": "slideshow",
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
     }
   },
   "order": [
@@ -275,8 +224,6 @@
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
     "d0be46a9-f2b1-43ab-9de5-7e2842eae724",
-    "82b7987a-4763-4122-a519-d9e89ff60521",
-    "ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4",
-    "df7159be-0e0a-4800-af46-2561da89b3de"
+    "82b7987a-4763-4122-a519-d9e89ff60521"
   ]
 }

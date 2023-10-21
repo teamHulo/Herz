@@ -34,7 +34,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Tragenimwinter.jpg",
+        "image": "shopify:\/\/shop_images\/Infobild-Advent-Weihnachten-gestalten.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -110,6 +110,7 @@
         "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-1": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Infobild-Advent-Kalender.jpg",
             "caption": "Idee 1",
             "heading": "",
             "text": "<h2>Wählt einen passenden Adventskalender<\/h2><p>Ein Adventskalender bereichert die Adventszeit von Gross und Klein. Sei es der klassische Türchen-Kalender, 24 selber ausgesuchte und liebevoll verpackte Geschenke oder etws ganz anderes wie z.B. eine Adventskalender-Geschichte, jeden Tag eine gemeinsame Aktivität, jeden Tag eine Dekofigur an ein Bäumchen hängen. Dies schürt die Vorfreude und den Zauber der Adventszeit.<\/p><p>(Beliebt ist übrigens auch unser Paarzeit-Adventskalender, extra für Paare. Denn gerade wenn man Eltern wird, lohnt es sich, sich für die Partnerschaft bewusst Zeit zu nehmen.)<\/p>",
@@ -166,8 +167,8 @@
         "401a036f-036d-454e-abcd-940d0e47d01e"
       ],
       "settings": {
-        "image_height": "small",
-        "desktop_image_width": "small",
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
         "heading_size": "h1",
         "text_style": "body",
         "button_style": "primary",

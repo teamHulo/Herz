@@ -201,8 +201,8 @@
         "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "10 Fachfrauen",
+            "text": "<p>Bei Herz an Herz arbeiten 10 Frauen, die sich mit viel Herzblut für dich und dein Baby einsetzen.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -210,13 +210,22 @@
         "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "12 Aus- und Weiterbildungen",
+            "text": "<p>Wir legen grossen Wert auf ständige Weiterentwicklung und Bildung, um stets auf dem neuesten Stand in Bezug auf Kinderwunsch, Schwangerschaft, Geburt, Baby und Familie zu sein.<\/p>",
             "link_label": "",
             "link": ""
           }
         },
         "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "16 eigene Kinder",
+            "text": "<p>Unsere tiefgreifende Erfahrung resultiert aus unserer eigenen Elternschaft. Zusammen haben wir 16 Kinder im Alter von 1 bis 10 Jahren, und wir wissen aus erster Hand, wovon wir sprechen. Unsere Produkte testen wir und unsere Kinder ausgiebig!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "696ff424-f433-4370-b771-567c506767fe": {
           "type": "column",
           "settings": {
             "title": "Column",
@@ -229,7 +238,8 @@
       "block_order": [
         "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-1",
         "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-2",
-        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-3"
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-3",
+        "696ff424-f433-4370-b771-567c506767fe"
       ],
       "settings": {
         "title": "Multicolumn",

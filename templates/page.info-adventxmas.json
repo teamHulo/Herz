@@ -181,6 +181,40 @@
         "padding_bottom": 36
       }
     },
+    "5122c367-4d3f-4c2f-9004-912defd2b221": {
+      "type": "rich-text",
+      "blocks": {
+        "7605f7b4-baf0-4bec-b7b5-b717db6e2f5e": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Winterzeit und  Jahreswechsel mit Kindern gestalten<\/h2><p>In der Advents- und Weihnachtszeit ist die Bedeutung von Ritualen und Festen besonders offensichtlich. Sie bereiten das Kind auf eine festliche Zeit vor, bringen die Familie näher zusammen und schaffen ein Gefühl von Zusammengehörigkeit und Geborgenheit.<\/p>"
+          }
+        },
+        "c88e1981-900a-48ed-99e4-0fa344dab455": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "7605f7b4-baf0-4bec-b7b5-b717db6e2f5e",
+        "c88e1981-900a-48ed-99e4-0fa344dab455"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4": {
       "type": "image-with-text",
       "blocks": {
@@ -240,6 +274,7 @@
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
     "5557db53-3e75-4ef9-a993-f08e092ebf73",
+    "5122c367-4d3f-4c2f-9004-912defd2b221",
     "ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4",
     "df7159be-0e0a-4800-af46-2561da89b3de"
   ]

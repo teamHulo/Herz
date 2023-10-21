@@ -138,13 +138,13 @@
         "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Bei Herz an Herz arbeiten nicht einfach \"Verkäuferinnen\". Wir sind  Fachfrauen in den unterschliedlichsten Bereichen rund um den natürlichen Umgang mit Schwangerschaft, Geburt, Baby und Familienleben. Und zudem sind wir mit Herzblut Mamas und geben dir unsere Erfahrung und unser Wissen weiter.<\/p>"
+            "text": "<h2>Unser Team in Zahlen<\/h2><p>Bei Herz an Herz arbeiten nicht einfach \"Verkäuferinnen\". Wir sind  Fachfrauen in den unterschliedlichsten Bereichen rund um den natürlichen Umgang mit Schwangerschaft, Geburt, Baby und Familienleben. Und zudem sind wir mit Herzblut Mamas und geben dir unsere Erfahrung und unser Wissen weiter.<\/p>"
           }
         },
         "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",

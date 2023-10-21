@@ -50,48 +50,6 @@
         "padding_bottom": 52
       }
     },
-    "41f13753-da4e-4a91-9c04-741fd47e65ba": {
-      "type": "rich-text",
-      "blocks": {
-        "111423a0-c213-4113-94ee-e223ed1f4954": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "c7e881be-648c-4cd9-b911-598acf36acbd": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Du hast eine Frage?<\/h3><p>Wir haben die Antworten auf die gängigsten Fragen in unseren FAQ zusammengefasst. Vielleicht findest du deine Antwort auch dort?<\/p>"
-          }
-        },
-        "b5258e33-433d-4139-acba-c50633744880": {
-          "type": "button",
-          "settings": {
-            "button_label": "FAQ anschauen",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "111423a0-c213-4113-94ee-e223ed1f4954",
-        "c7e881be-648c-4cd9-b911-598acf36acbd",
-        "b5258e33-433d-4139-acba-c50633744880"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "9d96080f-20a8-4c8b-8b75-07ae1831617b": {
       "type": "rich-text",
       "blocks": {
@@ -124,6 +82,48 @@
         "caaf9bf4-bb8f-4b1b-9a97-34a6b30f2bf0",
         "675aac20-73a1-48a5-85cc-6a74425db36b",
         "60ad996f-d954-44ed-8080-63b3ef285cea"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "41f13753-da4e-4a91-9c04-741fd47e65ba": {
+      "type": "rich-text",
+      "blocks": {
+        "111423a0-c213-4113-94ee-e223ed1f4954": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "c7e881be-648c-4cd9-b911-598acf36acbd": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Du hast eine Frage?<\/h3><p>Wir haben die Antworten auf die gängigsten Fragen in unseren FAQ zusammengefasst. Vielleicht findest du deine Antwort auch dort?<\/p>"
+          }
+        },
+        "b5258e33-433d-4139-acba-c50633744880": {
+          "type": "button",
+          "settings": {
+            "button_label": "FAQ anschauen",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "111423a0-c213-4113-94ee-e223ed1f4954",
+        "c7e881be-648c-4cd9-b911-598acf36acbd",
+        "b5258e33-433d-4139-acba-c50633744880"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -232,8 +232,8 @@
   "order": [
     "main",
     "69deded2-d25d-40dc-ad4a-fca5b349d668",
-    "41f13753-da4e-4a91-9c04-741fd47e65ba",
     "9d96080f-20a8-4c8b-8b75-07ae1831617b",
+    "41f13753-da4e-4a91-9c04-741fd47e65ba",
     "2cb71f7d-e107-4a9d-80e3-1dfe7180b999",
     "84126fb7-03ab-4916-bcf7-3441b8df502f",
     "form"

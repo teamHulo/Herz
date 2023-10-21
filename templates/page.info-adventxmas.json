@@ -146,13 +146,24 @@
             "button_label": "Winter",
             "button_link": ""
           }
+        },
+        "401a036f-036d-454e-abcd-940d0e47d01e": {
+          "type": "row",
+          "settings": {
+            "caption": "Idee 5",
+            "heading": "",
+            "text": "<h2>Lieder & Geschichten<\/h2><p>Kocht eine Tasse heissen Kakao und kuschelt euch mit einer schönen Geschichte gemeinsam aufs Sofa. Für die Adventszeit gibt es schöne Vorlesegeschichten, die jeden Tag ein Stück weitergehen. Das Vorlesen fördert die Fantasie der Kinder und schafft eine ruhige, besinnliche Stimmung. Auch das gemeinsame Singen und Musikhören schafft eine stimmungsvolle Atmosphäre.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-1",
         "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-2",
         "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-3",
-        "500df705-3da4-4a89-a4e9-2c63c4246267"
+        "500df705-3da4-4a89-a4e9-2c63c4246267",
+        "401a036f-036d-454e-abcd-940d0e47d01e"
       ],
       "settings": {
         "image_height": "medium",

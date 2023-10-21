@@ -432,8 +432,8 @@
         "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "<h4>Badespielzeug<\/h4><p>Planschen in der Badewanne macht immer Spass! Wenn dabei kein Mikroplastik im Badewasser landet, umso besser! Unsere Badespielsachen aus Holz oder Naturkautschuk sorgen für umweltfreundlichen Badespass.<\/p>",
             "link_label": "",
             "link": ""
           }

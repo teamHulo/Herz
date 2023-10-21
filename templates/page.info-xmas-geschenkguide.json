@@ -301,7 +301,7 @@
         "9541f096-bbc4-46d0-90ae-6fa51e048ac4": {
           "type": "text",
           "settings": {
-            "text": "<h2>Tolles für euer Zuhause<\/h2><p>Darf es etwas Grösseres sein? Ein Geschenk, das über viele Jahre Freude bereitet und an dem sich vielleicht gleich mehrere Leute aus der Verwandtschaft beteiligen können? Ein Gemeinschaftsgeschenk hat viele Vorteile, denn schenken ist zwar toll, aber eine riesige \"Gschänklifluet\" überfordert viele Kinder. Oft ist es auch für Schenkende schwierig, das passende Geschenk zu wählen und sie sind froh, sich an etwas Sinnvollem beteiligen zu können.<\/p>"
+            "text": "<h2>Tolles für euer Zuhause<\/h2><p>Lern- und Motorikspielsachen bieten Kindern zahlreiche Vorteile. Sie fördern die kognitive Entwicklung, indem sie das Denken, die Problemlösungsfähigkeiten und die Hand-Auge-Koordination verbessern. Die Spielsachen regen die Neugier an und ermöglichen es Kindern, ihre kognitiven Fähigkeiten auf spielerische Weise zu erweitern.<\/p><p>Ausserdem unterstützen Lern- und Motorikspielsachen die physische Entwicklung, indem sie Feinmotorik und grobmotorische Fähigkeiten fördern. Sie helfen Kindern, ihre Muskulatur zu stärken und ihre Beweglichkeit zu verbessern.<\/p>"
           }
         },
         "0d68558f-155c-4133-a2cc-0e33915a4a0d": {
@@ -335,7 +335,7 @@
         "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "",
             "heading_size": "h1"
           }
         },

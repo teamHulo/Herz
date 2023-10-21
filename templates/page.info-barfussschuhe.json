@@ -25,7 +25,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h4>Alles was du über Barfuss-Schuhe für dein Kind wissen musst.<\/h4><p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Hier verraten wir dir, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind und wie du die richtige Grösse für dein Kind ermittelst.<\/p>",
+            "text": "<h4>Alles was du über Barfuss-Schuhe wissen musst<\/h4><p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Hier verraten wir dir, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind und wie du die richtige Grösse für dein Kind ermittelst.<\/p>",
             "text_style": "body"
           }
         }
@@ -34,7 +34,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
+        "image": "shopify:\/\/shop_images\/Infobild-Barfuss-Schuhe.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",

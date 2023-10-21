@@ -150,6 +150,17 @@
             "text": "<h3>Werde Teil unserer Community<\/h3><p>Facebook:<\/p><p>Instagram: <\/p>"
           }
         },
+        "c1c2d9d1-70c2-458f-b9a4-deea743746af": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "Instagram",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
         "479a2316-b9cb-464f-b0be-8f8caadcfb4d": {
           "type": "button",
           "settings": {
@@ -165,6 +176,7 @@
       "block_order": [
         "205e75d9-1084-49f9-aea1-97390375f44b",
         "bc740cac-8de4-405a-843c-6f6301ce2fbb",
+        "c1c2d9d1-70c2-458f-b9a4-deea743746af",
         "479a2316-b9cb-464f-b0be-8f8caadcfb4d"
       ],
       "settings": {

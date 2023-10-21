@@ -407,6 +407,69 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "5bc36a9a-9ad0-4afb-9b4b-5c5656584986": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Greiflinge, Beissringe und Kuschelspielzeug<\/h4><p>Liebevolle Geschenke, die das erste Weihnachtsfest eines Babys besonders zauberhaft machen. Sie schenken Trost und Freude gleichermassen. Sie regen die Sinne an und helfen, die Greif- und Koordinationsfähigkeiten zu entwickeln und verschaffen ganz nebenbei noch Linderung beim Zahnen.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4>Hübsche Bio-Kindermode<\/h4><p>Soll es zu Weihnachten mal ein richtig schönes, hochwertiges Kleidungsstück sein? Ein besonders hübsches Body oder Shirt mit süssem Print oder in der Lieblingsfarbe? Unsere Baumwoll-Kinderkleider sind alle in höchster Bio-Qualität und mit Fokus auf Nachhaltigkeit produziert.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "40fd1100-8b0e-462f-b178-330cd5080e6f": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-1",
+        "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-2",
+        "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-3",
+        "40fd1100-8b0e-462f-b178-330cd5080e6f"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -421,6 +484,7 @@
     "bba3a540-3843-43f1-9ae9-98143fcb7045",
     "e75477b7-827f-485c-95b4-564b7fc55799",
     "f258b20b-4472-4d7b-860a-9452a525641c",
-    "31be1a56-bd03-4057-a35e-b6591d4e77cd"
+    "31be1a56-bd03-4057-a35e-b6591d4e77cd",
+    "5bc36a9a-9ad0-4afb-9b4b-5c5656584986"
   ]
 }

@@ -104,6 +104,61 @@
         "padding_bottom": 52
       }
     },
+    "5557db53-3e75-4ef9-a993-f08e092ebf73": {
+      "type": "multirow",
+      "blocks": {
+        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-1": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "",
+            "text": "<h2>Adventskalender<\/h2><p>Ein Adventskalender bereichert die Adventszeit von Gross und Klein. Sei es der klassische Türchen-Kalender, 24 selber ausgesuchte und liebevoll verpackte Geschenke oder etws ganz anderes wie z.B. eine Adventskalender-Geschichte, jeden Tag eine gemeinsame Aktivität, jeden Tag eine Dekofigur an ein Bäumchen hängen. Dies schürt die Vorfreude und den Zauber der Adventszeit.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-2": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-3": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-1",
+        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-2",
+        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-3"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "d0be46a9-f2b1-43ab-9de5-7e2842eae724": {
       "type": "multicolumn",
       "blocks": {
@@ -274,6 +329,7 @@
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
+    "5557db53-3e75-4ef9-a993-f08e092ebf73",
     "d0be46a9-f2b1-43ab-9de5-7e2842eae724",
     "82b7987a-4763-4122-a519-d9e89ff60521",
     "ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4",

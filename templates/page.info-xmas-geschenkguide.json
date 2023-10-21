@@ -167,8 +167,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Outroor.jpg",
-            "title": "Outdoor Regenjacke für jedes Wetter",
-            "text": "<p>Du bist gern draussen, gern in Bewegung und unterwegs? Um dich und dein Baby dabei vor Wind und Wetter zu schützen, ohne dass du viel mitnehmen musst, brauchst du eine zuverlässige Outdoor-Tragejacke: wasser- und winddicht, mit atmungsaktiver Membran und einem sportlichen Schnitt für extra viel Bewegungsfreiheit. Kombiniere diese Jacke am besten mit einem Hoodie - so bist du auch bei kühlerem Wetter gut angezogen.<\/p>",
+            "title": "Ein Brett für die ganze Familie",
+            "text": "<p>Das Balance Board ist kreatives Spielobjekt und vielseitiges Fitnessgerät in einem. Es regt an zu Spiel und Bewegung, fördert Körperbewusstsein und ist der perfekte Begleiter einer aktiven Lebensweise - und das für die ganze Familie!<\/p><p>Die Fantasie der Kinder kennt keine Grenzen. Deswegen gibt es für die Kleinen keine Gebrauchshinweise. Die Kinder balancieren im Stehen, kniend oder liegend. Dann verwandeln sie das Brett in eine Rutsche, eine Brücke oder sogar in ein Piratenschiff.<\/p>",
             "link_label": "Regenjacken entdecken",
             "link": ""
           }
@@ -182,22 +182,11 @@
             "link_label": "Papa Jacken entdecken",
             "link": ""
           }
-        },
-        "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Erweiterung.jpg",
-            "title": "Die Alternative zur Tragejacke",
-            "text": "<p>Eine günstigere Alternative zur Tragejacke ist eine Jackenerweiterung oder ein Cover. Dies ergänzt eure normale Jacke. Der Vorteil ist klar der Preis. Es gibt jedoch auch einige Nachteile. Beispielsweise ist das Anziehen etwas mühsamer, wenn eine Jacke mit oder ohne Einsatz verwendet werden soll. Ausserdem ist das Tragen auf dem Rücken mit einer Jackenerweiterung nicht möglich.<\/p>",
-            "link_label": "Jackenerweiterungen entdecken",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-1",
-        "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-2",
-        "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-3"
+        "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-2"
       ],
       "settings": {
         "title": "",

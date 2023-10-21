@@ -56,22 +56,10 @@
           "settings": {
             "text": "<h2>Die Bedeutung von Festen & Ritualen in der Familie<\/h2><p>Feste und Rituale spielen eine bedeutsame Rolle in Familien, insbesondere wenn es darum geht, sich im Jahr zu orientieren. Sie schaffen Struktur, Stabilität und eine besondere Verbindung zwischen den Familienmitgliedern. Für kleine Kinder sind diese festen Termine und Rituale von grosser Bedeutung, da sie ihnen ein Gefühl von Sicherheit und Vorhersehbarkeit vermitteln. Hierbei helfen sie, die Zeit und das Jahr besser zu verstehen und sich auf wichtige Ereignisse und Übergänge vorzubereiten.<\/p><p>Werden Feste und Rituale noch durch kreative Aktivitäten wie Lieder, Tänze, Geschichten, Theateraufführungen und Handwerk begleitet, ermöglicht das den Kindern, ihre künstlerischen Fähigkeiten zu entwickeln, ihre Vorstellungskraft zu entfalten und so noch tiefer in ein Thema oder eine Stimmung einzutauchen. Werden alle Sinne in den Ritualen und Bräuchen angesprochen, fördert das die sensorische Integration und unterstütz die kindliche Entwicklung auf vielfältige Weise.<\/p>"
           }
-        },
-        "4a3dd4ae-787f-429c-b210-de169b14ce9f": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zu den Produkten",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972",
-        "4a3dd4ae-787f-429c-b210-de169b14ce9f"
+        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -88,7 +76,7 @@
         "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5": {
           "type": "text",
           "settings": {
-            "text": "<h2>Welche Jacke ist die richtige für dich?<\/h2><p>Tragejacken können sowohl in der Schwangerschaft, zum Tragen vorn und hinten und auch ganz ohne Baby benutzt werden. So sind sie eine lohnende Investition von Anfang an - und lange über die Babyzeit hinaus.<\/p><p>Tragejacken gibt es für Mamas und Papas, für den Winter und den Sommer und die Übergangszeit. Für Regen und Schnee, für Praktiker und Modische. Finde die passende Jacke für dich und deinen Lifestyle.<\/p><p>Wähle am besten eine Jacke aus, die deinen Kleiderschrank optimal ergänzt, denn die Jacke soll dir auch ohne Baby noch lange Freude machen.<\/p>"
+            "text": "<h2>Advent & Weihnachtszeit mit Kindern gestalten<\/h2><p>In der Advents- und Weihnachtszeit ist die Bedeutung von Ritualen und Festen besonders offensichtlich. Sie bereiten das Kind auf eine festliche Zeit vor, bringen die Familie näher zusammen und schaffen ein Gefühl von Zusammengehörigkeit und Geborgenheit.<\/p>"
           }
         },
         "8aa4bfdf-a799-463e-a251-3a0ff167620a": {

@@ -323,7 +323,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
-        "color_scheme": "inverse",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -367,11 +367,45 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
-        "color_scheme": "inverse",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "31be1a56-bd03-4057-a35e-b6591d4e77cd": {
+      "type": "rich-text",
+      "blocks": {
+        "ec02349a-235e-4be1-ba07-88c22e4fac9a": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Hübsche Kleinigkeiten<\/h2><p>Entdecke eine Auswahl hübscher Geschenkideen. Es muss nicht immer etwas Grosses sein. Ein kleines Mitbringsel fürs Baby, etwas zum Malen oder Kneten, ein besonderes Kleidungsstück oder etwas Praktisches für den Alltag.<\/p><p>Ausserdem unterstützen Lern- und Motorikspielsachen die physische Entwicklung, indem sie Feinmotorik und grobmotorische Fähigkeiten fördern. Sie helfen Kindern, ihre Muskulatur zu stärken und ihre Beweglichkeit zu verbessern.<\/p>"
+          }
+        },
+        "3aa39ad8-93a9-4450-9ae1-f1542d7c63a4": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "ec02349a-235e-4be1-ba07-88c22e4fac9a",
+        "3aa39ad8-93a9-4450-9ae1-f1542d7c63a4"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
@@ -386,6 +420,7 @@
     "ae541e00-6b9d-4960-93cf-4ca18bbf1167",
     "bba3a540-3843-43f1-9ae9-98143fcb7045",
     "e75477b7-827f-485c-95b4-564b7fc55799",
-    "f258b20b-4472-4d7b-860a-9452a525641c"
+    "f258b20b-4472-4d7b-860a-9452a525641c",
+    "31be1a56-bd03-4057-a35e-b6591d4e77cd"
   ]
 }

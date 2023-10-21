@@ -25,7 +25,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h4>Geschenke, die Freue machen<\/h4><p>Weihnachten steht wieder vor der Tür, und damit die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.<\/p><p><\/p>",
+            "text": "<h4>Geschenke, die Freue machen<\/h4><p>Weihnachten steht wieder vor der Tür, und damit die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.<\/p><p>Du findest hier:<\/p><ul><li>Tolles für euer Zuhause<\/li><li>Geschenke für stundenlangen Spielspass<\/li><li>Hübsche Kleinigkeiten<\/li><\/ul>",
             "text_style": "body"
           }
         }
@@ -82,7 +82,7 @@
         "8aa4bfdf-a799-463e-a251-3a0ff167620a": {
           "type": "button",
           "settings": {
-            "button_label": "Zu den Tragejacken",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -98,7 +98,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -121,8 +121,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Infobild-Tragejacken-Mantel.jpg",
-            "title": "Eleganter Mantel für kühle Tage",
-            "text": "<p>Babytragen geht auch stylisch! Wer gerne elegant durch die kühle Jahreszeit geht, wählt am besten einen hochwertigen Wollmantel oder einen lässig geschnittenen Kurzmantel. Natürlich sind auch die eleganteren Modelle funktional und beispielsweise mit einer Membran (für Wind- und Regenschutz) oder einem herausnehmbaren Futter ausgestattet.<\/p>",
+            "title": "Das modifizierbare Pikler Dreieck",
+            "text": "<p>Das Pikler Dreieck, das mehr kann: Dank einem simplen, aber genialen Mechanismus kann es modifiziert werden und viele verschiedene Formen annehmen. Zum Beispiel die M-Form, eine Brücke, ein Haus und vieles mehr. Für noch mehr Lernerfahrungen, noch mehr Spass, noch mehr Spiel!<\/p><p>Das Pikler-Dreieck ermöglicht den Kindern, ihre Beweglichkeit und die motorischen Fähigkeiten zu schulen. Dank der wandelbaren Form wird es nie langweilig und dein Kind darf immer wieder neue Herausforderungen meistern. Die Rampe sorgt als Rutsche oder Leiter für zusätzlichen Spass.<\/p>",
             "link_label": "Unsere Mäntel entdecken",
             "link": ""
           }
@@ -153,7 +153,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,

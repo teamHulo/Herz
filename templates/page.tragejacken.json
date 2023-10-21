@@ -70,146 +70,13 @@
         "padding_bottom": 52
       }
     },
-    "ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Podcast: Tragen im Winter<\/p><p>Weil das Thema so wichtig ist, haben wir dazu eine Podcast-Folge aufgenommen. Selina Gerkens ist Trageberaterin und erklärt im Podcast alles, was du zum Tragen bei kalten Temperaturen wissen musst. (Und noch eine Menge mehr rund ums Babytragen).<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zum Podcast",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-heading-1",
-        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-text-1",
-        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-button-1"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "6b097b85-0abe-47cb-8728-a6b07bd3d882": {
-      "type": "rich-text",
-      "blocks": {
-        "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Die Basics für das Schichten-Prinzip<\/h2><h4>1. Schicht<\/h4><p>Als erste Schicht - auch für zuhause geeignet - empfehlen wir einen Langarmbody und Leggings oder Strumpfhose aus Wolle oder einem Wolle-Seide-Gemisch. Wolle-Seide ist etwas leichter und feiner und auch für sehr empfindliche Kinder gut geeignet. Dazu Wollsocken. <\/p><p>Woll-Bodys sind die perfekte Basis für Babys und Kleinkinder. Wolle ist nicht nur temperaturausgleichend, sondern auch antibakteriell und schmutzabweisend. Sie neutralisieret Gerüche und Flüssigkeiten und regeneriert sich durch Auslüften. Daher muss sie selten gewaschen werden.<\/p><p>Tipp: Wähle Strumpfhosen mit Füssen eine Grösse grösser, wenn du dein Kind im Tragetuch oder der Tragehilfe trägst.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "388c73b8-7370-40e1-a909-65073172a5ee": {
-      "type": "rich-text",
-      "blocks": {
-        "121e17b7-86da-409f-b7fc-df65ab3dc485": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>2. Schicht<\/h4><p>Wir empfehlen einen Woll-Pullover oder Woll-Jäckli. Und bei trockenem Wetter eine etwas dickere Hose oder Leggings aus Wolle. Bei Regen oder Schnee eine Wollwalkhose. Wenn das Baby unter einer Tragejacke getragen wird, braucht es diese zweite Schicht nicht. Meist reicht dann die Wohnungskleidung kombiniert mit passenden Accessoires aus.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "121e17b7-86da-409f-b7fc-df65ab3dc485"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "3775d3fa-6914-4695-bb24-49ef76cf4845": {
-      "type": "rich-text",
-      "blocks": {
-        "4d5b5399-751a-44ad-b61b-5b61d650bdac": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>3. Schicht<\/h4><p>Die dritte Schicht bildet eine Jacke oder ein Anzug. Wollwalk ist besonders wärmend, robust und angenehm zu tragen. Die perfekte Outdoor-Kleidung für kleine Weltentdecker! Anzüge aus Wollfleece sind etwas feiner und toll für kleine Babys. Wolle wärmt, ist wasserabweisend und auch für Schnee gut geeignet. Für sehr nasse Tage kann eine Regenhose oder ein Regenanzug mit den unteren Schichten kombiniert werden.<\/p><p>Gut zu wissen: Schneeanzüge mit Luftpolstern, sind nicht zum Tragen von Babys geeignet, da die Luftpolster beim Tragen zusammengedrückt werden und so nicht mehr wärmen. Wir empfehlen, Babys unter jährig in Wohnungskleidung unter einer Tragejacke zu tragen, so funktioniert der Wärmeaustausch am besten. Für ältere Kinder, die über der Jacke getragen werden, eignet sich ein Wollwalk-Overall.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "4d5b5399-751a-44ad-b61b-5b61d650bdac"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "8036f04c-8a1b-4f53-9952-98bd167f1f6e": {
-      "type": "rich-text",
-      "blocks": {
-        "22191bc8-f3b2-431d-9f2f-bdc78eda99d2": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>4. Schicht<\/h4><p>An die Füsse: Für Kinder, die hauptsächlich getragen werden, gibt es praktische Tragestiefelchen aus Wolle oder Softshell. Laufen die Kinder schon, eignen sich auch Booties und Barfuss-Winterschuhe mit warmem Woll-Futter.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "22191bc8-f3b2-431d-9f2f-bdc78eda99d2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "44c01f17-18ce-4124-bc46-25f6a8583cc9": {
       "type": "rich-text",
       "blocks": {
         "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5": {
           "type": "text",
           "settings": {
-            "text": "<h2>Accessoires<\/h2><p>Wenn es kalt ist, sind die richtigen Accessoires für dein Kind Gold wert. Auch hier setzen wir hauptsächlich auf Produkte aus Wolle oder Wolle-Seide.<\/p>"
+            "text": "<h2>Welche Jacke ist die richtige für dich?<\/h2><p>Wenn es kalt ist, sind die richtigen Accessoires für dein Kind Gold wert. Auch hier setzen wir hauptsächlich auf Produkte aus Wolle oder Wolle-Seide.<\/p>"
           }
         }
       },
@@ -377,74 +244,42 @@
         "padding_bottom": 36
       }
     },
-    "de7f5108-2c92-404d-8671-8437b9ae096a": {
-      "type": "rich-text",
+    "ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4": {
+      "type": "image-with-text",
       "blocks": {
-        "e27274ae-5ee3-4d54-9e4d-130cb04651b7": {
+        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Und was ziehst du an?<\/h2><p>Wie überstehst du Minustemperaturen auf dem Spielplatz? Am besten trägst du (d)ein Baby unter der Tragejacke. Das hält nicht nur das Baby kuschlig warm, sondern auch dich. Tragejacken gibt es in sportlich, klassisch, elegant oder funktional. Sie ermöglichen auch das Rückentragen dank dem Reissverschluss am Rücken und können auch ganz ohne Trage-Einsatz getragen werden. So sind sie eine langfristige Investition.<br\/><br\/>Unsere liebsten Mama-Accessoires im Herbst & Winter sind übrigens Armstulpen, Stirnbänder und kuschlige Hüftwärmer aus Wolle. (Diese wärmen dein Zentrum - ein echt toller Effekt!).<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "e27274ae-5ee3-4d54-9e4d-130cb04651b7"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "94281f1a-67bb-4bc2-93c5-216dcbf2a8f0": {
-      "type": "image-banner",
-      "blocks": {
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "<p>Podcast: Tragen im Winter<\/p><p>Weil das Thema so wichtig ist, haben wir dazu eine Podcast-Folge aufgenommen. Selina Gerkens ist Trageberaterin und erklärt im Podcast alles, was du zum Tragen bei kalten Temperaturen wissen musst. (Und noch eine Menge mehr rund ums Babytragen).<\/p>",
             "text_style": "body"
           }
         },
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-buttons-1": {
-          "type": "buttons",
+        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-button-1": {
+          "type": "button",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label": "Zum Podcast",
+            "button_link": "https:\/\/handufsherz.podigee.io\/5-episode-5",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-heading-1",
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-text-1",
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-buttons-1"
+        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-text-1",
+        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "image": "shopify:\/\/shop_images\/Infobild-Tragejacken5.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "df7159be-0e0a-4800-af46-2561da89b3de": {
@@ -466,18 +301,12 @@
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
-    "ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4",
-    "6b097b85-0abe-47cb-8728-a6b07bd3d882",
-    "388c73b8-7370-40e1-a909-65073172a5ee",
-    "3775d3fa-6914-4695-bb24-49ef76cf4845",
-    "8036f04c-8a1b-4f53-9952-98bd167f1f6e",
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
     "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
     "e0647214-9936-4525-a517-be4c05c8b5c3",
     "9f2d927d-daf8-4fcf-aceb-a840a11d7b82",
-    "de7f5108-2c92-404d-8671-8437b9ae096a",
-    "94281f1a-67bb-4bc2-93c5-216dcbf2a8f0",
+    "ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4",
     "df7159be-0e0a-4800-af46-2561da89b3de"
   ]
 }

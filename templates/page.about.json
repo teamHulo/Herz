@@ -223,7 +223,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
+        "color_scheme": "inverse",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,

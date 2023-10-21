@@ -192,7 +192,7 @@
         "7605f7b4-baf0-4bec-b7b5-b717db6e2f5e": {
           "type": "text",
           "settings": {
-            "text": "<h2>Winterzeit und  Jahreswechsel mit Kindern gestalten<\/h2><p>Feste und Rituale sind oft eng mit den Jahreszeiten und der Natur verknüpft, und sie können dazu beitragen, das Verständnis für die natürlichen Abläufe und den Kreislauf des Lebens zu vertiefen. Singen, Geschichten erzählen und bestimmte Aktivitäten können eine wunderbare Möglichkeit bieten, die Jahreszeiten und ihre Veränderungen zu reflektieren.<\/p><p>In der Winterzeit und zum Jahreswechsel bieten sich zahlreiche Gelegenheiten, Rituale und Feste zu gestalten, die den Zusammenhalt in der Familie stärken und gleichzeitig den Kindern wichtige Werte und Traditionen vermitteln. Dabei sind es oft die kleinen Dinge, die in Erinnerung bleiben und diese besonderen Momente schaffen.<\/p><p>Die Übergangszeit im Winter kann von tiefgreifender spiritueller und kultureller Bedeutung sein. Sie markiert das Ende eines Jahres und den Beginn eines neuen Abschnitts, und sie gibt uns die Möglichkeit, innezuhalten, zur Ruhe zu kommen und uns auf die kommenden Monate auszurichten.<\/p>"
+            "text": "<h2>Winterzeit und  Jahreswechsel mit Kindern gestalten<\/h2><p>Feste und Rituale sind oft eng mit den Jahreszeiten und der Natur verknüpft, und sie können dazu beitragen, das Verständnis für die natürlichen Abläufe und den Kreislauf des Lebens zu vertiefen. Singen, Geschichten erzählen und bestimmte Aktivitäten können eine wunderbare Möglichkeit bieten, die Jahreszeiten und ihre Veränderungen zu reflektieren.<\/p><p>In der Winterzeit und zum Jahreswechsel bieten sich zahlreiche Gelegenheiten, Rituale und Feste zu gestalten, die den Zusammenhalt in der Familie stärken und gleichzeitig den Kindern wichtige Werte und Traditionen vermitteln. Dabei sind es oft die kleinen Dinge, die in Erinnerung bleiben und diese besonderen Momente schaffen.<\/p><p>Die Übergangszeit im Winter kann von tiefgreifender spiritueller und kultureller Bedeutung sein. Sie markiert das Ende eines Jahres und den Beginn eines neuen Abschnitts, und sie gibt uns die Möglichkeit, innezuhalten, zur Ruhe zu kommen und uns auf die kommenden Monate auszurichten.<\/p><p><\/p><p><strong>Rituale bei Kälte: <\/strong>Wenn es draussen kalt ist, können ihr drinnen gemütliche Rituale schaffen. Vielleicht ein wöchentlicher Kakao- und Vorleseabend, bei dem ihr euch einkuschelt und gemeinsam in fantastische Geschichten eintaucht.<\/p><p><strong>Rituale in der Dunkelheit:<\/strong> Wie wäre es mit einem Picknick bei Nacht? Packt eine dicke Decke und Warmes Essen ein, um draussen gemeinsam im Laternenschein zu essen. Die klaren Winternächte bieten auch die Möglichkeit, die Sterne zu beobachten. Gemeinsam könnt ihr Sternbilder erkunden und Geschichten über den Nachthimmel teilen.<\/p><p><strong>Dankbarkeit und Jahresrückblick:<\/strong> Schon mit ganz kleinen Kindern können wir auf das vergangene Jahr zurückblicken und Dinge finden, für die wir dankbar sind. Das fördert die Achtsamkeit und das Verständnis für die Fülle in unserem Leben.<\/p><p><strong>Rauhnächte:<\/strong> Die Rauhnächte sind eine mystische Zeit zwischen Weihnachten und Dreikönig. In dieser Zeit wird oft das Räuchern als Brauch praktiziert. Auch mit kleinen Kindern kannst du diese alte Tradition erlebbar machen. Verwende kindersichere Räucherutensilien und kinderfreundliche Räuchermischungen, die sanfte Düfte verbreiten. Gemeinsam zu beobachten, wie der Rauch aufsteigt, kann eine geheimnisvolle und lehrreiche Erfahrung für Kinder sein, bei der sie die Rauhnächte auf spielerische Weise kennenlernen. <\/p><p>Insgesamt bieten Feste und Rituale in der Familie eine Gelegenheit, die Bindung zwischen den Generationen zu stärken, Traditionen weiterzugeben und gemeinsam schöne Erinnerungen zu schaffen. Sie sind ein Weg, sich im Jahr zu orientieren, die Zeit bewusst zu erleben und die Bedeutung von Gemeinschaft und Tradition zu schätzen.<\/p>"
           }
         },
         "c88e1981-900a-48ed-99e4-0fa344dab455": {
@@ -220,44 +220,6 @@
         "padding_bottom": 52
       }
     },
-    "ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Podcast: Tragen im Winter<\/p><p>Weil das Thema so wichtig ist, haben wir dazu eine Podcast-Folge aufgenommen. Selina Gerkens ist Trageberaterin und erklärt im Podcast alles, was du zum Tragen bei kalten Temperaturen wissen musst. (Und noch eine Menge mehr rund ums Babytragen).<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zum Podcast",
-            "button_link": "https:\/\/handufsherz.podigee.io\/5-episode-5",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-text-1",
-        "template--21493117714747__ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Tragejacken5.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "df7159be-0e0a-4800-af46-2561da89b3de": {
       "type": "slideshow",
       "settings": {
@@ -280,7 +242,6 @@
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
     "5557db53-3e75-4ef9-a993-f08e092ebf73",
     "5122c367-4d3f-4c2f-9004-912defd2b221",
-    "ca6a0c4a-05e6-4dda-b4e6-3edccf83aae4",
     "df7159be-0e0a-4800-af46-2561da89b3de"
   ]
 }

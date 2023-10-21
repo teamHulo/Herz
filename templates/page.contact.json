@@ -176,52 +176,6 @@
         "padding_bottom": 52
       }
     },
-    "93a3c7ba-b961-4f07-9284-a29fb2d8e2ac": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21402263978299__93a3c7ba-b961-4f07-9284-a29fb2d8e2ac-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--21402263978299__93a3c7ba-b961-4f07-9284-a29fb2d8e2ac-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21402263978299__93a3c7ba-b961-4f07-9284-a29fb2d8e2ac-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21402263978299__93a3c7ba-b961-4f07-9284-a29fb2d8e2ac-heading-1",
-        "template--21402263978299__93a3c7ba-b961-4f07-9284-a29fb2d8e2ac-text-1",
-        "template--21402263978299__93a3c7ba-b961-4f07-9284-a29fb2d8e2ac-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Tragejacken5.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "84126fb7-03ab-4916-bcf7-3441b8df502f": {
       "type": "rich-text",
       "blocks": {
@@ -281,7 +235,6 @@
     "41f13753-da4e-4a91-9c04-741fd47e65ba",
     "9d96080f-20a8-4c8b-8b75-07ae1831617b",
     "2cb71f7d-e107-4a9d-80e3-1dfe7180b999",
-    "93a3c7ba-b961-4f07-9284-a29fb2d8e2ac",
     "84126fb7-03ab-4916-bcf7-3441b8df502f",
     "form"
   ]

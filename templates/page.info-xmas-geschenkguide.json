@@ -245,7 +245,7 @@
         "6b8f268a-b229-42e7-9937-e4a3652a704e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Softshell2.jpg",
+            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Grapat.jpg",
             "title": "Weltenbau mit den Holzspielsets von Grapat",
             "text": "<p>Eine “Handvoll” Magie schenkt euch die wundervolle Marke Grapat. Diese bunten und vielfältigen Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie.<\/p><p>Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden. <\/p>",
             "link_label": "Zu Grapat",
@@ -255,7 +255,7 @@
         "4aea8ba4-937d-41f4-9e40-372ec7434fad": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Tragejacken-Mantel.jpg",
+            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Grimms.jpg",
             "title": "Der Klassiker: Grimms Regenbogen",
             "text": "<p>Der bunte, nachhaltig produzierte Regenbogen ist Grimms Markenzeichen und der Klassiker schlechthin, der in keinem Kinderzimmer fehlen darf. Mit diesem einfachen, schlichten Holzspielzeug sind der Fantasie keine Grenzen gesetzt. Ob ein Krabbelkind oder Schulkind, es finden sich immer neue, spannende Verwendungsmöglichkeiten.<\/p>",
             "link_label": "Zum Regenbogen",
@@ -265,7 +265,7 @@
         "88aa3b98-c224-4b7c-9456-2eb5548dc0f1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Tragejacken-Winterjacke.jpg",
+            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Nanchen.jpg",
             "title": "Eine ganz besondere Puppe",
             "text": "<p>Puppen regen zum Nachspielen von selber erlebten Ereignissen an und bieten die Möglichkeit für vielfältige Rollenspiele. Im Gegensatz zu herkömmlichen Puppen sind unsere Waldorfpuppen aus natürlichen Materialen gemacht. Sie sind weich und nehmen die Körperwärme des Kindes an, das macht sie zu ganz besonders geliebten Begleitern. Die Gesichter geben keine Laune vor. So kann sich die Puppe sich mit dem Kind freuen oder mit dem Kind traurig sein, je nachdem welche Gefühle das Kind in dem Moment empfindet.<\/p>",
             "link_label": "Zu den Puppen",
@@ -361,6 +361,7 @@
         "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-button-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Woodenstory.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",

@@ -174,9 +174,10 @@
         "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Erweiterung.jpg",
+            "title": "Die Alternative zur Tragejacke",
+            "text": "<p>Eine günstigere Alternative zur Tragejacke ist eine Jackenerweiterung oder ein Cover. Dies ergänzt eure normale Jacke. Der Vorteil ist klar der Preis. Es gibt jedoch auch einige Nachteile. Beispielsweise ist das Anziehen etwas mühsamer, wenn eine Jacke mit oder ohne Einsatz verwendet werden soll. Ausserdem ist das Tragen auf dem Rücken mit einer Jackenerweiterung nicht möglich.<\/p>",
+            "link_label": "Jackenerweiterungen entdecken",
             "link": ""
           }
         }

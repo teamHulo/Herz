@@ -139,7 +139,7 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
@@ -154,6 +154,7 @@
         "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Outroor.jpg",
             "title": "Outdoor Regenjacke für jedes Wetter",
             "text": "<p>Du bist gern draussen, gern in Bewegung und unterwegs? Um dich und dein Baby dabei vor Wind und Wetter zu schützen, ohne dass du viel mitnehmen musst, brauchst du eine zuverlässige Outdoor-Tragejacke: wasser- und winddicht, mit atmungsaktiver Membran und einem sportlichen Schnitt für extra viel Bewegungsfreiheit. Kombiniere diese Jacke am besten mit einem Hoodie - so bist du auch bei kühlerem Wetter gut angezogen.<\/p>",
             "link_label": "Regenjacken entdecken",
@@ -163,9 +164,10 @@
         "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Papa.jpg",
+            "title": "Und wenn der Papa trägt?",
+            "text": "<p>Auch Papas sollen ihr Baby warm und kuschlig tragen dürfen. Je nach Bedürfnis wählt ihr eine dicke Winterjacke, eine funktionale Softshell oder ein leichter Hoodie. Schaut auch hier darauf, dass die Jacke den bestehenden Kleiderschrank optimal ergänzt, denn sie soll ja auch nach dem Babytragen noch lange Freude machen. Wenn ihr eine ähnliche Statur habt, könnt ihr euch auch gemeinsam für eine Jacke entscheiden. Viele unserer Kunden entscheiden sich für die Kombination aus Softshelljacke und Hoodie.<\/p>",
+            "link_label": "Papa Jacken entdecken",
             "link": ""
           }
         },

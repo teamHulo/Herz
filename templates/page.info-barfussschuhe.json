@@ -186,14 +186,14 @@
         "b12b4506-8983-44eb-b9db-3fcbb5c56894": {
           "type": "text",
           "settings": {
-            "text": "<h3>Warme Schuhe<\/h3><p>Bist du auf der Suche nach einem tollen Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.<\/p>",
+            "text": "<h3>Warme Schuhe<\/h3><p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.<\/p>",
             "text_style": "body"
           }
         },
         "ac69770f-93af-4ffa-8278-7abd004dc300": {
           "type": "button",
           "settings": {
-            "button_label": "Zu den Stulpen",
+            "button_label": "Zu den warmen Schuhen",
             "button_link": "",
             "button_style_secondary": false
           }

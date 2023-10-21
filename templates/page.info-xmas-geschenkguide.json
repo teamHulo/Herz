@@ -204,6 +204,96 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "ae541e00-6b9d-4960-93cf-4ca18bbf1167": {
+      "type": "rich-text",
+      "blocks": {
+        "c8bf8728-5f09-4287-ad05-cc01788e7fed": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Geschenke für stundenlangen Spielspass<\/h2><p>Darf es etwas Grösseres sein? Ein Geschenk, das über viele Jahre Freude bereitet und an dem sich vielleicht gleich mehrere Leute aus der Verwandtschaft beteiligen können? Ein Gemeinschaftsgeschenk hat viele Vorteile, denn schenken ist zwar toll, aber eine riesige \"Gschänklifluet\" überfordert viele Kinder. Oft ist es auch für Schenkende schwierig, das passende Geschenk zu wählen und sie sind froh, sich an etwas Sinnvollem beteiligen zu können.<\/p>"
+          }
+        },
+        "0bfecf33-598e-4e3c-86a3-89a08449e8e1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "c8bf8728-5f09-4287-ad05-cc01788e7fed",
+        "0bfecf33-598e-4e3c-86a3-89a08449e8e1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "bba3a540-3843-43f1-9ae9-98143fcb7045": {
+      "type": "multicolumn",
+      "blocks": {
+        "6b8f268a-b229-42e7-9937-e4a3652a704e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Infobild-Tragejacke-Softshell2.jpg",
+            "title": "Babyschaukeln Swings & Dreams",
+            "text": "<p>Diese coole Babyschaukel aus Stoff & Holz kannst du überall aufhängen wo du sie brauchst. Um Spass zu haben oder dein Baby kurz hinein zu setzten wenn es mal nicht auf den Boden kann. Auch grössere Kinder bis ca. 3 Jahre können darin schaukeln. Bis zu 25 kg Gewicht hält die robuste Schaukel aus. So bleibt die Schaukel über viele Jahre hinweg ein beliebtes Spielgerät bei Gross & Klein.<\/p>",
+            "link_label": "Schaukeln entdecken",
+            "link": ""
+          }
+        },
+        "4aea8ba4-937d-41f4-9e40-372ec7434fad": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Infobild-Tragejacken-Mantel.jpg",
+            "title": "Das modifizierbare Pikler Dreieck",
+            "text": "<p>Das Pikler Dreieck, das mehr kann: Dank einem simplen, aber genialen Mechanismus kann es modifiziert werden und viele verschiedene Formen annehmen. Zum Beispiel die M-Form, eine Brücke, ein Haus und vieles mehr. Für noch mehr Lernerfahrungen, noch mehr Spass, noch mehr Spiel! Es ermöglicht den Kindern, ihre Beweglichkeit und die motorischen Fähigkeiten zu schulen. Dank der wandelbaren Form wird es nie langweilig und dein Kind darf immer wieder neue Herausforderungen meistern. <\/p>",
+            "link_label": "Zum Kletterdreieck",
+            "link": ""
+          }
+        },
+        "88aa3b98-c224-4b7c-9456-2eb5548dc0f1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Infobild-Tragejacken-Winterjacke.jpg",
+            "title": "Der Montessori-Spielturm par excellence",
+            "text": "<p>Dieser Learning Tower ist ein wahrer Alleskönner! Er kann als klassischer Lernturm eingesetzt werden, so dass schon die Kleinsten im Haushalt auf Augenhöhe zusehen und mitmachen können. Doch der Leea Tower kann noch viel mehr: Mit wenigen Handgriffen wird er vom Turm zum Tisch, zum Kindersitz, zur Magnet- und Kreidewand oder gar zur Rutsche.<\/p><p>Damit dein Kind all seine Fähigkeiten entwickeln, die Welt entdecken, die Motorik schulen, die Selbständigkeit entfalten, kreativ werden und seinen Wissensdurst stillen kann.<\/p>",
+            "link_label": "Zum Leea Tower",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "6b8f268a-b229-42e7-9937-e4a3652a704e",
+        "4aea8ba4-937d-41f4-9e40-372ec7434fad",
+        "88aa3b98-c224-4b7c-9456-2eb5548dc0f1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -213,6 +303,8 @@
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
     "d0be46a9-f2b1-43ab-9de5-7e2842eae724",
-    "82b7987a-4763-4122-a519-d9e89ff60521"
+    "82b7987a-4763-4122-a519-d9e89ff60521",
+    "ae541e00-6b9d-4960-93cf-4ca18bbf1167",
+    "bba3a540-3843-43f1-9ae9-98143fcb7045"
   ]
 }

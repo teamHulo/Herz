@@ -220,17 +220,23 @@
         "padding_bottom": 52
       }
     },
-    "df7159be-0e0a-4800-af46-2561da89b3de": {
-      "type": "slideshow",
+    "9ef2d9e9-b778-48ae-993a-0b45f0364c09": {
+      "type": "section-custom-image",
+      "blocks": {
+        "51ed5246-7f14-41b8-987c-b0ad0b4a9ce2": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Advent-Winter-Rituale.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "51ed5246-7f14-41b8-987c-b0ad0b4a9ce2"
+      ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "max_width": 1120
       }
     }
   },
@@ -242,6 +248,6 @@
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
     "5557db53-3e75-4ef9-a993-f08e092ebf73",
     "5122c367-4d3f-4c2f-9004-912defd2b221",
-    "df7159be-0e0a-4800-af46-2561da89b3de"
+    "9ef2d9e9-b778-48ae-993a-0b45f0364c09"
   ]
 }

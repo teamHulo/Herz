@@ -415,6 +415,7 @@
         "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Greiflinge.jpg",
             "title": "",
             "text": "<h4>Greiflinge, Beissringe und Kuschelspielzeug<\/h4><p>Liebevolle Geschenke, die das erste Weihnachtsfest eines Babys besonders zauberhaft machen. Sie schenken Trost und Freude gleichermassen. Sie regen die Sinne an und helfen, die Greif- und Koordinationsfähigkeiten zu entwickeln und verschaffen ganz nebenbei noch Linderung beim Zahnen.<\/p>",
             "link_label": "Zum Babyspielzeug",
@@ -424,6 +425,7 @@
         "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Kindermode.jpg",
             "title": "",
             "text": "<h4>Hübsche Bio-Kindermode<\/h4><p>Soll es zu Weihnachten mal ein richtig schönes, hochwertiges Kleidungsstück sein? Ein besonders hübsches Body oder Shirt mit süssem Print oder in der Lieblingsfarbe? Unsere Baumwoll-Kinderkleider sind alle in höchster Bio-Qualität und mit Fokus auf Nachhaltigkeit produziert.<\/p>",
             "link_label": "Zur Kindermode",
@@ -433,6 +435,7 @@
         "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-3": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Badespielzeug.jpg",
             "title": "",
             "text": "<h4>Badespielzeug<\/h4><p>Planschen in der Badewanne macht immer Spass! Wenn dabei kein Mikroplastik im Badewasser landet, umso besser! Unsere Badespielsachen aus Holz oder Naturkautschuk sorgen für umweltfreundlichen Badespass.<\/p>",
             "link_label": "Zum Badespielzeug",
@@ -442,6 +445,7 @@
         "40fd1100-8b0e-462f-b178-330cd5080e6f": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Malen.jpg",
             "title": "",
             "text": "<h4>Malen & Kneten<\/h4><p>Hier wird Kreativität und Spass vereint. In der Gestaltung entfalten die Kleinen ihre Fantasie und verbessern ihre feinmotorischen Fähigkeiten. Es ist ein interaktives Geschenk, das stundenlange Unterhaltung bietet und gleichzeitig die sensorische Entwicklung fördert.<\/p>",
             "link_label": "Zu Malen & Kneten",
@@ -478,6 +482,7 @@
         "faa2de86-616b-4c22-b173-d4df1af8cdcd": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Kinderbueechli.jpg",
             "title": "",
             "text": "<h4>Kinderbüechli<\/h4><p>Was gibt es gerade im Winter schöneres, als mit lieben Menschen zusammen zu kuscheln und gemeinsam ein Bilderbuch anzuschauen? Bei uns findest du eine kleine, aber sorgfältige Auswahl an hübschen und sinnvollen Kinderbüchern.<\/p>",
             "link_label": "Zu den Kinderbüchern",
@@ -487,6 +492,7 @@
         "97eeaa4e-9cc8-487f-ba92-06973187a51f": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Spieluhren.jpg",
             "title": "",
             "text": "<h4>Spieluhren und Nachtlichter<\/h4><p>Sie sind nicht nur praktisch, sondern auch liebevolle Begleiter für ruhige und friedliche Nächte. Die sanfte Melodie einer Spieluhr oder das behagliche, gedämpfte Nachtlicht schafft eine beruhigende Atmosphäre, die den Schlafraum in ein magisches Märchenland verwandelt. <\/p>",
             "link_label": "Zu den Spieluhren & Nachtlichtern",
@@ -496,6 +502,7 @@
         "286436d8-9f8e-4f7b-89d4-3c9cb30fe2e4": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Baby-Teller.jpg",
             "title": "",
             "text": "<h4>Baby-Teller<\/h4><p>Babyteller sind clevere Geschenke: Mit separaten Fächern, kinderfreundlichen Designs und haftender Unterseite wird die Essenszeit für Kleinkinder stressfrei und unterhaltsam. So fördern sie die Selbstständigkeit beim Essen und erleichtern den Alltag junger Familien.<\/p>",
             "link_label": "Zum Baby-Geschirr",
@@ -505,6 +512,7 @@
         "1f43e78a-a657-4d01-b89f-ea79f5d6ee40": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Babydecken.jpg",
             "title": "",
             "text": "<h4>Babydecken<\/h4><p>Natürlicher Wohlfühlkomfort! Hochwertige Bio-Baumwolle oder kuschelige Wolle hüllen das Baby weich ein. Unsere Decken sind sanft zur Haut des Babys und erst noch nachhaltig hergestellt. Ob unterwegs im Kinderwagen oder für kuschelige Momente zuhause - eine Babydecke schenkt Wärme und Geborgenheit.<\/p>",
             "link_label": "Zu den Babydecken",

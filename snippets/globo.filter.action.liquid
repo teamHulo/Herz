@@ -35,13 +35,16 @@ window.filesUrl = '{{ files_url[0] }}';
         <script id="gspfPagination" type="template/html">{{- paginationTemplate | replace: "<script>", "<scripttag>" | replace: "</script>", "</scripttag>" -}}</script>
     {%- endunless -%}
     <script>
-        setTimeout(() => {
-            let collectionBanner = document.querySelector('.collection-hero');
+        let collectionBanner = document.querySelector('.collection-hero');
+        let timer =  setInterval(() => {
+            console.log('Interval')
             let gfGrid = document.querySelector('#gf-grid');
-            gfGrid.prepend(collectionBanner)
-            console.log('GLOBO')
-            console.log(collectionBanner)
-            console.log(gfGrid)
-        }, 500)
+            if (gfGrid) {
+                gfGrid.prepend(collectionBanner);
+                collectionBanner.classList.remove('d-none');
+                clearInterval(timer);
+            }
+        }, 100)
+       
     </script>
 {% endif %}

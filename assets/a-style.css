@@ -2468,33 +2468,18 @@ header-menu .mega-menu summary svg{
   grid-area:mini-header;
 }
 .header{
-  display:flex;
-  flex-wrap:wrap;
-  justify-content: space-between;
+  grid-template-areas:
+  "left-icons mini-header heading icons"
+  "navigation navigation navigation navigation";
+
+  grid-template-columns:50px 1fr 1fr 1fr;
 }
 .header__search{
   order:1;
 
 }
-.mini-menu{
-  order:2;
-  margin-right:auto
-}
-.header__heading{
-  order:3;
-  margin:0 auto;
-  margin-right:auto
-}
-.header__icons{
-  order:4;
-  margin-left:auto
-}
-.header__inline-menu{
-  order:5;
-  width:100%;
-  display: flex;
-  justify-content: center;
-}
+
+
 .small-list-menu{
   padding-left:25px;
   display:flex;
@@ -2502,7 +2487,7 @@ header-menu .mega-menu summary svg{
   gap:10px 30px;
 }
 .small-list-menu a{
-  color: var(--green---secondary-text, #545248);
+  color:  #545248;
   text-align: center;
   font-family: Work Sans;
   font-size: 12px;
@@ -2513,12 +2498,5 @@ header-menu .mega-menu summary svg{
   text-transform: uppercase;
   text-decoration: none;
 }
-@media (max-width:989px){
-  .header__inline-menu{
-    display:none;
-  }
-  .mini-menu{
-    display:none;
-  }
-}
+
 /*** end header ***/

@@ -698,7 +698,7 @@ p {
 .section-icon-items__wrap .text {
   margin-bottom: 48px;
 }
-.section-icon-items__wrap .text p {
+.section-icon-items__wrap .text p, .section-icon-items__wrap .text a {
   margin: 0 auto;
   max-width: 661px;
   color: #545248;

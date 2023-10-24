@@ -2401,6 +2401,17 @@ variant-radios fieldset {
   letter-spacing: -0.1px;
   text-transform: uppercase;
 }
+.cart-count-bubble span{
+   color: var(--beige-02, #f4f1ea);
+  text-align: center;
+  font-family: Work Sans;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px; /* 200% */
+  letter-spacing: -0.1px;
+  text-transform: uppercase;
+}
 .header {
   padding-top: 20px !important;
 }

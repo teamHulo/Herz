@@ -154,20 +154,11 @@
             "text": "<h2>Zum Anziehen<\/h2><p>Wir empfehlen Kleidung aus Wolle oder Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Wolle wärmt zudem auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.<\/p>",
             "text_style": "body"
           }
-        },
-        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-heading-1",
-        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1",
-        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-button-1"
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1"
       ],
       "settings": {
         "height": "adapt",
@@ -189,7 +180,7 @@
         "d7180982-7e4e-4b44-af05-13b28becc12b": {
           "type": "text",
           "settings": {
-            "text": "<h3>Zum Anziehen<\/h3><p><strong>Bodys: <\/strong>4-5 Wolle\/Seide Bodys reichen oft als Grundausrüstung aus Hosen: 2 bequeme Wolle\/Seide Hosen oder Leggings (Etwas weitere Pumphöschen passen auch gut über Stoffwindelpopos.)<\/p><p><strong>Jäckchen \/ Wollpullover:<\/strong> Ein warmes Obterteil für drüber wenn es kühler ist<\/p><p><strong>Socken:<\/strong> Wollsocken und für draussen Woll-Tragestiefelchen<\/p><p><strong>Mütze:<\/strong> Im Sommer ein Sonnenhut mit breiter Krempe, im Winter eine Wollmütze und in der Übergangszeit eine Wolle-Seide Mütze.<\/p>"
+            "text": "<p><strong>Bodys: <\/strong>4-5 Wolle-Seide Bodys reichen oft als Grundausrüstung aus.<\/p><p><strong>Hosen:<\/strong> 2 bequeme Wolle\/Seide Hosen oder Leggings (Etwas weitere Pumphöschen passen auch gut über Stoffwindelpopos.)<\/p><p><strong>Jäckchen \/ Wollpullover:<\/strong> Ein warmes Obterteil für drüber wenn es kühler ist<\/p><p><strong>Socken:<\/strong> Wollsocken und für draussen Woll-Tragestiefelchen<\/p><p><strong>Mütze:<\/strong> Im Sommer ein Sonnenhut mit breiter Krempe, im Winter eine Wollmütze und in der Übergangszeit eine Wolle-Seide Mütze.<\/p>"
           }
         },
         "317b948b-995d-4ef3-9d10-b6b312b8b161": {

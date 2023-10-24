@@ -60,11 +60,11 @@
         "c9b2c8f9-130c-402e-9787-618d8d8c1bea": {
           "type": "button",
           "settings": {
-            "button_label": "Unsere Barfuss-Schuhe entdecken",
-            "button_link": "shopify:\/\/collections\/kinderschuhe",
+            "button_label": "Babyschuhe",
+            "button_link": "shopify:\/\/collections\/babyschuhe",
             "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
+            "button_label_2": "Kinderschuhe",
+            "button_link_2": "shopify:\/\/collections\/kinderschuhe",
             "button_style_secondary_2": false
           }
         }

@@ -3,6 +3,17 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "bda35f88-36c5-4661-a703-9f1ce55cd109": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
+            "img2": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
+            "title": "Warm durch Herbst & Winter",
+            "text": "",
+            "url": "",
+            "btn_name": "LEarn more"
+          }
+        },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
           "type": "item",
           "settings": {
@@ -41,6 +52,7 @@
         }
       },
       "block_order": [
+        "bda35f88-36c5-4661-a703-9f1ce55cd109",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "24910c9d-15a9-4196-9b65-cc074f34c723"
@@ -67,8 +79,8 @@
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/image_18.png",
-            "title": "Advent mit Kindern",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
+            "title": "Wollkleidung von Disana",
+            "text": "<p>Wir lieben Wolle! Denn Wolle passt sich schwankenden Temperaturen und Umgebungswechsel perfekt an und hält die Körpertemperatur konstant. Das Kind fühlt sich bei jedem Wetter genau richtig warm. Disana ist DIE Marke, wenn es um funktionale Wollkleidung geht.<\/p>",
             "url": "#",
             "btn_name": "Read more"
           }

@@ -61,7 +61,7 @@
           "type": "button",
           "settings": {
             "button_label": "Unsere Barfuss-Schuhe entdecken",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/kinderschuhe",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",

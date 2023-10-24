@@ -122,6 +122,7 @@
     "checkout_sidebar_background_color": "#e5e0d5",
     "checkout_heading_font": "Lora",
     "checkout_accent_color": "#00281d",
+    "checkout_button_color": "#e5e0d5",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",

@@ -258,27 +258,27 @@
             "text": "<p>Wir legen grossen Wert auf Nachhaltigkeit. Unsere Produkte sind langlebig und umweltfreundlich, damit du nicht nur das Beste für dein Baby, sondern auch für die Umwelt wählst.<\/p>"
           }
         },
-        "3bf6ba22-b7eb-40dc-b069-d5133591fbc0": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/icon_1.png",
-            "title": "Lokal",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi.<\/p>"
-          }
-        },
         "ceeb4f44-cb89-4599-beb6-04e7a4658e41": {
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/icon_2.png",
             "title": "Artgerecht",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi.<\/p>"
+            "text": "<p>Unser Fokus liegt auf einem liebevollen und bedürfnisorientierten Umgang mit Kindern. Unsere Produkte und Beratungen fördern die natürliche Entwicklung deines Kindes.<\/p>"
+          }
+        },
+        "3bf6ba22-b7eb-40dc-b069-d5133591fbc0": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/icon_1.png",
+            "title": "Lokal",
+            "text": "<p>Wir bevorzugen lokale Produzenten. Damit unterstützen wir nicht nur die Gemeinschaft, sondern bieten bestmögliche Qualität und verhindern unnötige Transportemissionen.<\/p>"
           }
         }
       },
       "block_order": [
         "9b58f64f-ffba-4c57-bda0-068ecad80d39",
-        "3bf6ba22-b7eb-40dc-b069-d5133591fbc0",
-        "ceeb4f44-cb89-4599-beb6-04e7a4658e41"
+        "ceeb4f44-cb89-4599-beb6-04e7a4658e41",
+        "3bf6ba22-b7eb-40dc-b069-d5133591fbc0"
       ],
       "settings": {
         "title": "Über uns",

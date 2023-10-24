@@ -12,8 +12,8 @@
         {% if section.settings.logo != blank %}  
             <img class="about__logo" src="{{ section.settings.logo |  img_url: 'master'  }}" alt="{{ section.settings.logo.alt }}">
         {% endif %}
-        <h2 class="about__title">{{ section.settings.title }}</h2>
-        <div class="about__text">{{ section.settings.text }}</div>
+        <h2 class="about__title scroll-trigger animate--slide-in" style="--animation-order: 0;">{{ section.settings.title }}</h2>
+        <div class="about__text scroll-trigger animate--slide-in" style="--animation-order: 0;">{{ section.settings.text }}</div>
     </div>
 </div>
 

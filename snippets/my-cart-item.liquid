@@ -32,18 +32,18 @@
   </div>
   {% if show_contant != false %}
     <div class="product-contant">
-      <div class="title">
+      <div class="title scroll-trigger animate--slide-in" style="--animation-order: 0;">
         <h3>
           <a href="{{product.url}}">{{ product.title }}</a>
         </h3>
       </div>
       <div class="info__wrap">
-        <div class="price">
+        <div class="price scroll-trigger animate--slide-in" style="--animation-order: 0;">
           <span>
             {{ product.price | money }}
           </span>
         </div>
-        <div class="block-add-btn-wrap">
+        <div class="block-add-btn-wrap scroll-trigger animate--slide-in" style="--animation-order: 0;">
           {% form 'product', product %}
             <input
               type="hidden"

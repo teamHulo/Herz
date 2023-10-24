@@ -20,12 +20,12 @@
 </style>
 <div class="banner-with-contact">
     <div class="banner-with-contact__wrapper container">
-        <div class="banner-with-contact__icon">
+        <div class="banner-with-contact__icon scroll-trigger animate--slide-in" style="--animation-order: 0;">
             <img src="{{ section.settings.icon | img_url: 'master' }}" alt="">
         </div>
-        <div class="banner-with-contact__title">{{ section.settings.title }}</div>
-        <div class="banner-with-contact__text">{{ section.settings.text }}</div>
-        <div class="banner-with-contact__form">
+        <div class="banner-with-contact__title scroll-trigger animate--slide-in" style="--animation-order: 0;">{{ section.settings.title }}</div>
+        <div class="banner-with-contact__text scroll-trigger animate--slide-in" style="--animation-order: 0;">{{ section.settings.text }}</div>
+        <div class="banner-with-contact__form scroll-trigger animate--slide-in" style="--animation-order: 0;">
             {% form 'customer' %}
                 <div class="email">
                     <input type="email" name="contact[email]" id="email" placeholder="x"/>

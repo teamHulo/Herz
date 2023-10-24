@@ -21,9 +21,9 @@
 </style>
 <div class="achievements">
     <div class="achievements__wrapper container">
-        <h2 class="achievements__title">{{ section.settings.title }}</h2>
-        <span class="achievements__label">{{ section.settings.label }}</span>
-        <div class="achievements__content">
+        <h2 class="achievements__title scroll-trigger animate--slide-in" style="--animation-order: 0;">{{ section.settings.title }}</h2>
+        <span class="achievements__label scroll-trigger animate--slide-in" style="--animation-order: 0;">{{ section.settings.label }}</span>
+        <div class="achievements__content scroll-trigger animate--slide-in" style="--animation-order: 0;">
             {% for block in section.blocks %}
                 <div class="item">
                     <div class="item__img-wrap">
@@ -32,8 +32,8 @@
                         </div>
                     </div>
                     <div class="item__content">
-                        <h3 class="item__name">{{ block.settings.name }}</h3>
-                        <p class="item__text">{{ block.settings.text }}</p>
+                        <h3 class="item__name scroll-trigger animate--slide-in" style="--animation-order: 0;">{{ block.settings.name }}</h3>
+                        <p class="item__text scroll-trigger animate--slide-in" style="--animation-order: 0;">{{ block.settings.text }}</p>
                     </div>
                 </div>
             {% endfor %}

@@ -8,16 +8,16 @@
               <div class="slide__wrap">
                 <div class="left">
                   <div class="left__wrap">
-                    <div class="title">
-                      <h1>
+                    <div class="title scroll-trigger animate--slide-in" style="--animation-order: 0;">
+                      <h1 >
                         {{ block.settings.title }}
                       </h1>
                     </div>
-                    <div class="text">
+                    <div class="text scroll-trigger animate--slide-in" style="--animation-order: 0;">
                       {{ block.settings.text }}
                     </div>
                     {% if block.settings.url != blank %}
-                      <div class="item-btn">
+                      <div class="item-btn scroll-trigger animate--slide-in" style="--animation-order: 0;">
                         <a href="{{block.settings.url}}" class="a-btn">{{ block.settings.btn_name }}</a>
                       </div>
                     {% endif %}

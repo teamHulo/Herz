@@ -3,6 +3,18 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Infobild-ErsteSchuhe.jpg",
+            "img2": "shopify:\/\/shop_images\/Infobild-ErsteSchuhe.jpg",
+            "img3": "shopify:\/\/shop_images\/Infobild-Barfuss-Schuhe.jpg",
+            "title": "Barfuss-Schuhe",
+            "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Möchtest du wissen, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind?<\/p>",
+            "url": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
+            "btn_name": "Mehr zum Thema erfahren"
+          }
+        },
         "8fc6288d-372e-45df-a8da-4a794678a4f4": {
           "type": "item",
           "settings": {
@@ -26,24 +38,12 @@
             "url": "#",
             "btn_name": "Jetzt einkaufen"
           }
-        },
-        "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify:\/\/shop_images\/image-left.png",
-            "img2": "shopify:\/\/shop_images\/Main_image.png",
-            "img3": "shopify:\/\/shop_images\/image-rigt.png",
-            "title": "Schwangerschaft & Geburt",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
-            "url": "#",
-            "btn_name": "Jetzt einkaufen"
-          }
         }
       },
       "block_order": [
+        "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
-        "24910c9d-15a9-4196-9b65-cc074f34c723",
-        "6b0e520e-dd49-4d18-87e8-b1ac9b589495"
+        "24910c9d-15a9-4196-9b65-cc074f34c723"
       ],
       "settings": {
       }

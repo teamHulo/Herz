@@ -466,7 +466,7 @@
           "type": "button",
           "settings": {
             "button_label": "Zu den Tragehilfen",
-            "button_link": "shopify:\/\/collections\/wickeln",
+            "button_link": "shopify:\/\/collections\/tragen",
             "button_style_secondary": true
           }
         }

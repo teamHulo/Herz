@@ -3,16 +3,16 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "8fc6288d-372e-45df-a8da-4a794678a4f4": {
+        "bda35f88-36c5-4661-a703-9f1ce55cd109": {
           "type": "item",
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Start-Silder-Advent1.jpg",
-            "img2": "shopify:\/\/shop_images\/Start-Silder-Advent2_b327cc0d-dbd7-4f3d-ac8a-3f700a78ac0e.jpg",
-            "img3": "shopify:\/\/shop_images\/Start-Silder-Advent3.jpg",
-            "title": "Advent mit Kindern gestalten",
-            "text": "<p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente steckt. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.<\/p>",
-            "url": "shopify:\/\/pages\/themenseite",
-            "btn_name": "Mehr zum Thema"
+            "img1": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
+            "img2": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
+            "img3": "shopify:\/\/shop_images\/Infobild-Handschuhe.jpg",
+            "title": "Warm durch Herbst & Winter",
+            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.<\/p>",
+            "url": "shopify:\/\/pages\/warm-durch-herbst-winter",
+            "btn_name": "Unsere Tipps"
           }
         },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
@@ -27,20 +27,21 @@
             "btn_name": "Mehr zum Thema erfahren"
           }
         },
-        "bda35f88-36c5-4661-a703-9f1ce55cd109": {
+        "8fc6288d-372e-45df-a8da-4a794678a4f4": {
           "type": "item",
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
-            "img2": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
-            "img3": "shopify:\/\/shop_images\/Infobild-Handschuhe.jpg",
-            "title": "Warm durch Herbst & Winter",
-            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.<\/p>",
-            "url": "shopify:\/\/pages\/warm-durch-herbst-winter",
-            "btn_name": "Unsere Tipps"
+            "img1": "shopify:\/\/shop_images\/Start-Silder-Advent1.jpg",
+            "img2": "shopify:\/\/shop_images\/Start-Silder-Advent2_b327cc0d-dbd7-4f3d-ac8a-3f700a78ac0e.jpg",
+            "img3": "shopify:\/\/shop_images\/Start-Silder-Advent3.jpg",
+            "title": "Advent mit Kindern gestalten",
+            "text": "<p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente steckt. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.<\/p>",
+            "url": "shopify:\/\/pages\/themenseite",
+            "btn_name": "Mehr zum Thema"
           }
         },
         "24910c9d-15a9-4196-9b65-cc074f34c723": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify:\/\/shop_images\/image-left.png",
             "img2": "shopify:\/\/shop_images\/Main_image.png",
@@ -53,9 +54,9 @@
         }
       },
       "block_order": [
-        "8fc6288d-372e-45df-a8da-4a794678a4f4",
-        "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "bda35f88-36c5-4661-a703-9f1ce55cd109",
+        "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
+        "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "24910c9d-15a9-4196-9b65-cc074f34c723"
       ],
       "settings": {
@@ -220,10 +221,32 @@
             "url": "shopify:\/\/collections\/paarzeit",
             "btn_name": "Paarzeit verbringen"
           }
+        },
+        "b7e797f2-1b5f-4151-a871-182489f8f988": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Advent-Kalender.jpg",
+            "title": "Adventskalender für Kinder",
+            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente? Oder einem Türchen-Kalender ohne Zahlen?<\/p>",
+            "url": "shopify:\/\/collections\/adventskalender",
+            "btn_name": "Adventskalender"
+          }
+        },
+        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Advent-Wichteltuer.jpg",
+            "title": "Wichteltürchen",
+            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!<\/p>",
+            "url": "shopify:\/\/collections\/wichtelzauber",
+            "btn_name": "Wichtel einladen"
+          }
         }
       },
       "block_order": [
-        "be814ee1-dadc-46d9-a79e-6128f77f64d7"
+        "be814ee1-dadc-46d9-a79e-6128f77f64d7",
+        "b7e797f2-1b5f-4151-a871-182489f8f988",
+        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNG",

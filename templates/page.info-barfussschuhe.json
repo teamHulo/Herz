@@ -232,7 +232,7 @@
           "type": "button",
           "settings": {
             "button_label": "Zu den Stiefeln & Booties",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/stiefel-booties",
             "button_style_secondary": false
           }
         }

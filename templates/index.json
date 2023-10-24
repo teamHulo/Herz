@@ -110,9 +110,9 @@
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/image_18.png",
-            "title": "Advent mit Kindern",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
-            "url": "#",
+            "title": "Strumpfhosen & Socken aus Wolle",
+            "text": "<p>Wenn es draussen kalt ist, eignen sich als erste Kleidungsschicht Strumpfhosen aus Wolle super! Und an die Füsse Wollsocken: Sie geben warm und verhindern Schweissfüsse.<\/p>",
+            "url": "shopify:\/\/collections\/strumpfhosen-stulpen-socken",
             "btn_name": "Read more"
           }
         },

@@ -338,7 +338,7 @@
         "e27274ae-5ee3-4d54-9e4d-130cb04651b7": {
           "type": "text",
           "settings": {
-            "text": "<h2>Und was ziehst du an?<\/h2><p>Wie überstehst du Minustemperaturen auf dem Spielplatz? Am besten trägst du (d)ein Baby unter der <a href=\"\/collections\/umstands-tragejacken\" target=\"_blank\" title=\"Umstands- & Tragejacken\">Tragejacke<\/a>. Das hält nicht nur das Baby kuschlig warm, sondern auch dich. Tragejacken gibt es in sportlich, klassisch, elegant oder funktional. Sie ermöglichen auch das Rückentragen dank dem Reissverschluss am Rücken und können auch ganz ohne Trage-Einsatz getragen werden. So sind sie eine langfristige Investition.<br\/><br\/>Unsere liebsten Mama-Accessoires im Herbst & Winter sind übrigens Armstulpen, Stirnbänder und kuschlige Hüftwärmer aus Wolle. (Diese wärmen dein Zentrum - ein echt toller Effekt!).<\/p>"
+            "text": "<h2>Und was ziehst du an?<\/h2><p>Wie überstehst du Minustemperaturen auf dem Spielplatz? Am besten trägst du (d)ein Baby unter der <a href=\"\/collections\/umstands-tragejacken\" target=\"_blank\" title=\"Umstands- & Tragejacken\">Tragejacke<\/a>. Das hält nicht nur das Baby kuschlig warm, sondern auch dich. Tragejacken gibt es in sportlich, klassisch, elegant oder funktional. Sie ermöglichen auch das Rückentragen dank dem Reissverschluss am Rücken und können auch ganz ohne Trage-Einsatz getragen werden. So sind sie eine langfristige Investition.<br\/><br\/>Unsere liebsten Mama-Accessoires im Herbst & Winter sind übrigens Armstulpen (<a href=\"\/collections\/stulpen-pulswarmer\" target=\"_blank\" title=\"Stulpen & Pulswärmer\">Babystulpen<\/a> passen dir super an den Armen!), Stirnbänder und kuschlige <a href=\"\/products\/decolores-frauen-hueftwaermer\" target=\"_blank\" title=\"Alpakawolle Hüftwärmer für Frauen\">Hüftwärmer<\/a> aus Wolle. (Diese wärmen dein Zentrum - ein echt toller Effekt!).<\/p>"
           }
         }
       },
@@ -354,17 +354,30 @@
         "padding_bottom": 52
       }
     },
-    "df7159be-0e0a-4800-af46-2561da89b3de": {
-      "type": "slideshow",
+    "66cf2c2d-098b-49ab-93be-9ca360db9db4": {
+      "type": "section-custom-image",
+      "blocks": {
+        "76fc5bc7-fa04-4e26-b5c9-7356990f3127": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Warme.jpg"
+          }
+        },
+        "73eba713-8692-420c-87fe-5dddb984fb69": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/DeColores-Stulpen-Erwachsene_Kopie_66460_2.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "76fc5bc7-fa04-4e26-b5c9-7356990f3127",
+        "73eba713-8692-420c-87fe-5dddb984fb69"
+      ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "max_width": 870
       }
     }
   },
@@ -383,6 +396,6 @@
     "e0647214-9936-4525-a517-be4c05c8b5c3",
     "9f2d927d-daf8-4fcf-aceb-a840a11d7b82",
     "de7f5108-2c92-404d-8671-8437b9ae096a",
-    "df7159be-0e0a-4800-af46-2561da89b3de"
+    "66cf2c2d-098b-49ab-93be-9ca360db9db4"
   ]
 }

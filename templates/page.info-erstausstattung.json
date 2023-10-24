@@ -154,20 +154,11 @@
             "text": "<h2>Zum Anziehen<\/h2><p>Wir empfehlen Kleidung aus Wolle oder Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Wolle wärmt zudem auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.<\/p>",
             "text_style": "body"
           }
-        },
-        "950a4dec-6f7f-417e-a84c-9ae4561e26ff": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zur Kindermode",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-heading-1",
-        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1",
-        "950a4dec-6f7f-417e-a84c-9ae4561e26ff"
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1"
       ],
       "settings": {
         "height": "adapt",

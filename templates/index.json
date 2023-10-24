@@ -154,6 +154,7 @@
     },
     "a0cd7d12-bf7a-4e82-8365-6c3379aab588": {
       "type": "section-product-collection",
+      "disabled": true,
       "settings": {
         "bg": "#FAF8F3",
         "title": "Dieses Jahr neu bei uns: fun2bemom",
@@ -169,7 +170,7 @@
         "2129a232-6fc7-482c-89ad-94e0d89cc98b": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Mood3_1.png",
+            "img": "shopify:\/\/shop_images\/Infobild-Tragejacke-Hoodie.jpg",
             "title": "Leichte Umstands- & Tragejacken",
             "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.<\/p>",
             "url": "#",

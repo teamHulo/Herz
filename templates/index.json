@@ -167,6 +167,16 @@
     "32304844-b226-476a-b89c-c9bad2a32f6b": {
       "type": "section-slider",
       "blocks": {
+        "02065589-9646-4f28-9c02-75fe8ca54b3b": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Warme.jpg",
+            "title": "Warme Umstands-& Tragejacken",
+            "text": "<p>Für richtig kalte Tage bist du mit einer sportlichen, funktionalen Winterjacke oder einem schicken Wollmantel gut gerüstet. Alle Jacken kannst du auch ohne Baby verwenden.<\/p>",
+            "url": "",
+            "btn_name": "Jetzt einkaufen"
+          }
+        },
         "e676cca9-7ed7-4238-9fc1-bf237e460203": {
           "type": "item",
           "settings": {
@@ -199,6 +209,7 @@
         }
       },
       "block_order": [
+        "02065589-9646-4f28-9c02-75fe8ca54b3b",
         "e676cca9-7ed7-4238-9fc1-bf237e460203",
         "99614f5f-712b-45d9-b81c-35dc9b17ed70",
         "2129a232-6fc7-482c-89ad-94e0d89cc98b"

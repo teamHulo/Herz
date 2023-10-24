@@ -110,7 +110,7 @@
         "70218380-5e6d-45e8-8037-a035266de833": {
           "type": "text",
           "settings": {
-            "text": "<h2>Das ist ganz nützlich<\/h2><p>Kinderzimmer: Das Baby braucht weder Zimmer noch eigenes Bett. Es schläft am liebsten nah bei dir. Der beste und sicherste Schlafplatz ist im Elternbett.<\/p><ul><li>Milchpulver & Babyfläschchen:BereitedichdichbesseroptimalaufsStillenvor, als für den Fall dass es nicht klappt vorzusorgen. Mit dem richtigen Fachwissen und guter Unterstützung können 98% aller Frauen ihr Baby stillen.<\/li><li>Nuggi: Babys sind zum Nuckeln an der Brust gemacht. Der Nuggi ist ein Brust-Ersatz und greift in die zu Beginn noch empfindliche Stillbeziehung ein. Wenn du stillen willst, verzichte lieber darauf.<\/li><li>Kinderwagen: Ein Kinderwagen ist zwar praktisch, aber der natürliche Platz für ein Kind, das noch nicht läuft, ist am Körper eines Erwachsenen. Dort fühlt es sich wohl und sicher und seine Entwicklung (Reifung von Hüfte & Wirbelsäule, Muskeln & Motorik, Immunsystem, Kreislauf und vieles mehr) wird optimal unterstützt. Daher brauchst du zumindest zu Beginn noch keinen Kinderwagen und kannst auch später einen besorgen. Vielleicht probierst du zuerst ein Occasion-Modell aus, denn nicht alle Babys mögen es, im Kinderwagen zu liegen.<\/li><li>Wickeltisch: Ein Wickeltisch mag praktisch sein; wickeln kannst du aber auch mit einem Tuch oder einer Wickelunterlage auf dem Bett, Sofa oder Boden.<\/li><li>Babywanne: Das Baby kann genauso gut von Geburt an mit dir zusammen in der grossen Badewanne baden. Das entspannt euch beide und ist so viel schöner!<\/li><li>Pflegeprodukte: Cremes, Seifen & Badezusätze braucht es nicht. Das Wundermittel Muttermilch toppt jedes käufliche Produkt und ist vielseitig einsetzbar.<\/li><li>Kuscheltiere: Die können ganz nützlich sein, sobald das Kind beginnt, sich von der Mutter zu lösen. Aber ein kleines Baby braucht noch keinen Mutterersatz.<\/li><\/ul>"
+            "text": "<h2>Das ist ganz nützlich<\/h2><p><\/p>"
           }
         },
         "33438ce5-47f1-4bc4-811e-9b5c8503c4f7": {
@@ -136,6 +136,51 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "d9d26fc9-a25d-4077-9aad-6466edd663a3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Zum Anziehen<\/h2><p>Wir empfehlen Kleidung aus Wolle oder Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Wolle wärmt zudem auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-heading-1",
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1",
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-button-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1d8754a4-e8bf-46ea-b6d6-71564cd84808": {
@@ -233,6 +278,7 @@
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
     "9bd6da64-741f-4778-b102-c414c3587318",
+    "d9d26fc9-a25d-4077-9aad-6466edd663a3",
     "1d8754a4-e8bf-46ea-b6d6-71564cd84808",
     "2d788a59-19cb-4c94-8f16-ef2489f9fb1a"
   ]

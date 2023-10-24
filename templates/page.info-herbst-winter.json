@@ -354,54 +354,6 @@
         "padding_bottom": 52
       }
     },
-    "94281f1a-67bb-4bc2-93c5-216dcbf2a8f0": {
-      "type": "image-banner",
-      "blocks": {
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-heading-1",
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-text-1",
-        "template--21490210636091__94281f1a-67bb-4bc2-93c5-216dcbf2a8f0-buttons-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "df7159be-0e0a-4800-af46-2561da89b3de": {
       "type": "slideshow",
       "settings": {
@@ -431,7 +383,6 @@
     "e0647214-9936-4525-a517-be4c05c8b5c3",
     "9f2d927d-daf8-4fcf-aceb-a840a11d7b82",
     "de7f5108-2c92-404d-8671-8437b9ae096a",
-    "94281f1a-67bb-4bc2-93c5-216dcbf2a8f0",
     "df7159be-0e0a-4800-af46-2561da89b3de"
   ]
 }

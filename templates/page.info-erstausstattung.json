@@ -228,8 +228,8 @@
         "084b1f9b-7279-4060-994e-722e018d02b8": {
           "type": "button",
           "settings": {
-            "button_label": "Babyschlaf",
-            "button_link": "",
+            "button_label": "Produkte für Babyschlaf",
+            "button_link": "shopify:\/\/collections\/schlafen",
             "button_style_secondary": false
           }
         }
@@ -252,6 +252,40 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1a2579ab-7795-47cb-af85-1fe6d55cc297": {
+      "type": "rich-text",
+      "blocks": {
+        "aac0544a-10db-4278-8186-ce39f0cee5f4": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Schlafstrampler: <\/strong>1-2 Strampler aus Wolle\/Seide eignen sich als Pyjama<\/p><p><strong>Schlafsack:<\/strong> Babys gehören nicht unter dicke Decken, daher ist ein Schlafsack sehr praktisch. E s gibt dünne für den Sommer und schön ausgleichende aus Wolle für die anderen Jahreszeiten.<\/p><p><strong>Dünne Baby-Wolldecke:<\/strong> Für flexible Wärme zuhause oder unterwegs.<\/p><p><strong>Lagerungskissen:<\/strong> Bette damit dein Baby in eine bequeme Position. Viele<br\/>Babys schlafen z.B. in der Seitenlage besser, was dir ruhigere Nächte beschert.<\/p><p><strong>Nachtlicht:<\/strong> Ein gedämpftes gelbes oder rotes Nachtlicht (z.B. Salzkristall oder ähnliches) ist praktisch fürs nächtliche Stillen, denn es macht im Gegensatz zum blauen oder weissen Licht nicht wach - so dass ihr rasch wieder schlaft.<\/p>"
+          }
+        },
+        "6c41a413-3b26-4076-b21a-53bf3df060de": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "aac0544a-10db-4278-8186-ce39f0cee5f4",
+        "6c41a413-3b26-4076-b21a-53bf3df060de"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -263,6 +297,7 @@
     "9bd6da64-741f-4778-b102-c414c3587318",
     "d9d26fc9-a25d-4077-9aad-6466edd663a3",
     "1d8754a4-e8bf-46ea-b6d6-71564cd84808",
-    "1e702735-a8e9-4e16-a1ce-9d5cf6f1e539"
+    "1e702735-a8e9-4e16-a1ce-9d5cf6f1e539",
+    "1a2579ab-7795-47cb-af85-1fe6d55cc297"
   ]
 }

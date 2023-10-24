@@ -1,5 +1,15 @@
 {
   "sections": {
+    "4bd893a7-42bf-4da0-80d7-f67c4e3a72e7": {
+      "type": "section-about-text",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "title": "Herz an Herz Blog",
+        "text": "<p>Lorem ipsum dolor sit amet consectetur. Nisi nunc nibh augue dolor. A commodo arcu cursus egestas purus.<\/p>",
+        "max_width": 1040
+      }
+    },
     "main": {
       "type": "main-blog",
       "settings": {
@@ -14,6 +24,7 @@
     }
   },
   "order": [
+    "4bd893a7-42bf-4da0-80d7-f67c4e3a72e7",
     "main"
   ]
 }

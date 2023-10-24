@@ -118,7 +118,8 @@
     "show_cart_note": false,
     "cart_drawer_collection": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/Group.png",
-    "checkout_body_background_color": "#e5e0d5",
+    "checkout_body_background_color": "#faf8f3",
+    "checkout_sidebar_background_color": "#e5e0d5",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",

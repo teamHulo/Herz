@@ -45,60 +45,83 @@ $(() => {
 });
 
 $(() => {
-  const swiperOur = new Swiper(".section-our__list", {
-    slidesPerView: 3,
-    slidesPerGroup: 3,
-    spaceBetween: 30,
-    navigation: {
-      nextEl: ".swiper-button-next-our",
-      prevEl: ".swiper-button-prev-our",
-    },
-    pagination: {
-      el: ".swiper-pagination-our",
-      type: "custom",
-      renderCustom: function (swiper, current, total) {
-        // Your custom pagination rendering code here
-        if (current < 10) {
-          current = "0" + current;
-        }
-
-        if (total < 10) {
-          total = "0" + total;
-        }
-        return `<div class="swiper-pagination-custom">${current} ${svgDote} ${total}</div>`;
-      },
-    },
-    breakpoints: {
-      501: {
-        slidesPerView: 1.5,
-        slidesPerGroup: 1,
-      },
-      650: {
-        slidesPerView: 2,
-        slidesPerGroup: 2,
-      },
-      767: {
-        slidesPerView: 2.5,
-        slidesPerGroup: 1,
-      },
-      1023: {
+  $(".section-our__list").each(function () {
+    swiperOurSlider(
+      $(this).attr("data-swiper"),
+      $(this)
+        .closest(".section-our")
+        .find(".swiper-button-prev-our")
+        .attr("data-btn"),
+      $(this)
+        .closest(".section-our")
+        .find(".swiper-button-next-our")
+        .attr("data-btn"),
+      $(this)
+        .closest(".section-our")
+        .find(".swiper-pagination-our")
+        .attr("data-btn")
+    );
+  });
+  function swiperOurSlider(indef, btnprv, btnnext, pagination) {
+    const swiperOur = new Swiper(
+      ".section-our__list[data-swiper=" + indef + "]",
+      {
         slidesPerView: 3,
         slidesPerGroup: 3,
-      },
-    },
-  });
+        spaceBetween: 30,
+        navigation: {
+          nextEl: `.swiper-button-next-our[data-btn="${btnnext}"]`,
+          prevEl: `.swiper-button-prev-our[data-btn="${btnprv}"]`,
+        },
+        pagination: {
+          el: `.swiper-pagination-our[data-btn="${pagination}"]`,
+          type: "custom",
+          renderCustom: function (swiper, current, total) {
+            if (current < 10) {
+              current = "0" + current;
+            }
 
-  function swiperToggle(window, name, windowSize) {
-    if (window < windowSize) {
-      name.disable();
+            if (total < 10) {
+              total = "0" + total;
+            }
+            return `<div class="swiper-pagination-custom">${current} ${svgDote} ${total}</div>`;
+          },
+        },
+        breakpoints: {
+          501: {
+            slidesPerView: 1.5,
+            slidesPerGroup: 1,
+          },
+          650: {
+            slidesPerView: 2,
+            slidesPerGroup: 2,
+          },
+          767: {
+            slidesPerView: 2.5,
+            slidesPerGroup: 1,
+          },
+          1023: {
+            slidesPerView: 3,
+            slidesPerGroup: 3,
+          },
+        },
+      }
+    );
+    swiperToggle($(window).width(), swiperOur, 501);
+  }
+  function swiperToggle(windowWidth, swiper, windowSize) {
+    if (windowWidth < windowSize) {
+      swiper.disable();
     } else {
-      name.enable();
+      swiper.enable();
     }
   }
 
-  swiperToggle($("window").width(), swiperOur, 501);
   $(window).resize(function () {
-    swiperToggle($(this).width(), swiperOur, 501);
+    //swiperToggle($(this).width(), swiperOur, 501);
+    $(".section-our__list").each(function () {
+      swiperOurSlider($(this).attr("data-swiper"));
+    });
   });
 });
 
@@ -213,36 +236,38 @@ $(() => {
 });
 
 $(() => {
-  const jsonFileUrl = $("#url_json").val();
-  console.log(jsonFileUrl);
+  if ($("#url_json").length != 0) {
+    const jsonFileUrl = $("#url_json").val();
+    console.log(jsonFileUrl);
 
-  fetch(jsonFileUrl)
-    .then((response) => response.json())
-    .then((data) => {
-      console.log(data);
+    fetch(jsonFileUrl)
+      .then((response) => response.json())
+      .then((data) => {
+        console.log(data);
 
-      $(".swatch-color").each(function () {
-        let valueColor = $(this).val();
-        let hexColor = data[0][valueColor];
-        if (hexColor != undefined) {
-          console.log($(this).val());
-          $(this).closest('.my-cart-product').addClass('hex');
-          console.log(hexColor);
-          $(this)
-            .closest(".div__wrap-swatcher-item")
-            .find(".swatch-color-wrap")
-            .css("background-color", hexColor);
-        } else {
-          $(this)
-            .closest(".div__wrap-swatcher-item")
-            .find(".swatch-color-wrap")
-            .css("background-color", valueColor);
-        }
+        $(".swatch-color").each(function () {
+          let valueColor = $(this).val();
+          let hexColor = data[0][valueColor];
+          if (hexColor != undefined) {
+            console.log($(this).val());
+            $(this).closest(".my-cart-product").addClass("hex");
+            console.log(hexColor);
+            $(this)
+              .closest(".div__wrap-swatcher-item")
+              .find(".swatch-color-wrap")
+              .css("background-color", hexColor);
+          } else {
+            $(this)
+              .closest(".div__wrap-swatcher-item")
+              .find(".swatch-color-wrap")
+              .css("background-color", valueColor);
+          }
+        });
+      })
+      .catch((error) => {
+        console.error("Произошла ошибка при загрузке JSON-файла", error);
       });
-    })
-    .catch((error) => {
-      console.error("Произошла ошибка при загрузке JSON-файла", error);
-    });
+  }
 });
 
 $(() => {
@@ -304,24 +329,17 @@ $(() => {
 /**** Add product cart item ****/
 
 $(() => {
-
   /*function cartImageUpdate(src, cart){
     if( src != '' && src != undefined && src != null){
       $(cart).find('.product_image-wrap img').attr('src',src);
     }
   }*/
   function cartImageUpdate(src, cart) {
-    if (src != '' && src != undefined && src != null) {
-      const image = $(cart).find('.product_image-wrap img');
-      image.attr('src', src);
+    if (src != "" && src != undefined && src != null) {
+      const image = $(cart).find(".product_image-wrap img");
+      image.attr("src", src);
     }
   }
-  
-  
-  
-  
-  
-
 
   function updateVariantId(cart, id, colorValue, optionIndex) {
     let newId;
@@ -362,16 +380,18 @@ $(() => {
     $(cart).find(".cart-id-first").val(newId);
     cartImageUpdate(imgUrl, cart);
   }
-    
+
   function handleResponse() {
     let a = this.responseText;
     console.log(a);
     let parser = new DOMParser();
-    console.log(parser );
+    console.log(parser);
     let objCarts = JSON.parse(this.responseText);
-    console.log( objCarts );
-    $('#cart-icon-bubble').html($(objCarts["cart-icon-bubble"]).html());
-    $('cart-drawer').html($(objCarts["cart-drawer"]).find('cart-drawer').html());
+    console.log(objCarts);
+    $("#cart-icon-bubble").html($(objCarts["cart-icon-bubble"]).html());
+    $("cart-drawer").html(
+      $(objCarts["cart-drawer"]).find("cart-drawer").html()
+    );
   }
 
   $(".colors .my-input-radio").change(function () {
@@ -423,13 +443,9 @@ $(() => {
       });
   });
 
-  $('.count-option').click(function(){
-    $(this).closest(".my-cart-product").find('.colors').toggleClass('active');
-
+  $(".count-option").click(function () {
+    $(this).closest(".my-cart-product").find(".colors").toggleClass("active");
   });
-
-
-
 });
 
 /********* end **** */

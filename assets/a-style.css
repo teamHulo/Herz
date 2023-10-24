@@ -42,8 +42,15 @@ h3 {
   line-height: 120%; /* 33.6px */
   letter-spacing: -1.12px;
 }
+h4, h5, h6{
+  font-family: "Lora", serif;
+  color: #00281d;
+  font-style: italic;
+  font-weight: 400;
+}
+
 p,
-a {
+a, span, label, input {
   color: #545248;
   font-family: "Work Sans", sans-serif;
   font-size: var(--font-size-16);
@@ -838,7 +845,7 @@ a {
   height: 16px;
 }
 .my-cart-product .colors {
-  max-width: 80px;
+  max-width: 76px;
   overflow: hidden;
 }
 .my-cart-product .colors.active {

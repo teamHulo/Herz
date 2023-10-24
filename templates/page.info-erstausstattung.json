@@ -386,8 +386,8 @@
         "bb34656f-d1bb-4771-a6af-7c6050de7a12": {
           "type": "button",
           "settings": {
-            "button_label": "Produkte fürs Stillen",
-            "button_link": "shopify:\/\/collections\/stillen",
+            "button_label": "Produkte zum Wickeln",
+            "button_link": "shopify:\/\/collections\/wickeln",
             "button_style_secondary": true
           }
         }

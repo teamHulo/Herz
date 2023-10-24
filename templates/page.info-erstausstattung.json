@@ -104,98 +104,16 @@
         "padding_bottom": 52
       }
     },
-    "5557db53-3e75-4ef9-a993-f08e092ebf73": {
-      "type": "multirow",
-      "blocks": {
-        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-1": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Advent-Kalender.jpg",
-            "caption": "Idee 1",
-            "heading": "",
-            "text": "<h2>Wählt einen passenden Adventskalender<\/h2><p>Ein Adventskalender bereichert die Adventszeit von Gross und Klein. Sei es der klassische Türchen-Kalender, 24 selber ausgesuchte und liebevoll verpackte Geschenke oder etws ganz anderes wie z.B. eine Adventskalender-Geschichte, jeden Tag eine gemeinsame Aktivität, jeden Tag eine Dekofigur an ein Bäumchen hängen. Dies schürt die Vorfreude und den Zauber der Adventszeit.<\/p><p>(Beliebt ist übrigens auch unser Paarzeit-Adventskalender, extra für Paare. Denn gerade wenn man Eltern wird, lohnt es sich, sich für die Partnerschaft bewusst Zeit zu nehmen.)<\/p>",
-            "button_label": "Zu den Adventskalendern",
-            "button_link": ""
-          }
-        },
-        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-2": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Advent-Wichteltuer.jpg",
-            "caption": "Idee 2",
-            "heading": "",
-            "text": "<h2>Stellt ein Wichteltürchen auf<\/h2><p>Möchtet ihr mal etwas anderes als den typischen Adventskalender ausprobieren, dann könnt ihr ein \"Wichteltürchen\" einrichten und einen Wichtel oder eine Fee in euer Zuhause einladen. Legt dann heimlich kleine Botschaften oder Geschenke vor das Türchen. Manchmal treiben die “Wichtel” auch Schabernack (Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub?)<\/p>",
-            "button_label": "Zum Wichtelzauber",
-            "button_link": ""
-          }
-        },
-        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-3": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Advent-Spirale.jpg",
-            "caption": "Idee 3",
-            "heading": "",
-            "text": "<h2>Verwendet eine Adventsspirale<\/h2><p>Um die Zeit bis Weihnachten sichtbar zu machen, könnt ihr eine Adventsspirale verwenden. Jeden Tag wandert eine Murmel, ein Stein oder eine Kerze ein Loch weiter, bis sie nach 24 Tagen in der Mitte ankommt. Das macht den Verlauf der Zeit schon für die Kleinsten sichtbar und schafft Orientierung. Das Weiterziehenlassen der Kerze kann wunderbar in ein kleines, achtsames Ritual eingebunden werden. Vielleicht singt ihr dazu ein Adventslied oder lasst gemeinsam den Tag Revue passieren.<\/p>",
-            "button_label": "Festtagsring & Zubehör",
-            "button_link": ""
-          }
-        },
-        "500df705-3da4-4a89-a4e9-2c63c4246267": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Advent-Jahreszeitentisch.jpg",
-            "caption": "Idee 4",
-            "heading": "",
-            "text": "<h2>Dekoriert euer Zuhause<\/h2><p>Eine wunderschöne Idee fürs ganze Jahr - und natürlich insbesondere für die Adventszeit - ist der Jahreszeitentisch. Sei es ein Regal, ein Kästchen oder ein kleiner Tisch: Findet zuhause einen Ort, an dem die aktuelle Jahreszeit für die Kinder sicht- und erlebbar wird. Dort stellt ihr gemeinsam Dinge wie Bastelsachen, Fundstücke aus der Natur, eine passende Wimmelbuchseite, Steckfiguren oder Motivkarten auf. Im Advent passt auch die Adventsspirale, ein Adventskranz oder ein Wichteltürchen dazu.<\/p>",
-            "button_label": "Winter",
-            "button_link": ""
-          }
-        },
-        "401a036f-036d-454e-abcd-940d0e47d01e": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Advent-Lesen.jpg",
-            "caption": "Idee 5",
-            "heading": "",
-            "text": "<h2>Singt Lieder & erzählt Geschichten<\/h2><p>Kocht eine Tasse heissen Kakao und kuschelt euch mit einer schönen Geschichte gemeinsam aufs Sofa. Für die Adventszeit gibt es schöne Vorlesegeschichten, die jeden Tag ein Stück weitergehen. Das Vorlesen fördert die Fantasie der Kinder und schafft eine ruhige, besinnliche Stimmung. Auch das gemeinsame Singen und Musikhören schafft eine weihnachtlich vorfreudige Atmosphäre.<\/p>",
-            "button_label": "Kinderbücher",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-1",
-        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-2",
-        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-3",
-        "500df705-3da4-4a89-a4e9-2c63c4246267",
-        "401a036f-036d-454e-abcd-940d0e47d01e"
-      ],
-      "settings": {
-        "image_height": "small",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "primary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "5122c367-4d3f-4c2f-9004-912defd2b221": {
+    "9bd6da64-741f-4778-b102-c414c3587318": {
       "type": "rich-text",
       "blocks": {
-        "7605f7b4-baf0-4bec-b7b5-b717db6e2f5e": {
+        "70218380-5e6d-45e8-8037-a035266de833": {
           "type": "text",
           "settings": {
-            "text": "<h2>Winterzeit und  Jahreswechsel mit Kindern gestalten<\/h2><p>Feste und Rituale sind oft eng mit den Jahreszeiten und der Natur verknüpft, und sie können dazu beitragen, das Verständnis für die natürlichen Abläufe und den Kreislauf des Lebens zu vertiefen. Singen, Geschichten erzählen und bestimmte Aktivitäten können eine wunderbare Möglichkeit bieten, die Jahreszeiten und ihre Veränderungen zu reflektieren.<\/p><p>In der Winterzeit und zum Jahreswechsel bieten sich zahlreiche Gelegenheiten, Rituale und Feste zu gestalten, die den Zusammenhalt in der Familie stärken und gleichzeitig den Kindern wichtige Werte und Traditionen vermitteln. Dabei sind es oft die kleinen Dinge, die in Erinnerung bleiben und diese besonderen Momente schaffen.<\/p><p>Die Übergangszeit im Winter kann von tiefgreifender spiritueller und kultureller Bedeutung sein. Sie markiert das Ende eines Jahres und den Beginn eines neuen Abschnitts, und sie gibt uns die Möglichkeit, innezuhalten, zur Ruhe zu kommen und uns auf die kommenden Monate auszurichten.<\/p><p><\/p><p><strong>Rituale bei Kälte: <\/strong>Wenn es draussen kalt ist, können ihr drinnen gemütliche Rituale schaffen. Vielleicht ein wöchentlicher Kakao- und Vorleseabend, bei dem ihr euch einkuschelt und gemeinsam in fantastische Geschichten eintaucht.<\/p><p><strong>Rituale in der Dunkelheit:<\/strong> Wie wäre es mit einem Picknick bei Nacht? Packt eine dicke Decke und Warmes Essen ein, um draussen gemeinsam im Laternenschein zu essen. Die klaren Winternächte bieten auch die Möglichkeit, die Sterne zu beobachten. Gemeinsam könnt ihr Sternbilder erkunden und Geschichten über den Nachthimmel teilen.<\/p><p><strong>Rituale zum Jahreswechsel:<\/strong> Schon mit ganz kleinen Kindern können wir auf das vergangene Jahr zurückblicken und Dinge finden, für die wir dankbar sind. Das fördert die Achtsamkeit und das Verständnis für die Fülle in unserem Leben. Es ist auch eine schöne Idee, gemeinsam Schönes ins neue Jahr einzuladen. Vielleicht mit einem Glücksglas: Das stellt ihr zum Neujahr auf und füllt es das ganze Jahr hindurch mit schönen Erinnerungen.<\/p><p><strong>Rauhnächte:<\/strong> Die Rauhnächte sind eine mystische Zeit zwischen Weihnachten und Dreikönig. In dieser Zeit wird oft das Räuchern als Brauch praktiziert. Auch mit kleinen Kindern kannst du diese alte Tradition erlebbar machen. Verwende kindersichere Räucherutensilien und kinderfreundliche Räuchermischungen, die sanfte Düfte verbreiten. Gemeinsam zu beobachten, wie der Rauch aufsteigt, kann eine geheimnisvolle und lehrreiche Erfahrung für Kinder sein, bei der sie die Rauhnächte auf spielerische Weise kennenlernen.<\/p>"
+            "text": "<h2>Das ist ganz nützlich<\/h2><p><\/p>"
           }
         },
-        "c88e1981-900a-48ed-99e4-0fa344dab455": {
+        "33438ce5-47f1-4bc4-811e-9b5c8503c4f7": {
           "type": "button",
           "settings": {
             "button_label": "",
@@ -208,8 +126,8 @@
         }
       },
       "block_order": [
-        "7605f7b4-baf0-4bec-b7b5-b717db6e2f5e",
-        "c88e1981-900a-48ed-99e4-0fa344dab455"
+        "70218380-5e6d-45e8-8037-a035266de833",
+        "33438ce5-47f1-4bc4-811e-9b5c8503c4f7"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -220,41 +138,40 @@
         "padding_bottom": 52
       }
     },
-    "89834954-c2ad-49b8-afb9-6df4016420df": {
+    "d9d26fc9-a25d-4077-9aad-6466edd663a3": {
       "type": "image-with-text",
       "blocks": {
-        "template--21493636727099__89834954-c2ad-49b8-afb9-6df4016420df-heading-1": {
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-heading-1": {
           "type": "heading",
           "settings": {
             "heading": "",
             "heading_size": "h1"
           }
         },
-        "template--21493636727099__89834954-c2ad-49b8-afb9-6df4016420df-text-1": {
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Insgesamt bieten Feste und Rituale in der Familie eine Gelegenheit, die Bindung zwischen den Generationen zu stärken, Traditionen weiterzugeben und gemeinsam schöne Erinnerungen zu schaffen. Sie sind ein Weg, sich im Jahr zu orientieren, die Zeit bewusst zu erleben und die Bedeutung von Gemeinschaft und Tradition zu schätzen.<\/p>",
+            "text": "<h2>Zum Anziehen<\/h2><p>Wir empfehlen Kleidung aus Wolle oder Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Wolle wärmt zudem auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.<\/p>",
             "text_style": "body"
           }
         },
-        "template--21493636727099__89834954-c2ad-49b8-afb9-6df4016420df-button-1": {
+        "950a4dec-6f7f-417e-a84c-9ae4561e26ff": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Zur Kindermode",
             "button_link": "",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "template--21493636727099__89834954-c2ad-49b8-afb9-6df4016420df-heading-1",
-        "template--21493636727099__89834954-c2ad-49b8-afb9-6df4016420df-text-1",
-        "template--21493636727099__89834954-c2ad-49b8-afb9-6df4016420df-button-1"
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-heading-1",
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1",
+        "950a4dec-6f7f-417e-a84c-9ae4561e26ff"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Advent-Winter-Rituale.jpg",
         "height": "adapt",
-        "desktop_image_width": "large",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -265,6 +182,40 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1d8754a4-e8bf-46ea-b6d6-71564cd84808": {
+      "type": "rich-text",
+      "blocks": {
+        "d7180982-7e4e-4b44-af05-13b28becc12b": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Bodys: <\/strong>4-5 langärmlige Wolle-Seide Bodys reichen oft als Grundausrüstung aus.<\/p><p><strong>Hosen:<\/strong> 2 bequeme Wolle-Seide Hosen oder Leggings. (Etwas weitere Pumphöschen passen auch gut über Stoffwindelpopos.)<\/p><p><strong>Jäckchen \/ Wollpullover:<\/strong> Ein warmes Obterteil für drüber wenn es kühler ist<\/p><p><strong>Socken:<\/strong> <a href=\"\/collections\/socken\" target=\"_blank\" title=\"Socken\">Wollsocken<\/a> und für draussen Woll-<a href=\"\/collections\/fusslinge\" target=\"_blank\" title=\"Füsslinge\">Füsslinge<\/a> - am besten Kniehohe, die die Beine gleich mit schützen.<\/p><p><strong>Mütze:<\/strong> Im Sommer ein Sonnenhut mit breiter Krempe, im Winter eine Wollschlupfmütze und in der Übergangszeit eine <a href=\"\/collections\/leichte-mutzen\" target=\"_blank\" title=\"Leichte Mützen\">leichte Wolle-Seide<\/a> Mütze.<\/p>"
+          }
+        },
+        "317b948b-995d-4ef3-9d10-b6b312b8b161": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "d7180982-7e4e-4b44-af05-13b28becc12b",
+        "317b948b-995d-4ef3-9d10-b6b312b8b161"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -273,8 +224,8 @@
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
-    "5557db53-3e75-4ef9-a993-f08e092ebf73",
-    "5122c367-4d3f-4c2f-9004-912defd2b221",
-    "89834954-c2ad-49b8-afb9-6df4016420df"
+    "9bd6da64-741f-4778-b102-c414c3587318",
+    "d9d26fc9-a25d-4077-9aad-6466edd663a3",
+    "1d8754a4-e8bf-46ea-b6d6-71564cd84808"
   ]
 }

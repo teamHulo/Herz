@@ -99,7 +99,7 @@
         "8038429f-adf3-48b3-93d2-f37c76eec66f": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-warmeSchuhe.jpg",
+            "img": "shopify:\/\/shop_images\/Infobild-ErsteSchuhe.jpg",
             "title": "Warme Barfuss-Schuhe",
             "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.<\/p>",
             "url": "shopify:\/\/collections\/warme-schuhe",
@@ -125,35 +125,13 @@
             "url": "shopify:\/\/collections\/mutzen-stirnbander",
             "btn_name": "Mützen & Stirnbänder"
           }
-        },
-        "398c0626-0767-4f6d-99e5-4a9f1425b329": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/image_18.png",
-            "title": "Advent mit Kindern",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
-            "url": "#",
-            "btn_name": "Read more"
-          }
-        },
-        "ccd6272e-5e42-4713-be72-c67de85b2d0c": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/image_18.png",
-            "title": "Advent mit Kindern",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
-            "url": "#",
-            "btn_name": "Read more"
-          }
         }
       },
       "block_order": [
         "b36b2098-d211-431d-acd0-23649bf238c2",
         "8038429f-adf3-48b3-93d2-f37c76eec66f",
         "05f71cf6-7b93-47b0-b56f-f77333c12898",
-        "0f45442c-cec0-47c4-8890-45ecdabc70da",
-        "398c0626-0767-4f6d-99e5-4a9f1425b329",
-        "ccd6272e-5e42-4713-be72-c67de85b2d0c"
+        "0f45442c-cec0-47c4-8890-45ecdabc70da"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",

@@ -208,6 +208,13 @@
       "settings": {
       }
     },
+    "eb12502c-a978-4a64-8794-299bf7d22d27": {
+      "type": "section-our",
+      "settings": {
+        "name": "UNSERE EMPFEHLUNG",
+        "title": "Für Advent & Weihnachten"
+      }
+    },
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba": {
       "type": "section-blog-list",
       "blocks": {
@@ -321,6 +328,7 @@
     "26c8d3c8-7ce7-4af3-9637-22df869f6e7b",
     "a0cd7d12-bf7a-4e82-8365-6c3379aab588",
     "32304844-b226-476a-b89c-c9bad2a32f6b",
+    "eb12502c-a978-4a64-8794-299bf7d22d27",
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba",
     "9c9bf7b0-233a-4e77-bba3-785994bab770",
     "87ca8f06-a903-47e5-8e13-7b5d55ff9427",

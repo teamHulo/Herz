@@ -39,15 +39,6 @@
             "btn_name": "Unsere Tipps"
           }
         },
-        "375ffd7f-a154-47c3-bac8-0aed4d0768e0": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "text": "",
-            "url": "",
-            "btn_name": "LEarn more"
-          }
-        },
         "24910c9d-15a9-4196-9b65-cc074f34c723": {
           "type": "item",
           "settings": {
@@ -65,7 +56,6 @@
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "bda35f88-36c5-4661-a703-9f1ce55cd109",
-        "375ffd7f-a154-47c3-bac8-0aed4d0768e0",
         "24910c9d-15a9-4196-9b65-cc074f34c723"
       ],
       "settings": {

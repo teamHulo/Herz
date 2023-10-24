@@ -444,6 +444,85 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "0a492d3d-528e-48da-b010-c210886ae5e5": {
+      "type": "image-with-text",
+      "blocks": {
+        "6b338608-3b79-4f3d-9df8-d58ad2ad1f96": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "9c9a2a74-cfc0-4ba5-8974-86da4446a1f9": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Für Unterwegs<\/h2><p>Am wohlsten fühlt sich das Baby jederzeit bei dir - dort entwickelt es sich übrigens auch motorisch am besten. Daher empfehlen wir dir, statt in einen teuren Kinderwagen besser in eine gute Trageausrüstung zu investieren.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "d81a507d-bc88-408a-9a0a-46292e52759b": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Tragehilfen",
+            "button_link": "shopify:\/\/collections\/wickeln",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "6b338608-3b79-4f3d-9df8-d58ad2ad1f96",
+        "9c9a2a74-cfc0-4ba5-8974-86da4446a1f9",
+        "d81a507d-bc88-408a-9a0a-46292e52759b"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "67bd58e6-6e85-456a-9643-62b3fa48de08": {
+      "type": "rich-text",
+      "blocks": {
+        "b7ba1167-99d9-4391-b70c-89a9c0fd6ee2": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Windeln:<\/strong> <a href=\"\/collections\/stoffwindeln\" target=\"_blank\" title=\"Stoffwindeln\">Stoffwindeln<\/a> (du brauchst je nach Waschfrequenz ca. 15-25 Stück) oder möglichst schadstoff-freie <a href=\"\/collections\/oko-windeln\" target=\"_blank\" title=\"Öko-Windeln\">Ökowindeln<\/a> in Neugeborenengrösse. Auch wenn du auf Babys Signale achtest und es für sein Geschäft abhältst, trägt es als Backup dennoch meist Windeln.<\/p><p><strong>Waschtüchlein:<\/strong> Waschbare Tüchlein sind die nachhaltigere Alternative zu wegwerfbaren <a href=\"\/collections\/waschlappen-feuchttucher\" target=\"_blank\" title=\"Waschlappen & Feuchttücher\">Feuchttüchern<\/a>. Du kannst sie die ganze Babyzeit über für alles mögliche verwenden.<\/p><p><strong>Asia-Töpfchen: <\/strong>Du kannst das Baby zwar einfach über dem Klo oder Lavabo abhalten, aber mit einem <a href=\"\/collections\/asia-topfchen\" target=\"_blank\" title=\"Asia-Töpfchen\">Töpfchen<\/a> kannst du auf dem Sofa sitzen und während dem Stillen abhalten oder bequemer warten, wenn es etwas dauert.<\/p><p><strong>Wickelunterlage & Wetbags:<\/strong> Ganz nützlich für das <a href=\"\/collections\/wickeln-unterwegs\" target=\"_blank\" title=\"Wickeln unterwegs\">Wickeln unterwegs<\/a> ist eine waschbare Unterlage sowie <a href=\"\/collections\/wetbags\" target=\"_blank\" title=\"Wetbags\">Wetbags<\/a> für schmutzige\/nasse Kleidung oder Stoffwindeln.<\/p><p><strong>Zweiteiliges Pyjama: <\/strong>Wenn du das Baby nachts abhalten willst oder häufig wickeln musst, ist ein zweiteiliges Pyjama oder ein Schlafsack der unten offen ist ganz praktisch. Schau dich mal bei der <a href=\"\/collections\/windelfrei-bekleidung\" target=\"_blank\" title=\"Windelfrei-Bekleidung\">Windelfrei-Bekleidung<\/a> um.<\/p>"
+          }
+        },
+        "016eac97-8cfc-4c9d-b351-ea3acda487aa": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "b7ba1167-99d9-4391-b70c-89a9c0fd6ee2",
+        "016eac97-8cfc-4c9d-b351-ea3acda487aa"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -460,6 +539,8 @@
     "41308713-a845-4443-a06a-516e1ccf1929",
     "e3470e03-a6f3-4812-9928-86beebbcbeb3",
     "4003c411-e1bb-45d9-a716-852e63b472d3",
-    "3b451465-449e-483d-bb19-02954c5cdd47"
+    "3b451465-449e-483d-bb19-02954c5cdd47",
+    "0a492d3d-528e-48da-b010-c210886ae5e5",
+    "67bd58e6-6e85-456a-9643-62b3fa48de08"
   ]
 }

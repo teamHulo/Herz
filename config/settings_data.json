@@ -120,6 +120,8 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/Group.png",
     "checkout_body_background_color": "#faf8f3",
     "checkout_sidebar_background_color": "#e5e0d5",
+    "checkout_heading_font": "Lora",
+    "checkout_accent_color": "#00281d",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",

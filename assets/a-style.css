@@ -42,7 +42,7 @@ h3 {
   line-height: 120%; /* 33.6px */
   letter-spacing: -1.12px;
 }
-p {
+p, a {
   color: #545248;
   font-family: "Work Sans", sans-serif;
   font-size: var(--font-size-16);

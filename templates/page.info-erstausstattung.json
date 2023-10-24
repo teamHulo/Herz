@@ -307,9 +307,9 @@
         "e29542a9-2fb4-499a-8286-a2f2dcc18efa": {
           "type": "button",
           "settings": {
-            "button_label": "Produkte für Babyschlaf",
-            "button_link": "shopify:\/\/collections\/schlafen",
-            "button_style_secondary": false
+            "button_label": "Produkte fürs Stillen",
+            "button_link": "shopify:\/\/collections\/stillen",
+            "button_style_secondary": true
           }
         }
       },

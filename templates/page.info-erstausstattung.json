@@ -230,7 +230,7 @@
           "settings": {
             "button_label": "Produkte für Babyschlaf",
             "button_link": "shopify:\/\/collections\/schlafen",
-            "button_style_secondary": false
+            "button_style_secondary": true
           }
         }
       },
@@ -544,8 +544,8 @@
         "f2a263a6-4c58-4c17-a7cd-35c78501e97f": {
           "type": "button",
           "settings": {
-            "button_label": "Zu den Tragehilfen",
-            "button_link": "shopify:\/\/collections\/tragen",
+            "button_label": "Zur Babypflege",
+            "button_link": "shopify:\/\/collections\/babypflege",
             "button_style_secondary": true
           }
         }

@@ -21,7 +21,7 @@ Usage:
       {% endif %}
       {{ block.shopify_attributes }}>
       {%- for option in product.options_with_values -%}
-        {% if option.name != 'Color' and option.name != 'color' %}
+        {% if option.name != 'Color' and option.name != 'color' and option.name != 'Farbe' and option.name != 'farbe'%}
           <fieldset class="js product-form__input custom-select-drop-down" data-index-field="{{forloop.index0}}">
             <div class="my-custom-select-product-wrap">
               <div class="select__wrap-header">

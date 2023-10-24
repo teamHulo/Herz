@@ -17,7 +17,7 @@ Usage:
     data-url="{{ product.url }}"
     {% if update_url == false %}data-update-url="false"{% endif %}{{ block.shopify_attributes }}>
     {%- for option in product.options_with_values -%}
-      {% if option.name == 'Color' or option.name == 'color' %}
+      {% if option.name == 'Color' or option.name == 'color' or option.name == 'Farbe' or option.name == 'farbe' %}
         <fieldset class="js product-form__input" data-index-field="{{forloop.index0}}">
           {% render 'color-swatch', product: product, option: option, block: block %}
         </fieldset>

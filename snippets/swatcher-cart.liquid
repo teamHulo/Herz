@@ -1,34 +1,38 @@
-<input type="hidden" id="url_json" value="https://cdn.shopify.com/s/files/1/0837/0719/9803/files/swatch.json?v=1697217553">
-{%  assign count =  0%}
+<input
+  type="hidden"
+  id="url_json"
+  value="https://cdn.shopify.com/s/files/1/0837/0719/9803/files/swatch.json?v=1697217553">
+{% assign count = 0 %}
 <div class="colors">
-    {%- for option in product.options_with_values -%}
-       
-        {% if option.name == 'Color' or option.name == 'color' %}
-            <div class="option-wrap" data-option-id="{{forloop.index}}">
-                {% for value in option.values %}
-                    {%  assign count =  count | plus: 1%} 
-                    <div class="div__wrap-swatcher-item">
-                        <input  style="display:none;" class="swatch-color my-input-radio"
-                        id="{{section.id}}-{{ product.id }}-{{ option.position }}-{{ forloop.index0 }}"
-                        type="radio"
-                        name="{{section.id}}-{{option.name}}-{{product.id}}"
-                        id="color-{{value}}"
-                        value="{{ value | escape }}"
-                        {% if forloop.index0 == 0 %}checked{% endif %}
-                        {% if option_disabled %}class="disabled"{% endif %}>  
-                        <label class="swatch-color-body" for="{{section.id}}-{{ product.id }}-{{ option.position }}-{{ forloop.index0 }}" >
-                            <div class="swatch-color-wrap" style="background: url('{{ value | remove: ' '  | append: '.png' | file_url }}') center/150% 150%; "> 
-                            </div>
-                        </label>
-                    </div>
-            
-                {% endfor %}
-            </div>
-        {% endif %}
-    {%- endfor -%}
+  {%- for option in product.options_with_values -%}
+
+    {% if option.name == 'Color' or option.name == 'color' or option.name == 'Farbe' or option.name == 'farbe' %}
+      <div class="option-wrap" data-option-id="{{forloop.index}}">
+        {% for value in option.values %}
+          {% assign count = count | plus: 1 %}
+          <div class="div__wrap-swatcher-item">
+            <input
+              style="display:none;"
+              class="swatch-color my-input-radio"
+              id="{{section.id}}-{{ product.id }}-{{ option.position }}-{{ forloop.index0 }}"
+              type="radio"
+              name="{{section.id}}-{{option.name}}-{{product.id}}"
+              id="color-{{value}}"
+              value="{{ value | escape }}"
+              {% if forloop.index0 == 0 %}checked{% endif %}
+              {% if option_disabled %}class="disabled"{% endif %}>
+            <label class="swatch-color-body" for="{{section.id}}-{{ product.id }}-{{ option.position }}-{{ forloop.index0 }}">
+              <div class="swatch-color-wrap" style="background: url('{{ value | remove: ' '  | append: '.png' | file_url }}') center/150% 150%; "></div>
+            </label>
+          </div>
+
+        {% endfor %}
+      </div>
+    {% endif %}
+  {%- endfor -%}
 </div>
 {% if count > 3 %}
-    <div class="count-option">
-        <span>+{{ count | minus: 3  }}</span>
-    </div>
+  <div class="count-option">
+    <span>+{{ count | minus: 3 }}</span>
+  </div>
 {% endif %}

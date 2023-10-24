@@ -2274,7 +2274,14 @@ pickup-availability {
     display: none;
   }
 }
-
+variant-radios{
+  display:flex !important;
+  flex-wrap:wrap;
+  gap:10px;
+}
+variant-radios fieldset{
+  max-width:273px !important;
+}
 @media (max-width:500px){
   .my-custom-select-product-wrap{
     width:100%;
@@ -2285,6 +2292,7 @@ pickup-availability {
   }
   variant-radios{
     width: 100%;
+   
   }
   .div{
     width:calc(100% - 91px);

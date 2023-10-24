@@ -3,16 +3,16 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "bda35f88-36c5-4661-a703-9f1ce55cd109": {
+        "8fc6288d-372e-45df-a8da-4a794678a4f4": {
           "type": "item",
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
-            "img2": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
-            "img3": "shopify:\/\/shop_images\/Infobild-Handschuhe.jpg",
-            "title": "Warm durch Herbst & Winter",
-            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.<\/p>",
-            "url": "shopify:\/\/pages\/warm-durch-herbst-winter",
-            "btn_name": "Unsere Tipps"
+            "img1": "shopify:\/\/shop_images\/Start-Silder-Advent1.jpg",
+            "img2": "shopify:\/\/shop_images\/Start-Silder-Advent2_b327cc0d-dbd7-4f3d-ac8a-3f700a78ac0e.jpg",
+            "img3": "shopify:\/\/shop_images\/Start-Silder-Advent3.jpg",
+            "title": "Advent mit Kindern gestalten",
+            "text": "<p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente steckt. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.<\/p>",
+            "url": "shopify:\/\/pages\/themenseite",
+            "btn_name": "Mehr zum Thema"
           }
         },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
@@ -27,14 +27,23 @@
             "btn_name": "Mehr zum Thema erfahren"
           }
         },
-        "8fc6288d-372e-45df-a8da-4a794678a4f4": {
+        "bda35f88-36c5-4661-a703-9f1ce55cd109": {
           "type": "item",
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Ballons-hoch.png",
-            "img2": "shopify:\/\/shop_images\/Philosophie1.jpg",
-            "img3": "shopify:\/\/shop_images\/Portofrei.png",
-            "title": "Willkommen im neuen Onlineshop",
-            "text": "<p>Wir freuen uns, dir unseren komplett neu gestalteten Onlineshop zu präsentieren. Weil wir unsere Freude mit dir teilen möchten, schenken wir dir bis am 5.November die Versandkosten.<\/p>",
+            "img1": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
+            "img2": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
+            "img3": "shopify:\/\/shop_images\/Infobild-Handschuhe.jpg",
+            "title": "Warm durch Herbst & Winter",
+            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.<\/p>",
+            "url": "shopify:\/\/pages\/warm-durch-herbst-winter",
+            "btn_name": "Unsere Tipps"
+          }
+        },
+        "375ffd7f-a154-47c3-bac8-0aed4d0768e0": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "text": "",
             "url": "",
             "btn_name": "LEarn more"
           }
@@ -53,9 +62,10 @@
         }
       },
       "block_order": [
-        "bda35f88-36c5-4661-a703-9f1ce55cd109",
-        "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
+        "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
+        "bda35f88-36c5-4661-a703-9f1ce55cd109",
+        "375ffd7f-a154-47c3-bac8-0aed4d0768e0",
         "24910c9d-15a9-4196-9b65-cc074f34c723"
       ],
       "settings": {
@@ -100,9 +110,9 @@
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/image_18.png",
-            "title": "Advent mit Kindern",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
-            "url": "#",
+            "title": "Strumpfhosen & Socken aus Wolle",
+            "text": "<p>Wenn es draussen kalt ist, eignen sich als erste Kleidungsschicht Strumpfhosen aus Wolle super! Und an die Füsse Wollsocken: Sie geben warm und verhindern Schweissfüsse.<\/p>",
+            "url": "shopify:\/\/collections\/strumpfhosen-stulpen-socken",
             "btn_name": "Read more"
           }
         },
@@ -147,7 +157,7 @@
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
-        "title": "Jetzt aktuell"
+        "title": "Das brauchst du für den Herbst & Winter"
       }
     },
     "36e0d3e3-5bd7-406a-a6e0-7b82cebec1e4": {

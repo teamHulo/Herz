@@ -240,8 +240,8 @@
         "template--21493636727099__89834954-c2ad-49b8-afb9-6df4016420df-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Feste & Rituale",
+            "button_link": "shopify:\/\/collections\/feste-rituale",
             "button_style_secondary": false
           }
         }
@@ -254,7 +254,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Infobild-Advent-Winter-Rituale.jpg",
         "height": "adapt",
-        "desktop_image_width": "large",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",

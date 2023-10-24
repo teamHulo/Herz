@@ -15,14 +15,14 @@ body{
   font-family: "Work Sans", sans-serif !important;
 }
 h1 {
-  color: #00281d;
+  color: #00281d !important;
 
   font-family: "Lora", serif !important;
   font-size: var(--font-size-55);
-  font-style: italic;
-  font-weight: 400;
-  line-height: 120%; /* 66px */
-  letter-spacing: -2.2px;
+  font-style: italic !important;
+  font-weight: 400 !important;
+  line-height: 120% !important; /* 66px */
+  letter-spacing: -2.2px !important;
 }
 
 h2 {

@@ -1,6 +1,7 @@
 {{ 'component-article-card.css' | asset_url | stylesheet_tag }}
 {{ 'component-card.css' | asset_url | stylesheet_tag }}
 {{ 'section-main-blog.css' | asset_url | stylesheet_tag }}
+<link rel="stylesheet" href="{{ 'card-item.css' | asset_url }}">
 
 {%- style -%}
   .section-{{ section.id }}-padding {
@@ -16,22 +17,42 @@
   }
 {%- endstyle -%}
 
-{%- paginate blog.articles by 6 -%}
-  <div class="main-blog page-width section-{{ section.id }}-padding">
-    <h1 class="title--primary{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--fade-in{% endif %}">
+{%- paginate blog.articles by 9 -%}
+  <div class="container main-blog page-width section-{{ section.id }}-padding">
+    {% comment %} <h1 class="title--primary{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--fade-in{% endif %}">
       {{ blog.title | escape }}
-    </h1>
+    </h1> {% endcomment %}
+    <div class="main-blog__tags">
+      <p class="main-blog__tags-label">CATEGORY</p>
+      <div class="filter">
+        {% for tag in blog.all_tags %} 
+            {% if current_tags == tag %}
+            <span class="article-tag">
+              {{ tag | capitalize }} &#x2715;
+            </span>
+          {% elsif current_tags contains tag %}
+            <span class="article-tag active">
+              {{ tag | capitalize | link_to_remove_tag: tag }}
+            </span>
+          {% else %}
+            <span class="article-tag ">
+              {{ tag | capitalize | link_to_add_tag: tag }}
+            </span>
+          {% endif %}
+        {% endfor %}
+    </div>
+    </div>
 
-    <div class="blog-articles {% if section.settings.layout == 'collage' %}blog-articles--collage{% endif %}">
+    <div class="blog-list__content">
       {%- for article in blog.articles -%}
         <div
-          class="blog-articles__article article{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
+          class="item blog-articles__article {% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
           {% if settings.animations_reveal_on_scroll %}
             data-cascade
             style="--animation-order: {{ forloop.index }};"
           {% endif %}
         >
-          {%- render 'article-card',
+          {% comment %} {%- render 'article-card',
             article: article,
             media_height: section.settings.image_height,
             media_aspect_ratio: article.image.aspect_ratio,
@@ -39,7 +60,8 @@
             show_date: section.settings.show_date,
             show_author: section.settings.show_author,
             show_excerpt: true
-          -%}
+          -%} {% endcomment %}
+          {% render 'card-item', item: article %}
         </div>
       {%- endfor -%}
     </div>

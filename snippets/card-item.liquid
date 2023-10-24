@@ -1,0 +1,24 @@
+<div class="">
+    <a href="{{ item.url }}">
+        <div class="img">
+            <div class="img__wrapper">
+                <img src="{{ item.image | img_url: 'master' }}" alt="">
+            </div>
+        </div>
+        <div class="content">
+            {% if item.title != blank %}
+                <h4>{{ item.title }}</h4>
+            {% endif %}
+            {% if item.excerpt != blank %}
+                <p>{{ item.excerpt }}</p>
+            {% endif %}
+            {% if item.tags != empty %}
+                <div class="tags__wrapper">
+                    {% for tag in item.tags %}
+                        <span>&#10072;{{ tag | upcase }}</span>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        </div>
+    </a>
+</div>

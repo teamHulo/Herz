@@ -214,6 +214,7 @@ $(() => {
 
 $(() => {
   const jsonFileUrl = $("#url_json").val();
+  console.log(jsonFileUrl);
 
   fetch(jsonFileUrl)
     .then((response) => response.json())
@@ -224,6 +225,9 @@ $(() => {
         let valueColor = $(this).val();
         let hexColor = data[0][valueColor];
         if (hexColor != undefined) {
+          console.log($(this).val());
+          $(this).closest('.my-cart-product').addClass('hex');
+          console.log(hexColor);
           $(this)
             .closest(".div__wrap-swatcher-item")
             .find(".swatch-color-wrap")

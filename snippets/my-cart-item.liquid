@@ -1,3 +1,13 @@
+{%  assign  count =  0%} 
+{%- for option in product.options_with_values -%}  
+  {% if option.name == 'Color' or option.name == 'color' or option.name == 'Farbe' or option.name == 'farbe'%} 
+    {%  assign count =  count | plus : 1%}
+  {% endif %} 
+
+{% endfor %}
+
+
+
 <div class="slide__wrap  my-cart-product">
   <div class="product_image">
     <a href="{{product.url}}">
@@ -11,9 +21,11 @@
       </div>
     </a>
     {% if show_contant != false %}
-      <div class="product-swatch">
-        {% render 'swatcher-cart', product: product, section: section %}
-      </div>
+        {% if count > 0 %}
+          <div class="product-swatch" >
+            {% render 'swatcher-cart', product: product, section: section %}
+          </div>
+        {% endif %}
     {% endif %}
 
 

@@ -142,8 +142,8 @@
       "settings": {
         "title": "Tragejacken für Herbst & Winter",
         "text": "<p>Beim Tragen profitiert dein Baby direkt von deiner Körperwärme. Damit ihr auch bei kühlerem Wetter gut angezogen seid, gibt es Tragejacken- und Pullis, die den Wärmeaustausch optimal unterstützen.<\/p>",
-        "url": "",
-        "btn_name": "Read more"
+        "url": "shopify:\/\/pages\/tragen-im-herbst-und-winter",
+        "btn_name": "Mehr zum Thema erfahren"
       }
     },
     "26c8d3c8-7ce7-4af3-9637-22df869f6e7b": {
@@ -239,6 +239,7 @@
         "9b334d10-0974-47d1-82e6-eff83fc39c2c",
         "14846c52-4041-4370-9399-ba4592d3f4ae"
       ],
+      "disabled": true,
       "settings": {
         "bg": "#e5e0d5",
         "text_color": "#00281d",

@@ -210,6 +210,21 @@
     },
     "eb12502c-a978-4a64-8794-299bf7d22d27": {
       "type": "section-our",
+      "blocks": {
+        "be814ee1-dadc-46d9-a79e-6128f77f64d7": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
+            "title": "Adventskalender für Paare",
+            "text": "<p>Der Paarzeit Adventskalender ist eine wunderschöne Idee für etwas bewusste Zweisamkeit im Advent. Mit inspirierenden, lustigen, nachdenklichen, romantischen Anregungen für eure Partnerschaft.<\/p>",
+            "url": "shopify:\/\/collections\/paarzeit",
+            "btn_name": "Paarzeit verbringen"
+          }
+        }
+      },
+      "block_order": [
+        "be814ee1-dadc-46d9-a79e-6128f77f64d7"
+      ],
       "settings": {
         "name": "UNSERE EMPFEHLUNG",
         "title": "Für Advent & Weihnachten"

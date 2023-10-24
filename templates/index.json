@@ -170,10 +170,10 @@
         "2129a232-6fc7-482c-89ad-94e0d89cc98b": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Tragejacke-Hoodie.jpg",
+            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Leichte.jpg",
             "title": "Leichte Umstands- & Tragejacken",
             "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.<\/p>",
-            "url": "#",
+            "url": "shopify:\/\/collections\/leichte-umstands-tragejacken",
             "btn_name": "Jetzt einkaufen"
           }
         },

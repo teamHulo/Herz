@@ -154,20 +154,11 @@
             "text": "<h2>Zum Anziehen<\/h2><p>Wir empfehlen Kleidung aus Wolle oder Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Wolle wärmt zudem auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.<\/p>",
             "text_style": "body"
           }
-        },
-        "950a4dec-6f7f-417e-a84c-9ae4561e26ff": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zur Kindermode",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-heading-1",
-        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1",
-        "950a4dec-6f7f-417e-a84c-9ae4561e26ff"
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1"
       ],
       "settings": {
         "height": "adapt",
@@ -189,7 +180,7 @@
         "d7180982-7e4e-4b44-af05-13b28becc12b": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Bodys: <\/strong>4-5 langärmlige Wolle-Seide Bodys reichen oft als Grundausrüstung aus.<\/p><p><strong>Hosen:<\/strong> 2 bequeme Wolle-Seide Hosen oder Leggings. (Etwas weitere Pumphöschen passen auch gut über Stoffwindelpopos.)<\/p><p><strong>Jäckchen \/ Wollpullover:<\/strong> Ein warmes Obterteil für drüber wenn es kühler ist<\/p><p><strong>Socken:<\/strong> <a href=\"\/collections\/socken\" target=\"_blank\" title=\"Socken\">Wollsocken<\/a> und für draussen Woll-<a href=\"\/collections\/fusslinge\" target=\"_blank\" title=\"Füsslinge\">Füsslinge<\/a> - am besten Kniehohe, die die Beine gleich mit schützen.<\/p><p><strong>Mütze:<\/strong> Im Sommer ein Sonnenhut mit breiter Krempe, im Winter eine Wollschlupfmütze und in der Übergangszeit eine <a href=\"\/collections\/leichte-mutzen\" target=\"_blank\" title=\"Leichte Mützen\">leichte Wolle-Seide<\/a> Mütze.<\/p>"
+            "text": "<p><strong>Bodys: <\/strong>4-5 langärmlige Wolle-Seide <a href=\"\/collections\/body-langarm\" target=\"_blank\" title=\"Body langarm\">Bodys<\/a> reichen oft als Grundausrüstung aus.<\/p><p><strong>Hosen:<\/strong> 2 bequeme Wolle-Seide <a href=\"\/collections\/hosen-leggings\" target=\"_blank\" title=\"Hosen & Leggings\">Hosen oder Leggings<\/a>. (Etwas weitere Pumphöschen passen auch gut über Stoffwindelpopos.)<\/p><p><strong>Jäckchen \/ Wollpullover:<\/strong> Ein warmer <a href=\"\/collections\/pullover\" target=\"_blank\" title=\"Pullover\">Pulli<\/a> oder ein leichtes <a href=\"\/collections\/leichte-jacken\" target=\"_blank\" title=\"Leichte Jacken\">Jäckchen<\/a> als Obterteil für drüber wenn es kühler ist<\/p><p><strong>Socken:<\/strong> <a href=\"\/collections\/socken\" target=\"_blank\" title=\"Socken\">Wollsocken<\/a> und für draussen Woll-<a href=\"\/collections\/fusslinge\" target=\"_blank\" title=\"Füsslinge\">Füsslinge<\/a> - am besten Kniehohe, die die Beine gleich mit schützen.<\/p><p><strong>Mütze:<\/strong> Im Sommer ein Sonnenhut mit breiter Krempe, im Winter eine Wollschlupfmütze und in der Übergangszeit eine <a href=\"\/collections\/leichte-mutzen\" target=\"_blank\" title=\"Leichte Mützen\">leichte Wolle-Seide<\/a> Mütze.<\/p>"
           }
         },
         "317b948b-995d-4ef3-9d10-b6b312b8b161": {
@@ -216,6 +207,51 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "1e702735-a8e9-4e16-a1ce-9d5cf6f1e539": {
+      "type": "image-with-text",
+      "blocks": {
+        "80887c8f-94a0-494d-a6e0-a1f8c78aacad": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "f66db330-3e7b-4dd3-a3eb-a5cc5761b79c": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Zum Schlafen<\/h2><p>Der Schlafplatz des Babys sollte kühl sein. Damit das Baby trotzdem warm hat, empfehlen wir flexible Schichten aus Wolle oder Wolle-Seide. Dazu gehört insbesondere ein passender Schlafsack.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "084b1f9b-7279-4060-994e-722e018d02b8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Babyschlaf",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "80887c8f-94a0-494d-a6e0-a1f8c78aacad",
+        "f66db330-3e7b-4dd3-a3eb-a5cc5761b79c",
+        "084b1f9b-7279-4060-994e-722e018d02b8"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -226,6 +262,7 @@
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
     "9bd6da64-741f-4778-b102-c414c3587318",
     "d9d26fc9-a25d-4077-9aad-6466edd663a3",
-    "1d8754a4-e8bf-46ea-b6d6-71564cd84808"
+    "1d8754a4-e8bf-46ea-b6d6-71564cd84808",
+    "1e702735-a8e9-4e16-a1ce-9d5cf6f1e539"
   ]
 }

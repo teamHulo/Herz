@@ -180,7 +180,7 @@
         "d7180982-7e4e-4b44-af05-13b28becc12b": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Bodys: <\/strong>4-5 Wolle-Seide Bodys reichen oft als Grundausrüstung aus.<\/p><p><strong>Hosen:<\/strong> 2 bequeme Wolle\/Seide Hosen oder Leggings. (Etwas weitere Pumphöschen passen auch gut über Stoffwindelpopos.)<\/p><p><strong>Jäckchen \/ Wollpullover:<\/strong> Ein warmes Obterteil für drüber wenn es kühler ist<\/p><p><strong>Socken:<\/strong> Wollsocken und für draussen Woll-Tragestiefelchen<\/p><p><strong>Mütze:<\/strong> Im Sommer ein Sonnenhut mit breiter Krempe, im Winter eine Wollmütze und in der Übergangszeit eine Wolle-Seide Mütze.<\/p>"
+            "text": "<p><strong>Bodys: <\/strong>4-5 langärmlige Wolle-Seide Bodys reichen oft als Grundausrüstung aus.<\/p><p><strong>Hosen:<\/strong> 2 bequeme Wolle-Seide Hosen oder Leggings. (Etwas weitere Pumphöschen passen auch gut über Stoffwindelpopos.)<\/p><p><strong>Jäckchen \/ Wollpullover:<\/strong> Ein warmes Obterteil für drüber wenn es kühler ist<\/p><p><strong>Socken:<\/strong> Wollsocken und für draussen Woll-Tragestiefelchen<\/p><p><strong>Mütze:<\/strong> Im Sommer ein Sonnenhut mit breiter Krempe, im Winter eine Wollschlupfmütze und in der Übergangszeit eine leichte Wolle-Seide Mütze.<\/p>"
           }
         },
         "317b948b-995d-4ef3-9d10-b6b312b8b161": {
@@ -207,59 +207,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "2d788a59-19cb-4c94-8f16-ef2489f9fb1a": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--21510548521275__2d788a59-19cb-4c94-8f16-ef2489f9fb1a-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--21510548521275__2d788a59-19cb-4c94-8f16-ef2489f9fb1a-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--21510548521275__2d788a59-19cb-4c94-8f16-ef2489f9fb1a-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21510548521275__2d788a59-19cb-4c94-8f16-ef2489f9fb1a-column-1",
-        "template--21510548521275__2d788a59-19cb-4c94-8f16-ef2489f9fb1a-column-2",
-        "template--21510548521275__2d788a59-19cb-4c94-8f16-ef2489f9fb1a-column-3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -270,7 +217,6 @@
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
     "9bd6da64-741f-4778-b102-c414c3587318",
     "d9d26fc9-a25d-4077-9aad-6466edd663a3",
-    "1d8754a4-e8bf-46ea-b6d6-71564cd84808",
-    "2d788a59-19cb-4c94-8f16-ef2489f9fb1a"
+    "1d8754a4-e8bf-46ea-b6d6-71564cd84808"
   ]
 }

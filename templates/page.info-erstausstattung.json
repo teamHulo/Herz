@@ -331,6 +331,40 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "e3470e03-a6f3-4812-9928-86beebbcbeb3": {
+      "type": "rich-text",
+      "blocks": {
+        "ea029e96-e071-47ba-8524-8be7cf5b97cf": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Stillkissen:<\/strong> Das <a href=\"\/collections\/still-lagerungskissen\" target=\"_blank\" title=\"Still- & Lagerungskissen\">Stillkissen<\/a> ist schon in der Schwangerschaft hilfreich für eine bequeme Schlafposition. Danach erleichtert es das Stillen.<\/p><p><strong>Stilleinlagen:<\/strong> Weil Muttermilch auch mal ganz unkontrolliert auslaufen kann, brauchst du <a href=\"\/collections\/stilleinlagen\" target=\"_blank\" title=\"Stilleinlagen\">Stilleinlagen<\/a>. Wir empfehlen wegwerfbare Einlagen bis sich die Milchmenge eingependelt hat, danach eignen sich waschbare Einlagen aus Wolle-Seide oder Baumwolle.<\/p><p><strong>Still-Bekleidung:<\/strong> Für einfaches und diskretes Stillen lohnt es sich, in passende Kleidung (<a href=\"\/collections\/still-bhs\" target=\"_blank\" title=\"Still-BHs\">Still-BHs<\/a>, <a href=\"\/collections\/umstands-stilltops\" target=\"_blank\" title=\"Umstands- & Stilltops\">Still-Tops<\/a> und <a href=\"\/collections\/langarm-shirts-pullover\" target=\"_blank\" title=\"Langarm-Shirts & Pullover\">Still-Oberteile<\/a>) zu investieren. Sie lässt sich unkompliziert öffnen, ohne dass du dich entblössen musst.<\/p><p>Spucktücher: Falls die Milch (aus-)läuft oder das Baby spuckt.<\/p>"
+          }
+        },
+        "eed8a4ab-320d-4a79-bf15-c36da0f2d1d9": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "ea029e96-e071-47ba-8524-8be7cf5b97cf",
+        "eed8a4ab-320d-4a79-bf15-c36da0f2d1d9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -344,6 +378,7 @@
     "1d8754a4-e8bf-46ea-b6d6-71564cd84808",
     "1e702735-a8e9-4e16-a1ce-9d5cf6f1e539",
     "1a2579ab-7795-47cb-af85-1fe6d55cc297",
-    "41308713-a845-4443-a06a-516e1ccf1929"
+    "41308713-a845-4443-a06a-516e1ccf1929",
+    "e3470e03-a6f3-4812-9928-86beebbcbeb3"
   ]
 }

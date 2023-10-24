@@ -194,7 +194,7 @@
           "type": "button",
           "settings": {
             "button_label": "Zu den Mützen",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/mutzen-stirnbander",
             "button_style_secondary": false
           }
         }

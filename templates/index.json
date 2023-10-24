@@ -89,9 +89,9 @@
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/image_18.png",
-            "title": "Advent mit Kindern",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
-            "url": "#",
+            "title": "Warme Barfuss-Schuhe",
+            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.<\/p>",
+            "url": "shopify:\/\/collections\/warme-schuhe",
             "btn_name": "Read more"
           }
         },

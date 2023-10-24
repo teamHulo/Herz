@@ -167,6 +167,16 @@
     "32304844-b226-476a-b89c-c9bad2a32f6b": {
       "type": "section-slider",
       "blocks": {
+        "99614f5f-712b-45d9-b81c-35dc9b17ed70": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Mood3_1.png",
+            "title": "Tragejacken für Männer",
+            "text": "<p>Auch Väter sollen ihr Baby warm und kuschlig tragen dürfen. Wähle zwischen Hoodies, Softshell-Jacken oder Wintermänteln für Männer.<\/p>",
+            "url": "shopify:\/\/collections\/tragejacken-fur-mannertragejacken-fur-manner",
+            "btn_name": "Jetzt einkaufen"
+          }
+        },
         "2129a232-6fc7-482c-89ad-94e0d89cc98b": {
           "type": "item",
           "settings": {
@@ -174,16 +184,6 @@
             "title": "Leichte Umstands- & Tragejacken",
             "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.<\/p>",
             "url": "shopify:\/\/collections\/leichte-umstands-tragejacken",
-            "btn_name": "Jetzt einkaufen"
-          }
-        },
-        "99614f5f-712b-45d9-b81c-35dc9b17ed70": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Mood3_1.png",
-            "title": "Leichte Umstands- & Tragejacken",
-            "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.<\/p>",
-            "url": "#",
             "btn_name": "Jetzt einkaufen"
           }
         },
@@ -199,8 +199,8 @@
         }
       },
       "block_order": [
-        "2129a232-6fc7-482c-89ad-94e0d89cc98b",
         "99614f5f-712b-45d9-b81c-35dc9b17ed70",
+        "2129a232-6fc7-482c-89ad-94e0d89cc98b",
         "e676cca9-7ed7-4238-9fc1-bf237e460203"
       ],
       "settings": {

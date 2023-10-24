@@ -15,7 +15,7 @@
 h1 {
   color: #00281d;
 
-  font-family: "Lora", serif;
+  font-family: "Lora", serif !important;
   font-size: var(--font-size-55);
   font-style: italic;
   font-weight: 400;
@@ -25,7 +25,7 @@ h1 {
 
 h2 {
   color: #00281d;
-  font-family: "Lora", serif;
+  font-family: "Lora", serif !important;
   font-size: var(--font-size-38);
   font-style: italic;
   font-weight: 400;
@@ -33,7 +33,7 @@ h2 {
   letter-spacing: -1.52px;
 }
 h3 {
-  color: #00281d;
+  color: #00281d !important;
   text-align: center;
   font-family: "Lora", serif;
   font-size: var(--font-size-28);
@@ -43,7 +43,7 @@ h3 {
   letter-spacing: -1.12px;
 }
 h4, h5, h6{
-  font-family: "Lora", serif;
+  font-family: "Lora", serif !important;
   color: #00281d;
   font-style: italic;
   font-weight: 400;

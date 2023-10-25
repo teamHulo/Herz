@@ -1,0 +1,294 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "e4f9ed82-6d67-41da-8751-1d3f0a0233f0": {
+      "type": "section-about-text",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "logo": "shopify:\/\/shop_images\/Group_1062_cdf04b28-cb1e-4f07-93c5-0f6ef16ca409.png",
+        "title": "Über Uns",
+        "text": "<p>Willkommen bei Herz an Herz - dem Laden für nachhaltige Produkte und bewusste Elternschaft in Winterthur. Unser Team besteht aus engagierten Fachfrauen, die sich mit Leidenschaft für dich und dein Baby einsetzen. Unser Herz schlägt im Einklang mit deinem, und wir sind hier, um dich auf deiner Reise durch Schwangerschaft, Geburt und das Leben mit deinem Baby zu begleiten.<\/p><p>In unserem Laden, direkt beim Bahnhof Winterthur, findest du auf über 250m² das grösste Sortiment an nachhaltigen Produkten für Schwangerschaft, Geburt, Baby und Kleinkind in der Schweiz. Wir laden dich herzlich ein, unseren einzigartigen Laden zu besuchen.<\/p><p>Neben unserem breiten Produktsortiment bieten wir zahlreiche Kurse, Veranstaltungen und Treffen an, die das Leben mit Baby oder Kleinkind erleichtern, deinen Horizont erweitern und dir die Möglichkeit bieten, neue, wunderbare Begegnungen zu erleben. In unserer gemütlichen Baby Lounge kannst du mit deinem Baby oder Kleinkind entspannen, spielen, einen Kaffee geniessen und andere Mütter oder Väter kennenlernen.<\/p><p>Als Fachfrauen für den natürlichen Umgang mit Babys und als Mütter von insgesamt 16 Kindern teilen wir gerne unser Wissen mit dir. Im Laden beraten wir dich zu unseren Produkten und erzählen dir mehr über unsere Philosophie. Wenn du ein bestimmtes Thema vertiefen möchtest oder eine individuelle Lösung für dich und deine Familie suchst, bieten wir verschiedene Beratungen an, darunter Trageberatung, Schlafberatung, Stillberatung und Stoffwindelberatung.<\/p><p> .<\/p>",
+        "img": "shopify:\/\/shop_images\/image_92.jpg",
+        "max_width": 1000
+      }
+    },
+    "591cf3fa-c46a-4347-90c3-10ffaa7815f1": {
+      "type": "section-our-team",
+      "blocks": {
+        "0d00a222-aa0c-4c8b-aa88-5bfe8def0963": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Anita.png",
+            "name": "Anita",
+            "text": "Gründerin, Geschäftsführerin, Coach für Geburtsvorbereitung, Trageberaterin, Babyschlaf-Coach"
+          }
+        },
+        "c8394d23-9764-4513-aa47-49c63d237f3e": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Selina.png",
+            "name": "Selina",
+            "text": "Gründerin, Geschäftsführerin, Trageberaterin, Stoffwindelberaterin, Babyschlaf-Coach"
+          }
+        },
+        "d76f6589-f9e4-4a95-ba25-6b155594ccba": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Jeannine.png",
+            "name": "Jeannine",
+            "text": "Trageberaterin, Babyschlaf-Coach"
+          }
+        },
+        "a7e72277-935e-463c-97b3-335ba595dda4": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Marjana.png",
+            "name": "Marjana",
+            "text": "artgerecht Coach, Beraterin für Stoffwindeln, Windelfrei, Babygeleitete Beikost"
+          }
+        },
+        "c23d39f7-f33f-45a0-b2e4-29b81b08d713": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Meli.png",
+            "name": "Meli",
+            "text": "Trageberaterin, in Ausbildung zur Stillberaterin"
+          }
+        },
+        "4fa9c249-ea07-48d2-aa2a-530bfde3ace2": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Carla.png",
+            "name": "Carla",
+            "text": "Trageberaterin, Yogalehrerin, Frauenkreisleiterin"
+          }
+        },
+        "f9b40a2c-1360-42a4-8cac-7c832ce47bfd": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Sabina.png",
+            "name": "Sabina",
+            "text": "Beraterin für Stoffwindeln & Windelfrei"
+          }
+        },
+        "d0618dc8-417f-43a1-8ed9-10cda937af57": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Lina.png",
+            "name": "Lina",
+            "text": "Trageberaterin, Babyschlaf-Coach, Yogalehrerin"
+          }
+        },
+        "7fdb0f6f-9e64-4aa6-afd7-1ddcf1b8c8a2": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Lorena.png",
+            "name": "Lorena",
+            "text": "Teammitglied und Mama"
+          }
+        },
+        "be9ada2e-bc4e-467d-849d-55cf5a58c64e": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Zoe.png",
+            "name": "Zoé",
+            "text": "Pflegefachfrau, Babyzeichen-Kursleiterin"
+          }
+        }
+      },
+      "block_order": [
+        "0d00a222-aa0c-4c8b-aa88-5bfe8def0963",
+        "c8394d23-9764-4513-aa47-49c63d237f3e",
+        "d76f6589-f9e4-4a95-ba25-6b155594ccba",
+        "a7e72277-935e-463c-97b3-335ba595dda4",
+        "c23d39f7-f33f-45a0-b2e4-29b81b08d713",
+        "4fa9c249-ea07-48d2-aa2a-530bfde3ace2",
+        "f9b40a2c-1360-42a4-8cac-7c832ce47bfd",
+        "d0618dc8-417f-43a1-8ed9-10cda937af57",
+        "7fdb0f6f-9e64-4aa6-afd7-1ddcf1b8c8a2",
+        "be9ada2e-bc4e-467d-849d-55cf5a58c64e"
+      ],
+      "settings": {
+        "bg": "#a25c3f",
+        "text_color": "#faf8f3",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "title": "Unser Team",
+        "label": "Wer sind wir"
+      }
+    },
+    "6742f22c-cbaa-4b6a-aaaf-980509b003a2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Unser Team in Zahlen<\/h2><p>Bei Herz an Herz arbeiten nicht einfach \"Verkäuferinnen\". Wir sind  Fachfrauen in den unterschliedlichsten Bereichen rund um den natürlichen Umgang mit Schwangerschaft, Geburt, Baby und Familienleben. Und zudem sind wir mit Herzblut Mamas und geben dir unsere Erfahrung und unser Wissen weiter.<\/p>"
+          }
+        },
+        "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-heading-1",
+        "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-text-1",
+        "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "cf5c7238-26a2-4d23-84da-58742fa5239e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "10 Fachfrauen",
+            "text": "<p>Bei Herz an Herz arbeiten 10 Frauen, die sich mit viel Herzblut für dich und dein Baby einsetzen. Wir bilden uns laufend weiter und kennen uns nicht nur mit unseren Produkten aus, sondern auch im natürlichen Umgang mit deinem Baby.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "12 Ausbildungen",
+            "text": "<p>Wir legen grossen Wert auf ständige Bildung und Entwicklung, um stets auf dem neuesten Stand in Bezug auf Kinderwunsch, Schwangerschaft, Geburt, Baby und Familie zu sein.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "16 eigene Kinder",
+            "text": "<p>Unsere tiefgreifende Erfahrung resultiert auch aus unserer eigenen Elternschaft. Zusammen haben wir 16 Kinder im Alter von 1 bis 10 Jahren, und wir wissen aus erster Hand, wovon wir sprechen. Unsere Produkte testen wir und unsere Kinder ausgiebig!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "696ff424-f433-4370-b771-567c506767fe": {
+          "type": "column",
+          "settings": {
+            "title": "1000 Beratungen",
+            "text": "<p>Tagtäglich beraten wir Familien, sei es im Laden oder in persönlichen Beratungen, und helfen ihnen bei ihren individuellen Anliegen. Wir sind hier, um unser Wissen und unsere Erfahrung mit dir zu teilen und dir auf deiner Reise zur Seite zu stehen.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-1",
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-2",
+        "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-3",
+        "696ff424-f433-4370-b771-567c506767fe"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "inverse",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e85f1518-7e1b-4e45-a379-09ca75c69fce": {
+      "type": "section-achievements",
+      "blocks": {
+        "d5aea120-3c34-4183-aaea-05e5c393320d": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Vector_1.png",
+            "name": "10 Fachfrauen",
+            "text": "Bei Herz an Herz arbeiten 10 Frauen, die sich mit viel Herzblut für dich und dein Baby einsetzen."
+          }
+        },
+        "71709b28-2f50-4146-b31c-ff29852b75b1": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Vector_1.png",
+            "name": "12 Aus- und Weiterbildungen",
+            "text": "Wir legen grossen Wert auf ständige Weiterentwicklung und Bildung, um stets auf dem neuesten Stand in Bezug auf Kinderwunsch, Schwangerschaft, Geburt, Baby und Familie zu sein."
+          }
+        },
+        "e3a0d4fe-d2e6-4e55-881b-903312ced00c": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Vector_1.png",
+            "name": "16 eigene Kinder",
+            "text": "Unsere tiefgreifende Erfahrung resultiert aus unserer eigenen Elternschaft. Zusammen haben wir 16 Kinder im Alter von 1 bis 10 Jahren, und wir wissen aus erster Hand, wovon wir sprechen."
+          }
+        },
+        "70686f75-0757-4b4c-ab47-4adf4556549a": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Vector_1.png",
+            "name": "1000 Beratungen",
+            "text": "Tagtäglich beraten wir Familien, sei es im Laden oder in persönlichen Beratungsgesprächen, und helfen ihnen bei ihren individuellen Anliegen. Wir sind hier, um unser Wissen und unsere Erfahrung mit dir zu teilen und dir auf deiner Reise zur Seite zu stehen."
+          }
+        }
+      },
+      "block_order": [
+        "d5aea120-3c34-4183-aaea-05e5c393320d",
+        "71709b28-2f50-4146-b31c-ff29852b75b1",
+        "e3a0d4fe-d2e6-4e55-881b-903312ced00c",
+        "70686f75-0757-4b4c-ab47-4adf4556549a"
+      ],
+      "disabled": true,
+      "settings": {
+        "bg": "#ffffff",
+        "text_color": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "title": "Unser Team in Zahlen",
+        "label": "Bei Herz an Herz arbeiten nicht einfach \"Verkäuferinnen\". Wir sind  Fachfrauen in den unterschliedlichsten Bereichen rund um den natürlichen Umgang mit Schwangerschaft, Geburt, Baby und Familienleben. Und zudem sind wir mit Herzblut Mamas und geben dir unsere Erfahrung und unser Wissen weiter."
+      }
+    }
+  },
+  "order": [
+    "main",
+    "e4f9ed82-6d67-41da-8751-1d3f0a0233f0",
+    "591cf3fa-c46a-4347-90c3-10ffaa7815f1",
+    "6742f22c-cbaa-4b6a-aaaf-980509b003a2",
+    "cf5c7238-26a2-4d23-84da-58742fa5239e",
+    "e85f1518-7e1b-4e45-a379-09ca75c69fce"
+  ]
+}

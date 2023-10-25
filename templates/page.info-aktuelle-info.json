@@ -115,17 +115,17 @@
         "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-text-1": {
           "type": "text",
           "settings": {
-            "text": "Mit dem neuen Onlineshop starten wir frisch mit den aktuellen Produkten. Die Restposten aus älteren Kollektionen oder Produkte, die wir aus dem Sortiment nehmen werden (z.B. weil es einfach Platz für Neues oder mal eine andere Marke braucht) werd",
+            "text": "Stöbere im Restposten-Sale.",
             "text_style": "body"
           }
         },
         "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "www.herzanherz-sale.ch",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }

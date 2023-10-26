@@ -1459,5 +1459,16 @@
         "info": "t:settings_schema.cart.settings.cart_drawer.collection.info"
       }
     ]
+  },
+  {
+    "name": "Swatcher url ",
+    "settings":[
+      {
+        "type":"text",
+        "id": "file_swatch_url",
+        "label":"file url swatch",
+        "default":"https://cdn.shopify.com/s/files/1/0837/0719/9803/files/swatch.json?v=1697217553"
+      }
+    ]
   }
 ]

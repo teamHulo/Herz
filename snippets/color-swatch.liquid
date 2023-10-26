@@ -1,30 +1,31 @@
 {% assign product_form_id = 'product-form-' | append: section.id %}
 
-<input type="hidden" id="url_json" value="https://cdn.shopify.com/s/files/1/0837/0719/9803/files/swatch.json?v=1697217553">
+<input
+  type="hidden"
+  id="url_json"
+  value="{{settings.file_swatch_url}}">
 
 <div class="swatcher__wrap">
   <div class="swatcher-list">
     {% for value in option.values %}
-        <div class="div__wrap-swatcher-item">
-            <input class="swatch-color my-input-radio"
-            id="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}"
-            type="radio"
-            name="{{option.name}}"
-            id="color-{{value}}"
-            value="{{ value | escape }}"
-            {% if option.selected_value == value %}checked{% endif %}
-            {% if option_disabled %}class="disabled"{% endif %}>  
-          <label class="swatch-color-body" for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}" >
-            
-            <div class="swatch-color-wrap" style="background: url('{{ value | remove: ' '  | append: '.png' | file_url }}') center/150% 150%; "> 
-            </div>
-          </label>
-        </div>
+      <div class="div__wrap-swatcher-item">
+        <input
+          class="swatch-color my-input-radio"
+          id="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}"
+          type="radio"
+          name="{{option.name}}"
+          id="color-{{value}}"
+          value="{{ value | escape }}"
+          {% if option.selected_value == value %}checked{% endif %}
+          {% if option_disabled %}class="disabled"{% endif %}>
+        <label class="swatch-color-body" for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
+
+          <div class="swatch-color-wrap" style="background: url('{{ value | remove: ' '  | append: '.png' | file_url }}') center/150% 150%; "></div>
+        </label>
+      </div>
     {% endfor %}
     <div class="swatch__name">
-      <p>
-
-      </p>
+      <p></p>
     </div>
 
 

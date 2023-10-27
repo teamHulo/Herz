@@ -241,12 +241,23 @@
             "url": "shopify:\/\/collections\/wichtelzauber",
             "btn_name": "Wichtel einladen"
           }
+        },
+        "a20d7289-674c-4546-a4f6-6102c2ab22c9": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
+            "title": "Weihnachtsgeschenke Guide",
+            "text": "<p>Bei uns findest du eine Auswahl an sinnvollen Weihnachtsgeschenken. Lass dich inspirieren!<\/p>",
+            "url": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
+            "btn_name": "Read more"
+          }
         }
       },
       "block_order": [
         "be814ee1-dadc-46d9-a79e-6128f77f64d7",
         "b7e797f2-1b5f-4151-a871-182489f8f988",
-        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8"
+        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8",
+        "a20d7289-674c-4546-a4f6-6102c2ab22c9"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",

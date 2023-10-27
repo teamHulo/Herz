@@ -63,8 +63,8 @@
   {%- endif -%}
 
   <li{% if showPageData %} data-page="{{page}}" {% endif %} class="grid__item">
-    {% render 'my-cart-item', section: section, product: card_product, show_contant: true %}
-    {% comment %} <div class="card-wrapper product-card-wrapper underline-links-hover">
+    {% comment %} {% render 'my-cart-item', section: section, product: card_product, show_contant: true %} {% endcomment %}
+    <div class="card-wrapper product-card-wrapper underline-links-hover">
       <div class="card
                   card--{{ settings.card_style }}
                   {% if card_product.featured_image %} card--media{% else %} card--text{% endif %}
@@ -172,7 +172,7 @@
           </div> {%- endif -%} <div class="card__badge {{ settings.badge_position }}"> {%- if card_product.available == false -%} <span id="Badge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sold_out_badge_color_scheme }}"> {% endraw %}{{- 'products.product.sold_out' | t -}}{% raw %} </span> {%- elsif card_product.compare_at_price > card_product.price and card_product.available -%} <span id="Badge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}"> {% endraw %}{{- 'products.product.on_sale' | t -}}{% raw %} </span> {%- endif -%} </div>
         </div>
       </div>
-      </div> {% endcomment %}
+      </div>
   </li> 
 
       {% endraw %}

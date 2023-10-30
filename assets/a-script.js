@@ -405,7 +405,8 @@ $(() => {
     updateVariantId(cart, id, colorValue, optionCount);
   });
 
-  $(".add-my-cart").click(function (e) {
+  $(".add-my-cart").on('click', function (e) {
+    console.log('CLICK')
     e.preventDefault();
     let variant = $(this)
       .closest(".my-cart-product")

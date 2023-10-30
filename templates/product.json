@@ -3,16 +3,16 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "title": {
-          "type": "title",
-          "settings": {
-          }
-        },
         "vendor": {
           "type": "text",
           "settings": {
             "text": "{{ product.vendor }}",
             "text_style": "body"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
           }
         },
         "rating": {
@@ -69,8 +69,8 @@
         }
       },
       "block_order": [
-        "title",
         "vendor",
+        "title",
         "rating",
         "bcac3fbc-a478-45b0-9339-cfa3c0d75490",
         "e3b892f2-0503-40a9-a025-88293b373430",

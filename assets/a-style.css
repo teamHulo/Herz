@@ -1903,7 +1903,7 @@ media-gallery.product_gallery {
   line-height: 160%; /* 25.6px */
   letter-spacing: -0.64px;
   text-transform: uppercase;
-  margin-bottom: 24px !important;
+  /* margin-bottom: 24px !important; */
 }
 .product .price-item {
   color: #00281d;

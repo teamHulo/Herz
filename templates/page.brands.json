@@ -2,13 +2,233 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "917202c5-684b-4c71-90a1-e5ff63d6c3c2": {
+      "type": "section-brands-list",
+      "blocks": {
+        "03a5b612-b625-42a9-b317-d384fc54ffd5": {
+          "type": "brand",
+          "settings": {
+            "title": "A Beautiful Story",
+            "text": "<p>A Beautiful Story verkauft Schmuck und Geschenke, die Glück bringen. Von einer Karte, die Trost spendet, bis hin zu einem Armband, das die Freundschaft feiert. Alle Produkte haben eine Geschichte. Für die Gebenden, weil sie mit ihrem Geschenk wirklich etwas erzählen. Für die Kunsthandwerkerinnen und Kunsthandwerker, weil sie sich mit ihrer Handarbeit eine Existenz aufbauen.<\/p>",
+            "url": ""
+          }
+        },
+        "dcc3d9ca-1ffa-4b3f-81e0-1c58f24c8855": {
+          "type": "brand",
+          "settings": {
+            "title": "Aniball",
+            "text": "<p>Der Aniball wurde von Renate Zich- einer zweifachen Mutter – mit dem Ziel entwickelt, Frauen zu helfen, eine natürliche Geburt zu erleben. Die Geburt ist ein natürlicher Bestandteil des Lebens. Sie sollte in Ruhe und ohne Angst verlaufen und nebst einem bedeutungsvollen und einzigartigen auch zu einem schönen Erlebnis werden. Der Aniball Beckenboden- und Geburtstrainer wurde mit Gynäkologen, Hebammen und Schwangeren entwickelt.<\/p>",
+            "url": ""
+          }
+        },
+        "83cbc6ca-d35d-4b22-b1aa-0252967e9f9f": {
+          "type": "brand",
+          "settings": {
+            "title": "Ardo",
+            "text": "<p>Ardo entwickelt, produziert und vertreibt seit über 25 Jahren Produkte, welche die Menschen auf ihrer Reise durchs Leben begleiten. Sie unterstützen Früh- und Neugeborene in der Entwicklung, begleiten die Mutter durch Schwangerschaft, Geburt und Stillzeit und schenken Patientinnen und Patienten Sicherheit und Komfort. Die Zuverlässigkeit der Ardo Produkte im Bereich der Stillhilfen, sowie die Bedürfnisse der Anwenderinnen und Anwender der Produkte stehen dabei immer im Mittelpunkt. Die Ardo medical AG ist ein Schweizer Familienunternehmen in zweiter Generation. Das Unternehmen hat seinen Hauptsitz in Unterägeri und vertreibt ihre hochwertigen Produkte in über 50 Ländern.<\/p>",
+            "url": ""
+          }
+        },
+        "8155f92d-d0f4-45aa-b04c-e6e16ce98027": {
+          "type": "brand",
+          "settings": {
+            "title": "Attipas",
+            "text": "<p>Attipas sind ergonomische Barfussschuhe. Diese Lauflernschuhe sind speziell auf die Bedürfnisse von Kinderfüssen abgestimmt. Durch den grossen Spielraum werden die noch weichen Zehen von Babys nicht unnötig oder unangenehm eingedrückt. Durch 24 kleine Luftlöcher in der Sohle wird der Hitzestau vermieden. Die Attipas sind extrem leicht, was das Gefühl des Barfusslaufens vermittelt. Dank der flexiblen Laufsohle können Kinder den Untergrund auf dem sie laufen sehr gut spüren. Je besser Kinder den Untergrund spüren, desto mehr Reize erhält das Gehirn. Wir sind Fan von Attipas, weil sie dem natürlichen Barfusslaufen sehr nahe kommen und sich die Füsse der Kleinsten optimal entwickeln können.<\/p>",
+            "url": ""
+          }
+        },
+        "07216a81-9dfd-4c9d-9603-31a595862f12": {
+          "type": "brand",
+          "settings": {
+            "title": "Avo+Cado",
+            "text": "<p>avo+cado - Die Marke für preiswerte und qualitativ hochwertige Produkte rund um die Stoffwindel. Mit Firmensitz in Deutschland produziert avo+cado seit 2015 Stoffwindeln und Zubehör. Ziel ist es Stoffwindeln anzubieten, die sich jeder leisten kann. Am bekanntesten sind ihre Prefolds aus ungebleichter Biobaumwolle. Sie sind ein kostengünstiges Wickelsystem für jeden, der wenig ausgeben und trotzdem nicht auf natürliche Fasern verzichten möchte. Zusammen mit einer passenden Überhose ergeben sie eine zuverlässige und vielseitige Stoffwindel.<\/p>",
+            "url": ""
+          }
+        },
+        "128b9937-19bd-4871-9eb5-7530c36665d8": {
+          "type": "brand",
+          "settings": {
+            "title": "Bahnhof Apotheke",
+            "text": "<p>Das Motto der Bahnhof Apotheke: Die Sehnsucht nach einem Leben in Wohlergehen und in Einklang mit der Natur. Denken und Handeln der Bahnhof-Apotheke sind geleitet von dem Wunsch nach einem bewussten Umgang mit Gesundheit und Krankheit. Daher befassen sie sich mit der Schulmedizin mit ebenso viel Leidenschaft wie mit der Pflanzenheilkunde, Aromatherapie, Homöopathie oder mit Ernährungsthemen. Die natürlichen Aromamischungen der Bahnhof-Apotheke Kempten sind speziell für Schwangere, Gebärende, Wöchnerinnen und Neugeborene. Entwickelt von der Hebamme Ingeborg Stadelmann, sind sie von höchster naturbelassener Qualität<\/p>",
+            "url": ""
+          }
+        },
+        "08a6fe4b-d440-4532-aef1-90674eba55d1": {
+          "type": "brand",
+          "settings": {
+            "title": "Bajo",
+            "text": "<p>Bajo wurde 1993 in einem kleinen Dorf in Polen gegründet. Bajo Wooden Toys stellt mit langer Erfahrung traditionelle Spielzeuge her. Ihre Motivation ist es bei dem heutigen Lebenstempo, dem technischen Fortschritt, dem Überkonsum und der Informationsflut eine Konstante zu erschaffen. Solide, langlebig Spielzeuge, die euch Meister des Spasses werden lassen. Bajo produziert ausschliesslich im Einklang mit der Natur, so beziehen sie ihren Strom aus Solarpanel, verwenden FSC zertifiziertes Holz von heimischen Bäumen und Plantagen und Verpacken ihre Produkte plastikfrei. Von der Planung bis hin zur Produktion; alles entsteht an einem Ort, keine unnötigen Transportwege werden gefahren.<\/p>",
+            "url": ""
+          }
+        },
+        "b3b5d90c-44a3-4b12-b660-a92891a7ef2a": {
+          "type": "brand",
+          "settings": {
+            "title": "Bambino Mio",
+            "text": "<p>Bambino Mios Produkte wurden entwickelt, um langzeitig geliebt und verwendet zu werden. Die Qualitätsprodukte können vom Baby- bis ins Kleinkindalter getragen werden und helfen Eltern und den Kleinen Müll zu reduzieren und Produkte immer wieder zu verwenden. Der Ursprung von Bambino Mio und deren Produkten ist die Nachhaltigkeit. Sie stellen qualitativ hochwertige Produkte unter verantwortungsbewussten Produktionsbedingungen her.<\/p>",
+            "url": ""
+          }
+        },
+        "26d417aa-9c1c-4c75-87a4-86a852e72866": {
+          "type": "brand",
+          "settings": {
+            "title": "Bettmaus",
+            "text": "<p>Hinter Bettmaus steckt Margrith Stähli, eine nähbegeisterte Grossmutter, die mit viel Liebe zum Detail vielseitige, praktische und hübsche Produkte herstellt. Natürlich in der Schweiz und mit hochwertigen Materialien. Die Bettmäuse sind ihr Markenzeichen. Den herkömmlichen Bettschlangen nachempfunden zieren sie das Kinder- oder Familienbett. Sie können auch als Lagerungskissen verwendet werden. Ebenfalls beliebt sind die Ärmellätzli für kleine Selberesser und die vielen kleinen Accessoires fürs Baby.<\/p>",
+            "url": ""
+          }
+        },
+        "6c1d5aaa-1cf3-4aee-9153-2eab3bd45a68": {
+          "type": "brand",
+          "settings": {
+            "title": "Bijde Hansje",
+            "text": "<p>Die Karten von Bijdehansje haben einzigartige Designs. Schön zum Versenden mit einem persönlichen Wunsch oder Gruß an jemand anderen, aber auch schön auf dem saisonalen Tisch. Die Karten passen gut zu den Jahreszeiten und den jährlichen Festen und Feiern. Die magischen, märchenhaften Designs von Bijdehansje entführen dich in die Kindheit.<\/p>",
+            "url": ""
+          }
+        },
+        "6c4147a0-56f4-4cf3-bd2f-92975aabdf1a": {
+          "type": "brand",
+          "settings": {
+            "title": "bluu",
+            "text": "<p>Hinter bluu stecken Marko und Roman aus Zürich, die sich zum Ziel gesetzt haben, nachhaltige und gleichzeitig praktische Alternativen von Haushaltsartikeln zu entwickeln. Als Umwelt-Fans und Zero-Waste-Befürworter wollen Marko und Roman mit bluu eine Lösung anbieten, die zu einer plastikfreieren Welt beiträgt und die Waschen mit gutem Gewissen ermöglicht.Ein nachhaltiges Waschmittel ohne jegliches Plastik, mit einer umweltfreundlichen und einfach zu transportierenden Verpackung.<\/p>",
+            "url": ""
+          }
+        },
+        "939792a0-9073-4302-97c3-f42155758858": {
+          "type": "brand",
+          "settings": {
+            "title": "Brox",
+            "text": "<p>2015 kam von Jin der Impuls, Brox ins Leben zu rufen. In „Lebensmittel“ steckt das Wort „Leben“. Du bist, was du isst – und nach diesem Grundsatz haben Jin und Konrad die Brox-Produkte entwickelt. Bio, fair und regional – das sehen die Gründer von BROX als absolut notwendig für ein modernes Unternehmen. Besonderes Augenmerk legen sie auf das Thema Up- und Recycling der Ressourcen.<\/p>",
+            "url": ""
+          }
+        },
+        "f038536d-33ed-4b4c-b3e8-9bee36a3e280": {
+          "type": "brand",
+          "settings": {
+            "title": "by Lille Vilde",
+            "text": "<p>Hinter by Lille Vilde steckt Ditte, gelernte Gärtnerin und Mutter von 2 Kindern. Kein Wunder, dass Natur im Fokus des LilleVilde Universums steht. Hinter jedem Produkt steckt ein Designprozess, der seinen Ursprung in der uns umgebenden Natur hat. Nachhaltigkeit wird in den Produkten auf verschiedene Weise berücksichtigt, sei es durch Multifunktionalität, Langlebigkeit oder biologische Abbaubarkeit.<\/p>",
+            "url": ""
+          }
+        },
+        "250a15f5-3be3-4dc8-a19f-758b519734bf": {
+          "type": "brand",
+          "settings": {
+            "title": "Chaos & Alibi",
+            "text": "<p>Chaos & Alibi ist ein kleines Familienlabel, das von Simone, ihrem Lebenspartner Michel und ihren zwei Jungs entwickelt wurde. Die Finken sind geschmeidig, atmungsaktiv, bequem und nachhaltig. Die von Simone liebevoll produzierten Finken sind je ein Unikat, denn der Hauptstoff wird aus einem upgecycletem Tragetuch gewonnen und verarbeitet. Die Sohle besteht aus 100% natürlich gegerbtem Leder oder einer veganen Variante.<\/p>",
+            "url": ""
+          }
+        },
+        "6ce449a0-ebc2-4842-8232-2f3dfb5a8616": {
+          "type": "brand",
+          "settings": {
+            "title": "Citron",
+            "text": "<p>Citron hat es sich zur Aufgabe gemacht, stilvolle und nachhaltige Produkte für Kinder auf den Markt zu bringen. Gegründet wurde die Marke von einer berufstätigen Mutter, die sich nachhaltige und schöne Produkte für ihre Kinder wünschte. Besonderer Wert wird bei der Produktion auf Qualität und Design gelegt. Die Kollektionen sind nicht nur umweltfreundlich und schön anzusehen, sondern vor allem funktional. Funktionalität sollte bei Produkten für Kinder großgeschrieben werden, denn schließlich haben die Kleinen so einige Ansprüche, denen Citron gerecht wird.<\/p>",
+            "url": ""
+          }
+        },
+        "a5aba5bc-8529-4823-9b13-c4a2a9eb67bf": {
+          "type": "brand",
+          "settings": {
+            "title": "cocoome",
+            "text": "<p>Julia Pötsch, die Gründerin von cocoome hatte ein Ziel: frischgebackenen Eltern mobile Freiheit und Flexibilität zu ermöglichen und ihnen damit die Vorteile des Babytragens näher zu bringen. Die Produkte von cocoome, wurden in Zusammenarbeit mit Müttern, Trageberaterinnen und Hebammen entwickelt. Sie legen Wert auf hochwertige Qualität, Design und Nachhaltigkeit. Die von ihnen verwendeten Baumwollstoffe sind nach GOTS zertifiziert und werden in Europa vernäht. Damit erfüllt cocoome ökologische und soziale Bedingungen. Gerade in Zeiten, in denen die Welt von Chemie und Schadstoffen umgeben sind bieten cocoome mit ihren Produkten eine wohltuende Unbedenklichkeit.<\/p>",
+            "url": ""
+          }
+        },
+        "04c3acab-0f14-4da3-8073-3c1ccb0202c2": {
+          "type": "brand",
+          "settings": {
+            "title": "Crayon Rocks",
+            "text": "<p>Crayon Rocks wurde von der Amerikanerin Barbara Lee ins Leben gerufen. Sie gibt seit 23 Jahren Förderunterricht an Kinder, die an Autismus, Kinderlähmung, geistiger oder körperlicher Behinderung leiden. Sie entwickelte Crayon Rocks, nachdem sie durch das \"Handwriting Without Tears Program\" festgestellt hatte, wie wichtig es für Kinder ist, früh den Dreifingergriff zu entwickeln, da dies später die Schreibfähigkeiten beeinflusst. Crayon Rocks werden aus natürlichem Sojawachs und natürlichen mineralischen Pigmenten hergestellt. Die Produktion liegt auf einem Hügel im ländlichen Gebiet von Hestand, Kentucky, USA.<\/p>",
+            "url": ""
+          }
+        },
+        "932d7fc6-feec-4def-8a63-76acdb33a83f": {
+          "type": "brand",
+          "settings": {
+            "title": "Culla di Teby",
+            "text": "<p>Culla di Teby ist ein italienisches Familienunternehmen mit langer Tradition. Die Marke ist italienisch durch und durch – in Italien geplant, umgesetzt, getestet sowie vermarktet. Teby Windeln zeichnen sich durch ihre ausgezeichnete Verarbeitung und die dahinterstehende Qualität in Rohstoffen, Arbeit und Herstellung aus. Die Hybridwindeln werden in Öko-Tex zertifizierten Nähereien aus Bio-Materialien angefertigt und geben dir somit die Sicherheit, dass Dein Kind in besten Stoffen gewickelt wird.<\/p>",
+            "url": ""
+          }
+        },
+        "ff5f1934-3b7f-4a9d-be06-4e69ae8640c9": {
+          "type": "brand",
+          "settings": {
+            "title": "Das Brett",
+            "text": "<p>Das in Deutschland von der Manufaktur TicToys hergestellte Balance Board »das.Brett« ist eine Kombination aus einem kreativen Spielobjekt sowie einem vielseitigen und federnden Fitnessgerät. Zusätzlich ist »das.Brett« geölt was es widerstandsfähiger, schmutz- und wasserabweisend macht. Dafür verwenden die Hersteller ausschliesslich einheimisches Buchenholz aus nachhaltiger Forstwirtschaft und lösemittelfreie, dermatologisch geprüfte und lebensmittelechte Naturöle aus der schwäbischen Alb.<\/p>",
+            "url": ""
+          }
+        },
+        "a150fbc1-bb9f-4d32-b112-bcbc83cf0ad5": {
+          "type": "brand",
+          "settings": {
+            "title": "De Colores",
+            "text": "<p>De Colores ist ein Deutsches Familienunternehmen das hochwertige Produkte aus 100% Alpaka-Wolle produziert. Die Produkte werden in kleinen und mittleren Strickereien in Peru gefertigt, die die in GOTS (Global Organic Textile Standards) verankerten Sozialstandards und Mindest-Sozialkriterien einhalten. Die Produkte werden nach der Fertigung nicht chemisch aufgerüstet, sondern nur gewaschen, gebügelt und verpackt.<\/p>",
+            "url": ""
+          }
+        },
+        "77ba5143-95f4-40f2-804b-f260e49d4d86": {
+          "type": "brand",
+          "settings": {
+            "title": "DÉT Denmark",
+            "text": "<p>DÉT Denmark, gegründet von Nathalia im Jahr 2015, steht für rutschfeste Krabbelkleidung aus besten organischen Materialien, die dem Kind Erfolgserlebnisse in der motorischen Entwicklung ermöglichen und sie ermuntern, weitere Herausforderungen zu bewältigen.<\/p>",
+            "url": ""
+          }
+        },
+        "4fd0ca2c-9314-480d-bf8c-fc67ef6303e5": {
+          "type": "brand",
+          "settings": {
+            "title": "die hebamme in wien",
+            "text": "<p>Die Hebamme in Wien: Eine Naturkosmetiklinie - natürlich, praktisch, multifunktional. Die Produkte sind abgestimmt auf die besonderen Bedürfnisse der Frauen in der Schwangerschaft, im Wochenbett und in der Stillzeit.<\/p>",
+            "url": ""
+          }
+        },
+        "c5df051b-0844-4ffd-ad29-aeb6ea4d3163": {
+          "type": "brand",
+          "settings": {
+            "title": "Disana",
+            "text": "<p>Die Freude an der Arbeit mit Naturfasern stand für Disana schon immer im Mittelpunkt der Firmenphilosophie.Die Baby- und Kindertextilien sind aus möglichst naturbelassenen Stoffen - mit dieser Idee gründeten Imma und Dietrich Sautter das Unternehmen vor über 30 Jahren. Was mit einem waschbaren Windelsystem begann, hat sich im Laufe der Jahre zu einem breite...<\/p>",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "03a5b612-b625-42a9-b317-d384fc54ffd5",
+        "dcc3d9ca-1ffa-4b3f-81e0-1c58f24c8855",
+        "83cbc6ca-d35d-4b22-b1aa-0252967e9f9f",
+        "8155f92d-d0f4-45aa-b04c-e6e16ce98027",
+        "07216a81-9dfd-4c9d-9603-31a595862f12",
+        "128b9937-19bd-4871-9eb5-7530c36665d8",
+        "08a6fe4b-d440-4532-aef1-90674eba55d1",
+        "b3b5d90c-44a3-4b12-b660-a92891a7ef2a",
+        "26d417aa-9c1c-4c75-87a4-86a852e72866",
+        "6c1d5aaa-1cf3-4aee-9153-2eab3bd45a68",
+        "6c4147a0-56f4-4cf3-bd2f-92975aabdf1a",
+        "939792a0-9073-4302-97c3-f42155758858",
+        "f038536d-33ed-4b4c-b3e8-9bee36a3e280",
+        "250a15f5-3be3-4dc8-a19f-758b519734bf",
+        "6ce449a0-ebc2-4842-8232-2f3dfb5a8616",
+        "a5aba5bc-8529-4823-9b13-c4a2a9eb67bf",
+        "04c3acab-0f14-4da3-8073-3c1ccb0202c2",
+        "932d7fc6-feec-4def-8a63-76acdb33a83f",
+        "ff5f1934-3b7f-4a9d-be06-4e69ae8640c9",
+        "a150fbc1-bb9f-4d32-b112-bcbc83cf0ad5",
+        "77ba5143-95f4-40f2-804b-f260e49d4d86",
+        "4fd0ca2c-9314-480d-bf8c-fc67ef6303e5",
+        "c5df051b-0844-4ffd-ad29-aeb6ea4d3163"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "917202c5-684b-4c71-90a1-e5ff63d6c3c2"
   ]
 }

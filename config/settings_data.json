@@ -115,7 +115,7 @@
     "currency_code_enabled": false,
     "cart_type": "drawer",
     "show_vendor": false,
-    "show_cart_note": false,
+    "show_cart_note": true,
     "cart_drawer_collection": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/Group_1063.png",
     "checkout_logo_size": "medium",

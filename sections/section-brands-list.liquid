@@ -1,0 +1,96 @@
+<style>
+    #shopify-section-{{ section.id }} {
+        padding-top: {{ section.settings.padding_top }}px;
+        padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+    .brands-list__wrapper .item {
+        display: flex;
+        border-bottom: 1px solid rgba(84, 82, 72, 0.75);
+    }
+    .brands-list__wrapper .item:last-child {
+        border-bottom: none;
+    }
+    .brands-list__wrapper .title {
+        flex: 1 1 35%;
+        margin-top: 0;
+    }
+    .brands-list__wrapper .text {
+        flex: 1 1 65%;
+        padding-left: 10px;
+    }
+    @media (max-width: 767px) {
+        .brands-list__wrapper .item {
+            flex-direction: column;
+        }
+    }
+</style>
+<div class="brands-list">
+    <div class="brands-list__wrapper container">
+        {% for block in section.blocks %}
+            <div class="item">
+                {% if block.settings.url != blank %}        
+                    <div class="title"><a href="{{ block.settings.url }}"><h2>{{ block.settings.title }}</h2></a></div>
+                {% else %}
+                <div class="title"><h2>{{ block.settings.title }}</h2></div>
+                {% endif %}
+                <div class="text">{{ block.settings.text }}</div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+
+{% schema %}
+{
+    "name": "Brands list",
+    "settings": [
+        {
+            "type": "range",
+            "id": "padding_top",
+            "label": "Paddind top",
+            "min": 0,
+            "max": 200,
+            "step": 2,
+            "unit": "px",
+            "default": 60
+        },
+        {
+            "type": "range",
+            "id": "padding_bottom",
+            "label": "Paddind bottom",
+            "min": 0,
+            "max": 200,
+            "step": 2,
+            "unit": "px",
+            "default": 60
+        }
+    ],
+    "blocks": [
+        {
+            "name": "Brand",
+            "type": "brand",
+            "settings": [
+                {
+                    "type": "text",
+                    "id": "title",
+                    "label": "Title"
+                },
+                {
+                    "type": "richtext",
+                    "id": "text",
+                    "label": "Text"
+                },
+                {
+                    "type": "url",
+                    "id": "url",
+                    "label": "Link url"
+                }
+            ]
+        }
+    ],
+    "presets": [
+        {
+            "name": "Brands list"
+        }
+    ]
+}
+{% endschema %}

@@ -225,10 +225,18 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "31730008-2c88-4f64-9322-ee708065aada": {
+      "type": "section-brands-list",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
     "main",
-    "917202c5-684b-4c71-90a1-e5ff63d6c3c2"
+    "917202c5-684b-4c71-90a1-e5ff63d6c3c2",
+    "31730008-2c88-4f64-9322-ee708065aada"
   ]
 }

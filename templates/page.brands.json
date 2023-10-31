@@ -823,6 +823,14 @@
             "text": "<p>Popolini ist ein österreichischer Familienbetrieb in der 2. Generation mit Hauptsitz Wien. Popolini produziert Stoffwindeln, nachhaltige Baby- und Kindermode sowie Heimtextilien. Mit der eigenen Produktion in Europa sind kurze Wege vom Produzenten zum Verbraucher und faire Arbeitsbedingungen garantiert. Die Produkte erfüllen höchste Qualitätsstandards und sind OEKO-TEX® und GOTS zertifiziert.<\/p>",
             "url": ""
           }
+        },
+        "144b77e7-dcb4-4d02-8167-d44c18b4df4d": {
+          "type": "brand",
+          "settings": {
+            "title": "Pura",
+            "text": "<p>Jennifer und Roger Moore haben Pura im Jahr 2008 gegründet. Ihr Ziel mit den Pura Flschen war es langlebige, wiederverwendbare Produkte herzustellen, die viel umweltfreundlicher und kostengünstiger sind als der Kauf neuer Flaschen alle paar Monate. Die Pura Flaschen sind anpassungsfähig und wandelbar. Die Flaschen kann man ab Babyalter bis ins Erwachsenenalter benutzen und anpassen.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -869,7 +877,8 @@
         "a49d95eb-2a61-49ce-931e-53683f88acc7",
         "ce8fed9c-e998-4390-9836-bf4ddcc7b8d7",
         "68c3e7ab-f6aa-4ca3-9740-568e66ef8c2b",
-        "fbd114ef-49f9-4050-a77c-7f36d951013a"
+        "fbd114ef-49f9-4050-a77c-7f36d951013a",
+        "144b77e7-dcb4-4d02-8167-d44c18b4df4d"
       ],
       "settings": {
         "padding_top": 60,

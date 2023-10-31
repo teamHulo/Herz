@@ -671,6 +671,14 @@
             "text": "<p>MYLILY ist ein Organic Femcare Start-up aus Hamburg. Sie entwickeln nachhaltige und qualitativ hochwertige Produkte für die Bedürfnisse von Frauen in allen Lebensphasen.<\/p><p>Ihre Produkte sind zu 100% aus Bio-Qualität, vegan & tierversuchsfrei.<\/p>",
             "url": ""
           }
+        },
+        "055c771d-2918-4ed8-aac0-7174586e211c": {
+          "type": "brand",
+          "settings": {
+            "title": "Naïf",
+            "text": "<p>Naïf haltet die Dinge am liebsten so einfach wie möglich. Darum enthalten ihre Produkte weder Mineralöl, noch chemische Konservierungsstoffe oder andere aggressive Zusätze. Stattdessen formen ausschließlich natürliche Inhaltsstoffe wie Leinsamenöl, Avocadoöl, und Lycosol (Tomatenextrakt) die Basis ihrer Pflegelinien. 100% Vegan, 100% Plastikfrei.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -698,7 +706,8 @@
         "1be4ca22-1222-42a5-8dd2-43ac61030435",
         "8e05cabb-89c2-419f-a9be-8535308efee4",
         "bad181d1-f221-4b78-a507-f72cff21bea6",
-        "ccc66967-2caa-4ee2-8b38-ecca86615998"
+        "ccc66967-2caa-4ee2-8b38-ecca86615998",
+        "055c771d-2918-4ed8-aac0-7174586e211c"
       ],
       "settings": {
         "padding_top": 60,

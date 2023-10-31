@@ -370,6 +370,14 @@
             "text": "<p>into life - das ist das Projekt von Hebamme Kareen Danhauer. Ihr Herzensanliegen ist es, Frauen und Paare in der Geburtsvorbereitung zu empowern, Mythen zu entzaubern und rundum zu informieren. Sie schreibt Bücher und entwickelt tolle Produkte mit all ihrem Hebammenwissen.<\/p>",
             "url": ""
           }
+        },
+        "c267d50d-db23-413e-b191-ee8e3e238081": {
+          "type": "brand",
+          "settings": {
+            "title": "Jack N` Jill",
+            "text": "<p>Die Marke Jack N` Jill Kids wurde in den 1940er Jahren gegründet und war ein bekannter Name, an den sich viele australische Kinder, die in den 50er, 60er und 70er Jahren aufgewachsen sind, gerne erinnern. Heute wurde das Familienunternehmen von dem in Melbourne ansässigen Ehepaar Rachel & Justin Bernhaut wiederbelebt, die nach ihrem persönlichen Aha-Erlebnis erkannten, dass das Produkt für die gesundheitsbewussten Eltern von heute immer noch sehr relevant ist.<\/p><p>Jack N` Jill wird jetzt in mehr als 50 Ländern verkauft und glauben, dass Unternehmen der Umwelt verpflichtet sind. Ihre Verpackungen sind so gestaltet, dass sie minimal, recycelbar und BPA-frei ist.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -417,7 +425,8 @@
         "971d164a-3294-421f-96af-9465aa6dd207",
         "f294d5bf-5d49-46ef-be21-c92b90ff3e30",
         "f30f4e75-1de9-4fa2-ac75-8077ded84200",
-        "22a3f52f-3e67-49f9-8abf-9b7c817c2ec0"
+        "22a3f52f-3e67-49f9-8abf-9b7c817c2ec0",
+        "c267d50d-db23-413e-b191-ee8e3e238081"
       ],
       "settings": {
         "padding_top": 60,

@@ -322,6 +322,14 @@
             "text": "<p>Grapat steht für freies Spiel mit unstrukturierten Materialien, die die Kinder zu eigenständigen Ideen und freiem, Spiel inspirieren. Das kleine spanische Familienunternehmen legt grossen Wert auf eine nachhaltige, faire und lokale Produktion. Grapat ist ein kleines spanische Familienunternehmen. Es legt grossen Wert auf eine nachhaltige, faire und lokale Produktion für ihre Holzprodukte.<\/p>",
             "url": ""
           }
+        },
+        "8c41896b-22b6-4871-93bc-8a66835f9d15": {
+          "type": "brand",
+          "settings": {
+            "title": "Grimms",
+            "text": "<p>Nachhaltig & mit viel Liebe! Das sind die zentralen Werte von Grimms.<\/p><p>Die kleine Manufaktur am Fusse der schwäbischen Alb produziert nachhaltig qualitativ hochwertiges und sicheres Holzspielzeug. Die Produkte sind inspiriert durch die Waldorf- und Montessori-Pädagogik.<\/p><p>Die Produkte werden aus Naturmaterial gemacht, somit ist jedes Stück ganz individuell. Daher gilt immer zu beachten - auch auf den Holzspielsachen sind daher manchmal Flecken oder Streifen zu sehen. Bis auf wenige Ausnahmen wird alles von Hand geschliffen und gesägt.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -363,7 +371,8 @@
         "d40a1902-390b-4f73-a767-86c31af4ca5e",
         "e5f8dd94-1ec0-406b-b336-e9e1a41cf3ba",
         "353f592e-b16a-431c-a9dc-12209aae8ea2",
-        "a9307444-15b9-4fed-bec8-4fdc94cbeedb"
+        "a9307444-15b9-4fed-bec8-4fdc94cbeedb",
+        "8c41896b-22b6-4871-93bc-8a66835f9d15"
       ],
       "settings": {
         "padding_top": 60,

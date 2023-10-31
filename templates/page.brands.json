@@ -847,6 +847,14 @@
             "text": "<p>Seit 1998 führt Monika Rosenfellner in dritter Generation den Betrieb in Niederösterreich. Der Sinn für die Verarbeitung von heimischen Getreide, die Sortenvielfalt und der Aspekt der Nachhaltigkeit stammen von ihrem Großvater. Ihnen ist es stets wichtig, das Getreide von nahen Bauern und aus fairer Landwirtschaft zu beziehen. Die Mühle verfügt über eine eigene Wasserkraftanlage für die Produktion, somit werden ihre Produkte weitestgehend mit der ganzen Kraft des Wassers hergestellt oder mit Strom aus erneuerbarer Energien. Sie arbeiten gemeinsam und im Einklang mit der Natur.<\/p><p>Die Produkte der Rosenfellner Mühle sind ausschließlich biologisch und somit frei von chemischen Zusatzstoffen.<\/p>",
             "url": ""
           }
+        },
+        "f2169bea-d206-45e0-b8f9-95b486a4afc9": {
+          "type": "brand",
+          "settings": {
+            "title": "Rouge",
+            "text": "<p>Die Menstruation als natürliches und positives Merkmal des biologisch weiblichen Körpers wird gesellschaftlich, politisch oder religiös oftmals tabuisiert - sei es aus Unwissenheit, Unsicherheit oder Kalkül.<\/p><p>Rouge macht es sich deshalb zur Aufgabe, Unwissenheit mit Aufklärung zu begegnen, Unsicherheit durch Dialog aufzulösen und sich sowohl gesellschaftlicher wie auch politischer Diskriminierung aktiv entgegenzustellen. Einen Teil des Erlöses spendet Rouge an Organisationen, die sich für Mädchen und Frauen einsetzen.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -896,7 +904,8 @@
         "fbd114ef-49f9-4050-a77c-7f36d951013a",
         "144b77e7-dcb4-4d02-8167-d44c18b4df4d",
         "7de82cd0-5e75-4373-9a49-fef6a290b683",
-        "834be4f6-451f-4e36-b485-eea9b4f5600f"
+        "834be4f6-451f-4e36-b485-eea9b4f5600f",
+        "f2169bea-d206-45e0-b8f9-95b486a4afc9"
       ],
       "settings": {
         "padding_top": 60,

@@ -703,6 +703,14 @@
             "text": "<p>Naturtrends ist ein kleiner Familienbetrieb aus dem Thurgau, der versucht, Dir ein Stück Natur zurückzubringen. Die kleine Manufaktur haben sie selbst aus Lehm und Schafswolle gebaut und darin eine schöne Produktionsküche eingerichtet. Dort werden von mir Aromabalsame, feste Körperbutter und Deocremes liebevoll von Hand hergestellt.<\/p><p>Besonders wichtig ist der Inhaberin, wenn immer möglich, nur Bio-Rohstoffe zu verwenden – aus Liebe zur Natur und aus Liebe zur Gesundheit. Sie verwendet ausschliesslich 100% naturreine ätherische Öle und hochqualitative Absolues, die für die Aromatherapie geeignet sind.<\/p><p>Es werden keine synthetischen Parfumöle und kein Palmöl verarbeitet.<\/p>",
             "url": ""
           }
+        },
+        "37cd28b6-e4f6-4101-9d2d-7e3496aacaab": {
+          "type": "brand",
+          "settings": {
+            "title": "Nikwax",
+            "text": "<p>Nikwax ist weltweit führend in innovativen, PFC-freien Bekleidungs- und Ausrüstungssystemen, das hervorragende Materialien und Pflegeprodukte für die Outdoor-Entdecker entwickelt, und gleichzeitig für die Umwelt sorgt.<\/p><p>Nikwax benutzt keine Aerosole oder Fluorkohlenwasserstoffe und gleichen ihre Kohlenstoffemissionen durch die Wiederherstellung von Wäldern in Ecuador vollständig aus.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -734,7 +742,8 @@
         "055c771d-2918-4ed8-aac0-7174586e211c",
         "3524fab8-ca11-4acc-aded-d948ca573a69",
         "157ad03c-7b60-473f-9b1a-fe4ec8f96d48",
-        "c059f173-412b-4100-9d92-d0e633eab927"
+        "c059f173-412b-4100-9d92-d0e633eab927",
+        "37cd28b6-e4f6-4101-9d2d-7e3496aacaab"
       ],
       "settings": {
         "padding_top": 60,

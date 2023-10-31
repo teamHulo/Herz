@@ -9,7 +9,7 @@
         {% comment %}<li>
 Versand & Rücksendung</li> {% endcomment %}
         <li>
-          Details
+          Spezifikation
         </li>
       </ul>
     </div>
@@ -30,9 +30,31 @@ Versand & Rücksendung</li> {% endcomment %}
 
 </div> {% endcomment %}
       <div class="tab-4 tab">
-        {{ product.metafields.custom.spezifikation_material | metafield_tag }}
-        {{ product.metafields.custom.spezifikation_inhalt | metafield_tag }}
-        {{  product.metafields.custom.spezifikation_passform | metafield_tag }}
+        <div class="">
+          <div class="title">
+            <h3>
+              Material:
+            </h3>
+          </div>
+          {{ product.metafields.custom.spezifikation_material | metafield_tag }}
+        </div>
+        <div class="">
+          <div class="title">
+            <h3>
+              Inhalt:
+            </h3>
+          </div>
+          {{ product.metafields.custom.spezifikation_inhalt | metafield_tag }}
+        </div>
+        <div class="">
+          <div class="title">
+            <h3>
+              Passform:
+            </h3>
+          </div>
+          {{  product.metafields.custom.spezifikation_passform | metafield_tag }}
+        </div>
+        
       </div>
 
     </div>

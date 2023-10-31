@@ -334,6 +334,7 @@ $(() => {
       $(cart).find('.product_image-wrap img').attr('src',src);
     }
   }*/
+  console.log('213123123');
   function cartImageUpdate(src, cart) {
     if (src != "" && src != undefined && src != null) {
       const image = $(cart).find(".product_image-wrap img");

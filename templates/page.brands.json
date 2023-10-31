@@ -354,6 +354,14 @@
             "text": "<p>hörbert ist ein tragbarer Musikspieler aus Holz und wird in Deutschland gefertigt. Die kinderleichte Bedienung macht Spass und sie macht Kinder selbstständig. Stück für Stück entsteht der hochwertiger Player aus ungiftigen Materialien und mit viel Handarbeit. Ein verantwortungsvolles Produkt für ein gutes Gewissen beim Musikhören oder beim Verschenken.<\/p>",
             "url": ""
           }
+        },
+        "f30f4e75-1de9-4fa2-ac75-8077ded84200": {
+          "type": "brand",
+          "settings": {
+            "title": "Imse Vimse",
+            "text": "<p>ImseVimse wurde 1988 von einer Mutter gegründet, deren Tochter von Plastikwindeln einen Windelausschlag bekommen hatte. Als die Mutter auf Stoffwindeln wechselte, verschwand das Problem. Der Hauptsitz von ImseVimse befindet sich im schwedischen Visby. Die Firma bietet heute weltweit gesunde, umweltfreundliche und erschwingliche Produkte für Kinder an. Die Produkte sind alle aus Bio-Baumwolle und werden hauptsächlich in Lettland und der Türkei gefertigt.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -399,7 +407,8 @@
         "8c41896b-22b6-4871-93bc-8a66835f9d15",
         "8cc7b546-9396-4008-b1ce-41a2255afe78",
         "971d164a-3294-421f-96af-9465aa6dd207",
-        "f294d5bf-5d49-46ef-be21-c92b90ff3e30"
+        "f294d5bf-5d49-46ef-be21-c92b90ff3e30",
+        "f30f4e75-1de9-4fa2-ac75-8077ded84200"
       ],
       "settings": {
         "padding_top": 60,

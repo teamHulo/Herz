@@ -218,6 +218,14 @@
             "text": "<p>Easypisi - die nachhaltige Lösung anstelle von Einweg-Windeln.<\/p><p>Als Ignaz im Juli 2018 Vater wurde, hat er sich gefragt, ob es eine Alternative gibt zu 6000 Windeln, die ein Baby bis zum Trockenwerden verbraucht. Nach kurzer Recherche fanden er und seine Frau Lena das sogenannte \"Abhalten\", bei dem man das Baby ganz ohne Windeln aufziehen kann. Das einzige, was man dafür brauchte, war ein Töpfchen. Und so begann die Story von Easypisi.<\/p><p>Die Töpfchen von Easypisi sind 100% Germany made, von der Planung bis zur Produktion.<\/p>",
             "url": ""
           }
+        },
+        "9eef9b38-d93f-4088-8ac2-70d4936f0b0f": {
+          "type": "brand",
+          "settings": {
+            "title": "Ein dufter Laden",
+            "text": "<p>Ein dufter Laden ist auf dem Hof Liebergott im luzernischen Oberkirch zuhause. Sabrina Estermann liebt es, mit Düften zu arbeiten und immer wieder zu erleben wie wunderbar wirksam die Natur ist und uns im Alltag unterstützt. Düfte sind so heilsam – für Körper und Seele. Ob beim Aus- oder Verräuchern, als Anwendung mit ätherischen Ölen oder Wickel. Sabrina gibt ihr Wissen in Kursen weiter. In der Duftküche von Ein dufter Laden besteht die Möglichkeit selber Raumbeduftung, Alltagshelfer, Naturkosmetik, Räuchermischungen, Duftegeschenke oder andere duftende Sachen herzustellen. Sie fertigt für den Verkauf verschiedene duftende Produkte.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -246,7 +254,8 @@
         "c5df051b-0844-4ffd-ad29-aeb6ea4d3163",
         "d0b66cd6-d113-439e-a9c9-8198d760918b",
         "914fce0d-c5ce-443e-a2fb-b24d2b5005f4",
-        "944c73f4-7064-46e0-b1b9-7efe289b9c38"
+        "944c73f4-7064-46e0-b1b9-7efe289b9c38",
+        "9eef9b38-d93f-4088-8ac2-70d4936f0b0f"
       ],
       "settings": {
         "padding_top": 60,

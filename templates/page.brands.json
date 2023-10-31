@@ -543,6 +543,14 @@
             "text": "<p>Die Welt der Kreisel - Die Firma Kreiselmanufaktur Klaus Mader wurde 1991 gegründet und hat sich das Thema KREISEL zum Hauptinhalt gewählt. Die Kreisel werden in Handarbeit gefertigt und handbemalt. Als Material finden fast ausschliesslich regionale Edel- und Harthölzer Verwendung.  Alle Natursorten werden geölt und die bunten Sorten mit einem speichelechten Lack behandelt. Für die Farbgebung kommen bei Mader lichtbeständige Künstlermalfarben zum Einsatz. In allen Fällen hält Mader die Normen der CE EN 71 ein. Sämtliche Artikel sind zertifiziert PEFC<\/p>",
             "url": ""
           }
+        },
+        "68ce22e2-5d42-4b2d-ad9e-bf9b35864b62": {
+          "type": "brand",
+          "settings": {
+            "title": "Mahler",
+            "text": "<p>Die über 50-jährige Bio-Geschichte der Familie Mahler aus dem Aargau bringt eine Vielfalt von wertvollen Kontakten zu Produzenten in aller Welt mit sich. Für ihre Marke selektionieren sie für ihre Kunden beste Qualitäten, hauptsächlich aus langjährigen und ihnen persönlich bekannten Projekten. Ihre Überzeugung für nachhaltig erzeugte Bio-Qualität und die Leidenschaft der Produzenten für schonenden Anbau steckt in jedem Produkt.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -554,7 +562,8 @@
         "f899c729-4859-4107-8431-c468fa0dc4a4",
         "62f8b106-488e-4b57-a301-9f6146dc1ae9",
         "3b0b8a34-752b-4f9e-9cea-892adfaa3928",
-        "4c94cb0f-fab0-4f32-aa82-07d86d8150be"
+        "4c94cb0f-fab0-4f32-aa82-07d86d8150be",
+        "68ce22e2-5d42-4b2d-ad9e-bf9b35864b62"
       ],
       "settings": {
         "padding_top": 60,

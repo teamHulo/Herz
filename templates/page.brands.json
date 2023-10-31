@@ -535,6 +535,14 @@
             "text": "<p>Die Produkte von made with love by nici werden alle von Nicole Wegmüller persönlich handgefertigt.<\/p>",
             "url": ""
           }
+        },
+        "4c94cb0f-fab0-4f32-aa82-07d86d8150be": {
+          "type": "brand",
+          "settings": {
+            "title": "Mader",
+            "text": "<p>Die Welt der Kreisel - Die Firma Kreiselmanufaktur Klaus Mader wurde 1991 gegründet und hat sich das Thema KREISEL zum Hauptinhalt gewählt. Die Kreisel werden in Handarbeit gefertigt und handbemalt. Als Material finden fast ausschliesslich regionale Edel- und Harthölzer Verwendung.  Alle Natursorten werden geölt und die bunten Sorten mit einem speichelechten Lack behandelt. Für die Farbgebung kommen bei Mader lichtbeständige Künstlermalfarben zum Einsatz. In allen Fällen hält Mader die Normen der CE EN 71 ein. Sämtliche Artikel sind zertifiziert PEFC<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -545,7 +553,8 @@
         "91d414e8-b232-4c6d-b2c5-54cf5819b6fa",
         "f899c729-4859-4107-8431-c468fa0dc4a4",
         "62f8b106-488e-4b57-a301-9f6146dc1ae9",
-        "3b0b8a34-752b-4f9e-9cea-892adfaa3928"
+        "3b0b8a34-752b-4f9e-9cea-892adfaa3928",
+        "4c94cb0f-fab0-4f32-aa82-07d86d8150be"
       ],
       "settings": {
         "padding_top": 60,

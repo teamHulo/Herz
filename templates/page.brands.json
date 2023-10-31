@@ -980,6 +980,14 @@
             "text": "<p>Stillfashion ist ein österreichisches Unternehmen und entwickelt nachhaltige Mode für die Schwangerschaft, die Stillzeit und die Zeit danach (oder davor). Die Mode soll möglichst lange in Verwendung sein und dich auch noch nach den besonderen Lebensphasen der Schwangerschaft und Stillzeit begleiten. Deshalb sind oft viele Funktionen in einem simpel wirkenden Schnitt verpackt.<\/p><p>Stillfashion setzt auf sanfte und robuste Stoffe, auf besondere Materialien wie Bio-Baumwolle und Tencel. Hergestellt wird die Mode aus nachhaltigen Materialien und in sozialen Produktionsstätten.<\/p>",
             "url": ""
           }
+        },
+        "2f715e1c-7983-4037-a6d5-59c2346a47e9": {
+          "type": "brand",
+          "settings": {
+            "title": "Stockmar",
+            "text": "<p>Seit 100 Jahren steht der Name Stockmar für hochwertige Kreativ-Produkte. Zu ihrem Qualitätsverständnis gehört der Anspruch, künstlerische Freiräume zu eröffnen, die wohltuend auf die individuelle kindliche Entwicklung wirken. Die Qualität stellen sie durch die sorgfältige Auswahl der Rohstoffe, erstklassige Verarbeitung sowie hervorragende Farb-, Mal- und Modelliereigenschaften sicher.<\/p><p>Stockmar Produkte sind für Gesundheit und Umwelt unbedenklich.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -988,7 +996,8 @@
         "d7f002b1-af96-4cae-9a05-bdf3f7dde2c1",
         "f31c7ce4-75ec-480c-9e6f-6d77580af80a",
         "31a0a2d8-c5a0-4329-a917-9085d4923d8f",
-        "b6ab65f8-d76b-47b0-b238-d1101e43fc17"
+        "b6ab65f8-d76b-47b0-b238-d1101e43fc17",
+        "2f715e1c-7983-4037-a6d5-59c2346a47e9"
       ],
       "settings": {
         "padding_top": 60,

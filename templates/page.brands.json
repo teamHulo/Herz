@@ -831,6 +831,14 @@
             "text": "<p>Jennifer und Roger Moore haben Pura im Jahr 2008 gegründet. Ihr Ziel mit den Pura Flschen war es langlebige, wiederverwendbare Produkte herzustellen, die viel umweltfreundlicher und kostengünstiger sind als der Kauf neuer Flaschen alle paar Monate. Die Pura Flaschen sind anpassungsfähig und wandelbar. Die Flaschen kann man ab Babyalter bis ins Erwachsenenalter benutzen und anpassen.<\/p>",
             "url": ""
           }
+        },
+        "7de82cd0-5e75-4373-9a49-fef6a290b683": {
+          "type": "brand",
+          "settings": {
+            "title": "Quittenduft",
+            "text": "<p>Josianne von Quittenduft ist Zyklusmentorin, Menstruationskundige und Tabubrecherin. Über das zyklische Leben zu berichten, ist ihre Leidenschaft und ihr Beruf. Wenns ums Frauenwohl und um Selfcare geht ist sie ganz vorne mit dabei.Von der ersten Menstruation bis zu den Wechseljahren ist bei Quittenduft alles dabei.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -878,7 +886,8 @@
         "ce8fed9c-e998-4390-9836-bf4ddcc7b8d7",
         "68c3e7ab-f6aa-4ca3-9740-568e66ef8c2b",
         "fbd114ef-49f9-4050-a77c-7f36d951013a",
-        "144b77e7-dcb4-4d02-8167-d44c18b4df4d"
+        "144b77e7-dcb4-4d02-8167-d44c18b4df4d",
+        "7de82cd0-5e75-4373-9a49-fef6a290b683"
       ],
       "settings": {
         "padding_top": 60,

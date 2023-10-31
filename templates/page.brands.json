@@ -759,6 +759,14 @@
             "text": "<p>Verantwortungsvolle Produktion steht im Mittelpunkt von Oschas Philosophie. Die Marke legt grossen Wert auf den Schutz unseres Planeten und das Erhalten seiner Schönheit für künftige Generationen. Aus diesem Grund setzt Oscha auf Garne, die verantwortungsvoll beschafft und organisch sind. Die hochwertigen Tragetücher und Slings werden im Vereinigten Königreich gewebt und in Schottland handgefertigt.<\/p><p>Ein weiteres Merkmal ist die Produktion ohne Abfall (Zero Waste), und jeder Kauf unterstützt das Wachstum des Waldgebiets im Caledonian Forest. In Zusammenarbeit mit Trees for Life wird hier daran gearbeitet, die schottischen Highlands in ihren natürlichen Zustand zurückzuversetzen.<\/p>",
             "url": ""
           }
+        },
+        "2bdc1f18-f0d0-4daf-97a6-e559904c8318": {
+          "type": "brand",
+          "settings": {
+            "title": "Paarzeit",
+            "text": "<p>Paarzeit gibt es seit 2019 und hat den Sitz im schönen Osnabrücker Land.<\/p><p>Das Ziel ist es, Dinge zu erschaffen, die Momente der Verbundenheit schenken. Rund ums Jahr möchte Paarzeit mit den klimaneutralen und regional gefertigten Produkten ein bisschen mehr Liebe und Achtsamkeit in die Welt tragen.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -797,7 +805,8 @@
         "044b1a85-729b-4392-955d-fa5c1598cce6",
         "46dd2d2b-5152-47d4-b6f5-928cfd12ce41",
         "cec965f2-a099-48aa-986e-6b16d2b2cfcd",
-        "6ce904c9-6a3d-4d17-b94e-5f261a396c6f"
+        "6ce904c9-6a3d-4d17-b94e-5f261a396c6f",
+        "2bdc1f18-f0d0-4daf-97a6-e559904c8318"
       ],
       "settings": {
         "padding_top": 60,

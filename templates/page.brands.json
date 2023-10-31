@@ -948,11 +948,20 @@
             "text": "<p>Smallstuff ist eine dänische Marke und wurde 2006 gegründet. Smallstuff liebt Farben und schöne Designs. Für alle Produkte werden natürliche Materialien wie Baumwolle, Wolle und Holz verwendet. Die Wolle ist OEKO-TEX-zertifiziert. Smallstuff stellt gut sitzende Kleidung her, die gleichzeitig weich und angenehm zu tragen ist.<\/p>",
             "url": ""
           }
+        },
+        "d7f002b1-af96-4cae-9a05-bdf3f7dde2c1": {
+          "type": "brand",
+          "settings": {
+            "title": "Smart Bottoms",
+            "text": "<p>Christy Malone hat Smart Bottoms aus ihrer Liebe zu Stoffwindeln heraus gegründet. Die Firma mit Sitz in den USA bemüht sich so natürlich und vernünftig wie nur möglich zu handeln. So wird zum Beispiel in einigen Windeln die Verwendung von Chemikalien bei der Beseitigung von natürlichen Ölen aus den Baumwollfasern vermieden.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "0e318fd7-9ce4-43b7-9e09-9e24b68d009b",
-        "d3f1d5cb-150d-4a91-a848-5608c613e7fd"
+        "d3f1d5cb-150d-4a91-a848-5608c613e7fd",
+        "d7f002b1-af96-4cae-9a05-bdf3f7dde2c1"
       ],
       "settings": {
         "padding_top": 60,

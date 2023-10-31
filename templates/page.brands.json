@@ -972,6 +972,14 @@
             "text": "<p>Die Firma Sonnentor ist ein österreichisches Unternehmen mit Sitz in Sprögnitz, das auf die Herstellung und Vermarktung von Kräutern, Tees und Gewürzen aus biologischem und fairen Anbau spezialisiert ist.<\/p>",
             "url": ""
           }
+        },
+        "b6ab65f8-d76b-47b0-b238-d1101e43fc17": {
+          "type": "brand",
+          "settings": {
+            "title": "Stillfashion",
+            "text": "<p>Stillfashion ist ein österreichisches Unternehmen und entwickelt nachhaltige Mode für die Schwangerschaft, die Stillzeit und die Zeit danach (oder davor). Die Mode soll möglichst lange in Verwendung sein und dich auch noch nach den besonderen Lebensphasen der Schwangerschaft und Stillzeit begleiten. Deshalb sind oft viele Funktionen in einem simpel wirkenden Schnitt verpackt.<\/p><p>Stillfashion setzt auf sanfte und robuste Stoffe, auf besondere Materialien wie Bio-Baumwolle und Tencel. Hergestellt wird die Mode aus nachhaltigen Materialien und in sozialen Produktionsstätten.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -979,7 +987,8 @@
         "d3f1d5cb-150d-4a91-a848-5608c613e7fd",
         "d7f002b1-af96-4cae-9a05-bdf3f7dde2c1",
         "f31c7ce4-75ec-480c-9e6f-6d77580af80a",
-        "31a0a2d8-c5a0-4329-a917-9085d4923d8f"
+        "31a0a2d8-c5a0-4329-a917-9085d4923d8f",
+        "b6ab65f8-d76b-47b0-b238-d1101e43fc17"
       ],
       "settings": {
         "padding_top": 60,

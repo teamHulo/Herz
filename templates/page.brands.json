@@ -575,6 +575,14 @@
             "text": "<p>mamalila ist ein Familienunternehmen im besten Sinn – und in mehrfacher Hinsicht. Die Geburt ihrer beiden Kinder war für die heutige Geschäftsführerin Vicki Marx der Anlass, mamalila zu gründen. <\/p><p>Denn als Outdoor- und Tragefan entdeckte die junge Mutter eine Marktlücke: Wer mit Kind vor dem Bauch bei Wind und Wetter vor die Tür möchte, braucht eine Jacke, die anders ist als das, was der Markt bis dahin hergab. Und so entwickelte Vicki Marx diese Jacke kurzerhand selbst – und hob die nachhaltige Marke mamalila aus der Taufe.<\/p>",
             "url": ""
           }
+        },
+        "160d738d-a6b2-45c5-b8e1-e4f280e91a86": {
+          "type": "brand",
+          "settings": {
+            "title": "Mamidala",
+            "text": "<p>Tina Eck, selbst Mutter zweier Söhne, steht hinter dem Namen Mamidala. Angefangen hat sie damit, Stillarmbänder selbst herzustellen, die super praktisch für stillende Mütter sind. <\/p><p>Sie achtet stets auf hochwertige und sichere Materialien sowie auf die bestmöglichste Sicherheit für das Baby. Im Laufe der Zeit kamen viele Produkte, wie Babyarmbänder und Kinderarmbänder sowie Stillketten, Greiflinge und Babysocken dazu. Alle Produkte stellt sie selbst in Handarbeit her.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -590,7 +598,8 @@
         "68ce22e2-5d42-4b2d-ad9e-bf9b35864b62",
         "c4e2039e-ff7e-42f3-91a9-4ca9ffd906c5",
         "deea0d72-6f32-4db4-8a46-adfdde08241e",
-        "40a3f6c4-1ff5-4688-89d8-24e7e48c73b6"
+        "40a3f6c4-1ff5-4688-89d8-24e7e48c73b6",
+        "160d738d-a6b2-45c5-b8e1-e4f280e91a86"
       ],
       "settings": {
         "padding_top": 60,

@@ -519,6 +519,14 @@
             "text": "<p>Alles began mit einem Vater (Dan, 49 aus Bukarest) der sich fragte \"Was kann ich für mein Kind tun, damit es entdecken und Spass haben kann?\"<\/p><p>Er baute den Learning Tower für sein Kind und stellte fest, dass dieser auf so viele Arten benutzt werden konnte. Also fing er an ihn zu optimieren und verbessern. Fügte zusätzliche Funktionen hinzu. Nach zwei Jahren stand der Leea`s Tower.<\/p>",
             "url": ""
           }
+        },
+        "62f8b106-488e-4b57-a301-9f6146dc1ae9": {
+          "type": "brand",
+          "settings": {
+            "title": "Love Radius",
+            "text": "<p>Love Radius wurde 2007 in Paris gegründet und ist die französische Marke, die das Tragen aus praktischen Gründen, aber auch wegen der Nähe zu Ihrem Baby fördert.<\/p><p>Alle Produkte werden in Frankreich geplant und in der EU hergestellt.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -527,7 +535,8 @@
         "6ebcf134-d188-44fa-9cf6-aed808266121",
         "7917788b-e6dd-482a-8232-1aca100646a9",
         "91d414e8-b232-4c6d-b2c5-54cf5819b6fa",
-        "f899c729-4859-4107-8431-c468fa0dc4a4"
+        "f899c729-4859-4107-8431-c468fa0dc4a4",
+        "62f8b106-488e-4b57-a301-9f6146dc1ae9"
       ],
       "settings": {
         "padding_top": 60,

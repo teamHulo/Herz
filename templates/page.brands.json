@@ -274,6 +274,14 @@
             "text": "<p>Andrea alias Frau Ottilie erschaffet von Mainz aus verspielte und liebevoll handgemalte Illustrationen, die kleine und grosse Menschen erfreuen und ein bisschen Zauber in die Welt bringen sollen. Sie hat das Label 2014 gegründet, anfangs noch als kleines Projekt, neben dem Studium. Heute steckt hinter Frau Ottilie ein mehrköpfiges Team das sich um alles kümmert.<\/p><p>Die Illustrationen auf unseren Artikeln stammen dabei aber bis heute allesamt aus Andreas Feder. Das ist ganz wörtlich gemeint: Das allermeiste auf den Bildern ist handgemalt, wird dann digitalisiert, bearbeitet, auseinandergenommen und zusammengesetzt.<\/p>",
             "url": ""
           }
+        },
+        "7080a561-7f3e-4034-8de2-9297d8c6bdd6": {
+          "type": "brand",
+          "settings": {
+            "title": "Fresk",
+            "text": "<p>Fresk ist eine holländische Bio-Baby-Lifestyle-Marke mit frischem, niedlichen Design und einem Hauch Vintage.<\/p><p>Fresk möchte nachhaltige und faire Produkte herstellen, weshalb sie 100% Bio-Baumwolle verwenden. Alle Artikel werden in Holland entworfen. Die Kleidung wird in der Türkei, die anderen Produkte unter streng kontrollierten und fairen Bedingungen in Indien oder China produziert.<\/p><p>Viele Fresk Produkte haben das GOTS-Gütesiegel erhalten, welches als weltweites Qualitätszeichen gilt - nicht nur für das Material sondern auch für den Herstellungsprozess und die gesamte Lieferkette.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -309,7 +317,8 @@
         "4f03e905-da79-4064-9826-9b15533c8a76",
         "f3e01839-16f3-47ed-a42d-4da488ea2d4c",
         "0d68a37c-4895-455f-a572-ac6d731a2969",
-        "f511a295-b510-43c4-b115-8bc39dd4e4d6"
+        "f511a295-b510-43c4-b115-8bc39dd4e4d6",
+        "7080a561-7f3e-4034-8de2-9297d8c6bdd6"
       ],
       "settings": {
         "padding_top": 60,

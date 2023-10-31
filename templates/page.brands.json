@@ -855,6 +855,14 @@
             "text": "<p>Die Menstruation als natürliches und positives Merkmal des biologisch weiblichen Körpers wird gesellschaftlich, politisch oder religiös oftmals tabuisiert - sei es aus Unwissenheit, Unsicherheit oder Kalkül.<\/p><p>Rouge macht es sich deshalb zur Aufgabe, Unwissenheit mit Aufklärung zu begegnen, Unsicherheit durch Dialog aufzulösen und sich sowohl gesellschaftlicher wie auch politischer Diskriminierung aktiv entgegenzustellen. Einen Teil des Erlöses spendet Rouge an Organisationen, die sich für Mädchen und Frauen einsetzen.<\/p>",
             "url": ""
           }
+        },
+        "aa4b2202-269d-4e4e-b33a-da5720368d33": {
+          "type": "brand",
+          "settings": {
+            "title": "Sarah's Silks",
+            "text": "<p>Basierend auf den Philosophien der Waldorfpädagogik und ihrer eigenen Kindheit mit fantasievollem Spielen entwirft Sarah seit über 29 Jahren Playsilks und andere natürliche, umweltfreundliche Holz- und Seidenspielzeuge. Sarah’s Silks beflügelt die Fantasie von Kindern auf der ganzen Welt durch offenes Spielzeug aus natürlichen, umweltfreundlichen Materialien.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -905,7 +913,8 @@
         "144b77e7-dcb4-4d02-8167-d44c18b4df4d",
         "7de82cd0-5e75-4373-9a49-fef6a290b683",
         "834be4f6-451f-4e36-b485-eea9b4f5600f",
-        "f2169bea-d206-45e0-b8f9-95b486a4afc9"
+        "f2169bea-d206-45e0-b8f9-95b486a4afc9",
+        "aa4b2202-269d-4e4e-b33a-da5720368d33"
       ],
       "settings": {
         "padding_top": 60,

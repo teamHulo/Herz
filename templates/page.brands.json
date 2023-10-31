@@ -655,6 +655,14 @@
             "text": "<p>Müsli Kleidung ist GOTS zertifiziert. Dies ist aktuell der höchste Standard für Bekleidung. Alle Prozesse wie Färben, Weben und Nähen sind unter den strengsten Vorgaben mit Rücksicht auf die Umwelt durchgeführt. Auch die Arbeitsbedingungen in jedem einzelnen Produktionsschritt werden streng überwacht. GOTS ist international anerkannt als führender Standard für die Verarbeitung von Textilien aus Biobaumwolle.<\/p>",
             "url": ""
           }
+        },
+        "bad181d1-f221-4b78-a507-f72cff21bea6": {
+          "type": "brand",
+          "settings": {
+            "title": "MyClarella",
+            "text": "<p>MyClarella ist ein frauengegründetes und inhaberingeführtes Wellness-Unternehmen für werdende Mamas mit dem Fokus auf der besonderen Zeit nach der Geburt, dem Wochenbett.<\/p><p>MyClarella setzt sich dafür ein, dass Frauen aufgeklärt und gestärkt in die Geburt gehen und begleiten sie im Wochenbett, der wichtigen Zeit nach der Geburt.<\/p><p>Sie setzen auf natürliche, biologische und recyclebare Materialien und achten auf gute soziale Bedingungen in ihren Produktionsstätten, sowie angemessene Arbeitszeiten, eine entsprechende Vergütung und hohe Gesundheitsstandards.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -680,7 +688,8 @@
         "3b9ac97b-c6c5-4049-a0ab-49d2624328fb",
         "d44fb2e2-eadb-46e8-aa75-89637501ce13",
         "1be4ca22-1222-42a5-8dd2-43ac61030435",
-        "8e05cabb-89c2-419f-a9be-8535308efee4"
+        "8e05cabb-89c2-419f-a9be-8535308efee4",
+        "bad181d1-f221-4b78-a507-f72cff21bea6"
       ],
       "settings": {
         "padding_top": 60,

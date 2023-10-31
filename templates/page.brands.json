@@ -402,6 +402,14 @@
             "text": "<p>Lisa, die Gründerin von KNETÄ® wollte mit ihrer Idee glückliche Familienmomente und einen sozialen Beitrag in der Gesellschaft fördern und die Umweltressourcen schonen.<\/p><p>Knete ist wichtig für die Entwicklung der Feinmotorik der Kinder und sollte nicht erst ab 3 Jahren möglich sein, dachte sie sich und deshalb ist KNETÄ umweltfreundlich, vegan und vor allem unbedenklich für Kleinkinder.<\/p>",
             "url": ""
           }
+        },
+        "ba3d2851-16c2-4dd5-86de-63a6234b544e": {
+          "type": "brand",
+          "settings": {
+            "title": "Koel",
+            "text": "<p>Koel ist eine ursprünglich holländische Marke für Kinderschuhe, die heute mit über 15 Jahren Erfahrung in Portugal Schuhe designed und produziert. Die Barfuss-Schuhe überzeugen durch ihre hohe Qualität, die ausgewählten Materialien, die gute Passform und die nachhaltige Produktionsweise.<\/p><p>Und natürlich erfüllen die Schuhe alle Kriterien, die einen Barfuss-Schuh ausmachen: Sie haben flexible Sohlen, ein flaches Fussbett, viel Platz für die Zehen und sorgen so dafür, dass die Muskulatur gestärkt wird, die Zehen die korrekte Stellung behalten und sensorische Reize am Fuss für gute Körperkoordination sorgen. So können die Füsse das Körpergewicht abfedern, Bodenunebenheiten ausgleichen und wichtige Informationen für den Gleichgewichtssinn liefern.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -453,7 +461,8 @@
         "c267d50d-db23-413e-b191-ee8e3e238081",
         "f32aa80f-67c2-479d-812f-418a6d9e1e11",
         "f30ab461-90be-4ad2-85d2-cbf1bc18c5ee",
-        "4f7e50a0-cd51-43cb-b739-922141a0ed47"
+        "4f7e50a0-cd51-43cb-b739-922141a0ed47",
+        "ba3d2851-16c2-4dd5-86de-63a6234b544e"
       ],
       "settings": {
         "padding_top": 60,

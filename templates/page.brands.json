@@ -1052,6 +1052,14 @@
             "text": "<p>Wombat & Co. London wurde von einer Gruppe Freunden ins Leben gerufen, die alle verschiedene Erfahrungen in der Modebranche und der Baby-Trage-Welt mitbrachten. Von Müttern für Mütter. Das Ziel ist es, praktische, flexible und stylische Jacken zu designen, die von der Schwangerschaft über die Tragezeit aber auch noch lange danach genutzt werden können.<\/p><p>Wombat verwendet nachhaltige Materialien höchster Qualität und schützt dadurch die Natur- und Tierwelt.<\/p>",
             "url": ""
           }
+        },
+        "d13b9b52-ca5f-4d37-a971-d37f2d8d47c2": {
+          "type": "brand",
+          "settings": {
+            "title": "Wooden Story",
+            "text": "<p>Wooden Story: Ein kleines Familienunternehmen aus Polen, das mit grosser Leidenschaft nachhaltiges und umwelfreundliches Holzspielzeug herstellt. Was mit der Leidenschaft von Grossvater Borowy begann, wird jetzt schon in der 3.Generation fortgeführt.<\/p><p>Die Spielsachen sind aus FSC zertifiziertem Holz, sie werden nur mit Bienenwachs und pflanzlichen Ölen behandelt und mit natürlichen Farben gefärbt. So fühlen sie sich angenehm glatt an, riechen wunderbar nach Holz und laden zu stundenlangem freien Spiel ein.<\/p><p>Die Verpackung ist plastikfrei und kann recycelt oder wiederverwendet werden.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -1069,7 +1077,8 @@
         "265bccc3-00ef-4e9c-9ce7-8943f80825ec",
         "0490fcb4-0302-4e3c-855a-4979e904fb12",
         "f9789320-720f-4e91-9e8e-d4df347cfe8e",
-        "b2c245c1-8b62-4249-b410-0c9f7c4647a1"
+        "b2c245c1-8b62-4249-b410-0c9f7c4647a1",
+        "d13b9b52-ca5f-4d37-a971-d37f2d8d47c2"
       ],
       "settings": {
         "padding_top": 60,

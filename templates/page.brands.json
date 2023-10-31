@@ -386,6 +386,14 @@
             "text": "<p>Jorgen House stellt funktionale Kleider für Schwangerschaft, Wochenbett, Stillzeit und die Zeit danach her. Denn wir Mamas verändern uns und unser Körper durchlebt verschiedene Phasen.<\/p><p>Jorgen House stellt alle Kleidungsstücke in einer Fabrik her, die auf ein nachhaltigeres Textilproduktionsmodell hinarbeitet und sowohl die Umwelt als auch alle an der Produktion und Lieferkette beteiligten Personen respektiert. Die Fabrik wird mit 100 % erneuerbarer Energie betrieben und produziert mit nachhaltigen Fasern wie Bio-Baumwolle, recyceltem Polyester und künstlichen Zellulosefasern aus nicht gefährdeten, zertifizierten Wäldern.<\/p>",
             "url": ""
           }
+        },
+        "f30ab461-90be-4ad2-85d2-cbf1bc18c5ee": {
+          "type": "brand",
+          "settings": {
+            "title": "kikadu",
+            "text": "<p>Alle kikadu Produkte werden sorgfältig und mit viel Liebe zum Detail entwickelt. In der heutigen Wegwerf-Gesellschaft setzt die Marke auf Lieblingsstücke für Kinder, die auf ein langes Leben ausgerichtet sind. Zeitlose und langlebige Kindheitsbegleiter, die auch weiteren Generationen Freude bereiten.<\/p><p>kikadu verwendet fast ausschliesslich GOTS zertifizierte Bio-Baumwolle, FSC-zertifiziertes Holz, Natur-Kautschuk und recycelte Materialien. In der gesamten Herstellungskette kommen keine Pestizide, gesundheitsschädlichen Farben oder gefährlichen Chemikalien zum Einsatz.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -435,7 +443,8 @@
         "f30f4e75-1de9-4fa2-ac75-8077ded84200",
         "22a3f52f-3e67-49f9-8abf-9b7c817c2ec0",
         "c267d50d-db23-413e-b191-ee8e3e238081",
-        "f32aa80f-67c2-479d-812f-418a6d9e1e11"
+        "f32aa80f-67c2-479d-812f-418a6d9e1e11",
+        "f30ab461-90be-4ad2-85d2-cbf1bc18c5ee"
       ],
       "settings": {
         "padding_top": 60,

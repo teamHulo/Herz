@@ -234,6 +234,14 @@
             "text": "<p>einhorn ist nicht nur nachhaltig, sondern fair. Ein Unternehmen mit einer Vision, mit tollen Werten. Eine Firma, die sich einbringt in die Community, die Kultur, die Gesellschaft, die Politik. einhorn tut Gutes und verbindet das auch noch mit witzigem, sexy Design und tollen Produkten.<\/p>",
             "url": ""
           }
+        },
+        "9daf03f0-660e-42b9-a09e-2081d59657ce": {
+          "type": "brand",
+          "settings": {
+            "title": "Engel",
+            "text": "<p>Bereits in den 60ern produzierte Engel Strickwindeln aus gebleichter Baumwolle. 1982 begann mit der Verarbeitung naturbelassener Baumwolle eine beispielhafte und konsequente Orientierung auf Naturtextilien. Heute umfasst das Sortiment ein komplettes Wickelsystem, ein Wäscheprogramm für Babys, Kinder und Erwachsene, eine Nachtwäschekollektion für Kinder und Babys, Baby-Oberbekleidung sowie ein kleines Sortiment an Fleece-Bekleidung aus flauschiger Merinoschurwolle für Babys, Kinder und Erwachsene.<\/p><p>Wir haben Engel im Sortiment, weil sich die Bodys aus Wolle-Seide ganz besonders gut anfühlen und sich fürs Tragen eignen, da sie den Temparaturausgleich bestens unterstützen.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -264,7 +272,8 @@
         "914fce0d-c5ce-443e-a2fb-b24d2b5005f4",
         "944c73f4-7064-46e0-b1b9-7efe289b9c38",
         "9eef9b38-d93f-4088-8ac2-70d4936f0b0f",
-        "839bf3b6-58fa-46ee-8c79-8b8c9e23923c"
+        "839bf3b6-58fa-46ee-8c79-8b8c9e23923c",
+        "9daf03f0-660e-42b9-a09e-2081d59657ce"
       ],
       "settings": {
         "padding_top": 60,

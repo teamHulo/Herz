@@ -282,6 +282,14 @@
             "text": "<p>Fresk ist eine holländische Bio-Baby-Lifestyle-Marke mit frischem, niedlichen Design und einem Hauch Vintage.<\/p><p>Fresk möchte nachhaltige und faire Produkte herstellen, weshalb sie 100% Bio-Baumwolle verwenden. Alle Artikel werden in Holland entworfen. Die Kleidung wird in der Türkei, die anderen Produkte unter streng kontrollierten und fairen Bedingungen in Indien oder China produziert.<\/p><p>Viele Fresk Produkte haben das GOTS-Gütesiegel erhalten, welches als weltweites Qualitätszeichen gilt - nicht nur für das Material sondern auch für den Herstellungsprozess und die gesamte Lieferkette.<\/p>",
             "url": ""
           }
+        },
+        "6de266e2-deba-40cb-afc8-4c9f57cb7c0d": {
+          "type": "brand",
+          "settings": {
+            "title": "Froddo",
+            "text": "<p>Die froddo Schuhe des traditionsreichen Unternehmens Ivančica, das seit 1946 für hohe Qualität und Individualität steht, begeistert bis heute mit seinen ökologisch produzierten Kinderschuhen. <\/p><p>Die Barefoot-Linie bietet höchste Bequemlichkeit und Bewegungsfreiheit und berücksichtigt alle Kriterien, die einen Barfuss-Schuh ausmachen: Sie haben flexible Sohlen, ein flaches Fussbett, viel Platz für die Zehen und sorgen so dafür, dass die Muskulatur gestärkt wird, die Zehen die korrekte Stellung behalten und sensorische Reize am Fuss für gute Körperkoordination sorgen. So können die Füsse das Körpergewicht abfedern, Bodenunebenheiten ausgleichen und wichtige Informationen für den Gleichgewichtssinn liefern.<\/p><p>Gerade bei Kindern, deren Füsse sich ja erst noch entwickeln, ist es besonders wichtig, die natürliche Funktion der Füsse wie beim Barfusslaufen zu bewahren, damit es nicht zu Haltungsproblemen, Überbelastung oder verkümmerten Muskeln kommt.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -318,7 +326,8 @@
         "f3e01839-16f3-47ed-a42d-4da488ea2d4c",
         "0d68a37c-4895-455f-a572-ac6d731a2969",
         "f511a295-b510-43c4-b115-8bc39dd4e4d6",
-        "7080a561-7f3e-4034-8de2-9297d8c6bdd6"
+        "7080a561-7f3e-4034-8de2-9297d8c6bdd6",
+        "6de266e2-deba-40cb-afc8-4c9f57cb7c0d"
       ],
       "settings": {
         "padding_top": 60,

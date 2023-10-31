@@ -1036,6 +1036,14 @@
             "text": "<p>WearMe ist eine kleine italienische Marke und wurde von einer Mutter Namens Virginia ins Leben gerufen. Sie hat ihr Baby in einem Tragetuch getragen und sich so ins Tragen verliebt, dass sie 2013 eine kleine Welt darum herum schuf.<\/p><p>Bei WearMe arbeitet ein Team mit mehr als vielen Jahren Erfahrung, das sich zum Ziel gemacht hat, das Leben von Familien durch ihre Produkte zu verbessern.<\/p>",
             "url": ""
           }
+        },
+        "f9789320-720f-4e91-9e8e-d4df347cfe8e": {
+          "type": "brand",
+          "settings": {
+            "title": "Willow Tree",
+            "text": "<p>Die Willow Tree Figuren werden von der Künstlerin Susan Lordi liebevoll entworfen. Die zeitlosen Skulpturen drücken mit ihren Gesten Beziehungen und Gefühle aus, die uns wichtig sind. Sie trösten, spenden Mut oder Hoffnung, feiern ein freudiges Erlebnis und zeigen liebevolle Erinnerungen.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -1051,7 +1059,8 @@
         "ca697107-8d6b-4cc8-b1bf-c416ac07b3bd",
         "11d5c7c4-bd86-4275-b674-32dc123e9cbb",
         "265bccc3-00ef-4e9c-9ce7-8943f80825ec",
-        "0490fcb4-0302-4e3c-855a-4979e904fb12"
+        "0490fcb4-0302-4e3c-855a-4979e904fb12",
+        "f9789320-720f-4e91-9e8e-d4df347cfe8e"
       ],
       "settings": {
         "padding_top": 60,

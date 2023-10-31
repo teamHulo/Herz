@@ -1028,6 +1028,14 @@
             "text": "<p>Walkiddy ist eine Baby- und Kindermodenmarke, für die Nachhaltigkeit an erster Stelle steht. Walkiddy beobachtet stets die internationalen Standards für Bio-Baumwolle und produziert mit hochwertigen nachhaltigen Stoffen Kleidung, die die Haut der Kleinen schützt. Die Designs sind inspiriert von der Natur und faszinierenden Wesen. Sie schaffen Kollektionen durch welche die Kinder die märchenhafte Schönheit der Natur entdecken können.<\/p><p>Walkiddy wie auch wir sind überzeugt, dass die Zukunft unseres Planeten, die Zukunft unserer Kinder ist. Der Fortbestand des Öko-Systems ist lediglich mit Nachhaltigkeit möglich. Heutzutage produzieren viele Unternehmen für Bekleidung niedrigpreisig mehr Kleidung als benötigt wird. Dies führt zu Verschwendung. Mehr Produktion, mehr Wasser und mehr Lieferungen sind Einflussfaktoren, die den Kohlenstoffdioxid-Ausstoss steigern. Übrigens vernichten viele Unternehmen die überproduzierte, übriggebliebene Ware zum Ende der Saison. - Walkiddy nicht und auch wir von Herz an Herz werfen niemals Ware weg.<\/p><p>Auf eine Zukunft, in der anstelle von Verschwendung Nachhaltigkeit tritt und unsere Kinder in einer hoffnungsvollen Welt ihre eigenen Schritte machen können.<\/p>",
             "url": ""
           }
+        },
+        "0490fcb4-0302-4e3c-855a-4979e904fb12": {
+          "type": "brand",
+          "settings": {
+            "title": "Wear Me",
+            "text": "<p>WearMe ist eine kleine italienische Marke und wurde von einer Mutter Namens Virginia ins Leben gerufen. Sie hat ihr Baby in einem Tragetuch getragen und sich so ins Tragen verliebt, dass sie 2013 eine kleine Welt darum herum schuf.<\/p><p>Bei WearMe arbeitet ein Team mit mehr als vielen Jahren Erfahrung, das sich zum Ziel gemacht hat, das Leben von Familien durch ihre Produkte zu verbessern.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -1042,7 +1050,8 @@
         "3bf1bde4-27ef-43ee-b65d-086890875e7c",
         "ca697107-8d6b-4cc8-b1bf-c416ac07b3bd",
         "11d5c7c4-bd86-4275-b674-32dc123e9cbb",
-        "265bccc3-00ef-4e9c-9ce7-8943f80825ec"
+        "265bccc3-00ef-4e9c-9ce7-8943f80825ec",
+        "0490fcb4-0302-4e3c-855a-4979e904fb12"
       ],
       "settings": {
         "padding_top": 60,

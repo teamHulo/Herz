@@ -236,7 +236,8 @@ $(() => {
 });
 
 $(() => {
-  if ($("#url_json").length != 0) {
+
+  function loadSwatchColor(){
     const jsonFileUrl = $("#url_json").val();
     console.log(jsonFileUrl);
 
@@ -268,6 +269,25 @@ $(() => {
         console.error("Произошла ошибка при загрузке JSON-файла", error);
       });
   }
+
+
+  if ($("#url_json").length != 0) {
+    loadSwatchColor();
+  }
+
+  if($('product-recommendations').length > 0){
+    let findProductRecomendation = setInterval(() => {
+      if($('product-recommendations .grid__item').length > 0){
+        loadSwatchColor();
+        clearInterval(findProductRecomendation);
+      }
+    }, 500);
+  }
+
+
+
+
+
 });
 
 $(() => {
@@ -298,8 +318,9 @@ $(() => {
     }
   });
 
-  $(".my-input-radio").on("change", function () {
+  $(document).on("change",".my-input-radio", function () {
     let valInput = $(this).val();
+    console.log(valInput);
     $(this)
       .closest(".my-custom-select-product-wrap")
       .find(".custom-select-value p")
@@ -395,7 +416,7 @@ $(() => {
     );
   }
 
-  $(".colors .my-input-radio").change(function () {
+  $(document).on('change',".colors .my-input-radio",function () {
     let cart = $(this).closest(".my-cart-product")[0];
     let colorValue = $(this).val();
     let optionCount = $(this)
@@ -445,7 +466,8 @@ $(() => {
       });
   });
 
-  $(".count-option").click(function () {
+  $(document).on("click", ".count-option",function () {
+    console.log('fff');
     $(this).closest(".my-cart-product").find(".colors").toggleClass("active");
   });
 });

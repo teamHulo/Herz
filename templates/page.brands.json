@@ -250,6 +250,14 @@
             "text": "<p>Ette Tete ist eine kleine Firma aus Lettland, die Möbel ganz nach der Philosophie von Emmi Pikler und Montessori herstellt. So zum Beispiel das modifizierbare Pikler Dreieck: Damit die Kleinsten sicher klettern, spielen und sich bewegen können und dabei ihre motorischen Fähigkeiten voll entfalten. Auch der Learning Tower ermöglicht den Kinder wichtige Lernerfahrungen, denn sie lieben es, uns bei unserer Arbeit zuzuschauen und aktiv mitzuhelfen.<\/p>",
             "url": ""
           }
+        },
+        "f3e01839-16f3-47ed-a42d-4da488ea2d4c": {
+          "type": "brand",
+          "settings": {
+            "title": "Fabelab",
+            "text": "<p>Fabelab ist eine Skandinavische Marke aus Kopenhagen, die sich auf hoch qualitative, innovative und verantwortungsvoll produzierte Produkte für ein gemütliches, kreatives Zuhause spezialisiert hat.<\/p><p>Die Produkte inspirieren Eltern und Kinder, wecken ihre Neugier und sind mit viel Liebe gemacht. Schönheit und Funktionalität sind genauso wichtig wie die nachhaltige Produktion und die Verwendung von ökologischen Materialien. Auch Upcycling und Wiederverwendbarkeit gehört zu den Grundprinzipien bei Fabelab.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -282,7 +290,8 @@
         "9eef9b38-d93f-4088-8ac2-70d4936f0b0f",
         "839bf3b6-58fa-46ee-8c79-8b8c9e23923c",
         "9daf03f0-660e-42b9-a09e-2081d59657ce",
-        "4f03e905-da79-4064-9826-9b15533c8a76"
+        "4f03e905-da79-4064-9826-9b15533c8a76",
+        "f3e01839-16f3-47ed-a42d-4da488ea2d4c"
       ],
       "settings": {
         "padding_top": 60,

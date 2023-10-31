@@ -815,6 +815,14 @@
             "text": "<p>Nachhaltiges Spielen – dies ist die Philosophie von PlanToys.<\/p><p>So wird das Holz chemiefrei getrocknet und die Spielzeuge werden mit Hilfe eines zertifizierten E-Zero Formaldehyd-freien Klebers anstelle von herkömmlichem, toxischem Holzleim zusammengebaut.<\/p><p>Zudem verwendet PlanToys recyclingfähige Verpackungen und keine chemischen Farbstoffe. 73% des verwendeten Materiales kommt aus Ressourcen im Umkreis von 30 km der Fabrik.<\/p>",
             "url": ""
           }
+        },
+        "fbd114ef-49f9-4050-a77c-7f36d951013a": {
+          "type": "brand",
+          "settings": {
+            "title": "Popolini",
+            "text": "<p>Popolini ist ein österreichischer Familienbetrieb in der 2. Generation mit Hauptsitz Wien. Popolini produziert Stoffwindeln, nachhaltige Baby- und Kindermode sowie Heimtextilien. Mit der eigenen Produktion in Europa sind kurze Wege vom Produzenten zum Verbraucher und faire Arbeitsbedingungen garantiert. Die Produkte erfüllen höchste Qualitätsstandards und sind OEKO-TEX® und GOTS zertifiziert.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -860,7 +868,8 @@
         "a0e2e276-3570-47e5-811a-96cd26bc99c1",
         "a49d95eb-2a61-49ce-931e-53683f88acc7",
         "ce8fed9c-e998-4390-9836-bf4ddcc7b8d7",
-        "68c3e7ab-f6aa-4ca3-9740-568e66ef8c2b"
+        "68c3e7ab-f6aa-4ca3-9740-568e66ef8c2b",
+        "fbd114ef-49f9-4050-a77c-7f36d951013a"
       ],
       "settings": {
         "padding_top": 60,

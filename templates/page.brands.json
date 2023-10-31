@@ -567,6 +567,14 @@
             "text": "<p>Die Gründerinnen Stephanie und Stefanie teilen nicht nur einen Namen, sondern auch einen gemeinsames Ziel: Sie möchten der von \"Entwicklung\" und Wohlstand bestimmten Welt ein Stück Natürlichkeit zurückgeben. In Indien entdeckten sie, dass das traditionelle Färber-Handwerk auch ohne den Einsatz moderner Chemikalien brillante Farben erzeugt. In einem patentierten Prozess werden die Stoffe mit Auszügen aus dem, was uns die Natur geschenkt hat, gefärbt: Gemüse, Wurzeln und Blüten. Pflanzen geben nicht nur wunderschöne Farben, sondern sind auch gut zu deiner Haut und der deines Babys. Die Bio-Baumwolle kommt direkt aus Gujarat, Indien, wo sie gesponnen, gewebt und in Mama Nukas verwandelt wird.<\/p><p>\"Nuka\" kommt übrigens von \"Nook\" - das englische Wort für \"Schlupfwinkel\", - also ein Ort an dem man sich sicher und geborgen fühlt.<\/p><p>Die \"Mamanukas\" sind eine Inselgruppe auf den Fidschis - auch dort werden Babys in Tüchern getragen!<\/p>",
             "url": ""
           }
+        },
+        "40a3f6c4-1ff5-4688-89d8-24e7e48c73b6": {
+          "type": "brand",
+          "settings": {
+            "title": "Mamalila",
+            "text": "<p>mamalila ist ein Familienunternehmen im besten Sinn – und in mehrfacher Hinsicht. Die Geburt ihrer beiden Kinder war für die heutige Geschäftsführerin Vicki Marx der Anlass, mamalila zu gründen. <\/p><p>Denn als Outdoor- und Tragefan entdeckte die junge Mutter eine Marktlücke: Wer mit Kind vor dem Bauch bei Wind und Wetter vor die Tür möchte, braucht eine Jacke, die anders ist als das, was der Markt bis dahin hergab. Und so entwickelte Vicki Marx diese Jacke kurzerhand selbst – und hob die nachhaltige Marke mamalila aus der Taufe.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -581,7 +589,8 @@
         "4c94cb0f-fab0-4f32-aa82-07d86d8150be",
         "68ce22e2-5d42-4b2d-ad9e-bf9b35864b62",
         "c4e2039e-ff7e-42f3-91a9-4ca9ffd906c5",
-        "deea0d72-6f32-4db4-8a46-adfdde08241e"
+        "deea0d72-6f32-4db4-8a46-adfdde08241e",
+        "40a3f6c4-1ff5-4688-89d8-24e7e48c73b6"
       ],
       "settings": {
         "padding_top": 60,

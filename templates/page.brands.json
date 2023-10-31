@@ -210,6 +210,14 @@
             "text": "<p>Doodush ist ein polnisches Familienunternehmen, das seit 2013 Stoffwindeln in einer kleinen Werkstatt in Bielsko-Biała produziert. Dafür werden ausschliesslich beste polnische Materialien und Technologien eingesetzt, die weltweit anerkannten Qualitätsansprüchen entsprechen.<\/p>",
             "url": ""
           }
+        },
+        "944c73f4-7064-46e0-b1b9-7efe289b9c38": {
+          "type": "brand",
+          "settings": {
+            "title": "Easypisi",
+            "text": "<p>Easypisi - die nachhaltige Lösung anstelle von Einweg-Windeln.<\/p><p>Als Ignaz im Juli 2018 Vater wurde, hat er sich gefragt, ob es eine Alternative gibt zu 6000 Windeln, die ein Baby bis zum Trockenwerden verbraucht. Nach kurzer Recherche fanden er und seine Frau Lena das sogenannte \"Abhalten\", bei dem man das Baby ganz ohne Windeln aufziehen kann. Das einzige, was man dafür brauchte, war ein Töpfchen. Und so begann die Story von Easypisi.<\/p><p>Die Töpfchen von Easypisi sind 100% Germany made, von der Planung bis zur Produktion.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -237,7 +245,8 @@
         "4fd0ca2c-9314-480d-bf8c-fc67ef6303e5",
         "c5df051b-0844-4ffd-ad29-aeb6ea4d3163",
         "d0b66cd6-d113-439e-a9c9-8198d760918b",
-        "914fce0d-c5ce-443e-a2fb-b24d2b5005f4"
+        "914fce0d-c5ce-443e-a2fb-b24d2b5005f4",
+        "944c73f4-7064-46e0-b1b9-7efe289b9c38"
       ],
       "settings": {
         "padding_top": 60,

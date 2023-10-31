@@ -751,6 +751,14 @@
             "text": "<p>OrganiCup wurde gegründet, um die Gesundheit während der Menstruation auf persönlicher, kultureller und globaler Ebene zu verbessern. OrganiCup engagiert sich dafür, dass Menstruationsprodukte weder unseren Körper noch die Umwelt belasten. Auch dafür, dass Menstruation kein Tabu mehr ist und dafür, dass jeder einfachen Zugang zu einer gesunden Lösung für die Menstruationszeit hat.<\/p><p>OrganiCup besteht zu 100% aus medizinisch unbedenklichem Silikon und enthält weder Zusätze noch Chemikalien.<\/p>",
             "url": ""
           }
+        },
+        "6ce904c9-6a3d-4d17-b94e-5f261a396c6f": {
+          "type": "brand",
+          "settings": {
+            "title": "Oscha",
+            "text": "<p>Verantwortungsvolle Produktion steht im Mittelpunkt von Oschas Philosophie. Die Marke legt grossen Wert auf den Schutz unseres Planeten und das Erhalten seiner Schönheit für künftige Generationen. Aus diesem Grund setzt Oscha auf Garne, die verantwortungsvoll beschafft und organisch sind. Die hochwertigen Tragetücher und Slings werden im Vereinigten Königreich gewebt und in Schottland handgefertigt.<\/p><p>Ein weiteres Merkmal ist die Produktion ohne Abfall (Zero Waste), und jeder Kauf unterstützt das Wachstum des Waldgebiets im Caledonian Forest. In Zusammenarbeit mit Trees for Life wird hier daran gearbeitet, die schottischen Highlands in ihren natürlichen Zustand zurückzuversetzen.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -788,7 +796,8 @@
         "7e58cea9-84ca-4028-bfb1-aa3e5d04ce0f",
         "044b1a85-729b-4392-955d-fa5c1598cce6",
         "46dd2d2b-5152-47d4-b6f5-928cfd12ce41",
-        "cec965f2-a099-48aa-986e-6b16d2b2cfcd"
+        "cec965f2-a099-48aa-986e-6b16d2b2cfcd",
+        "6ce904c9-6a3d-4d17-b94e-5f261a396c6f"
       ],
       "settings": {
         "padding_top": 60,

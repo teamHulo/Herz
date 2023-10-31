@@ -266,6 +266,14 @@
             "text": "<p>Alle Artikel werden von Manuela selbst hergestellt. In ihrem kleinen Atelier in der Schweiz wird jeder Artikel mit viel Liebe angefertigt und ist ein Unikat. Die meisten Muster entwirft sie selber. Sie näht, flickt, strickt und häkelt auch nach euren Wünschen.<\/p>",
             "url": ""
           }
+        },
+        "f511a295-b510-43c4-b115-8bc39dd4e4d6": {
+          "type": "brand",
+          "settings": {
+            "title": "Frau Ottilie",
+            "text": "<p>Andrea alias Frau Ottilie erschaffet von Mainz aus verspielte und liebevoll handgemalte Illustrationen, die kleine und grosse Menschen erfreuen und ein bisschen Zauber in die Welt bringen sollen. Sie hat das Label 2014 gegründet, anfangs noch als kleines Projekt, neben dem Studium. Heute steckt hinter Frau Ottilie ein mehrköpfiges Team das sich um alles kümmert.<\/p><p>Die Illustrationen auf unseren Artikeln stammen dabei aber bis heute allesamt aus Andreas Feder. Das ist ganz wörtlich gemeint: Das allermeiste auf den Bildern ist handgemalt, wird dann digitalisiert, bearbeitet, auseinandergenommen und zusammengesetzt.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -300,7 +308,8 @@
         "9daf03f0-660e-42b9-a09e-2081d59657ce",
         "4f03e905-da79-4064-9826-9b15533c8a76",
         "f3e01839-16f3-47ed-a42d-4da488ea2d4c",
-        "0d68a37c-4895-455f-a572-ac6d731a2969"
+        "0d68a37c-4895-455f-a572-ac6d731a2969",
+        "f511a295-b510-43c4-b115-8bc39dd4e4d6"
       ],
       "settings": {
         "padding_top": 60,

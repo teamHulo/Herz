@@ -631,6 +631,14 @@
             "text": "<p>Moose-li wurde von Nadine aus Rorbas ins Leben gerufen. Zusammen mit Hilfe von ihrer ganzen Familie betreibt sie ihr kleines Unternehmen. Bei Moose-li findet man kleine Geschenke und Mitbringsel für Kinder und Erwachsene.<\/p><p>Gewisse Produkte werden von Nadine selbst hergestellt und andere werden von Produzenten hergestellt, die grossen Wert auf Nachhaltigkeit legen und soziale Projekte unterstützen.<\/p>",
             "url": ""
           }
+        },
+        "d44fb2e2-eadb-46e8-aa75-89637501ce13": {
+          "type": "brand",
+          "settings": {
+            "title": "Motherlove",
+            "text": "<p>Motherlove® Herbal Company wurde 1990 von der amerikanischen Pflanzenheilkundlerin Kathryn Higgins gegründet. Higgins ist eine anerkannte Expertin für Heilkräuter.<\/p><p>Motherlove Herbal Company unterstützt Mütter während und nach der Schwangerschaft mit Naturmitteln von höchster Reinheit. Die nachhaltige Wirkung der einzigartigen Rezepturen beruht auf tief verwurzeltem Wissen um die uralten Kräfte hilfreicher Kräuter und ihr optimales Zusammenspiel für die Gesundheit von Mutter und Kind.<\/p><p>Motherlove bietet eine Reihe an Extrakten und ganzheitlichen Pflegeprodukten mit Kräutern aus biologisch kontrolliertem Anbau an.<\/p><p>Alle Produkte sind garantiert frei von künstlichen Inhalts-, Farb- und Duftstoffen sowie Mineralölen und Konservierungsmitteln. Nachhaltige Produktion und Herstellung, Verzicht auf Tierversuche.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -653,7 +661,8 @@
         "69926878-6149-4949-ae5a-b5164a37175c",
         "8c5e23a7-9dfb-469d-8133-ceebbc8db071",
         "10df56c3-9cfd-4620-8481-26b873e514db",
-        "3b9ac97b-c6c5-4049-a0ab-49d2624328fb"
+        "3b9ac97b-c6c5-4049-a0ab-49d2624328fb",
+        "d44fb2e2-eadb-46e8-aa75-89637501ce13"
       ],
       "settings": {
         "padding_top": 60,

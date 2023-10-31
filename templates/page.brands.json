@@ -226,6 +226,14 @@
             "text": "<p>Ein dufter Laden ist auf dem Hof Liebergott im luzernischen Oberkirch zuhause. Sabrina Estermann liebt es, mit Düften zu arbeiten und immer wieder zu erleben wie wunderbar wirksam die Natur ist und uns im Alltag unterstützt. Düfte sind so heilsam – für Körper und Seele. Ob beim Aus- oder Verräuchern, als Anwendung mit ätherischen Ölen oder Wickel. Sabrina gibt ihr Wissen in Kursen weiter. In der Duftküche von Ein dufter Laden besteht die Möglichkeit selber Raumbeduftung, Alltagshelfer, Naturkosmetik, Räuchermischungen, Duftegeschenke oder andere duftende Sachen herzustellen. Sie fertigt für den Verkauf verschiedene duftende Produkte.<\/p>",
             "url": ""
           }
+        },
+        "839bf3b6-58fa-46ee-8c79-8b8c9e23923c": {
+          "type": "brand",
+          "settings": {
+            "title": "einhorn",
+            "text": "<p>einhorn ist nicht nur nachhaltig, sondern fair. Ein Unternehmen mit einer Vision, mit tollen Werten. Eine Firma, die sich einbringt in die Community, die Kultur, die Gesellschaft, die Politik. einhorn tut Gutes und verbindet das auch noch mit witzigem, sexy Design und tollen Produkten.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -255,7 +263,8 @@
         "d0b66cd6-d113-439e-a9c9-8198d760918b",
         "914fce0d-c5ce-443e-a2fb-b24d2b5005f4",
         "944c73f4-7064-46e0-b1b9-7efe289b9c38",
-        "9eef9b38-d93f-4088-8ac2-70d4936f0b0f"
+        "9eef9b38-d93f-4088-8ac2-70d4936f0b0f",
+        "839bf3b6-58fa-46ee-8c79-8b8c9e23923c"
       ],
       "settings": {
         "padding_top": 60,

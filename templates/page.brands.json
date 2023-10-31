@@ -711,6 +711,14 @@
             "text": "<p>Nikwax ist weltweit führend in innovativen, PFC-freien Bekleidungs- und Ausrüstungssystemen, das hervorragende Materialien und Pflegeprodukte für die Outdoor-Entdecker entwickelt, und gleichzeitig für die Umwelt sorgt.<\/p><p>Nikwax benutzt keine Aerosole oder Fluorkohlenwasserstoffe und gleichen ihre Kohlenstoffemissionen durch die Wiederherstellung von Wäldern in Ecuador vollständig aus.<\/p>",
             "url": ""
           }
+        },
+        "b9fcefe7-d03d-46bc-bb89-551af3a764dc": {
+          "type": "brand",
+          "settings": {
+            "title": "Nóon",
+            "text": "<p>Aninna hat sich die  Makremee-Knüpftechnik selbst beigebracht. Der Name Nóon leitet sich vom portugiesischen Wort für Knoten (Nó) ab, da Annina in Portgual ihre Faszination für das Knüpfen entdeckte.<\/p><p>Sie ist ein Local aus Winterthur und mit ihren liebevoll selbstgemachten Wohnaccessoires möchte sie das Zuhause ihrer Kunden verschönern.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -743,7 +751,8 @@
         "3524fab8-ca11-4acc-aded-d948ca573a69",
         "157ad03c-7b60-473f-9b1a-fe4ec8f96d48",
         "c059f173-412b-4100-9d92-d0e633eab927",
-        "37cd28b6-e4f6-4101-9d2d-7e3496aacaab"
+        "37cd28b6-e4f6-4101-9d2d-7e3496aacaab",
+        "b9fcefe7-d03d-46bc-bb89-551af3a764dc"
       ],
       "settings": {
         "padding_top": 60,

@@ -719,6 +719,14 @@
             "text": "<p>Aninna hat sich die  Makremee-Knüpftechnik selbst beigebracht. Der Name Nóon leitet sich vom portugiesischen Wort für Knoten (Nó) ab, da Annina in Portgual ihre Faszination für das Knüpfen entdeckte.<\/p><p>Sie ist ein Local aus Winterthur und mit ihren liebevoll selbstgemachten Wohnaccessoires möchte sie das Zuhause ihrer Kunden verschönern.<\/p>",
             "url": ""
           }
+        },
+        "7e58cea9-84ca-4028-bfb1-aa3e5d04ce0f": {
+          "type": "brand",
+          "settings": {
+            "title": "Noppies",
+            "text": "<p>Noppies ist die Marke für schwangere Frauen und Mütter. Seit mehr als zwanzig Jahren sorgt Noppies dafür, dass stilbewusste Frauen sich während der Höhepunkte und Herausforderungen ihrer Schwangerschaft und Stillzeit ihrer selbst sicher fühlen können.<\/p><p>Noppies engagiert sich auf verschiedenen Ebenen für Nachhaltigkeit, unter anderem durch Mitgliedschaft im Niederländischen Abkommen über nachhaltige Mode und Textilien. Zudem verpflichtet Noppies sich zur Einhaltung verantwortungsvoller Geschäftspraktiken und zur Optimierung der Arbeitsbedingungen entlang der gesamten Wertschöpfungskette.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -752,7 +760,8 @@
         "157ad03c-7b60-473f-9b1a-fe4ec8f96d48",
         "c059f173-412b-4100-9d92-d0e633eab927",
         "37cd28b6-e4f6-4101-9d2d-7e3496aacaab",
-        "b9fcefe7-d03d-46bc-bb89-551af3a764dc"
+        "b9fcefe7-d03d-46bc-bb89-551af3a764dc",
+        "7e58cea9-84ca-4028-bfb1-aa3e5d04ce0f"
       ],
       "settings": {
         "padding_top": 60,

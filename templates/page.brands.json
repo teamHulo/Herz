@@ -964,13 +964,22 @@
             "text": "<p>Die Oma der Gründerin von Solwang Design strickte aus alten Garnreste Wischlappen in allen Farben, die sie in der Küche und im Haushalt verwendete. Nach dem Vorbild der Grossmutter produziert Solwang heute moderne Wischlappen mit hervorragender Saugfähigkeit und langer Lebensdauer aus 100% BIO-Baumwolle.<\/p><p>Die Philosophie des Unternehmens basiert auf der Nachhaltigkeit und der Verwendung von hochwertigen Materialien.<\/p>",
             "url": ""
           }
+        },
+        "31a0a2d8-c5a0-4329-a917-9085d4923d8f": {
+          "type": "brand",
+          "settings": {
+            "title": "Sonnentor",
+            "text": "<p>Die Firma Sonnentor ist ein österreichisches Unternehmen mit Sitz in Sprögnitz, das auf die Herstellung und Vermarktung von Kräutern, Tees und Gewürzen aus biologischem und fairen Anbau spezialisiert ist.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "0e318fd7-9ce4-43b7-9e09-9e24b68d009b",
         "d3f1d5cb-150d-4a91-a848-5608c613e7fd",
         "d7f002b1-af96-4cae-9a05-bdf3f7dde2c1",
-        "f31c7ce4-75ec-480c-9e6f-6d77580af80a"
+        "f31c7ce4-75ec-480c-9e6f-6d77580af80a",
+        "31a0a2d8-c5a0-4329-a917-9085d4923d8f"
       ],
       "settings": {
         "padding_top": 60,

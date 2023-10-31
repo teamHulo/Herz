@@ -839,6 +839,14 @@
             "text": "<p>Josianne von Quittenduft ist Zyklusmentorin, Menstruationskundige und Tabubrecherin. Über das zyklische Leben zu berichten, ist ihre Leidenschaft und ihr Beruf. Wenns ums Frauenwohl und um Selfcare geht ist sie ganz vorne mit dabei.Von der ersten Menstruation bis zu den Wechseljahren ist bei Quittenduft alles dabei.<\/p>",
             "url": ""
           }
+        },
+        "834be4f6-451f-4e36-b485-eea9b4f5600f": {
+          "type": "brand",
+          "settings": {
+            "title": "Rosenfellner Mühle",
+            "text": "<p>Seit 1998 führt Monika Rosenfellner in dritter Generation den Betrieb in Niederösterreich. Der Sinn für die Verarbeitung von heimischen Getreide, die Sortenvielfalt und der Aspekt der Nachhaltigkeit stammen von ihrem Großvater. Ihnen ist es stets wichtig, das Getreide von nahen Bauern und aus fairer Landwirtschaft zu beziehen. Die Mühle verfügt über eine eigene Wasserkraftanlage für die Produktion, somit werden ihre Produkte weitestgehend mit der ganzen Kraft des Wassers hergestellt oder mit Strom aus erneuerbarer Energien. Sie arbeiten gemeinsam und im Einklang mit der Natur.<\/p><p>Die Produkte der Rosenfellner Mühle sind ausschließlich biologisch und somit frei von chemischen Zusatzstoffen.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -887,7 +895,8 @@
         "68c3e7ab-f6aa-4ca3-9740-568e66ef8c2b",
         "fbd114ef-49f9-4050-a77c-7f36d951013a",
         "144b77e7-dcb4-4d02-8167-d44c18b4df4d",
-        "7de82cd0-5e75-4373-9a49-fef6a290b683"
+        "7de82cd0-5e75-4373-9a49-fef6a290b683",
+        "834be4f6-451f-4e36-b485-eea9b4f5600f"
       ],
       "settings": {
         "padding_top": 60,

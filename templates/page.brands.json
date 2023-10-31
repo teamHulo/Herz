@@ -623,6 +623,14 @@
             "text": "<p>Minimalisma ist eine Marke, die in der kleinsten Hauptstadt der Welt auf einem Vulkanarchipel im Nordatlantik entstanden ist. Die Natur spielte von Anfang an eine zentrale Rolle in der Lebensgeschichte der Gründerin, was sich stark in ihren Kreationen widerspiegelt. Die Verbindung zur Natur ist eine wesentliche Inspirationsquelle für die Marke.<\/p><p>Die Wurzeln von Minimalisma gehen auf die Kindheit der Gründerin zurück, in der handgestrickte Kleidung eine Selbstverständlichkeit war. 2012 brachte die Marke ihre erste Kollektion auf den Markt, und sogar eines der ersten Stücke war in limitierter Auflage handgestrickt. Diese Verbundenheit zur Handwerkskunst und zur Natur spiegelt sich in jedem Teil ihrer Kollektionen wider.<\/p><p>Die Gründerin hatte schon immer den Wunsch, etwas Eigenes zu schaffen, und als sie Mutter wurde, war der richtige Moment gekommen. Die Freude der Mutterschaft inspirierte sie, hochwertige, skandinavisch inspirierte Kleidung zu entwerfen, die den Bedürfnissen von Kindern und Eltern gleichermaßen gerecht wird. Minimalisma steht für minimalistisches skandinavisches Design, verbunden mit den feinsten Qualitäten, und bringt zeitlose, stilvolle Stücke hervor, die sowohl praktisch als auch ästhetisch ansprechend sind.<\/p>",
             "url": ""
           }
+        },
+        "3b9ac97b-c6c5-4049-a0ab-49d2624328fb": {
+          "type": "brand",
+          "settings": {
+            "title": "Moose-li",
+            "text": "<p>Moose-li wurde von Nadine aus Rorbas ins Leben gerufen. Zusammen mit Hilfe von ihrer ganzen Familie betreibt sie ihr kleines Unternehmen. Bei Moose-li findet man kleine Geschenke und Mitbringsel für Kinder und Erwachsene.<\/p><p>Gewisse Produkte werden von Nadine selbst hergestellt und andere werden von Produzenten hergestellt, die grossen Wert auf Nachhaltigkeit legen und soziale Projekte unterstützen.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -644,7 +652,8 @@
         "7f052d0e-4dad-4382-8959-0f1b8e48e2d1",
         "69926878-6149-4949-ae5a-b5164a37175c",
         "8c5e23a7-9dfb-469d-8133-ceebbc8db071",
-        "10df56c3-9cfd-4620-8481-26b873e514db"
+        "10df56c3-9cfd-4620-8481-26b873e514db",
+        "3b9ac97b-c6c5-4049-a0ab-49d2624328fb"
       ],
       "settings": {
         "padding_top": 60,

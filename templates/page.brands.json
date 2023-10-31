@@ -591,6 +591,14 @@
             "text": "<p>Manymonths-Kleidung wurde designt um den Parenting Lifestyle einfacher zu gestalten. Bei Trage-Eltern bereits sehr beliebt sind die wärmenden Stulpen oder die Elefanten-Mütze, welche dem Kind nicht ins Gesicht rutscht. Manymonths bietet aber noch viele weitere Kleidungsstücke und Accessoires für Babys und Kinder. So gibt es auch Handschuhe, Schlafsäcke oder Stiefeli - da ist für jeden etwas dabei. Die Merino-Wolle hält die warme Luft am Körper des Babys und ist von Natur aus antibakteriell, muss also nicht so häufig gewaschen werden. Die meisten Manymonths-Produkte wachsen mit und passen deinem Kind so über viele Monate hinweg.<\/p>",
             "url": ""
           }
+        },
+        "7f052d0e-4dad-4382-8959-0f1b8e48e2d1": {
+          "type": "brand",
+          "settings": {
+            "title": "mara mea",
+            "text": "<p>Maren & Dorina haben zusammen im Jahr 2015 mara mea gegründet. Sie hatten eine klare Vorstellung, wie Wickeltaschen, Umstandsmode und Accessoires für die heutige Frau und Mutter aussehen sollten. Für diese Bedürfnisse entwickelt mara mea zeitlose und trotzdem trendige Produkte, welche auch über die Schwangerschaft und Stillzeit hinaus echte Lieblingstücke sind. Langlebige Stücke mit Liebe zum Detail.<\/p><p>Alle Schnitte, Muster & Designs werden im Berliner Büro gefertigt. Die Produktion ist in einem kleinen Familienbetrieb in Indien.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -608,7 +616,8 @@
         "deea0d72-6f32-4db4-8a46-adfdde08241e",
         "40a3f6c4-1ff5-4688-89d8-24e7e48c73b6",
         "160d738d-a6b2-45c5-b8e1-e4f280e91a86",
-        "dbc56b2e-e09e-45cf-be46-44de428436de"
+        "dbc56b2e-e09e-45cf-be46-44de428436de",
+        "7f052d0e-4dad-4382-8959-0f1b8e48e2d1"
       ],
       "settings": {
         "padding_top": 60,

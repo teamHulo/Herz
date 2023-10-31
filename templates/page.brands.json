@@ -996,6 +996,14 @@
             "text": "<p>Stokke ist ein norwegisches Unternehmen und für seine Kinderprodukte bekannt.<\/p><p>Für Stokke steht das Wohl des Kindes immer an oberster Stelle.<\/p><p>Stokke's Designteam entwirft Produkte, die funktional, komfortabel und einfach in der Handhabung sind. Vor allem aber kreieren ihre Produkte Nähe zwischen Eltern und Kind.<\/p><p>Sie legen höchsten Wert auf Nachhaltigkeit. Darum produzieren sie alles aus hochwertigen und widerstandsfähigen Materialien. Für Stokke ist die mitwachsende Funktionalität wichtig, um das Produkt so lange wie möglich nutzen zu können.<\/p>",
             "url": ""
           }
+        },
+        "3bf1bde4-27ef-43ee-b65d-086890875e7c": {
+          "type": "brand",
+          "settings": {
+            "title": "Stonz",
+            "text": "<p>Stonz - die Kindermarke aus Kanada, die hochwertige, langlebige, funktionale und bequeme Outdoor-Gear für Babys und Kinder entwickelt, damit Familien und Kinder von klein auf viel Zeit in der Natur verbringen können. Stonz ist der Meinung, dass Kinder, die draußen aktiv sein können, sich wohler fühlen und gesünder sind. Und nebenbei lernen sie, die Natur zu lieben und sie zu schützen. <\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -1006,7 +1014,8 @@
         "31a0a2d8-c5a0-4329-a917-9085d4923d8f",
         "b6ab65f8-d76b-47b0-b238-d1101e43fc17",
         "2f715e1c-7983-4037-a6d5-59c2346a47e9",
-        "d6c46637-2a53-418f-913c-8c25b0b79fbc"
+        "d6c46637-2a53-418f-913c-8c25b0b79fbc",
+        "3bf1bde4-27ef-43ee-b65d-086890875e7c"
       ],
       "settings": {
         "padding_top": 60,

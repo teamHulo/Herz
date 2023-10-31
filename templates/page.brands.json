@@ -1044,6 +1044,14 @@
             "text": "<p>Die Willow Tree Figuren werden von der Künstlerin Susan Lordi liebevoll entworfen. Die zeitlosen Skulpturen drücken mit ihren Gesten Beziehungen und Gefühle aus, die uns wichtig sind. Sie trösten, spenden Mut oder Hoffnung, feiern ein freudiges Erlebnis und zeigen liebevolle Erinnerungen.<\/p>",
             "url": ""
           }
+        },
+        "b2c245c1-8b62-4249-b410-0c9f7c4647a1": {
+          "type": "brand",
+          "settings": {
+            "title": "Wombat",
+            "text": "<p>Wombat & Co. London wurde von einer Gruppe Freunden ins Leben gerufen, die alle verschiedene Erfahrungen in der Modebranche und der Baby-Trage-Welt mitbrachten. Von Müttern für Mütter. Das Ziel ist es, praktische, flexible und stylische Jacken zu designen, die von der Schwangerschaft über die Tragezeit aber auch noch lange danach genutzt werden können.<\/p><p>Wombat verwendet nachhaltige Materialien höchster Qualität und schützt dadurch die Natur- und Tierwelt.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -1060,7 +1068,8 @@
         "11d5c7c4-bd86-4275-b674-32dc123e9cbb",
         "265bccc3-00ef-4e9c-9ce7-8943f80825ec",
         "0490fcb4-0302-4e3c-855a-4979e904fb12",
-        "f9789320-720f-4e91-9e8e-d4df347cfe8e"
+        "f9789320-720f-4e91-9e8e-d4df347cfe8e",
+        "b2c245c1-8b62-4249-b410-0c9f7c4647a1"
       ],
       "settings": {
         "padding_top": 60,

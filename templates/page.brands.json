@@ -330,6 +330,14 @@
             "text": "<p>Nachhaltig & mit viel Liebe! Das sind die zentralen Werte von Grimms.<\/p><p>Die kleine Manufaktur am Fusse der schwäbischen Alb produziert nachhaltig qualitativ hochwertiges und sicheres Holzspielzeug. Die Produkte sind inspiriert durch die Waldorf- und Montessori-Pädagogik.<\/p><p>Die Produkte werden aus Naturmaterial gemacht, somit ist jedes Stück ganz individuell. Daher gilt immer zu beachten - auch auf den Holzspielsachen sind daher manchmal Flecken oder Streifen zu sehen. Bis auf wenige Ausnahmen wird alles von Hand geschliffen und gesägt.<\/p>",
             "url": ""
           }
+        },
+        "8cc7b546-9396-4008-b1ce-41a2255afe78": {
+          "type": "brand",
+          "settings": {
+            "title": "Grödo",
+            "text": "<p>Die Firma Wilhelm Grözinger Strumpffabrik GmbH wurde 1924 in Dornhan im Schwarzwald gegründet. Seit 1982 beschäftigen sie sich intensiv mit der Produktion von Strumpfwaren aus reinen Naturfasern. Grödo entwickelt qualitativ hochwertige Produkte, die sie mit ihrer Philosophie \"Im Einklang von Mensch, Umwelt und Tragekomfort\" realisieren. Sie setzen sich für die Produktion hervorragender Garne ein, die ausschließlich in Deutschland gefärbt und in Europa produziert werden.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -372,7 +380,8 @@
         "e5f8dd94-1ec0-406b-b336-e9e1a41cf3ba",
         "353f592e-b16a-431c-a9dc-12209aae8ea2",
         "a9307444-15b9-4fed-bec8-4fdc94cbeedb",
-        "8c41896b-22b6-4871-93bc-8a66835f9d15"
+        "8c41896b-22b6-4871-93bc-8a66835f9d15",
+        "8cc7b546-9396-4008-b1ce-41a2255afe78"
       ],
       "settings": {
         "padding_top": 60,

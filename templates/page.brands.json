@@ -346,6 +346,14 @@
             "text": "<p>homedi-kind® ist der Produktname einer besonderen Pflege. Der Grundsatz «Kinder sind keine kleinen Erwachsenen» bewegte den Apotheker Tobias Gut dazu, diese Produkte-Linie zu entwickeln. Die sensible Kinderhaut gibt dabei vor, welche Rohstoffe und Zutaten verwendet werden.<\/p><p>• Ohne chemische Zusatzstoffe – synthetische Farb- und Duftstoffe, Silikone, Paraffine oder andere Stoffe auf Mineralölbasis haben darin nichts verloren.<\/p><p>• Die gesamte Linie wird in sorgfältiger Handarbeit und aus naturbelassenen und hochwertigen Rohstoffen hergestellt.<\/p><p>• Durch die hohe Verträglichkeit eignet sich die gesamte homedi-kind®-Linie für die sensible Baby- und Kinderhaut sowie auch für anspruchsvolle Erwachsenenhaut.<\/p><p>• Als Aromapflege wirkt die homedi-kind®-Linie auf mehreren Ebenen gleichzeitig und ist damit die ideale Ergänzung zu anderen Therapien.<\/p>",
             "url": ""
           }
+        },
+        "f294d5bf-5d49-46ef-be21-c92b90ff3e30": {
+          "type": "brand",
+          "settings": {
+            "title": "Hörbert",
+            "text": "<p>hörbert ist ein tragbarer Musikspieler aus Holz und wird in Deutschland gefertigt. Die kinderleichte Bedienung macht Spass und sie macht Kinder selbstständig. Stück für Stück entsteht der hochwertiger Player aus ungiftigen Materialien und mit viel Handarbeit. Ein verantwortungsvolles Produkt für ein gutes Gewissen beim Musikhören oder beim Verschenken.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -390,7 +398,8 @@
         "a9307444-15b9-4fed-bec8-4fdc94cbeedb",
         "8c41896b-22b6-4871-93bc-8a66835f9d15",
         "8cc7b546-9396-4008-b1ce-41a2255afe78",
-        "971d164a-3294-421f-96af-9465aa6dd207"
+        "971d164a-3294-421f-96af-9465aa6dd207",
+        "f294d5bf-5d49-46ef-be21-c92b90ff3e30"
       ],
       "settings": {
         "padding_top": 60,

@@ -767,6 +767,14 @@
             "text": "<p>Paarzeit gibt es seit 2019 und hat den Sitz im schönen Osnabrücker Land.<\/p><p>Das Ziel ist es, Dinge zu erschaffen, die Momente der Verbundenheit schenken. Rund ums Jahr möchte Paarzeit mit den klimaneutralen und regional gefertigten Produkten ein bisschen mehr Liebe und Achtsamkeit in die Welt tragen.<\/p>",
             "url": ""
           }
+        },
+        "6c5fde75-5ccf-45ff-88e3-85a67dda8968": {
+          "type": "brand",
+          "settings": {
+            "title": "Papierdrachen",
+            "text": "<p>2014 als kleines Familienunternehmen gestartet, bieten sie heute diverse Produkte an.<\/p><p>Ihr Ziel ist es, liebevoll gestaltete Geschenkideen in Premiumqualität zu einem fairen Preis anzubieten.<\/p><p>Von der Gestaltung über die Herstellung und Konfektionierung bis hin zum Versand, finden so viele Schritte wie möglich in Deutschland statt. Dazu wählt Papierdrachen kurze Wege und arbeitet mit Werkstätten für Menschen mit Behinderung zusammen.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -806,7 +814,8 @@
         "46dd2d2b-5152-47d4-b6f5-928cfd12ce41",
         "cec965f2-a099-48aa-986e-6b16d2b2cfcd",
         "6ce904c9-6a3d-4d17-b94e-5f261a396c6f",
-        "2bdc1f18-f0d0-4daf-97a6-e559904c8318"
+        "2bdc1f18-f0d0-4daf-97a6-e559904c8318",
+        "6c5fde75-5ccf-45ff-88e3-85a67dda8968"
       ],
       "settings": {
         "padding_top": 60,

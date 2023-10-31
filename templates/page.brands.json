@@ -479,10 +479,19 @@
             "text": "<p>KOKADI - die Marke mit dem Stern, wurde 2010 von Ceyda Temur gegründet. Warum gerade der Stern als Logo ausgewählt wurde? Deshalb: Er steht für den Ursprung und die Zukunft allen Lebens. Und die Spirale innerhalb des Sternenmotivs symbolisiert Unendlichkeit – wie der Lebenszyklus, der mit der Geburt unserer Kinder wieder neu beginnt.<br\/><\/p><p>„Babywearing goes fashion“ – Die immer wechselnden Kollektionen, modisch, farbenfroh und stilvoll, sind das Markenzeichen der Fashion-Firma. Mit viel Liebe werden alle Produkte und Designs im Headoffice in Deutschland entworfen und in Europa handgenäh<\/p>",
             "url": ""
           }
+        },
+        "74d6784e-62bd-4057-aaee-67136bffb591": {
+          "type": "brand",
+          "settings": {
+            "title": "Kora Mikino",
+            "text": "<p>Julia hat KORA MIKINO gegründet, weil sie das Thema Periode aus der schambesetzten Schmuddelecke rausholen wollte. Sie hat es sich zur Aufgabe gemacht, Femcare zu revolutionieren, die Menstruation zu enttabuisieren und den natürlichen Flow von allen Stigmen zu befreien. KORA MIKINO steht nicht nur für hochwertige Periodenunterwäsche, sondern vor allem für emanzipierten, fairen und nachhaltigen Flow für alle.<\/p><p>Nachhaltigkeit bedeutet für KORA MIKINO Verantwortung entlang der gesamten Wertschöpfungskette: Vom Rohmaterial, über die sozialen Standards in den Partnerbetrieben bis hin zur Verpackung. Die Panties werden in Europa produziert in zwei Betrieben die regelmässig auditiert und zertifiziert werden.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "783fd72d-9da2-4527-91ab-b635c97f9545"
+        "783fd72d-9da2-4527-91ab-b635c97f9545",
+        "74d6784e-62bd-4057-aaee-67136bffb591"
       ],
       "settings": {
         "padding_top": 60,

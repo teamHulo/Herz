@@ -799,6 +799,14 @@
             "text": "<p>PICKAPOOH ist als Mützenmanufaktur und kleines Familienunternehmen mit Sitz in Hamburg seit 1991 spezialisiert auf Design und Produktion von ökologischen, modischen und hochwertigen Mützen sowie anderen Accessoires, die Kinder wegen der guten Passform und der weichen Materialien gerne tragen. Seit 1998 produziert Pickapooh (made in Germany) ausschliesslich aus reinen Naturfasern; unter strengen ökologischen und sozialen Kriterien - gut für Mensch, Tier, Pflanzen und Umwelt.<\/p>",
             "url": ""
           }
+        },
+        "ce8fed9c-e998-4390-9836-bf4ddcc7b8d7": {
+          "type": "brand",
+          "settings": {
+            "title": "Pingo",
+            "text": "<p>Die Pingo Produkte sind ökologisch uns werden seit 30 Jahren in der Schweiz hergestellt.<\/p><p>Die FSC®-Zertifizierung der Pingo Produkte garantiert, dass die verwendete Zellulose aus nachhaltig bewirtschafteter Waldwirtschaft stammt und unsere Ressourcen schont. Die Pingo Produkte werden mit zertifiziertem Ökostrom hergestellt. Der verbleibende CO2-Fussabdruck wird von Pingo über Projekte von myclimate vollständig kompensiert.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -842,7 +850,8 @@
         "6c5fde75-5ccf-45ff-88e3-85a67dda8968",
         "6ee8643c-bca0-4a33-81a5-1ad600072641",
         "a0e2e276-3570-47e5-811a-96cd26bc99c1",
-        "a49d95eb-2a61-49ce-931e-53683f88acc7"
+        "a49d95eb-2a61-49ce-931e-53683f88acc7",
+        "ce8fed9c-e998-4390-9836-bf4ddcc7b8d7"
       ],
       "settings": {
         "padding_top": 60,

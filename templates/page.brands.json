@@ -559,6 +559,14 @@
             "text": "<p>Maispops werden aus 100% biologischem Mais aus Europa hergestellt, gemäss Gesetz sind die Bio Produkte GVO-frei. Die Maispops wurden ganz ohne Zusätze im Dampfverfahren, ohne Beigabe von Fett oder Salz in Finnland hergestellt.<\/p><p>Alle Transporte erfolgen klimaneutral. Aus biologische Rohstoffen, ohne Zusatzstoffe und Konservierungsmittel.<\/p>",
             "url": ""
           }
+        },
+        "deea0d72-6f32-4db4-8a46-adfdde08241e": {
+          "type": "brand",
+          "settings": {
+            "title": "Mama Nuka",
+            "text": "<p>Die Gründerinnen Stephanie und Stefanie teilen nicht nur einen Namen, sondern auch einen gemeinsames Ziel: Sie möchten der von \"Entwicklung\" und Wohlstand bestimmten Welt ein Stück Natürlichkeit zurückgeben. In Indien entdeckten sie, dass das traditionelle Färber-Handwerk auch ohne den Einsatz moderner Chemikalien brillante Farben erzeugt. In einem patentierten Prozess werden die Stoffe mit Auszügen aus dem, was uns die Natur geschenkt hat, gefärbt: Gemüse, Wurzeln und Blüten. Pflanzen geben nicht nur wunderschöne Farben, sondern sind auch gut zu deiner Haut und der deines Babys. Die Bio-Baumwolle kommt direkt aus Gujarat, Indien, wo sie gesponnen, gewebt und in Mama Nukas verwandelt wird.<\/p><p>\"Nuka\" kommt übrigens von \"Nook\" - das englische Wort für \"Schlupfwinkel\", - also ein Ort an dem man sich sicher und geborgen fühlt.<\/p><p>Die \"Mamanukas\" sind eine Inselgruppe auf den Fidschis - auch dort werden Babys in Tüchern getragen!<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -572,7 +580,8 @@
         "3b0b8a34-752b-4f9e-9cea-892adfaa3928",
         "4c94cb0f-fab0-4f32-aa82-07d86d8150be",
         "68ce22e2-5d42-4b2d-ad9e-bf9b35864b62",
-        "c4e2039e-ff7e-42f3-91a9-4ca9ffd906c5"
+        "c4e2039e-ff7e-42f3-91a9-4ca9ffd906c5",
+        "deea0d72-6f32-4db4-8a46-adfdde08241e"
       ],
       "settings": {
         "padding_top": 60,

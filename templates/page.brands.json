@@ -988,6 +988,14 @@
             "text": "<p>Seit 100 Jahren steht der Name Stockmar für hochwertige Kreativ-Produkte. Zu ihrem Qualitätsverständnis gehört der Anspruch, künstlerische Freiräume zu eröffnen, die wohltuend auf die individuelle kindliche Entwicklung wirken. Die Qualität stellen sie durch die sorgfältige Auswahl der Rohstoffe, erstklassige Verarbeitung sowie hervorragende Farb-, Mal- und Modelliereigenschaften sicher.<\/p><p>Stockmar Produkte sind für Gesundheit und Umwelt unbedenklich.<\/p>",
             "url": ""
           }
+        },
+        "d6c46637-2a53-418f-913c-8c25b0b79fbc": {
+          "type": "brand",
+          "settings": {
+            "title": "Stokke Limas",
+            "text": "<p>Stokke ist ein norwegisches Unternehmen und für seine Kinderprodukte bekannt.<\/p><p>Für Stokke steht das Wohl des Kindes immer an oberster Stelle.<\/p><p>Stokke's Designteam entwirft Produkte, die funktional, komfortabel und einfach in der Handhabung sind. Vor allem aber kreieren ihre Produkte Nähe zwischen Eltern und Kind.<\/p><p>Sie legen höchsten Wert auf Nachhaltigkeit. Darum produzieren sie alles aus hochwertigen und widerstandsfähigen Materialien. Für Stokke ist die mitwachsende Funktionalität wichtig, um das Produkt so lange wie möglich nutzen zu können.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -997,7 +1005,8 @@
         "f31c7ce4-75ec-480c-9e6f-6d77580af80a",
         "31a0a2d8-c5a0-4329-a917-9085d4923d8f",
         "b6ab65f8-d76b-47b0-b238-d1101e43fc17",
-        "2f715e1c-7983-4037-a6d5-59c2346a47e9"
+        "2f715e1c-7983-4037-a6d5-59c2346a47e9",
+        "d6c46637-2a53-418f-913c-8c25b0b79fbc"
       ],
       "settings": {
         "padding_top": 60,

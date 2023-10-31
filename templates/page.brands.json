@@ -607,6 +607,14 @@
             "text": "<p>Höchste Bio-Qualität für Schwangere und Stillende. Die Marke aus Dänemark hat sich auf modische Stillbekleidung spezialisiert, die aus ökologischen Rohmaterialien hergestellt wird. Dank diskreten Stillöffnungen ist das Stillen mit jedem Kleidungsstück problemlos möglich.<\/p>",
             "url": ""
           }
+        },
+        "8c5e23a7-9dfb-469d-8133-ceebbc8db071": {
+          "type": "brand",
+          "settings": {
+            "title": "mini monkey",
+            "text": "<p>mini Monkey ist eine holländische Marke mit Sitz in Amsterdam. Hinter der Marke steht Margot, die ihre Produkte versucht so innovativ und komfortabel wie möglich für Eltern und Kind zu produzieren. Sie selbst ist bei der Planung der Produkte an der Front und ist erst überzeugt, wenn das Endprodukt hantlich und \"monkeyproof\" ist.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -626,7 +634,8 @@
         "160d738d-a6b2-45c5-b8e1-e4f280e91a86",
         "dbc56b2e-e09e-45cf-be46-44de428436de",
         "7f052d0e-4dad-4382-8959-0f1b8e48e2d1",
-        "69926878-6149-4949-ae5a-b5164a37175c"
+        "69926878-6149-4949-ae5a-b5164a37175c",
+        "8c5e23a7-9dfb-469d-8133-ceebbc8db071"
       ],
       "settings": {
         "padding_top": 60,

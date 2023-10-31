@@ -487,11 +487,20 @@
             "text": "<p>Julia hat KORA MIKINO gegründet, weil sie das Thema Periode aus der schambesetzten Schmuddelecke rausholen wollte. Sie hat es sich zur Aufgabe gemacht, Femcare zu revolutionieren, die Menstruation zu enttabuisieren und den natürlichen Flow von allen Stigmen zu befreien. KORA MIKINO steht nicht nur für hochwertige Periodenunterwäsche, sondern vor allem für emanzipierten, fairen und nachhaltigen Flow für alle.<\/p><p>Nachhaltigkeit bedeutet für KORA MIKINO Verantwortung entlang der gesamten Wertschöpfungskette: Vom Rohmaterial, über die sozialen Standards in den Partnerbetrieben bis hin zur Verpackung. Die Panties werden in Europa produziert in zwei Betrieben die regelmässig auditiert und zertifiziert werden.<\/p>",
             "url": ""
           }
+        },
+        "6ebcf134-d188-44fa-9cf6-aed808266121": {
+          "type": "brand",
+          "settings": {
+            "title": "Korko",
+            "text": "<p>2021 wird Korko als Joint Venture zwischen zwei Unternehmen gegründet, die scheinbar unterschiedlicher nicht sein könnten. Hape als renommierter Spielwarenhersteller und Amorim, dem weltweit größten Korkproduzenten. Doch was verbindet die beiden Unternehmen? Die Liebe zur Natur und die Idee, Nachhaltigkeit für jeden Menschen zugänglich zu machen. Das Spielzeug wird aus Kork aus einem portugiesischen Eichenwald hergestellt, der jährlich bis zu 4,6 Millionen Tonnen CO2 bindet. Anders als bei Holz, wird der Baum nicht gefällt. Für die Gewinnung des Korks wird nur die Baumrinde geschält und nach ca. 9 Jahren kann die Rinde erneut in liebevoller Handarbeit geerntet werden. Kork ist also ein schnell nachwachsender Rohstoff. Das führt dazu, dass das Korko Spielzeug klimaneutral und made in Europe ist.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "783fd72d-9da2-4527-91ab-b635c97f9545",
-        "74d6784e-62bd-4057-aaee-67136bffb591"
+        "74d6784e-62bd-4057-aaee-67136bffb591",
+        "6ebcf134-d188-44fa-9cf6-aed808266121"
       ],
       "settings": {
         "padding_top": 60,

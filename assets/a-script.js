@@ -406,7 +406,7 @@ $(() => {
     updateVariantId(cart, id, colorValue, optionCount);
   });
 
-  $(".add-my-cart").on('click', function (e) {
+  $(document).on('click',".add-my-cart", function (e) {
     console.log('CLICK')
     e.preventDefault();
     let variant = $(this)

@@ -615,6 +615,14 @@
             "text": "<p>mini Monkey ist eine holländische Marke mit Sitz in Amsterdam. Hinter der Marke steht Margot, die ihre Produkte versucht so innovativ und komfortabel wie möglich für Eltern und Kind zu produzieren. Sie selbst ist bei der Planung der Produkte an der Front und ist erst überzeugt, wenn das Endprodukt hantlich und \"monkeyproof\" ist.<\/p>",
             "url": ""
           }
+        },
+        "10df56c3-9cfd-4620-8481-26b873e514db": {
+          "type": "brand",
+          "settings": {
+            "title": "Minimalisma",
+            "text": "<p>Minimalisma ist eine Marke, die in der kleinsten Hauptstadt der Welt auf einem Vulkanarchipel im Nordatlantik entstanden ist. Die Natur spielte von Anfang an eine zentrale Rolle in der Lebensgeschichte der Gründerin, was sich stark in ihren Kreationen widerspiegelt. Die Verbindung zur Natur ist eine wesentliche Inspirationsquelle für die Marke.<\/p><p>Die Wurzeln von Minimalisma gehen auf die Kindheit der Gründerin zurück, in der handgestrickte Kleidung eine Selbstverständlichkeit war. 2012 brachte die Marke ihre erste Kollektion auf den Markt, und sogar eines der ersten Stücke war in limitierter Auflage handgestrickt. Diese Verbundenheit zur Handwerkskunst und zur Natur spiegelt sich in jedem Teil ihrer Kollektionen wider.<\/p><p>Die Gründerin hatte schon immer den Wunsch, etwas Eigenes zu schaffen, und als sie Mutter wurde, war der richtige Moment gekommen. Die Freude der Mutterschaft inspirierte sie, hochwertige, skandinavisch inspirierte Kleidung zu entwerfen, die den Bedürfnissen von Kindern und Eltern gleichermaßen gerecht wird. Minimalisma steht für minimalistisches skandinavisches Design, verbunden mit den feinsten Qualitäten, und bringt zeitlose, stilvolle Stücke hervor, die sowohl praktisch als auch ästhetisch ansprechend sind.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -635,7 +643,8 @@
         "dbc56b2e-e09e-45cf-be46-44de428436de",
         "7f052d0e-4dad-4382-8959-0f1b8e48e2d1",
         "69926878-6149-4949-ae5a-b5164a37175c",
-        "8c5e23a7-9dfb-469d-8133-ceebbc8db071"
+        "8c5e23a7-9dfb-469d-8133-ceebbc8db071",
+        "10df56c3-9cfd-4620-8481-26b873e514db"
       ],
       "settings": {
         "padding_top": 60,

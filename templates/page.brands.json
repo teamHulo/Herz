@@ -298,6 +298,14 @@
             "text": "<p>Fun2BeMum ist ein polnisches Familienunternehmen, das gegründet wurde, als Aleksandra Napieralska ihr erstes Kind erwartete. Mit dieser Marke wollte sie bequeme, hochwertige Umstands-, Damen- und Babybekleidung anbieten, die im Alltag verwendet werden kann.<\/p><p>Die Produkte der Marke werden in Polen hergestellt.<\/p>",
             "url": ""
           }
+        },
+        "e5f8dd94-1ec0-406b-b336-e9e1a41cf3ba": {
+          "type": "brand",
+          "settings": {
+            "title": "Girasol",
+            "text": "<p>Begonnen hat es Ende 1980 als sich Camilla und Gerhard auf die Reise machten, um den amerikanischen Kontinent von Mexiko bis nach Peru zu erkunden. Drei Jahre lang erkundete sie den Kontinent und um sich den Aufenthalt zu finanzieren, begannen sie auf den im Hochland von Guatemala gelegenen Märkten der Mayas handgewebte Textilien und Kunsthandwerk auszusuchen und in Mexiko zu verkaufen. Dies führten sie nach ihrere Rückkehr nach Deutschland erst auf Flohmärkten und dann im eigenen Geschäft in Berlin weiter. GIRASOL ist international insbesondere bekannt für Baby-Tragetücher. Diese werden ausschliesslich für Girasol in einem eigens geschaffenen Netzwerk von Färbern, Webern und Schneidern in Guatemala in Handarbeit hergestellt.<br\/><\/p><p>Girasol arbeitet mit kleinen Handwerksbetrieben und kooperativen und selbständig arbeitenden Weber und Schneider. Beim Kauf, der Herstellung und dem Vertrieb orientiert sich Girasol stets an den Prinzipien des fairen Handels und der Nachhaltigkeit.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -336,7 +344,8 @@
         "f511a295-b510-43c4-b115-8bc39dd4e4d6",
         "7080a561-7f3e-4034-8de2-9297d8c6bdd6",
         "6de266e2-deba-40cb-afc8-4c9f57cb7c0d",
-        "d40a1902-390b-4f73-a767-86c31af4ca5e"
+        "d40a1902-390b-4f73-a767-86c31af4ca5e",
+        "e5f8dd94-1ec0-406b-b336-e9e1a41cf3ba"
       ],
       "settings": {
         "padding_top": 60,

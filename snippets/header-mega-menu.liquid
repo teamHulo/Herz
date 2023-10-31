@@ -8,7 +8,7 @@
 <nav class="header__inline-menu">
   <ul class="list-menu list-menu--inline" role="list">
     {%- for link in section.settings.menu.links -%}
-      <li>
+      <li  class="{%- if link.links.size == 0 -%} li-no-targer {% endif %}" data-size="{{link.links | size }}">
         {%- if link.links != blank -%}
           <header-menu>
             <details id="Details-HeaderMenu-{{ forloop.index }}" class="mega-menu">

@@ -1,4 +1,4 @@
-class DetailsDisclosure extends HTMLElement {
+/*class DetailsDisclosure extends HTMLElement {
   constructor() {
     super();
     this.mainDetailsToggle = this.querySelector('details');
@@ -9,12 +9,14 @@ class DetailsDisclosure extends HTMLElement {
   }
 
   onFocusOut() {
+    console.log('toggle eee 1');
     setTimeout(() => {
       if (!this.contains(document.activeElement)) this.close();
     });
   }
 
   onToggle() {
+    console.log('toggle eee 2');
     if (!this.animations) this.animations = this.content.getAnimations();
 
     if (this.mainDetailsToggle.hasAttribute('open')) {
@@ -25,12 +27,79 @@ class DetailsDisclosure extends HTMLElement {
   }
 
   close() {
+    console.log('toggle eee 3');
     this.mainDetailsToggle.removeAttribute('open');
     this.mainDetailsToggle.querySelector('summary').setAttribute('aria-expanded', false);
   }
 }
 
+customElements.define('details-disclosure', DetailsDisclosure);*/
+
+class DetailsDisclosure extends HTMLElement {
+  constructor() {
+    super(); 
+    this.mainDetailsToggle = this.querySelector('details');
+    this.header = this.mainDetailsToggle.querySelector('summary');
+    this.content = this.mainDetailsToggle.querySelector('div');
+
+    this.header.addEventListener('mouseenter', this.onHeaderMouseEnter.bind(this));
+    
+
+    document.querySelector('header').addEventListener('mouseleave',this.closeAll);
+    this.mainDetailsToggle.addEventListener('mouseenter', this.onDetailsMouseEnter.bind(this));
+    const liNoTargetElements = document.querySelectorAll('.li-no-targer');
+    liNoTargetElements.forEach(element => {
+      element.addEventListener('mouseenter', this.onLiNoTargetMouseEnter.bind(this));
+    });
+  }
+  onLiNoTargetMouseEnter() {
+    this.closeAll();
+  }
+  onHeaderMouseEnter() {
+    console.log('toggle eee 1 (header mouseenter)');
+    this.open();
+  }
+
+  onHeaderMouseLeave() {
+    console.log('toggle eee 2 (header mouseleave)');
+    this.close();
+  }
+
+  onDetailsMouseEnter() {
+    console.log('toggle eee 3 (details mouseenter)');
+  }
+
+  onDetailsMouseLeave() {
+    console.log('toggle eee 4 (details mouseleave)');
+    this.close();
+  }
+
+  open() {
+    console.log('toggle eee 5 (open)');
+    this.closeAll();
+    this.mainDetailsToggle.setAttribute('open', '');
+    this.header.setAttribute('aria-expanded', true);
+  }
+  closeAll() {
+    let detailsElements = document.querySelectorAll('details');
+    detailsElements.forEach(function (details) {
+      details.removeAttribute('open');
+    });
+  }
+  close() {
+    console.log('toggle eee 6 (close)');
+    this.mainDetailsToggle.removeAttribute('open');
+    this.header.setAttribute('aria-expanded', false);
+  }
+}
+
 customElements.define('details-disclosure', DetailsDisclosure);
+
+
+
+
+
+
 
 class HeaderMenu extends DetailsDisclosure {
   constructor() {
@@ -39,6 +108,7 @@ class HeaderMenu extends DetailsDisclosure {
   }
 
   onToggle() {
+    console.log('toggle eee 4');
     if (!this.header) return;
     this.header.preventHide = this.mainDetailsToggle.open;
 

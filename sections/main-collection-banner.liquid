@@ -48,6 +48,20 @@
   </div>
 </div>
 
+<script>
+    let collectionBanner = document.querySelector('.collection-hero');
+    let timer =  setInterval(() => {
+        console.log('Interval')
+        let gfGrid = document.querySelector('#gf-grid');
+        if (gfGrid) {
+            gfGrid.prepend(collectionBanner);
+            collectionBanner.classList.remove('d-none');
+            clearInterval(timer);
+        }
+    }, 100)
+   
+</script>
+
 {% schema %}
 {
   "name": "t:sections.main-collection-banner.name",

@@ -27,11 +27,18 @@
 <div class="brands-list">
     <div class="brands-list__wrapper container">
         {% for block in section.blocks %}
+            {% if settings.filter_vendor != blank %}
+                {% assign prfx = '?' | append: settings.filter_vendor | append: '=' %}
+            {% else %}
+                {% assign prfx = '?gf_463293=' %}
+            {% endif %}
+            {% assign vendorName =  block.settings.title | url_encode %}
+            {% assign vendorUrl = routes.all_products_collection_url | append: prfx | append: vendorName %}
             <div class="item">
                 {% if block.settings.url != blank %}        
                     <div class="title"><a href="{{ block.settings.url }}"><h2>{{ block.settings.title }}</h2></a></div>
                 {% else %}
-                <div class="title"><h2>{{ block.settings.title }}</h2></div>
+                <div class="title"><a href="{{ vendorUrl }}"><h2>{{ block.settings.title }}</h2></a></div>
                 {% endif %}
                 <div class="text">{{ block.settings.text }}</div>
             </div>

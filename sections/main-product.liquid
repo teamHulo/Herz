@@ -87,8 +87,13 @@
 
 
             {%- when 'text' -%}
+              {% if settings.filter_vendor != blank %}
+                {% assign prfx = '???' | append: settings.filter_vendor | append: '=' %}
+              {% else %}
+                {% assign prfx = '?gf_463293=' %}
+              {% endif %}
               {% assign vendorName =  block.settings.text | url_encode %}
-              {% assign vendorUrl = routes.all_products_collection_url | append: '?gf_463293=' | append: vendorName %}
+              {% assign vendorUrl = routes.all_products_collection_url | append: prfx | append: vendorName %}
               <a href="{{ vendorUrl }}"
                 class="product__text inline-richtext{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle{% endif %}"
                 {{ block.shopify_attributes }}

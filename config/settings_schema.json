@@ -1470,5 +1470,15 @@
         "default":"https://cdn.shopify.com/s/files/1/0837/0719/9803/files/swatch.json?v=1697217553"
       }
     ]
+  },
+  {
+    "name": "Filter Vendors",
+    "settings":[
+      {
+        "type":"text",
+        "id": "filter_vendor",
+        "label":"Prefix url"
+      }
+    ]
   }
 ]

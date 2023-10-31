@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "Wilkommen im neuen HaH-Shop ♥️ | Kostenloser Versand bis zum 5. November",
             "link": ""
           }
         }
@@ -16,9 +16,8 @@
       "block_order": [
         "announcement-bar-0"
       ],
-      "disabled": true,
       "settings": {
-        "color_scheme": "accent-1",
+        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": false,

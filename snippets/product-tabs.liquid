@@ -4,13 +4,14 @@
     <div class="tabs__header">
       <ul>
         <li class="active">Beschreibung</li>
+        <li>
+          Spezifikation
+        </li>
         <li>Pflegehinweise</li>
         <li> <img src="https://cdn.shopify.com/s/files/1/0837/0719/9803/files/Symbol.png?v=1697587432" alt=""> Philosophie</li>
         {% comment %}<li>
 Versand & Rücksendung</li> {% endcomment %}
-        <li>
-          Spezifikation
-        </li>
+      
       </ul>
     </div>
     <div class="tab_content">
@@ -18,18 +19,6 @@ Versand & Rücksendung</li> {% endcomment %}
         {{ product.metafields.custom.product_short_description | metafield_tag  }}
       </div>
       <div class="tab-2 tab">
-        {{ product.metafields.custom.tab_2 | metafield_tag }}
-      </div>
-      <div class="tab-3 tab">
-        {{ product.metafields.custom.philosophie | metafield_tag }}
-      </div>
-      {% comment %}<div class="tab-4 tab">
-
-        {{ metaObject.title | metafield_tag }}
-        {{ metaObject.text | metafield_tag }}
-
-</div> {% endcomment %}
-      <div class="tab-4 tab">
         {% if  product.metafields.custom.spezifikation_material != blank%}
           <div class="">
             <div class="text">
@@ -41,26 +30,39 @@ Versand & Rücksendung</li> {% endcomment %}
           </div>
         {% endif %}
         {% if  product.metafields.custom.spezifikation_inhalt != blank%}
-        <div class="">
-          <div class="text">
-            <p style="text-align: left !important">
-              Inhalt:
-            </p>
+          <div class="">
+            <div class="text">
+              <p style="text-align: left !important">
+                Inhalt:
+              </p>
+            </div>
+            {{ product.metafields.custom.spezifikation_inhalt | metafield_tag }}
           </div>
-          {{ product.metafields.custom.spezifikation_inhalt | metafield_tag }}
-        </div>
-      {% endif  %}
-      {% if  product.metafields.custom.spezifikation_passform != blank%}
-        <div class="">
-          <div class="text">
-            <p style="text-align: left !important">
-              Passform:
-            </p>
+        {% endif  %}
+        {% if  product.metafields.custom.spezifikation_passform != blank%}
+          <div class="">
+            <div class="text">
+              <p style="text-align: left !important">
+                Passform:
+              </p>
+            </div>
+            {{  product.metafields.custom.spezifikation_passform | metafield_tag }}
           </div>
-          {{  product.metafields.custom.spezifikation_passform | metafield_tag }}
-        </div>
-    {% endif  %}  
+        {% endif  %}  
       </div>
+      <div class="tab-3 tab">
+        {{ product.metafields.custom.tab_2 | metafield_tag }}
+      </div>
+      <div class="tab-4 tab">
+        {{ product.metafields.custom.philosophie | metafield_tag }}
+      </div>
+      {% comment %}<div class="tab-4 tab">
+
+        {{ metaObject.title | metafield_tag }}
+        {{ metaObject.text | metafield_tag }}
+
+</div> {% endcomment %}
+  
 
     </div>
     </div>

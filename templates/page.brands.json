@@ -551,6 +551,14 @@
             "text": "<p>Die über 50-jährige Bio-Geschichte der Familie Mahler aus dem Aargau bringt eine Vielfalt von wertvollen Kontakten zu Produzenten in aller Welt mit sich. Für ihre Marke selektionieren sie für ihre Kunden beste Qualitäten, hauptsächlich aus langjährigen und ihnen persönlich bekannten Projekten. Ihre Überzeugung für nachhaltig erzeugte Bio-Qualität und die Leidenschaft der Produzenten für schonenden Anbau steckt in jedem Produkt.<\/p>",
             "url": ""
           }
+        },
+        "c4e2039e-ff7e-42f3-91a9-4ca9ffd906c5": {
+          "type": "brand",
+          "settings": {
+            "title": "Maispops",
+            "text": "<p>Maispops werden aus 100% biologischem Mais aus Europa hergestellt, gemäss Gesetz sind die Bio Produkte GVO-frei. Die Maispops wurden ganz ohne Zusätze im Dampfverfahren, ohne Beigabe von Fett oder Salz in Finnland hergestellt.<\/p><p>Alle Transporte erfolgen klimaneutral. Aus biologische Rohstoffen, ohne Zusatzstoffe und Konservierungsmittel.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -563,7 +571,8 @@
         "62f8b106-488e-4b57-a301-9f6146dc1ae9",
         "3b0b8a34-752b-4f9e-9cea-892adfaa3928",
         "4c94cb0f-fab0-4f32-aa82-07d86d8150be",
-        "68ce22e2-5d42-4b2d-ad9e-bf9b35864b62"
+        "68ce22e2-5d42-4b2d-ad9e-bf9b35864b62",
+        "c4e2039e-ff7e-42f3-91a9-4ca9ffd906c5"
       ],
       "settings": {
         "padding_top": 60,

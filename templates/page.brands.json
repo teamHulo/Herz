@@ -242,6 +242,14 @@
             "text": "<p>Bereits in den 60ern produzierte Engel Strickwindeln aus gebleichter Baumwolle. 1982 begann mit der Verarbeitung naturbelassener Baumwolle eine beispielhafte und konsequente Orientierung auf Naturtextilien. Heute umfasst das Sortiment ein komplettes Wickelsystem, ein Wäscheprogramm für Babys, Kinder und Erwachsene, eine Nachtwäschekollektion für Kinder und Babys, Baby-Oberbekleidung sowie ein kleines Sortiment an Fleece-Bekleidung aus flauschiger Merinoschurwolle für Babys, Kinder und Erwachsene.<\/p><p>Wir haben Engel im Sortiment, weil sich die Bodys aus Wolle-Seide ganz besonders gut anfühlen und sich fürs Tragen eignen, da sie den Temparaturausgleich bestens unterstützen.<\/p>",
             "url": ""
           }
+        },
+        "4f03e905-da79-4064-9826-9b15533c8a76": {
+          "type": "brand",
+          "settings": {
+            "title": "Ette Tete",
+            "text": "<p>Ette Tete ist eine kleine Firma aus Lettland, die Möbel ganz nach der Philosophie von Emmi Pikler und Montessori herstellt. So zum Beispiel das modifizierbare Pikler Dreieck: Damit die Kleinsten sicher klettern, spielen und sich bewegen können und dabei ihre motorischen Fähigkeiten voll entfalten. Auch der Learning Tower ermöglicht den Kinder wichtige Lernerfahrungen, denn sie lieben es, uns bei unserer Arbeit zuzuschauen und aktiv mitzuhelfen.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -273,7 +281,8 @@
         "944c73f4-7064-46e0-b1b9-7efe289b9c38",
         "9eef9b38-d93f-4088-8ac2-70d4936f0b0f",
         "839bf3b6-58fa-46ee-8c79-8b8c9e23923c",
-        "9daf03f0-660e-42b9-a09e-2081d59657ce"
+        "9daf03f0-660e-42b9-a09e-2081d59657ce",
+        "4f03e905-da79-4064-9826-9b15533c8a76"
       ],
       "settings": {
         "padding_top": 60,

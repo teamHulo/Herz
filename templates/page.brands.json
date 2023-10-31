@@ -743,6 +743,14 @@
             "text": "<p>Das junge Label Oli & Carol wurde von zwei Schwestern in Barcelona gegründet. Oli & Carol kreieren mit Leidenschaft nachhaltiges Spielzeug für Babys und Kinder aus 100% Naturkautschuk. Frei von Weichmachern und giftigen Zusatzstoffen, ohne Löcher, damit keine Feuchtigkeit und Bakterien sich im Innern sammeln können und dadurch absolut sicher für kleine Hände und Münder. Die Spielsachen von Oli & Carol werden von Hand hergestellt und eingefärbt.<\/p>",
             "url": ""
           }
+        },
+        "cec965f2-a099-48aa-986e-6b16d2b2cfcd": {
+          "type": "brand",
+          "settings": {
+            "title": "OrganiCup",
+            "text": "<p>OrganiCup wurde gegründet, um die Gesundheit während der Menstruation auf persönlicher, kultureller und globaler Ebene zu verbessern. OrganiCup engagiert sich dafür, dass Menstruationsprodukte weder unseren Körper noch die Umwelt belasten. Auch dafür, dass Menstruation kein Tabu mehr ist und dafür, dass jeder einfachen Zugang zu einer gesunden Lösung für die Menstruationszeit hat.<\/p><p>OrganiCup besteht zu 100% aus medizinisch unbedenklichem Silikon und enthält weder Zusätze noch Chemikalien.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -779,7 +787,8 @@
         "b9fcefe7-d03d-46bc-bb89-551af3a764dc",
         "7e58cea9-84ca-4028-bfb1-aa3e5d04ce0f",
         "044b1a85-729b-4392-955d-fa5c1598cce6",
-        "46dd2d2b-5152-47d4-b6f5-928cfd12ce41"
+        "46dd2d2b-5152-47d4-b6f5-928cfd12ce41",
+        "cec965f2-a099-48aa-986e-6b16d2b2cfcd"
       ],
       "settings": {
         "padding_top": 60,

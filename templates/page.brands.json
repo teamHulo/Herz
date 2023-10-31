@@ -695,6 +695,14 @@
             "text": "<p>Seit 1983 werden die Nanchen Puppen in liebevoller Handarbeit in Nordhessen handgefertigt. Als die Gründer, Nana und Peter Sendke, Anfang der 1980er auf der Suche nach hochwertigen Puppen für Ihre eigenen Kinder nicht fündig wurden, begannen Sie selbst nach Vorbild der Waldorf Pädagogik Puppen anzufertigen.<\/p><p>Aus diesen ersten Versuchen und viel handwerklichem Geschick entwickelte sich langsam der ganz eigene Stil der bunten Nanchen Welt. Bis heute orientiert sich das Unternehmen an den Ursprüngen von Nachen Natur und ergänzt sie behutsam mit zeitgemässem Design. Mittlerweile arbeiten rund 15 MitarbeiterInnen in Heimarbeit und in der kleinen Manufaktur. Nanchen Puppen werden vor Ort handgestopft und die Gesichter handbemalt, wodurch jede Puppe ihren ganz eigenen Charakter erhält.<\/p><p>Für Nanchen Natur werden fast ausschliesslich Rohstoffe aus kontrolliert biologischem Anbau (kbA) und kontrolliert biologischer Tierhaltung (kbT) verwendet. Die Puppen werden mit Bioland-Schafschurwolle aus Deutschland per Hand gestopft.<\/p>",
             "url": ""
           }
+        },
+        "c059f173-412b-4100-9d92-d0e633eab927": {
+          "type": "brand",
+          "settings": {
+            "title": "Naturtrends",
+            "text": "<p>Naturtrends ist ein kleiner Familienbetrieb aus dem Thurgau, der versucht, Dir ein Stück Natur zurückzubringen. Die kleine Manufaktur haben sie selbst aus Lehm und Schafswolle gebaut und darin eine schöne Produktionsküche eingerichtet. Dort werden von mir Aromabalsame, feste Körperbutter und Deocremes liebevoll von Hand hergestellt.<\/p><p>Besonders wichtig ist der Inhaberin, wenn immer möglich, nur Bio-Rohstoffe zu verwenden – aus Liebe zur Natur und aus Liebe zur Gesundheit. Sie verwendet ausschliesslich 100% naturreine ätherische Öle und hochqualitative Absolues, die für die Aromatherapie geeignet sind.<\/p><p>Es werden keine synthetischen Parfumöle und kein Palmöl verarbeitet.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -725,7 +733,8 @@
         "ccc66967-2caa-4ee2-8b38-ecca86615998",
         "055c771d-2918-4ed8-aac0-7174586e211c",
         "3524fab8-ca11-4acc-aded-d948ca573a69",
-        "157ad03c-7b60-473f-9b1a-fe4ec8f96d48"
+        "157ad03c-7b60-473f-9b1a-fe4ec8f96d48",
+        "c059f173-412b-4100-9d92-d0e633eab927"
       ],
       "settings": {
         "padding_top": 60,

@@ -258,6 +258,14 @@
             "text": "<p>Fabelab ist eine Skandinavische Marke aus Kopenhagen, die sich auf hoch qualitative, innovative und verantwortungsvoll produzierte Produkte für ein gemütliches, kreatives Zuhause spezialisiert hat.<\/p><p>Die Produkte inspirieren Eltern und Kinder, wecken ihre Neugier und sind mit viel Liebe gemacht. Schönheit und Funktionalität sind genauso wichtig wie die nachhaltige Produktion und die Verwendung von ökologischen Materialien. Auch Upcycling und Wiederverwendbarkeit gehört zu den Grundprinzipien bei Fabelab.<\/p>",
             "url": ""
           }
+        },
+        "0d68a37c-4895-455f-a572-ac6d731a2969": {
+          "type": "brand",
+          "settings": {
+            "title": "Fattoamanou",
+            "text": "<p>Alle Artikel werden von Manuela selbst hergestellt. In ihrem kleinen Atelier in der Schweiz wird jeder Artikel mit viel Liebe angefertigt und ist ein Unikat. Die meisten Muster entwirft sie selber. Sie näht, flickt, strickt und häkelt auch nach euren Wünschen.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -291,7 +299,8 @@
         "839bf3b6-58fa-46ee-8c79-8b8c9e23923c",
         "9daf03f0-660e-42b9-a09e-2081d59657ce",
         "4f03e905-da79-4064-9826-9b15533c8a76",
-        "f3e01839-16f3-47ed-a42d-4da488ea2d4c"
+        "f3e01839-16f3-47ed-a42d-4da488ea2d4c",
+        "0d68a37c-4895-455f-a572-ac6d731a2969"
       ],
       "settings": {
         "padding_top": 60,

@@ -783,6 +783,14 @@
             "text": "<p>Patch (Nutricare) ist eine australische Firma welche sich es zur Aufgabe gemacht hat, ein natürliches und umweltfreundliches Pflaster zu entwickeln, welches ohne Chemikalien auskommt.<\/p><p>Patch unterstützt Communities in Osttimor und in Haiti sowie Sea Shepherd.<\/p><p>Die Bambuspflaster von Patch enthalten weder Latex, noch Silikone oder andere allergene Inhaltsstoffe. Alle Inhaltsstoffe sind biologisch abbaubar und bei Bambus handelt es sich um eine besonders schnell wachsende Ressource, die mit wenig Wasser und ohne Pestizide oder Herbizide heranwächst. Patch ist vegan und zu 100% plastikfrei.<\/p>",
             "url": ""
           }
+        },
+        "a0e2e276-3570-47e5-811a-96cd26bc99c1": {
+          "type": "brand",
+          "settings": {
+            "title": "Petit Lulu",
+            "text": "<p>Petit Lulu ist ein kleines Familienunternehmen aus der Tschechischen Republik. Als Lucie im Jahr 2012 ihr erstes Kind gebar, suchte sie vergebens nach preiswerten und qualitativ hochwertigen Stoffwindeln und nähte sie - obwohl sie noch nie zuvor genäht hatte - kurzerhand selber. Weil die Produkte ihren Bekannten so gefielen, verkaufte sie sie auf einem Tschechischen Onlineshop für Handgemachtes. Ein Erfolg! Mittlerweile werden 70% der Petit Lulu Produkte in anderen europäischen Ländern verkauft.<\/p><p>Alle Produkte von Petit Lulu haben eine Oeko-Tex Zertifizierung und viele sind in Bio-Qualität hergestellt.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -824,7 +832,8 @@
         "6ce904c9-6a3d-4d17-b94e-5f261a396c6f",
         "2bdc1f18-f0d0-4daf-97a6-e559904c8318",
         "6c5fde75-5ccf-45ff-88e3-85a67dda8968",
-        "6ee8643c-bca0-4a33-81a5-1ad600072641"
+        "6ee8643c-bca0-4a33-81a5-1ad600072641",
+        "a0e2e276-3570-47e5-811a-96cd26bc99c1"
       ],
       "settings": {
         "padding_top": 60,

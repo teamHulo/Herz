@@ -775,6 +775,14 @@
             "text": "<p>2014 als kleines Familienunternehmen gestartet, bieten sie heute diverse Produkte an.<\/p><p>Ihr Ziel ist es, liebevoll gestaltete Geschenkideen in Premiumqualität zu einem fairen Preis anzubieten.<\/p><p>Von der Gestaltung über die Herstellung und Konfektionierung bis hin zum Versand, finden so viele Schritte wie möglich in Deutschland statt. Dazu wählt Papierdrachen kurze Wege und arbeitet mit Werkstätten für Menschen mit Behinderung zusammen.<\/p>",
             "url": ""
           }
+        },
+        "6ee8643c-bca0-4a33-81a5-1ad600072641": {
+          "type": "brand",
+          "settings": {
+            "title": "PATCH",
+            "text": "<p>Patch (Nutricare) ist eine australische Firma welche sich es zur Aufgabe gemacht hat, ein natürliches und umweltfreundliches Pflaster zu entwickeln, welches ohne Chemikalien auskommt.<\/p><p>Patch unterstützt Communities in Osttimor und in Haiti sowie Sea Shepherd.<\/p><p>Die Bambuspflaster von Patch enthalten weder Latex, noch Silikone oder andere allergene Inhaltsstoffe. Alle Inhaltsstoffe sind biologisch abbaubar und bei Bambus handelt es sich um eine besonders schnell wachsende Ressource, die mit wenig Wasser und ohne Pestizide oder Herbizide heranwächst. Patch ist vegan und zu 100% plastikfrei.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -815,7 +823,8 @@
         "cec965f2-a099-48aa-986e-6b16d2b2cfcd",
         "6ce904c9-6a3d-4d17-b94e-5f261a396c6f",
         "2bdc1f18-f0d0-4daf-97a6-e559904c8318",
-        "6c5fde75-5ccf-45ff-88e3-85a67dda8968"
+        "6c5fde75-5ccf-45ff-88e3-85a67dda8968",
+        "6ee8643c-bca0-4a33-81a5-1ad600072641"
       ],
       "settings": {
         "padding_top": 60,

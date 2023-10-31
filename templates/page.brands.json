@@ -495,12 +495,21 @@
             "text": "<p>2021 wird Korko als Joint Venture zwischen zwei Unternehmen gegründet, die scheinbar unterschiedlicher nicht sein könnten. Hape als renommierter Spielwarenhersteller und Amorim, dem weltweit größten Korkproduzenten. Doch was verbindet die beiden Unternehmen? Die Liebe zur Natur und die Idee, Nachhaltigkeit für jeden Menschen zugänglich zu machen. Das Spielzeug wird aus Kork aus einem portugiesischen Eichenwald hergestellt, der jährlich bis zu 4,6 Millionen Tonnen CO2 bindet. Anders als bei Holz, wird der Baum nicht gefällt. Für die Gewinnung des Korks wird nur die Baumrinde geschält und nach ca. 9 Jahren kann die Rinde erneut in liebevoller Handarbeit geerntet werden. Kork ist also ein schnell nachwachsender Rohstoff. Das führt dazu, dass das Korko Spielzeug klimaneutral und made in Europe ist.<\/p>",
             "url": ""
           }
+        },
+        "7917788b-e6dd-482a-8232-1aca100646a9": {
+          "type": "brand",
+          "settings": {
+            "title": "Korxx",
+            "text": "<p>Die PLES GmbH hat mit KORXX den Wunsch nach gutem Spielzeug weitergebracht. KORXX Bausteine dürfen mit gutem Gewissen und nachweislich als Öko-Spielzeug bezeichnet werden.<\/p><p>Durch ein spezielles Herstellungsverfahren, das sensibel Komponenten wie Zeit, Druck und Hitze einsetzt, entsteht ein natürliches Korkmaterial – nachweislich frei von Schadstoffen. Dadurch ist es der PLES GmbH möglich, einen stabilen und sicheren Materialverbund herzustellen und gleichzeitig die Natürlichkeit zu erhalten. Mit dieser modernen und schonenden Verarbeitung entsteht das hochwertige und sichere KORXX Material für das Spielzeug. 100 % Bio, fair und nachhaltig.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "783fd72d-9da2-4527-91ab-b635c97f9545",
         "74d6784e-62bd-4057-aaee-67136bffb591",
-        "6ebcf134-d188-44fa-9cf6-aed808266121"
+        "6ebcf134-d188-44fa-9cf6-aed808266121",
+        "7917788b-e6dd-482a-8232-1aca100646a9"
       ],
       "settings": {
         "padding_top": 60,

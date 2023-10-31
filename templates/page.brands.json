@@ -863,6 +863,14 @@
             "text": "<p>Basierend auf den Philosophien der Waldorfpädagogik und ihrer eigenen Kindheit mit fantasievollem Spielen entwirft Sarah seit über 29 Jahren Playsilks und andere natürliche, umweltfreundliche Holz- und Seidenspielzeuge. Sarah’s Silks beflügelt die Fantasie von Kindern auf der ganzen Welt durch offenes Spielzeug aus natürlichen, umweltfreundlichen Materialien.<\/p>",
             "url": ""
           }
+        },
+        "30cf2f78-db12-448c-ad99-1b411b15e6ce": {
+          "type": "brand",
+          "settings": {
+            "title": "Silverette",
+            "text": "<p>Silverette Silberhütchen werden von der Tecnologia Ospedaliera in Italien hergestellt. Die Firma wurde in den 70ern von Luigi Sevignani gegründet und nun von seinen Töchtern weitergeführt. Sie arbeiteten mit bekannten Gesundheitsexperten des Universitätskrankenhauses von Padua, Italien zusammen<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -914,7 +922,8 @@
         "7de82cd0-5e75-4373-9a49-fef6a290b683",
         "834be4f6-451f-4e36-b485-eea9b4f5600f",
         "f2169bea-d206-45e0-b8f9-95b486a4afc9",
-        "aa4b2202-269d-4e4e-b33a-da5720368d33"
+        "aa4b2202-269d-4e4e-b33a-da5720368d33",
+        "30cf2f78-db12-448c-ad99-1b411b15e6ce"
       ],
       "settings": {
         "padding_top": 60,

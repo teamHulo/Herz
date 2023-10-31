@@ -583,6 +583,14 @@
             "text": "<p>Tina Eck, selbst Mutter zweier Söhne, steht hinter dem Namen Mamidala. Angefangen hat sie damit, Stillarmbänder selbst herzustellen, die super praktisch für stillende Mütter sind. <\/p><p>Sie achtet stets auf hochwertige und sichere Materialien sowie auf die bestmöglichste Sicherheit für das Baby. Im Laufe der Zeit kamen viele Produkte, wie Babyarmbänder und Kinderarmbänder sowie Stillketten, Greiflinge und Babysocken dazu. Alle Produkte stellt sie selbst in Handarbeit her.<\/p>",
             "url": ""
           }
+        },
+        "dbc56b2e-e09e-45cf-be46-44de428436de": {
+          "type": "brand",
+          "settings": {
+            "title": "ManyMonths",
+            "text": "<p>Manymonths-Kleidung wurde designt um den Parenting Lifestyle einfacher zu gestalten. Bei Trage-Eltern bereits sehr beliebt sind die wärmenden Stulpen oder die Elefanten-Mütze, welche dem Kind nicht ins Gesicht rutscht. Manymonths bietet aber noch viele weitere Kleidungsstücke und Accessoires für Babys und Kinder. So gibt es auch Handschuhe, Schlafsäcke oder Stiefeli - da ist für jeden etwas dabei. Die Merino-Wolle hält die warme Luft am Körper des Babys und ist von Natur aus antibakteriell, muss also nicht so häufig gewaschen werden. Die meisten Manymonths-Produkte wachsen mit und passen deinem Kind so über viele Monate hinweg.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -599,7 +607,8 @@
         "c4e2039e-ff7e-42f3-91a9-4ca9ffd906c5",
         "deea0d72-6f32-4db4-8a46-adfdde08241e",
         "40a3f6c4-1ff5-4688-89d8-24e7e48c73b6",
-        "160d738d-a6b2-45c5-b8e1-e4f280e91a86"
+        "160d738d-a6b2-45c5-b8e1-e4f280e91a86",
+        "dbc56b2e-e09e-45cf-be46-44de428436de"
       ],
       "settings": {
         "padding_top": 60,

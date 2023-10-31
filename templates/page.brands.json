@@ -791,6 +791,14 @@
             "text": "<p>Petit Lulu ist ein kleines Familienunternehmen aus der Tschechischen Republik. Als Lucie im Jahr 2012 ihr erstes Kind gebar, suchte sie vergebens nach preiswerten und qualitativ hochwertigen Stoffwindeln und nähte sie - obwohl sie noch nie zuvor genäht hatte - kurzerhand selber. Weil die Produkte ihren Bekannten so gefielen, verkaufte sie sie auf einem Tschechischen Onlineshop für Handgemachtes. Ein Erfolg! Mittlerweile werden 70% der Petit Lulu Produkte in anderen europäischen Ländern verkauft.<\/p><p>Alle Produkte von Petit Lulu haben eine Oeko-Tex Zertifizierung und viele sind in Bio-Qualität hergestellt.<\/p>",
             "url": ""
           }
+        },
+        "a49d95eb-2a61-49ce-931e-53683f88acc7": {
+          "type": "brand",
+          "settings": {
+            "title": "Pickapooh",
+            "text": "<p>PICKAPOOH ist als Mützenmanufaktur und kleines Familienunternehmen mit Sitz in Hamburg seit 1991 spezialisiert auf Design und Produktion von ökologischen, modischen und hochwertigen Mützen sowie anderen Accessoires, die Kinder wegen der guten Passform und der weichen Materialien gerne tragen. Seit 1998 produziert Pickapooh (made in Germany) ausschliesslich aus reinen Naturfasern; unter strengen ökologischen und sozialen Kriterien - gut für Mensch, Tier, Pflanzen und Umwelt.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -833,7 +841,8 @@
         "2bdc1f18-f0d0-4daf-97a6-e559904c8318",
         "6c5fde75-5ccf-45ff-88e3-85a67dda8968",
         "6ee8643c-bca0-4a33-81a5-1ad600072641",
-        "a0e2e276-3570-47e5-811a-96cd26bc99c1"
+        "a0e2e276-3570-47e5-811a-96cd26bc99c1",
+        "a49d95eb-2a61-49ce-931e-53683f88acc7"
       ],
       "settings": {
         "padding_top": 60,

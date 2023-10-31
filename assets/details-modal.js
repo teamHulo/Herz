@@ -5,6 +5,7 @@ class DetailsModal extends HTMLElement {
     this.summaryToggle = this.querySelector('summary');
 
     this.detailsContainer.addEventListener('keyup', (event) => event.code.toUpperCase() === 'ESCAPE' && this.close());
+    //this.summaryToggle.addEventListener('mouseenter', this.onSummaryClick.bind(this));
     this.summaryToggle.addEventListener('click', this.onSummaryClick.bind(this));
     this.querySelector('button[type="button"]').addEventListener('click', this.close.bind(this));
 
@@ -12,11 +13,14 @@ class DetailsModal extends HTMLElement {
   }
 
   isOpen() {
+    console.log('fffff');
     return this.detailsContainer.hasAttribute('open');
+    
   }
 
   onSummaryClick(event) {
     event.preventDefault();
+    console.log('fffff');
     event.target.closest('details').hasAttribute('open') ? this.close() : this.open(event);
   }
 

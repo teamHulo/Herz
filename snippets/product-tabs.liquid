@@ -6,26 +6,36 @@
         <li class="active">Beschreibung</li>
         <li>Pflegehinweise</li>
         <li> <img src="https://cdn.shopify.com/s/files/1/0837/0719/9803/files/Symbol.png?v=1697587432" alt=""> Philosophie</li>
+        {% comment %}<li>
+Versand & Rücksendung</li> {% endcomment %}
         <li>
-          Versand & Rücksendung</li>
+          Details
+        </li>
       </ul>
     </div>
     <div class="tab_content">
       <div class="tab-1 tab active">
-        {{ product.description }}
+        {{ product.metafields.custom.product_short_description | metafield_tag  }}
       </div>
       <div class="tab-2 tab">
-        {{ product.metafields.custom.tab_1 | metafield_tag }}
-      </div>
-      <div class="tab-3 tab">
         {{ product.metafields.custom.tab_2 | metafield_tag }}
       </div>
-      <div class="tab-4 tab">
+      <div class="tab-3 tab">
+        {{ product.metafields.custom.philosophie | metafield_tag }}
+      </div>
+      {% comment %}<div class="tab-4 tab">
 
         {{ metaObject.title | metafield_tag }}
         {{ metaObject.text | metafield_tag }}
 
+</div> {% endcomment %}
+      <div class="tab-4 tab">
+        {{ product.metafields.custom.spezifikation_material | metafield_tag }}
+        {{ product.metafields.custom.spezifikation_inhalt | metafield_tag }}
+        {{  product.metafields.custom.spezifikation_passform | metafield_tag }}
       </div>
+
+    </div>
     </div>
   </div>
 </div>

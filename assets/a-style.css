@@ -2572,3 +2572,7 @@ background-color: #E5E0D5;
 text-decoration: none;
 }
 /***--end-- Blog filter --end--***/
+
+.jdgm-star {
+  font-family: 'JudgemeStar' !important;
+}

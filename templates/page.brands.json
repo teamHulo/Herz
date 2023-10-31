@@ -1068,6 +1068,14 @@
             "text": "<p>WOODLETTERS steht für einfaches natürliches Design, welches Freude und Wohlbefinden erzeugt. Das Produkt überzeugt in seiner Haptik, seinem Geruch, seiner Wirkung und seinem verspielten Design. WOODLETTERS stellt alle Produkte in der Schweiz und aus heimischem Arvenholz her und steht für eine Nachhaltige Produktion und Verpackung ein. Die Qualität von WOODLETTERS überzeugt durch seine Langlebigkeit, Natürlichkeit und Einzigartigkeit. Das bearbeitete Holz der WOODLETTERS ist weich, fein und sehr angenehm zum Anfassen und Riechen. Die WOODLETTERS wecken die kindliche Neugier und laden zu kreativem Spiel ein.<\/p>",
             "url": ""
           }
+        },
+        "f545a1d4-ceac-4b0a-956b-08fee18c442b": {
+          "type": "brand",
+          "settings": {
+            "title": "Woolrex",
+            "text": "<p>Woolrex produziert Merinowolle-Produkte höchster Qualität. Die Wollqualität der Produkte wird mit dem Woolmark Label bestätigt. Sämtliche WOOLREX Produkte und ihre hohe Qualität werden durch unterschiedliche, unabhängige Institutionen zertifiziert.<\/p><p><br\/>Die Entstehung der WOOLREX Produkte beginnt nicht mit dem Design der jeweiligen Kleidungsstücke und Accessoires. Es fängt schon viel früher an, nämlich mit der Rohstoffgewinnung der Merinowolle. Für eine transparente Lieferkette ist es essenziell, jede einzelne dieser Stationen zu kennen und zu verfolgen. Daher gehört der stetige Austausch mit unseren Lieferanten und Geschäftspartnern zu den Prioritäten von Woolrex.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -1087,7 +1095,8 @@
         "f9789320-720f-4e91-9e8e-d4df347cfe8e",
         "b2c245c1-8b62-4249-b410-0c9f7c4647a1",
         "d13b9b52-ca5f-4d37-a971-d37f2d8d47c2",
-        "6e3b4189-fd4a-4d3f-b51b-4c5fcd73abc5"
+        "6e3b4189-fd4a-4d3f-b51b-4c5fcd73abc5",
+        "f545a1d4-ceac-4b0a-956b-08fee18c442b"
       ],
       "settings": {
         "padding_top": 60,

@@ -314,6 +314,14 @@
             "text": "<p>Als ursprüngliche Lehrerin lässt die Mutter der GOB Männchen stets ihr pädagogisches Know How in die Produkte einfliessen. Im Alltag holt sie Inspirationen von ihren eigenen Kindern und den Challenges, die es zu bewältigen gibt als Familie. Aus diesem Mix entstehen im Kreativ-Atelier Produkte, die den Alltag mit Kindern erleichtern aber auch spassig und bunt machen.<\/p>",
             "url": ""
           }
+        },
+        "a9307444-15b9-4fed-bec8-4fdc94cbeedb": {
+          "type": "brand",
+          "settings": {
+            "title": "Grapat",
+            "text": "<p>Grapat steht für freies Spiel mit unstrukturierten Materialien, die die Kinder zu eigenständigen Ideen und freiem, Spiel inspirieren. Das kleine spanische Familienunternehmen legt grossen Wert auf eine nachhaltige, faire und lokale Produktion. Grapat ist ein kleines spanische Familienunternehmen. Es legt grossen Wert auf eine nachhaltige, faire und lokale Produktion für ihre Holzprodukte.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -354,7 +362,8 @@
         "6de266e2-deba-40cb-afc8-4c9f57cb7c0d",
         "d40a1902-390b-4f73-a767-86c31af4ca5e",
         "e5f8dd94-1ec0-406b-b336-e9e1a41cf3ba",
-        "353f592e-b16a-431c-a9dc-12209aae8ea2"
+        "353f592e-b16a-431c-a9dc-12209aae8ea2",
+        "a9307444-15b9-4fed-bec8-4fdc94cbeedb"
       ],
       "settings": {
         "padding_top": 60,

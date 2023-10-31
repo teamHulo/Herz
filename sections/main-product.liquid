@@ -87,12 +87,14 @@
 
 
             {%- when 'text' -%}
-              <p
+              {% assign vendorName =  block.settings.text | url_encode %}
+              {% assign vendorUrl = routes.all_products_collection_url | append: '?gf_463293=' | append: vendorName %}
+              <a href="{{ vendorUrl }}"
                 class="product__text inline-richtext{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle{% endif %}"
                 {{ block.shopify_attributes }}
               >
                 {{- block.settings.text -}}
-              </p>
+              </a>
             {%- when 'title' -%}
               <div class="product__title" {{ block.shopify_attributes }}>
                 <h1>{{ product.title | escape }}</h1>

@@ -313,3 +313,18 @@
   top: 25%;
 }
 /* --end-- filter card Globo --end-- */
+
+.active-filter:before{
+  content: "";
+ height: 6px;
+ width: 6px;
+ border-radius: 50%;
+ display: flex;
+ background: #00281d;
+ margin-right: 10px;
+ align-items: center;
+ position: absolute;
+ top: 50%;
+ left: -13px;
+ transform: translateY(-50%);
+}

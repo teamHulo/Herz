@@ -61,6 +61,47 @@
     }, 100)
    
 </script>
+<script>
+  let collectionURL = window.location.href;
+if (collectionURL.indexOf("/collections/") > -1) {
+function addActiveFilter() {
+  
+  let currentCollection = collectionURL.split(/collections/)[1].substring(1);
+  console.log(currentCollection + ' =currentCollection')
+  let filterItem = document.querySelector('[data-fvalue="'+currentCollection+'"]');
+  
+  
+  filterItem.classList.add('active-filter');
+  //first level
+  let firstLevelParent = filterItem.closest('[data-filter-type="Collection"]');
+  firstLevelParent.querySelector('.gf-block-title').classList.add('active-filter');
+  firstLevelParent.classList.remove('is-collapsed');
+  /*
+   document.querySelectorAll('.gf-option-box > li').forEach(function(itemLi) {
+     
+     if(itemLi.contains(document.querySelector('.active-filter'))){
+     }else{
+       if(itemLi.contains(itemLi.querySelector('button'))){
+        itemLi.querySelector('button[data-fvalue] + span').click();
+       }
+     }
+ });*/
+  
+  //one more level
+    let SecondLevelParent = filterItem.closest('li');
+  
+  
+}
+var timerToCheckFilter = setInterval(function() {
+if (document.body.contains(document.getElementById('gf-tree'))) {
+        addActiveFilter();
+        clearInterval(timerToCheckFilter);
+    }else{
+        console.log('?');
+    }
+}, 1000);
+}
+</script>
 
 {% schema %}
 {

@@ -727,6 +727,14 @@
             "text": "<p>Noppies ist die Marke für schwangere Frauen und Mütter. Seit mehr als zwanzig Jahren sorgt Noppies dafür, dass stilbewusste Frauen sich während der Höhepunkte und Herausforderungen ihrer Schwangerschaft und Stillzeit ihrer selbst sicher fühlen können.<\/p><p>Noppies engagiert sich auf verschiedenen Ebenen für Nachhaltigkeit, unter anderem durch Mitgliedschaft im Niederländischen Abkommen über nachhaltige Mode und Textilien. Zudem verpflichtet Noppies sich zur Einhaltung verantwortungsvoller Geschäftspraktiken und zur Optimierung der Arbeitsbedingungen entlang der gesamten Wertschöpfungskette.<\/p>",
             "url": ""
           }
+        },
+        "044b1a85-729b-4392-955d-fa5c1598cce6": {
+          "type": "brand",
+          "settings": {
+            "title": "ökoNORM",
+            "text": "<p>ökoNORM steht für ökologisch sinnvolle Produkte, die in Herstellung, Gebrauch und Entsorgung den Menschen und der Umwelt so wenig wie möglich schaden.<\/p><p>Die Firmengründer Ellen Schahn und Albert Krohn waren schon vor der Firmengründung 1989 in Frankfurt\/Main im Umweltschutz, in Bürgerinitiativen und gesellschaftspolitisch aktiv. Sie haben sich über diese Themenfelder kennengelernt und in ökologisch orientierten Firmen zusammen gearbeitet.<\/p><p>ökoNORM engagiert sich für die konsequente Entwicklung von Produkten aus nachwachsenden Rohstoffen.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -761,7 +769,8 @@
         "c059f173-412b-4100-9d92-d0e633eab927",
         "37cd28b6-e4f6-4101-9d2d-7e3496aacaab",
         "b9fcefe7-d03d-46bc-bb89-551af3a764dc",
-        "7e58cea9-84ca-4028-bfb1-aa3e5d04ce0f"
+        "7e58cea9-84ca-4028-bfb1-aa3e5d04ce0f",
+        "044b1a85-729b-4392-955d-fa5c1598cce6"
       ],
       "settings": {
         "padding_top": 60,

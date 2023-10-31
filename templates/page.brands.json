@@ -1020,6 +1020,14 @@
             "text": "<p>Seit über 30 Jahren ist Ulrich Natürlich ein renommierter Hersteller zertifizierter, ökologischer Wasch- und Reinigungsmittel. Die Marke legt großen Wert auf Nachhaltigkeit und verwendet Inhaltsstoffe auf Basis nachwachsender Rohstoffe, vorzugsweise aus ökologischem Anbau. Ihr Hauptaugenmerk liegt auf der Entwicklung von Produkten, die nicht nur leicht biologisch abbaubar sind, sondern auch äußerst nachhaltig und ergiebig im Gebrauch.<\/p><p><br\/><\/p><p>Die stetig wachsende Problematik von Verpackungsmüll ist Ulrich Natürlich nicht gleichgültig geblieben. Sie haben sich entschlossen, plastikarme und wenn möglich plastikfreie Verpackungslösungen anzubieten. Die von ihnen verwendeten Flaschen bestehen zu 100 % aus Recyclat, welches ausschließlich aus kommunalen Abfällen (Post Consumer Products) gewonnen wird. Das bedeutet, dass das verwendete Material zuvor bereits in einer anderen Funktion genutzt wurde.<\/p><p>Diese zukunftsweisenden Initiativen unterstreichen Ulrich Natürlichs Engagement für Umweltschutz und nachhaltiges Handeln. Ihre Produkte und Verpackungen tragen dazu bei, die Umweltauswirkungen zu minimieren und die Welt zu einem nachhaltigeren Ort zu machen.<\/p>",
             "url": ""
           }
+        },
+        "265bccc3-00ef-4e9c-9ce7-8943f80825ec": {
+          "type": "brand",
+          "settings": {
+            "title": "Walkiddy",
+            "text": "<p>Walkiddy ist eine Baby- und Kindermodenmarke, für die Nachhaltigkeit an erster Stelle steht. Walkiddy beobachtet stets die internationalen Standards für Bio-Baumwolle und produziert mit hochwertigen nachhaltigen Stoffen Kleidung, die die Haut der Kleinen schützt. Die Designs sind inspiriert von der Natur und faszinierenden Wesen. Sie schaffen Kollektionen durch welche die Kinder die märchenhafte Schönheit der Natur entdecken können.<\/p><p>Walkiddy wie auch wir sind überzeugt, dass die Zukunft unseres Planeten, die Zukunft unserer Kinder ist. Der Fortbestand des Öko-Systems ist lediglich mit Nachhaltigkeit möglich. Heutzutage produzieren viele Unternehmen für Bekleidung niedrigpreisig mehr Kleidung als benötigt wird. Dies führt zu Verschwendung. Mehr Produktion, mehr Wasser und mehr Lieferungen sind Einflussfaktoren, die den Kohlenstoffdioxid-Ausstoss steigern. Übrigens vernichten viele Unternehmen die überproduzierte, übriggebliebene Ware zum Ende der Saison. - Walkiddy nicht und auch wir von Herz an Herz werfen niemals Ware weg.<\/p><p>Auf eine Zukunft, in der anstelle von Verschwendung Nachhaltigkeit tritt und unsere Kinder in einer hoffnungsvollen Welt ihre eigenen Schritte machen können.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -1033,7 +1041,8 @@
         "d6c46637-2a53-418f-913c-8c25b0b79fbc",
         "3bf1bde4-27ef-43ee-b65d-086890875e7c",
         "ca697107-8d6b-4cc8-b1bf-c416ac07b3bd",
-        "11d5c7c4-bd86-4275-b674-32dc123e9cbb"
+        "11d5c7c4-bd86-4275-b674-32dc123e9cbb",
+        "265bccc3-00ef-4e9c-9ce7-8943f80825ec"
       ],
       "settings": {
         "padding_top": 60,

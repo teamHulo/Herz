@@ -735,6 +735,14 @@
             "text": "<p>ökoNORM steht für ökologisch sinnvolle Produkte, die in Herstellung, Gebrauch und Entsorgung den Menschen und der Umwelt so wenig wie möglich schaden.<\/p><p>Die Firmengründer Ellen Schahn und Albert Krohn waren schon vor der Firmengründung 1989 in Frankfurt\/Main im Umweltschutz, in Bürgerinitiativen und gesellschaftspolitisch aktiv. Sie haben sich über diese Themenfelder kennengelernt und in ökologisch orientierten Firmen zusammen gearbeitet.<\/p><p>ökoNORM engagiert sich für die konsequente Entwicklung von Produkten aus nachwachsenden Rohstoffen.<\/p>",
             "url": ""
           }
+        },
+        "46dd2d2b-5152-47d4-b6f5-928cfd12ce41": {
+          "type": "brand",
+          "settings": {
+            "title": "Oli & Carol",
+            "text": "<p>Das junge Label Oli & Carol wurde von zwei Schwestern in Barcelona gegründet. Oli & Carol kreieren mit Leidenschaft nachhaltiges Spielzeug für Babys und Kinder aus 100% Naturkautschuk. Frei von Weichmachern und giftigen Zusatzstoffen, ohne Löcher, damit keine Feuchtigkeit und Bakterien sich im Innern sammeln können und dadurch absolut sicher für kleine Hände und Münder. Die Spielsachen von Oli & Carol werden von Hand hergestellt und eingefärbt.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -770,7 +778,8 @@
         "37cd28b6-e4f6-4101-9d2d-7e3496aacaab",
         "b9fcefe7-d03d-46bc-bb89-551af3a764dc",
         "7e58cea9-84ca-4028-bfb1-aa3e5d04ce0f",
-        "044b1a85-729b-4392-955d-fa5c1598cce6"
+        "044b1a85-729b-4392-955d-fa5c1598cce6",
+        "46dd2d2b-5152-47d4-b6f5-928cfd12ce41"
       ],
       "settings": {
         "padding_top": 60,

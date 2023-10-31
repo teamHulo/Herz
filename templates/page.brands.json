@@ -599,6 +599,14 @@
             "text": "<p>Maren & Dorina haben zusammen im Jahr 2015 mara mea gegründet. Sie hatten eine klare Vorstellung, wie Wickeltaschen, Umstandsmode und Accessoires für die heutige Frau und Mutter aussehen sollten. Für diese Bedürfnisse entwickelt mara mea zeitlose und trotzdem trendige Produkte, welche auch über die Schwangerschaft und Stillzeit hinaus echte Lieblingstücke sind. Langlebige Stücke mit Liebe zum Detail.<\/p><p>Alle Schnitte, Muster & Designs werden im Berliner Büro gefertigt. Die Produktion ist in einem kleinen Familienbetrieb in Indien.<\/p>",
             "url": ""
           }
+        },
+        "69926878-6149-4949-ae5a-b5164a37175c": {
+          "type": "brand",
+          "settings": {
+            "title": "Milker",
+            "text": "<p>Höchste Bio-Qualität für Schwangere und Stillende. Die Marke aus Dänemark hat sich auf modische Stillbekleidung spezialisiert, die aus ökologischen Rohmaterialien hergestellt wird. Dank diskreten Stillöffnungen ist das Stillen mit jedem Kleidungsstück problemlos möglich.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -617,7 +625,8 @@
         "40a3f6c4-1ff5-4688-89d8-24e7e48c73b6",
         "160d738d-a6b2-45c5-b8e1-e4f280e91a86",
         "dbc56b2e-e09e-45cf-be46-44de428436de",
-        "7f052d0e-4dad-4382-8959-0f1b8e48e2d1"
+        "7f052d0e-4dad-4382-8959-0f1b8e48e2d1",
+        "69926878-6149-4949-ae5a-b5164a37175c"
       ],
       "settings": {
         "padding_top": 60,

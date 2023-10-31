@@ -929,11 +929,32 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "87ab509e-468e-4963-8f98-d6212371a325": {
+      "type": "section-brands-list",
+      "blocks": {
+        "0e318fd7-9ce4-43b7-9e09-9e24b68d009b": {
+          "type": "brand",
+          "settings": {
+            "title": "Skinnies",
+            "text": "<p>2010 in Neuseeland entwickelt. Das Land der Surfer stellt hohe Anforderungen an eine Sonnencreme.<\/p><p>Selbst nach 80 Minuten im Wasser, bietet Skinnies immer noch einen LSF 30.<\/p><p>Als weiches, leicht verstreichbares Gel eignet sich Skinnies auch für Kinder. Es ist durchsichtig, trocknet schnell ein und bietet sofortigen lang anhaltenden Schutz.<\/p><p>Skinnies Produkte enthalten kein Wasser, keine Parabene, keine Konservierungsstoffe und keine Duftstoffe.<\/p>",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "0e318fd7-9ce4-43b7-9e09-9e24b68d009b"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
     "main",
     "917202c5-684b-4c71-90a1-e5ff63d6c3c2",
-    "31730008-2c88-4f64-9322-ee708065aada"
+    "31730008-2c88-4f64-9322-ee708065aada",
+    "87ab509e-468e-4963-8f98-d6212371a325"
   ]
 }

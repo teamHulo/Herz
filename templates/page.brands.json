@@ -194,6 +194,14 @@
             "text": "<p>Die Freude an der Arbeit mit Naturfasern stand für Disana schon immer im Mittelpunkt der Firmenphilosophie.Die Baby- und Kindertextilien sind aus möglichst naturbelassenen Stoffen - mit dieser Idee gründeten Imma und Dietrich Sautter das Unternehmen vor über 30 Jahren. Was mit einem waschbaren Windelsystem begann, hat sich im Laufe der Jahre zu einem breite...<\/p>",
             "url": ""
           }
+        },
+        "d0b66cd6-d113-439e-a9c9-8198d760918b": {
+          "type": "brand",
+          "settings": {
+            "title": "Dondolo",
+            "text": "<p>Dondolo wird von Erisana, einer schweizer Firma hergestellt. Erisana benutzt dafür 100% biologische Baumwolle und schweizer Schafswolle. Somit ist die dondolo hängematte zu 100% Swiss made.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -219,7 +227,8 @@
         "a150fbc1-bb9f-4d32-b112-bcbc83cf0ad5",
         "77ba5143-95f4-40f2-804b-f260e49d4d86",
         "4fd0ca2c-9314-480d-bf8c-fc67ef6303e5",
-        "c5df051b-0844-4ffd-ad29-aeb6ea4d3163"
+        "c5df051b-0844-4ffd-ad29-aeb6ea4d3163",
+        "d0b66cd6-d113-439e-a9c9-8198d760918b"
       ],
       "settings": {
         "padding_top": 60,

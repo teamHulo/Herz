@@ -32,30 +32,30 @@ Versand & Rücksendung</li> {% endcomment %}
       <div class="tab-4 tab">
         {% if  product.metafields.custom.spezifikation_material != blank%}
           <div class="">
-            <div class="title">
-              <h3 style="text-align: left !important">
+            <div class="text">
+              <p style="text-align: left !important">
                 Material:
-              </h3>
+              </p>
             </div>
             {{ product.metafields.custom.spezifikation_material | metafield_tag }}
           </div>
         {% endif %}
         {% if  product.metafields.custom.spezifikation_inhalt != blank%}
         <div class="">
-          <div class="title">
-            <h3 style="text-align: left !important">
+          <div class="text">
+            <p style="text-align: left !important">
               Inhalt:
-            </h3>
+            </p>
           </div>
           {{ product.metafields.custom.spezifikation_inhalt | metafield_tag }}
         </div>
       {% endif  %}
       {% if  product.metafields.custom.spezifikation_passform != blank%}
         <div class="">
-          <div class="title">
-            <h3 style="text-align: left !important">
+          <div class="text">
+            <p style="text-align: left !important">
               Passform:
-            </h3>
+            </p>
           </div>
           {{  product.metafields.custom.spezifikation_passform | metafield_tag }}
         </div>

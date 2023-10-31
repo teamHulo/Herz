@@ -511,6 +511,14 @@
             "text": "<p>Kruut steht für einen Schritt zurück zur nährstoffreichen Natur und dem Wissen, wie man diese nutzt. Hergestellt mit Werten, die heute oft zu kurz kommen: Zeit & Hingabe.<\/p><p>„Dat ole Kruut mutt rut“ - Mit diesem plattdeutschen Ausspruch wurden die Gründer von kruut in ihrer Kindheit vom Opa in den Garten geschickt. Nicht um das Unkraut einfach zu jäten - nein, um es zu nutzen. <\/p><p>kruut möchte kraftvolle Wildkräuter zurück in unseren modernen Alltag holen. Die Rezepturen basieren auf dem jahrtausendealten Wissen der Pflanzenheilkunde. Für naturnahe Rituale und wilden Genuss.<\/p>",
             "url": ""
           }
+        },
+        "f899c729-4859-4107-8431-c468fa0dc4a4": {
+          "type": "brand",
+          "settings": {
+            "title": "Leea",
+            "text": "<p>Alles began mit einem Vater (Dan, 49 aus Bukarest) der sich fragte \"Was kann ich für mein Kind tun, damit es entdecken und Spass haben kann?\"<\/p><p>Er baute den Learning Tower für sein Kind und stellte fest, dass dieser auf so viele Arten benutzt werden konnte. Also fing er an ihn zu optimieren und verbessern. Fügte zusätzliche Funktionen hinzu. Nach zwei Jahren stand der Leea`s Tower.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -518,7 +526,8 @@
         "74d6784e-62bd-4057-aaee-67136bffb591",
         "6ebcf134-d188-44fa-9cf6-aed808266121",
         "7917788b-e6dd-482a-8232-1aca100646a9",
-        "91d414e8-b232-4c6d-b2c5-54cf5819b6fa"
+        "91d414e8-b232-4c6d-b2c5-54cf5819b6fa",
+        "f899c729-4859-4107-8431-c468fa0dc4a4"
       ],
       "settings": {
         "padding_top": 60,

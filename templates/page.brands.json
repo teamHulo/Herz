@@ -1060,6 +1060,14 @@
             "text": "<p>Wooden Story: Ein kleines Familienunternehmen aus Polen, das mit grosser Leidenschaft nachhaltiges und umwelfreundliches Holzspielzeug herstellt. Was mit der Leidenschaft von Grossvater Borowy begann, wird jetzt schon in der 3.Generation fortgeführt.<\/p><p>Die Spielsachen sind aus FSC zertifiziertem Holz, sie werden nur mit Bienenwachs und pflanzlichen Ölen behandelt und mit natürlichen Farben gefärbt. So fühlen sie sich angenehm glatt an, riechen wunderbar nach Holz und laden zu stundenlangem freien Spiel ein.<\/p><p>Die Verpackung ist plastikfrei und kann recycelt oder wiederverwendet werden.<\/p>",
             "url": ""
           }
+        },
+        "6e3b4189-fd4a-4d3f-b51b-4c5fcd73abc5": {
+          "type": "brand",
+          "settings": {
+            "title": "Woodletters",
+            "text": "<p>WOODLETTERS steht für einfaches natürliches Design, welches Freude und Wohlbefinden erzeugt. Das Produkt überzeugt in seiner Haptik, seinem Geruch, seiner Wirkung und seinem verspielten Design. WOODLETTERS stellt alle Produkte in der Schweiz und aus heimischem Arvenholz her und steht für eine Nachhaltige Produktion und Verpackung ein. Die Qualität von WOODLETTERS überzeugt durch seine Langlebigkeit, Natürlichkeit und Einzigartigkeit. Das bearbeitete Holz der WOODLETTERS ist weich, fein und sehr angenehm zum Anfassen und Riechen. Die WOODLETTERS wecken die kindliche Neugier und laden zu kreativem Spiel ein.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -1078,7 +1086,8 @@
         "0490fcb4-0302-4e3c-855a-4979e904fb12",
         "f9789320-720f-4e91-9e8e-d4df347cfe8e",
         "b2c245c1-8b62-4249-b410-0c9f7c4647a1",
-        "d13b9b52-ca5f-4d37-a971-d37f2d8d47c2"
+        "d13b9b52-ca5f-4d37-a971-d37f2d8d47c2",
+        "6e3b4189-fd4a-4d3f-b51b-4c5fcd73abc5"
       ],
       "settings": {
         "padding_top": 60,

@@ -2481,7 +2481,7 @@ header-menu .mega-menu summary svg {
 }
 .mega-menu__list .mega-menu__link--level-2 {
   color: var(--dark-green---text, #00281d);
-  font-family: Lora;
+  font-family: Lora !important;
   font-size: 20px;
   font-style: italic;
   font-weight: 400;

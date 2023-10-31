@@ -807,6 +807,14 @@
             "text": "<p>Die Pingo Produkte sind ökologisch uns werden seit 30 Jahren in der Schweiz hergestellt.<\/p><p>Die FSC®-Zertifizierung der Pingo Produkte garantiert, dass die verwendete Zellulose aus nachhaltig bewirtschafteter Waldwirtschaft stammt und unsere Ressourcen schont. Die Pingo Produkte werden mit zertifiziertem Ökostrom hergestellt. Der verbleibende CO2-Fussabdruck wird von Pingo über Projekte von myclimate vollständig kompensiert.<\/p>",
             "url": ""
           }
+        },
+        "68c3e7ab-f6aa-4ca3-9740-568e66ef8c2b": {
+          "type": "brand",
+          "settings": {
+            "title": "PlanToys",
+            "text": "<p>Nachhaltiges Spielen – dies ist die Philosophie von PlanToys.<\/p><p>So wird das Holz chemiefrei getrocknet und die Spielzeuge werden mit Hilfe eines zertifizierten E-Zero Formaldehyd-freien Klebers anstelle von herkömmlichem, toxischem Holzleim zusammengebaut.<\/p><p>Zudem verwendet PlanToys recyclingfähige Verpackungen und keine chemischen Farbstoffe. 73% des verwendeten Materiales kommt aus Ressourcen im Umkreis von 30 km der Fabrik.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -851,7 +859,8 @@
         "6ee8643c-bca0-4a33-81a5-1ad600072641",
         "a0e2e276-3570-47e5-811a-96cd26bc99c1",
         "a49d95eb-2a61-49ce-931e-53683f88acc7",
-        "ce8fed9c-e998-4390-9836-bf4ddcc7b8d7"
+        "ce8fed9c-e998-4390-9836-bf4ddcc7b8d7",
+        "68c3e7ab-f6aa-4ca3-9740-568e66ef8c2b"
       ],
       "settings": {
         "padding_top": 60,

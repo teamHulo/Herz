@@ -940,10 +940,19 @@
             "text": "<p>2010 in Neuseeland entwickelt. Das Land der Surfer stellt hohe Anforderungen an eine Sonnencreme.<\/p><p>Selbst nach 80 Minuten im Wasser, bietet Skinnies immer noch einen LSF 30.<\/p><p>Als weiches, leicht verstreichbares Gel eignet sich Skinnies auch für Kinder. Es ist durchsichtig, trocknet schnell ein und bietet sofortigen lang anhaltenden Schutz.<\/p><p>Skinnies Produkte enthalten kein Wasser, keine Parabene, keine Konservierungsstoffe und keine Duftstoffe.<\/p>",
             "url": ""
           }
+        },
+        "d3f1d5cb-150d-4a91-a848-5608c613e7fd": {
+          "type": "brand",
+          "settings": {
+            "title": "Smallstuff",
+            "text": "<p>Smallstuff ist eine dänische Marke und wurde 2006 gegründet. Smallstuff liebt Farben und schöne Designs. Für alle Produkte werden natürliche Materialien wie Baumwolle, Wolle und Holz verwendet. Die Wolle ist OEKO-TEX-zertifiziert. Smallstuff stellt gut sitzende Kleidung her, die gleichzeitig weich und angenehm zu tragen ist.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "0e318fd7-9ce4-43b7-9e09-9e24b68d009b"
+        "0e318fd7-9ce4-43b7-9e09-9e24b68d009b",
+        "d3f1d5cb-150d-4a91-a848-5608c613e7fd"
       ],
       "settings": {
         "padding_top": 60,

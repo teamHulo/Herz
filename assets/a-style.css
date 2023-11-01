@@ -2518,6 +2518,15 @@ header-menu .mega-menu summary svg {
 
   grid-template-columns: 50px 1fr 1fr 1fr;
 }
+@media (max-width:749px){
+  .header {
+    grid-template-areas:
+      "left-icons  heading icons"
+      "navigation navigation navigation";
+  
+    grid-template-columns:1fr 1fr 1fr;
+  }
+}
 .header__search {
   order: 1;
 }

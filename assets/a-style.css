@@ -2529,6 +2529,9 @@ header-menu .mega-menu summary svg {
     .mini-menu {
     grid-area: auto;
   }
+  .header__icons {
+    padding-right: 0;
+  }
 }
 .header__search {
   order: 1;

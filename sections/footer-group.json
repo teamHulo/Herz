@@ -43,7 +43,7 @@
         "26bfc885-acc3-4fc1-93a8-9d3988490d59": {
           "type": "contact",
           "settings": {
-            "myheading": "Contact Us:",
+            "myheading": "Kontakt",
             "phone_name": "+41 (0)76 325 84 84",
             "mail_name": "shop@herzanherz.ch",
             "mail_url": "",
@@ -53,7 +53,7 @@
         "79837838-030c-4643-ab6a-e63deb6633f3": {
           "type": "link_list",
           "settings": {
-            "heading": "Customer Service",
+            "heading": "Kundendienst",
             "menu": "customer-service"
           }
         },
@@ -67,7 +67,7 @@
         "c2803fe8-f4bd-4c67-88ff-d2d64b60d785": {
           "type": "link_list",
           "settings": {
-            "heading": "Contact",
+            "heading": "Kontakt",
             "menu": "contact"
           }
         }

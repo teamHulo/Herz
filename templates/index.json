@@ -244,6 +244,7 @@
         },
         "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify:\/\/shop_images\/Infobild-Advent-Wichteltuer.jpg",
             "title": "Wichteltürchen",
@@ -366,7 +367,7 @@
         "text": "Bei uns im schweizweit grössten Laden für nachhaltige Babyprodukte findest du auf über 250m2 Fläche alles was du für eine bewusste Elternschaft brauchst. Wir bieten erstklassige Beratung, ein entspanntes Einkaufserlebnis und eine kinderfreundliche Atmosphäre.",
         "address": "Paulstrasse 5, 8400 Winterthur",
         "tel": "+41 (0)76 325 84 84",
-        "btn_url": ""
+        "btn_url": "https:\/\/www.herzanherz.ch\/laden\/%C3%B6ffnungszeiten-anfahrt\/"
       }
     }
   },

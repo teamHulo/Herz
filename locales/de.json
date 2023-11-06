@@ -507,5 +507,18 @@
       "expanded": "Formular für den Empfänger des Geschenkgutscheins erweitert",
       "collapsed": "Formular für den Empfänger des Geschenkgutscheins minimiert"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "payment": {
+        "card_fields": {
+          "errors": {
+            "invalid": {
+              "verification_value": "Gib einen gültigen Rabattcode oder Geschenkgutschein ein. Versuche auch \"get\" vor deinem Code einzufügen: getXXXXXX"
+            }
+          }
+        }
+      }
+    }
   }
 }

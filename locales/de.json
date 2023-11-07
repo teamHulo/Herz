@@ -518,6 +518,10 @@
             }
           }
         }
+      },
+      "field_errors": {
+        "reduction_code_code_not_found": "Gib einen gültigen Rabattcode oder Geschenkgutschein ein. Versuche auch \"get\" vor deinem Code einzufügen: getXXXXXX",
+        "reduction_code_gift_card_code_invalid": "Gib einen gültigen Rabattcode oder Geschenkgutschein ein. Versuche auch \"get\" vor deinem Code einzufügen: getXXXXXX"
       }
     }
   }

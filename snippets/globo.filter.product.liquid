@@ -95,7 +95,7 @@
                 </a>
               </h3>
             </div>
-            <div class="card__badge {{ settings.badge_position }}"> {%- if card_product.available == false -%} <span id="NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sold_out_badge_color_scheme }}"> {% endraw %}{{- 'products.product.sold_out' | t -}}{% raw %} </span> {%- elsif card_product.compare_at_price > card_product.price and card_product.available -%} <span id="NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}"> {% endraw %}{{- 'products.product.on_sale' | t -}}{% raw %} </span> {%- endif -%} </div>
+            <div class="card__badge {{ settings.badge_position }}"> {%- if card_product.available == false -%} <span id="NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sold_out_badge_color_scheme }}"> {{ themeTranslation.products.product.sold_out }} </span> {%- elsif card_product.compare_at_price > card_product.price and card_product.available -%} <span id="NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}"> {{ themeTranslation.products.product.on_sale }} </span> {%- endif -%} </div>
           </div>
         </div>
         <div class="card__content">
@@ -105,7 +105,7 @@
                 {{ card_product.title | escape }}
               </a>
             </h3>
-            <div class="card-information"> {%- if show_vendor -%} <span class="visually-hidden">{% endraw %}{{ 'accessibility.vendor' | t }}{% raw %}</span>
+            <div class="card-information"> {%- if show_vendor -%} <span class="visually-hidden">{{ themeTranslation.accessibility.vendor }}</span>
               <div class="caption-with-letter-spacing light">{{ card_product.vendor }}</div> {%- endif -%} {%- if show_rating and card_product.metafields.reviews.rating != blank -%} {% assign rating_decimal = 0 %} {% assign decimal = card_product.metafields.reviews.rating | modulo: 1 %} {% if decimal >= 0.3 and decimal <= 0.7 %} {% assign rating_decimal = 0.5 %} {% elsif decimal > 0.7 %} {% assign rating_decimal = 1 %} {% endif %} {% assign rating_value = card_product.metafields.reviews.rating %} {% assign rating_max = 5 %} <div class="rating" role="img">
                 <span aria-hidden="true" class="rating-star color-icon-{{ settings.accent_icons }}" style="--rating: {{ card_product.metafields.reviews.rating | floor }}; --rating-max: 5; --rating-decimal: {{ rating_decimal }};"></span>
               </div>
@@ -115,36 +115,36 @@
               <p class="rating-count caption">
                 <span aria-hidden="true">({{ card_product.metafields.reviews.rating_count }})</span>
                 <span class="visually-hidden">{{ card_product.metafields.reviews.rating_count }} {% endraw %}{{ "accessibility.total_reviews" | t }}{% raw %}</span>
-              </p> {%- endif -%} {% assign product = card_product %} {% assign price_class = '' %} {%- if use_variant -%} {%-   assign target = product.selected_or_first_available_variant -%} {%- else -%} {%-   assign target = product -%} {%- endif -%} {%- assign compare_at_price = target.compare_at_price -%} {%- assign price = target.price -%} {%- assign available = target.available | default: false -%} {%- assign money_price = price | money -%} {%- if settings.currency_code_enabled -%} {%-   assign money_price = price | money_with_currency -%} {%- endif -%} {%- if target == product and product.price_varies -%} {% assign price = money_price %} {%- capture money_price %} {% endraw %}{{ 'products.product.price.from_price_html' | t }}{% raw %} {% endcapture %} {%- endif -%} <div class="price
+              </p> {%- endif -%} {% assign product = card_product %} {% assign price_class = '' %} {%- if use_variant -%} {%-   assign target = product.selected_or_first_available_variant -%} {%- else -%} {%-   assign target = product -%} {%- endif -%} {%- assign compare_at_price = target.compare_at_price -%} {%- assign price = target.price -%} {%- assign available = target.available | default: false -%} {%- assign money_price = price | money -%} {%- if settings.currency_code_enabled -%} {%-   assign money_price = price | money_with_currency -%} {%- endif -%} {%- if target == product and product.price_varies -%} {% assign price = money_price %} {%- capture money_price %} {{ themeTranslation.products.product.price.from_price_html }} {% endcapture %} {%- endif -%} <div class="price
                           {%- if price_class %} {{ price_class }}{% endif -%}
                           {%- if available == false %} price--sold-out {% endif -%}
                           {%- if target.compare_at_price > target.price %} price--on-sale {% endif -%}
                           {%- if show_badges %} price--show-badge{% endif -%}">
                 <div class="price__container">
                   <div class="price__regular">
-                    <span class="visually-hidden visually-hidden--inline">{% endraw %}{{ 'products.product.price.regular_price' | t }}{% raw %}</span>
+                    <span class="visually-hidden visually-hidden--inline">{{ themeTranslation.products.product.price.regular_price }}</span>
                     <span class="price-item price-item--regular">
                       {{ money_price }}
                     </span>
                   </div>
-                  <div class="price__sale"> {%- unless product.price_varies == false and product.compare_at_price_varies %} <span class="visually-hidden visually-hidden--inline">{% endraw %}{{ 'products.product.price.regular_price' | t }}{% raw %}</span>
+                  <div class="price__sale"> {%- unless product.price_varies == false and product.compare_at_price_varies %} <span class="visually-hidden visually-hidden--inline">{{ themeTranslation.products.product.price.regular_price }}</span>
                     <span>
                       <s class="price-item price-item--regular"> {% if settings.currency_code_enabled %} {{ compare_at_price | money_with_currency }} {% else %} {{ compare_at_price | money }} {% endif %} </s>
-                    </span> {%- endunless -%} <span class="visually-hidden visually-hidden--inline">{% endraw %}{{ 'products.product.price.sale_price' | t }}{% raw %}</span>
+                    </span> {%- endunless -%} <span class="visually-hidden visually-hidden--inline">{{ themeTranslation.products.product.price.sale_price }}</span>
                     <span class="price-item price-item--sale price-item--last">
                       {{ money_price }}
                     </span>
                   </div>
-                </div> {%- if show_badges -%} <span class="badge price__badge-sale color-{{ settings.sale_badge_color_scheme }}"> {% endraw %}{{ 'products.product.on_sale' | t }}{% raw %} </span>
-                <span class="badge price__badge-sold-out color-{{ settings.sold_out_badge_color_scheme }}"> {% endraw %}{{ 'products.product.sold_out' | t }}{% raw %} </span> {%- endif -%}
+                </div> {%- if show_badges -%} <span class="badge price__badge-sale color-{{ settings.sale_badge_color_scheme }}"> {{ themeTranslation.products.product.on_sale }} </span>
+                <span class="badge price__badge-sold-out color-{{ settings.sold_out_badge_color_scheme }}"> {{ themeTranslation.products.product.sold_out }} </span> {%- endif -%}
               </div>
             </div>
           </div> {%- if show_quick_add -%} <div class="quick-add"> {%- assign product_form_id = 'quick-add-' | append: section_id | append: card_product.id -%} {%- if variants_count == 1 -%} <product-form>
               <form method="post" action="{% endraw %}{{routes.cart_add_url}}{% raw %}" id="{{ product_form_id }}" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form">
                 <input type="hidden" name="id" value="{{ card_product.selected_or_first_available_variant.id }}" disabled>
                 <button id="{{ product_form_id }}-submit" type="submit" name="add" class="quick-add__submit button button--full-width button--secondary" aria-haspopup="dialog" aria-labelledby="{{ product_form_id }}-submit title-{{ section_id }}-{{ card_product.id }}" aria-live="polite" data-sold-out-message="true" {% if card_product.selected_or_first_available_variant.available == false %}disabled{% endif %}>
-                  <span> {%- if card_product.selected_or_first_available_variant.available -%} {% endraw %}{{ 'products.product.add_to_cart' | t }}{% raw %} {%- else -%} {% endraw %}{{ 'products.product.sold_out' | t }}{% raw %} {%- endif -%} </span>
-                  <span class="sold-out-message hidden"> {% endraw %}{{ 'products.product.sold_out' | t }}{% raw %} </span>
+                  <span> {%- if card_product.selected_or_first_available_variant.available -%} {{ themeTranslation.products.product.add_to_cart }} {%- else -%} {{ themeTranslation.products.product.sold_out }} {%- endif -%} </span>
+                  <span class="sold-out-message hidden"> {{ themeTranslation.products.product.sold_out }} </span>
                   <div class="loading-overlay__spinner hidden">
                     <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
                       <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
@@ -153,15 +153,15 @@
                 </button>
               </form>
             </product-form> {%- else -%} <modal-opener data-modal="#QuickAdd-{{ card_product.id }}">
-              <button id="{{ product_form_id }}-submit" type="submit" name="add" class="quick-add__submit button button--full-width button--secondary" aria-haspopup="dialog" aria-labelledby="{{ product_form_id }}-submit title-{{ section_id }}-{{ card_product.id }}" data-product-url="{{ card_product.url }}"> {% endraw %}{{ 'products.product.choose_options' | t }}{% raw %} <div class="loading-overlay__spinner hidden">
+              <button id="{{ product_form_id }}-submit" type="submit" name="add" class="quick-add__submit button button--full-width button--secondary" aria-haspopup="dialog" aria-labelledby="{{ product_form_id }}-submit title-{{ section_id }}-{{ card_product.id }}" data-product-url="{{ card_product.url }}"> {{ themeTranslation.products.product.choose_options }} <div class="loading-overlay__spinner hidden">
                   <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
                     <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
                   </svg>
                 </div>
               </button>
             </modal-opener>
-            <quick-add-modal id="QuickAdd-{{ card_product.id }}" class="quick-add-modal"> {% assign product_name = card_product.title | escape %} <div role="dialog" aria-label="{% endraw %}{{ 'products.product.choose_product_options' | t }}{% raw %}" aria-modal="true" class="quick-add-modal__content global-settings-popup" tabindex="-1">
-                <button id="ModalClose-{{ card_product.id }}" type="button" class="quick-add-modal__toggle" aria-label="{% endraw %}{{ 'accessibility.close' | t }}{% raw %}">
+            <quick-add-modal id="QuickAdd-{{ card_product.id }}" class="quick-add-modal"> {% assign product_name = card_product.title | escape %} <div role="dialog" aria-label="{{ themeTranslation.products.product.choose_product_options }}" aria-modal="true" class="quick-add-modal__content global-settings-popup" tabindex="-1">
+                <button id="ModalClose-{{ card_product.id }}" type="button" class="quick-add-modal__toggle" aria-label="{{ themeTranslation.accessibility.close }}">
                   <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" fill="none" viewBox="0 0 18 17">
                     <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
                   </svg>
@@ -169,7 +169,7 @@
                 <div id="QuickAddInfo-{{ card_product.id }}" class="quick-add-modal__content-info"></div>
               </div>
             </quick-add-modal> {%- endif -%}
-          </div> {%- endif -%} <div class="card__badge {{ settings.badge_position }}"> {%- if card_product.available == false -%} <span id="Badge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sold_out_badge_color_scheme }}"> {% endraw %}{{- 'products.product.sold_out' | t -}}{% raw %} </span> {%- elsif card_product.compare_at_price > card_product.price and card_product.available -%} <span id="Badge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}"> {% endraw %}{{- 'products.product.on_sale' | t -}}{% raw %} </span> {%- endif -%} </div>
+          </div> {%- endif -%} <div class="card__badge {{ settings.badge_position }}"> {%- if card_product.available == false -%} <span id="Badge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sold_out_badge_color_scheme }}"> {{ themeTranslation.products.product.sold_out }} </span> {%- elsif card_product.compare_at_price > card_product.price and card_product.available -%} <span id="Badge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}"> {{ themeTranslation.products.product.on_sale }} </span> {%- endif -%} </div>
         </div>
       </div>
       </div>

@@ -40,6 +40,7 @@ class CartDrawer extends HTMLElement {
           : document.getElementById('CartDrawer');
         const focusElement = this.querySelector('.drawer__inner') || this.querySelector('.drawer__close');
         trapFocus(containerToTrapFocusOn, focusElement);
+        cartDrawerNote.parentElement.setAttribute("open", true)
       },
       { once: true }
     );

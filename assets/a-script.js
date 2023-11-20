@@ -4,6 +4,9 @@ let svgDote = `<svg width="5" height="5" viewBox="0 0 5 5" fill="none" xmlns="ht
 
 $(() => {
   let swiper = new Swiper(".bannerSwiper", {
+    autoplay: {
+      delay: 7000,
+    },
     breakpoints: {
       0: {
         pagination: {

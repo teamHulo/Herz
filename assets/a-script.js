@@ -321,10 +321,12 @@ $(() => {
   $(document).on("change",".my-input-radio", function () {
     let valInput = $(this).val();
     console.log(valInput);
-    $(this)
-      .closest(".my-custom-select-product-wrap")
-      .find(".custom-select-value p")
+    let customSelectProductWrap = $(this).closest(".my-custom-select-product-wrap");
+    
+    customSelectProductWrap.find(".custom-select-value p")
       .text(valInput);
+      console.log(customSelectProductWrap);
+    customSelectProductWrap.toggleClass("active");
   });
 
   $(".select__wrap-header").on("click", function () {

@@ -1189,7 +1189,7 @@ class VariantSelects extends HTMLElement {
   getVariantData() {
     this.variantData = this.variantData || JSON.parse(this.querySelector('[type="application/json"]').textContent);
     //this.variantData = this.variantData || JSON.parse(document.getElementById('variant-json').textContent);
-    console.log(this.variantData);
+    // console.log(this.variantData);
     return this.variantData;
   }
 }

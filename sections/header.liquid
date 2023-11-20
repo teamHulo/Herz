@@ -323,6 +323,11 @@
           </div>
         {%- endif -%}
       </a>  
+      {% if customer.has_account %}
+        <h1>YES</h1>
+        {% else %}
+          <h1>NO</h1>
+      {% endif %}
       {%- if shop.customer_accounts_enabled -%}
         <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="header__icon header__icon--account link focus-inset{% if section.settings.menu != blank %} small-hide{% endif %}">
           {% render 'icon-account' %} log in

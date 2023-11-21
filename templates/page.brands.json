@@ -1107,6 +1107,14 @@
             "text": "<p>Woolrex produziert Merinowolle-Produkte höchster Qualität. Die Wollqualität der Produkte wird mit dem Woolmark Label bestätigt. Sämtliche WOOLREX Produkte und ihre hohe Qualität werden durch unterschiedliche, unabhängige Institutionen zertifiziert.<\/p><p><br\/>Die Entstehung der WOOLREX Produkte beginnt nicht mit dem Design der jeweiligen Kleidungsstücke und Accessoires. Es fängt schon viel früher an, nämlich mit der Rohstoffgewinnung der Merinowolle. Für eine transparente Lieferkette ist es essenziell, jede einzelne dieser Stationen zu kennen und zu verfolgen. Daher gehört der stetige Austausch mit unseren Lieferanten und Geschäftspartnern zu den Prioritäten von Woolrex.<\/p>",
             "url": ""
           }
+        },
+        "ab37ac83-b11b-46cf-a37f-9266b4bcf774": {
+          "type": "brand",
+          "settings": {
+            "title": "Wetterpelle",
+            "text": "<p>Wetterpelle fertigt Schlupfsäcke, welche für Kinder in Kinderwagen, Lastenrädern & Fahrradanhängern aller Art konzipiert worden sind.<\/p><p>Die verwendeten Materialien sind von der Wolle, bis hin zum Garn recycelt, nachhaltig & langlebig. Die Wolle, oder auch die \"Higthtechfaser der Natur\" stammt von bedrohten Landschafrassen aus Deutschland, welche durch mutige & innovative Menschen, wie Marco Scheel, wieder eine Bedeutung\/Aufgabe erhalten. Die Schurwolle wird in vielen kleinen Schritten verarbeitet- jedoch ganz bewusst nicht gefärbt! <\/p><p>Wetterpelle produziert aus Überzeugung mit regionalen Partnern aus Rostock, Mecklenburg-Vorpommern & Deutschland.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -1127,7 +1135,8 @@
         "b2c245c1-8b62-4249-b410-0c9f7c4647a1",
         "d13b9b52-ca5f-4d37-a971-d37f2d8d47c2",
         "6e3b4189-fd4a-4d3f-b51b-4c5fcd73abc5",
-        "f545a1d4-ceac-4b0a-956b-08fee18c442b"
+        "f545a1d4-ceac-4b0a-956b-08fee18c442b",
+        "ab37ac83-b11b-46cf-a37f-9266b4bcf774"
       ],
       "settings": {
         "padding_top": 60,

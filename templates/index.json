@@ -350,7 +350,6 @@
     },
     "87ca8f06-a903-47e5-8e13-7b5d55ff9427": {
       "type": "section-banner-with-form",
-      "disabled": true,
       "settings": {
         "bg": "#a25c3f",
         "text_color": "#faf8f3",

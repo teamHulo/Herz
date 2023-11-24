@@ -218,6 +218,14 @@
             "text": "<p>Droomdeurtjes ist die Marke von Margreet & Sonja, zwei kreativen Frauen, die diese Welt ein bisschen schöner machen wollen. Ihrer Meinung nach verbringen Kinder zu viel Zeit hinter ihren Tablets oder vor dem Fernseher. Es geht viel Fantasie verloren, die sie gerne wieder in den Alltag der Kinder bringen möchten. <\/p><p>Die Traumtür lädt Kinder dazu ein, ihre Fantasie kreativ zu nutzen und einen sicheren Ort zu schaffen, an dem Feen, Wichtel und Drachen zu Besuch kommen und mit ihnen sympathisieren. Indem Kinder Notizen und\/oder Zeichnungen im Briefkasten hinterlassen, lernen sie, ihre Gedanken und Sorgen mitzuteilen. Etwas, das für mehr Interaktion zwischen Kindern und Erwachsenen sorgt und zu einem tieferen Kontakt führen kann. <\/p><p>Was als Idee begann, hat sich zu einem ausgereiften Konzept entwickelt, das auch in den Niederlanden und Belgien einzigartig ist. Von der Türklinke bis zur Corporate Identity haben wird bei Droomdeurtjes alles sehr persönlich und unabhängig gestaltet.<\/p>",
             "url": ""
           }
+        },
+        "0307bdd9-f341-4fe4-b5b0-ef367a454128": {
+          "type": "brand",
+          "settings": {
+            "title": "AllMatters",
+            "text": "<p>AllMatters wurde gegründet, um die Gesundheit während der Menstruation auf persönlicher, kultureller und globaler Ebene zu verbessern. AllMatters engagiert sich dafür, dass Menstruationsprodukte weder unseren Körper noch die Umwelt belasten. Auch dafür, dass Menstruation kein Tabu mehr ist und dafür, dass jeder einfachen Zugang zu einer gesunden Lösung für die Menstruationszeit hat.<\/p><p>Die AllMatters Menstruationstasse besteht zu 100% aus medizinisch unbedenklichem Silikon und enthält weder Zusätze noch Chemikalien.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -246,7 +254,8 @@
         "c5df051b-0844-4ffd-ad29-aeb6ea4d3163",
         "d0b66cd6-d113-439e-a9c9-8198d760918b",
         "914fce0d-c5ce-443e-a2fb-b24d2b5005f4",
-        "21941103-2df5-4a22-9a18-0c92bffd4be9"
+        "21941103-2df5-4a22-9a18-0c92bffd4be9",
+        "0307bdd9-f341-4fe4-b5b0-ef367a454128"
       ],
       "settings": {
         "padding_top": 60,

@@ -19,6 +19,14 @@
             "url": ""
           }
         },
+        "0307bdd9-f341-4fe4-b5b0-ef367a454128": {
+          "type": "brand",
+          "settings": {
+            "title": "AllMatters",
+            "text": "<p>AllMatters wurde gegründet, um die Gesundheit während der Menstruation auf persönlicher, kultureller und globaler Ebene zu verbessern. AllMatters engagiert sich dafür, dass Menstruationsprodukte weder unseren Körper noch die Umwelt belasten. Auch dafür, dass Menstruation kein Tabu mehr ist und dafür, dass jeder einfachen Zugang zu einer gesunden Lösung für die Menstruationszeit hat.<\/p><p>Die AllMatters Menstruationstasse besteht zu 100% aus medizinisch unbedenklichem Silikon und enthält weder Zusätze noch Chemikalien.<\/p>",
+            "url": ""
+          }
+        },
         "dcc3d9ca-1ffa-4b3f-81e0-1c58f24c8855": {
           "type": "brand",
           "settings": {
@@ -218,18 +226,11 @@
             "text": "<p>Droomdeurtjes ist die Marke von Margreet & Sonja, zwei kreativen Frauen, die diese Welt ein bisschen schöner machen wollen. Ihrer Meinung nach verbringen Kinder zu viel Zeit hinter ihren Tablets oder vor dem Fernseher. Es geht viel Fantasie verloren, die sie gerne wieder in den Alltag der Kinder bringen möchten. <\/p><p>Die Traumtür lädt Kinder dazu ein, ihre Fantasie kreativ zu nutzen und einen sicheren Ort zu schaffen, an dem Feen, Wichtel und Drachen zu Besuch kommen und mit ihnen sympathisieren. Indem Kinder Notizen und\/oder Zeichnungen im Briefkasten hinterlassen, lernen sie, ihre Gedanken und Sorgen mitzuteilen. Etwas, das für mehr Interaktion zwischen Kindern und Erwachsenen sorgt und zu einem tieferen Kontakt führen kann. <\/p><p>Was als Idee begann, hat sich zu einem ausgereiften Konzept entwickelt, das auch in den Niederlanden und Belgien einzigartig ist. Von der Türklinke bis zur Corporate Identity haben wird bei Droomdeurtjes alles sehr persönlich und unabhängig gestaltet.<\/p>",
             "url": ""
           }
-        },
-        "0307bdd9-f341-4fe4-b5b0-ef367a454128": {
-          "type": "brand",
-          "settings": {
-            "title": "AllMatters",
-            "text": "<p>AllMatters wurde gegründet, um die Gesundheit während der Menstruation auf persönlicher, kultureller und globaler Ebene zu verbessern. AllMatters engagiert sich dafür, dass Menstruationsprodukte weder unseren Körper noch die Umwelt belasten. Auch dafür, dass Menstruation kein Tabu mehr ist und dafür, dass jeder einfachen Zugang zu einer gesunden Lösung für die Menstruationszeit hat.<\/p><p>Die AllMatters Menstruationstasse besteht zu 100% aus medizinisch unbedenklichem Silikon und enthält weder Zusätze noch Chemikalien.<\/p>",
-            "url": ""
-          }
         }
       },
       "block_order": [
         "03a5b612-b625-42a9-b317-d384fc54ffd5",
+        "0307bdd9-f341-4fe4-b5b0-ef367a454128",
         "dcc3d9ca-1ffa-4b3f-81e0-1c58f24c8855",
         "83cbc6ca-d35d-4b22-b1aa-0252967e9f9f",
         "8155f92d-d0f4-45aa-b04c-e6e16ce98027",
@@ -254,8 +255,7 @@
         "c5df051b-0844-4ffd-ad29-aeb6ea4d3163",
         "d0b66cd6-d113-439e-a9c9-8198d760918b",
         "914fce0d-c5ce-443e-a2fb-b24d2b5005f4",
-        "21941103-2df5-4a22-9a18-0c92bffd4be9",
-        "0307bdd9-f341-4fe4-b5b0-ef367a454128"
+        "21941103-2df5-4a22-9a18-0c92bffd4be9"
       ],
       "settings": {
         "padding_top": 60,
@@ -809,14 +809,6 @@
             "url": ""
           }
         },
-        "f7fb1d09-19ce-4182-91a9-f8cd1f3e3b27": {
-          "type": "brand",
-          "settings": {
-            "title": "AllMatters",
-            "text": "<p>AllMatters wurde gegründet, um die Gesundheit während der Menstruation auf persönlicher, kultureller und globaler Ebene zu verbessern. AllMatters engagiert sich dafür, dass Menstruationsprodukte weder unseren Körper noch die Umwelt belasten. Auch dafür, dass Menstruation kein Tabu mehr ist und dafür, dass jeder einfachen Zugang zu einer gesunden Lösung für die Menstruationszeit hat.<\/p><p>Die AllMatters Menstruationstasse besteht zu 100% aus medizinisch unbedenklichem Silikon und enthält weder Zusätze noch Chemikalien.<\/p>",
-            "url": ""
-          }
-        },
         "88a593d9-9ed3-4654-a857-9cc45c0a9cad": {
           "type": "brand",
           "settings": {
@@ -948,7 +940,6 @@
         "b2224f8d-7c56-47d7-be10-d19d0cc63738",
         "663c82fa-dc0a-4ee7-8b22-3bc8ef36a663",
         "19fdb28a-1c5d-447a-a474-8bbaecc0b9f7",
-        "f7fb1d09-19ce-4182-91a9-f8cd1f3e3b27",
         "88a593d9-9ed3-4654-a857-9cc45c0a9cad",
         "96fd7ffa-ba5d-4d81-b8d8-b7248b442032",
         "58da63e4-dc72-4529-817f-66209cf08b5a",

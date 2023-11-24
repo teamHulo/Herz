@@ -337,6 +337,14 @@
             "url": ""
           }
         },
+        "15155f04-b283-4f56-869e-de5075e3ecf6": {
+          "type": "brand",
+          "settings": {
+            "title": "Fridahild",
+            "text": "<p>Fridahild: Das ist liebevoll handgefertigter Haarschmuck in zeitlosem Design und aus hochwertigen Materialien und einem Hauch Nostalgie. Bei Fridahild gibt es aussergewöhnliche und ganz besondere Haaraccessoires zu entdecken, die in Wien von Hand gefertigt werden. Aus exklusiven Liberty London-, Leinen- und ausgewählten Motivstoffen werden Haarspangen, Zopfgummis und Schleifen gezaubert, die garantiert auffallen.<\/p>",
+            "url": ""
+          }
+        },
         "c9102d9a-4f26-4a83-afb7-bf3d470c2b72": {
           "type": "brand",
           "settings": {
@@ -476,6 +484,7 @@
         "3aedb558-ded3-4a97-97a8-3228464ad1e8",
         "da0c2267-22ea-46f8-ba2b-40e93966eaf2",
         "949bc0aa-bb91-4575-9f1a-535c333b23cd",
+        "15155f04-b283-4f56-869e-de5075e3ecf6",
         "c9102d9a-4f26-4a83-afb7-bf3d470c2b72",
         "5e1a5b19-5f0d-41bd-827b-639200e9725f",
         "51c3baf8-46ea-4408-8e38-5caadfed1c91",

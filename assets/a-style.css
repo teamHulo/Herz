@@ -1948,6 +1948,8 @@ media-gallery.product_gallery {
   gap: 0 clamp(20px, 5.833vw, 84px) !important;
 }
 .option_content {
+  max-height: 300px;
+  overflow: auto;
   position: absolute;
   top: 85%;
   left: 0;

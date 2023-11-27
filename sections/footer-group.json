@@ -50,6 +50,13 @@
             "phone_url": ""
           }
         },
+        "3ede5257-2745-4721-b8d1-1db03b6c4a50": {
+          "type": "link_list",
+          "settings": {
+            "heading": "WISSEN",
+            "menu": "footer-wissen"
+          }
+        },
         "79837838-030c-4643-ab6a-e63deb6633f3": {
           "type": "link_list",
           "settings": {
@@ -74,6 +81,7 @@
       },
       "block_order": [
         "26bfc885-acc3-4fc1-93a8-9d3988490d59",
+        "3ede5257-2745-4721-b8d1-1db03b6c4a50",
         "79837838-030c-4643-ab6a-e63deb6633f3",
         "cb64fb7c-68f6-426b-bc22-6cd53daa0488",
         "c2803fe8-f4bd-4c67-88ff-d2d64b60d785"

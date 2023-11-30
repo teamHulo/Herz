@@ -51,13 +51,10 @@
       id="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}"
       name="{{ option.name }}"
       value="{{ value | escape }}"
-      class="js my-input-radio"
+      class="js my-input-radio {% if option_disabled %}disabled{% endif %}"
       form="{{ product_form_id }}"
       {% if option.selected_value == value %}
         checked
-      {% endif %}
-      {% if option_disabled %}
-        class="disabled"
       {% endif %}
     >
     

@@ -252,6 +252,8 @@ fieldset.product-form__input .form__label {
   border-color: rgba(var(--color-foreground), 0.1);
   color: rgba(var(--color-foreground), 0.6);
   text-decoration: line-through;
+  pointer-events: none;
+  opacity: 0.5;
 }
 
 .product-form__input input[type='radio'].disabled:checked + label,

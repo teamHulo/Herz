@@ -90,6 +90,16 @@
     "eb12502c-a978-4a64-8794-299bf7d22d27": {
       "type": "section-our",
       "blocks": {
+        "ddbc2566-4cd1-45cc-82ba-724076b2eb6d": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
+            "title": "Etwas Schönes für euer Zuhause",
+            "text": "<p>Ein Kletterdreieck, eine Schaukel oder ein Lern- und Spielturm sind Geschenke, die über viele Jahre Freude machen. Wenn sich mehrere Schenkende daran beteiligen, wird es ein sinnvolles Gemeinschaftsgeschenk.<\/p>",
+            "url": "shopify:\/\/collections\/furs-kinderzimmer",
+            "btn_name": "Geschenke entdecken"
+          }
+        },
         "44ff8293-3505-462f-9c87-f9c28c332b83": {
           "type": "item",
           "settings": {
@@ -100,14 +110,34 @@
             "btn_name": "Mitbringsel finden"
           }
         },
-        "ddbc2566-4cd1-45cc-82ba-724076b2eb6d": {
+        "52dfc1bb-e625-41fa-861f-c29664072780": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
-            "title": "Etwas Schönes für euer Zuhause",
-            "text": "<p>Ein Kletterdreieck, eine Schaukel oder ein Lern- und Spielturm sind Geschenke, die über viele Jahre Freude machen. Wenn sich mehrere Schenkende daran beteiligen, wird es ein sinnvolles Gemeinschaftsgeschenk.<\/p>",
-            "url": "shopify:\/\/collections\/furs-kinderzimmer",
-            "btn_name": "Geschenke entdecken"
+            "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
+            "title": "Weltenbau und stundenlanges freies Spiel",
+            "text": "<p>Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie. Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.<\/p>",
+            "url": "shopify:\/\/collections\/freies-spiel",
+            "btn_name": "Alles fürs freie Spiel"
+          }
+        },
+        "a20d7289-674c-4546-a4f6-6102c2ab22c9": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
+            "title": "Weihnachtsgeschenke Guide",
+            "text": "<p>Bei uns findest du eine Auswahl an sinnvollen Weihnachtsgeschenken. Lass dich inspirieren!<\/p>",
+            "url": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
+            "btn_name": "Inspirieren lassen"
+          }
+        },
+        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Advent-Wichteltuer.jpg",
+            "title": "Wichteltürchen",
+            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!<\/p>",
+            "url": "shopify:\/\/collections\/wichtelzauber",
+            "btn_name": "Wichtel einladen"
           }
         },
         "be814ee1-dadc-46d9-a79e-6128f77f64d7": {
@@ -131,35 +161,16 @@
             "url": "shopify:\/\/collections\/adventskalender",
             "btn_name": "Adventskalender"
           }
-        },
-        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Advent-Wichteltuer.jpg",
-            "title": "Wichteltürchen",
-            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!<\/p>",
-            "url": "shopify:\/\/collections\/wichtelzauber",
-            "btn_name": "Wichtel einladen"
-          }
-        },
-        "a20d7289-674c-4546-a4f6-6102c2ab22c9": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
-            "title": "Weihnachtsgeschenke Guide",
-            "text": "<p>Bei uns findest du eine Auswahl an sinnvollen Weihnachtsgeschenken. Lass dich inspirieren!<\/p>",
-            "url": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
-            "btn_name": "Inspirieren lassen"
-          }
         }
       },
       "block_order": [
-        "44ff8293-3505-462f-9c87-f9c28c332b83",
         "ddbc2566-4cd1-45cc-82ba-724076b2eb6d",
-        "be814ee1-dadc-46d9-a79e-6128f77f64d7",
-        "b7e797f2-1b5f-4151-a871-182489f8f988",
+        "44ff8293-3505-462f-9c87-f9c28c332b83",
+        "52dfc1bb-e625-41fa-861f-c29664072780",
+        "a20d7289-674c-4546-a4f6-6102c2ab22c9",
         "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8",
-        "a20d7289-674c-4546-a4f6-6102c2ab22c9"
+        "be814ee1-dadc-46d9-a79e-6128f77f64d7",
+        "b7e797f2-1b5f-4151-a871-182489f8f988"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",

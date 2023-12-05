@@ -93,10 +93,11 @@
         "44ff8293-3505-462f-9c87-f9c28c332b83": {
           "type": "item",
           "settings": {
-            "title": "",
-            "text": "",
-            "url": "",
-            "btn_name": "Read more"
+            "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Fridahild-Haarschmuck-Kinder-Haargummi-Haarschmuck-Stoff-1.webp",
+            "title": "Hübsche Mitbringsel",
+            "text": "<p>Es muss nicht immer etwas Grosses sein. Kleine, ausgewählte Mitbringsel machen Freude! Wie wäre es mit wunderhübschen, handgemachten Spängeli?<\/p>",
+            "url": "shopify:\/\/collections\/mitbringsel",
+            "btn_name": "Mitbringsel finden"
           }
         },
         "be814ee1-dadc-46d9-a79e-6128f77f64d7": {

@@ -90,24 +90,13 @@
     "eb12502c-a978-4a64-8794-299bf7d22d27": {
       "type": "section-our",
       "blocks": {
-        "a20d7289-674c-4546-a4f6-6102c2ab22c9": {
+        "44ff8293-3505-462f-9c87-f9c28c332b83": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
-            "title": "Weihnachtsgeschenke Guide",
-            "text": "<p>Bei uns findest du eine Auswahl an sinnvollen Weihnachtsgeschenken. Lass dich inspirieren!<\/p>",
-            "url": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
-            "btn_name": "Inspirieren lassen"
-          }
-        },
-        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Advent-Wichteltuer.jpg",
-            "title": "Wichteltürchen",
-            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!<\/p>",
-            "url": "shopify:\/\/collections\/wichtelzauber",
-            "btn_name": "Wichtel einladen"
+            "title": "",
+            "text": "",
+            "url": "",
+            "btn_name": "Read more"
           }
         },
         "be814ee1-dadc-46d9-a79e-6128f77f64d7": {
@@ -131,17 +120,38 @@
             "url": "shopify:\/\/collections\/adventskalender",
             "btn_name": "Adventskalender"
           }
+        },
+        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Advent-Wichteltuer.jpg",
+            "title": "Wichteltürchen",
+            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!<\/p>",
+            "url": "shopify:\/\/collections\/wichtelzauber",
+            "btn_name": "Wichtel einladen"
+          }
+        },
+        "a20d7289-674c-4546-a4f6-6102c2ab22c9": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
+            "title": "Weihnachtsgeschenke Guide",
+            "text": "<p>Bei uns findest du eine Auswahl an sinnvollen Weihnachtsgeschenken. Lass dich inspirieren!<\/p>",
+            "url": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
+            "btn_name": "Inspirieren lassen"
+          }
         }
       },
       "block_order": [
-        "a20d7289-674c-4546-a4f6-6102c2ab22c9",
-        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8",
+        "44ff8293-3505-462f-9c87-f9c28c332b83",
         "be814ee1-dadc-46d9-a79e-6128f77f64d7",
-        "b7e797f2-1b5f-4151-a871-182489f8f988"
+        "b7e797f2-1b5f-4151-a871-182489f8f988",
+        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8",
+        "a20d7289-674c-4546-a4f6-6102c2ab22c9"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
-        "title": "Für Advent & Weihnachten"
+        "title": "Sinnvolle Geschenkideen"
       }
     },
     "36e0d3e3-5bd7-406a-a6e0-7b82cebec1e4": {

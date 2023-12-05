@@ -77,26 +77,6 @@
     "eb12502c-a978-4a64-8794-299bf7d22d27": {
       "type": "section-our",
       "blocks": {
-        "be814ee1-dadc-46d9-a79e-6128f77f64d7": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
-            "title": "Adventskalender für Paare",
-            "text": "<p>Der Paarzeit Adventskalender ist eine wunderschöne Idee für etwas bewusste Zweisamkeit im Advent. Mit inspirierenden, lustigen, nachdenklichen, romantischen Anregungen für eure Partnerschaft.<\/p>",
-            "url": "shopify:\/\/collections\/paarzeit",
-            "btn_name": "Paarzeit verbringen"
-          }
-        },
-        "b7e797f2-1b5f-4151-a871-182489f8f988": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Advent-Kalender.jpg",
-            "title": "Adventskalender für Kinder",
-            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente? Oder einem Türchen-Kalender ohne Zahlen?<\/p>",
-            "url": "shopify:\/\/collections\/adventskalender",
-            "btn_name": "Adventskalender"
-          }
-        },
         "a20d7289-674c-4546-a4f6-6102c2ab22c9": {
           "type": "item",
           "settings": {
@@ -109,7 +89,6 @@
         },
         "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify:\/\/shop_images\/Infobild-Advent-Wichteltuer.jpg",
             "title": "Wichteltürchen",
@@ -117,13 +96,35 @@
             "url": "shopify:\/\/collections\/wichtelzauber",
             "btn_name": "Wichtel einladen"
           }
+        },
+        "be814ee1-dadc-46d9-a79e-6128f77f64d7": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
+            "title": "Adventskalender für Paare",
+            "text": "<p>Der Paarzeit Adventskalender ist eine wunderschöne Idee für etwas bewusste Zweisamkeit im Advent. Mit inspirierenden, lustigen, nachdenklichen, romantischen Anregungen für eure Partnerschaft.<\/p>",
+            "url": "shopify:\/\/collections\/paarzeit",
+            "btn_name": "Paarzeit verbringen"
+          }
+        },
+        "b7e797f2-1b5f-4151-a871-182489f8f988": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Advent-Kalender.jpg",
+            "title": "Adventskalender für Kinder",
+            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente? Oder einem Türchen-Kalender ohne Zahlen?<\/p>",
+            "url": "shopify:\/\/collections\/adventskalender",
+            "btn_name": "Adventskalender"
+          }
         }
       },
       "block_order": [
-        "be814ee1-dadc-46d9-a79e-6128f77f64d7",
-        "b7e797f2-1b5f-4151-a871-182489f8f988",
         "a20d7289-674c-4546-a4f6-6102c2ab22c9",
-        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8"
+        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8",
+        "be814ee1-dadc-46d9-a79e-6128f77f64d7",
+        "b7e797f2-1b5f-4151-a871-182489f8f988"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",

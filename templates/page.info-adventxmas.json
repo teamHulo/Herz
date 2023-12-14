@@ -90,7 +90,7 @@
         "template--21493636727099__ff75c3af-de87-4d41-ae1b-7391b687b83d-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Zur Podcast-Episode",
             "button_link": "",
             "button_style_secondary": false
           }

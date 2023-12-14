@@ -102,6 +102,7 @@
         "template--21493636727099__ff75c3af-de87-4d41-ae1b-7391b687b83d-button-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Podcast_Logo_2023.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",

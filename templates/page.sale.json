@@ -75,7 +75,7 @@
         "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",

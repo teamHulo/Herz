@@ -299,7 +299,7 @@
         "ab67b6c8-49e9-490a-8a71-a56ef8ca879a": {
           "type": "text",
           "settings": {
-            "text": "Stöbere im grossen Restposten-Sale.",
+            "text": "Stöbere im grossen <strong>Restposten-Sale<\/strong>.",
             "text_style": "body"
           }
         },
@@ -350,10 +350,15 @@
             "text": "<h2>Restposten-Sale<\/h2><p>Mit dem neuen Onlineshop starten wir frisch und mit unseren aktuellen Produkten. Die Restposten aus älteren Kollektionen oder Produkte, die wir aus dem Sortiment nehmen werden - weil es einfach manchmal Platz für Neues braucht - haben wir nicht in den neuen Onlineshop übernommen. Du findest sie noch eine Weile in unserem alten Shop zu Schnäppchenpreisen!<\/p>"
           }
         },
-        "830ad50e-9f15-4abf-91d1-cd704072b91f": {
-          "type": "text",
+        "57daa999-8fd3-441b-8441-73b727a3e256": {
+          "type": "button",
           "settings": {
-            "text": "<h2>Restposten-Sale<\/h2><p>Mit dem neuen Onlineshop starten wir frisch und mit unseren aktuellen Produkten. Die Restposten aus älteren Kollektionen oder Produkte, die wir aus dem Sortiment nehmen werden - weil es einfach manchmal Platz für Neues braucht - haben wir nicht in den neuen Onlineshop übernommen. Du findest sie noch eine Weile in unserem alten Shop zu Schnäppchenpreisen!<\/p>"
+            "button_label": "herzanherz-sale.ch",
+            "button_link": "https:\/\/www.herzanherz-sale.ch",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         },
         "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-button-1": {
@@ -371,7 +376,7 @@
       "block_order": [
         "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-heading-1",
         "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-text-1",
-        "830ad50e-9f15-4abf-91d1-cd704072b91f",
+        "57daa999-8fd3-441b-8441-73b727a3e256",
         "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-button-1"
       ],
       "settings": {

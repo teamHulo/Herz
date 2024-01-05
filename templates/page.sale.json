@@ -122,8 +122,8 @@
         "18d0ef72-81b1-4668-a636-dcd7382f9531": {
           "type": "button",
           "settings": {
-            "button_label": "Zu den Wintersale Accessoires",
-            "button_link": "shopify:\/\/collections\/mutzen-stirnbander",
+            "button_label": "Zu den Wintersale Kleidern",
+            "button_link": "shopify:\/\/collections\/wintersale24-kleider",
             "button_style_secondary": false
           }
         }

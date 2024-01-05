@@ -353,8 +353,8 @@
         "57daa999-8fd3-441b-8441-73b727a3e256": {
           "type": "button",
           "settings": {
-            "button_label": "herzanherz-sale.ch",
-            "button_link": "https:\/\/www.herzanherz-sale.ch",
+            "button_label": "",
+            "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",

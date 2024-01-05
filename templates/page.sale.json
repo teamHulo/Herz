@@ -169,7 +169,7 @@
           "type": "button",
           "settings": {
             "button_label": "Zu den Wintersale Wollsachen",
-            "button_link": "shopify:\/\/collections\/mutzen-stirnbander",
+            "button_link": "shopify:\/\/collections\/wintersale24-wollwalk",
             "button_style_secondary": false
           }
         }
@@ -184,6 +184,52 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "162fda03-8546-44a4-ad4c-b7aaaba0be2b": {
+      "type": "image-with-text",
+      "blocks": {
+        "b6cda377-78ed-4720-b474-d64ba735c4ad": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "739be956-be2c-46c9-befb-d3b0090f338c": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Kinderkleider<\/h2><p>Im Wintersale findest du viele reduzierte Woll-Produkte: Pullis, Hosen, Bodys, Jäckchen und noch vieles mehr von Disana, Manymonths, Minimalisma! Auch ein paar hübsche Bio-Baumwoll-Schnäppchen sind mit dabei.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "2da6ca1f-e66c-4ea8-8886-1fabd5696f22": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Wintersale Kleidern",
+            "button_link": "shopify:\/\/collections\/wintersale24-kleider",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "b6cda377-78ed-4720-b474-d64ba735c4ad",
+        "739be956-be2c-46c9-befb-d3b0090f338c",
+        "2da6ca1f-e66c-4ea8-8886-1fabd5696f22"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Minimalisma-klein.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -350,6 +396,7 @@
     "9cd22424-77c2-4a63-a2df-812fd173aead",
     "d4681154-d470-4d7a-81e5-8a13abbf1abf",
     "ccdef9f6-f225-4c21-95df-0bb73a5ac65d",
+    "162fda03-8546-44a4-ad4c-b7aaaba0be2b",
     "7c953456-54dd-47f3-ad05-3bfdadc9d88f",
     "6742f22c-cbaa-4b6a-aaaf-980509b003a2",
     "e85f1518-7e1b-4e45-a379-09ca75c69fce"

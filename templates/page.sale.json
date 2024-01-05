@@ -21,7 +21,7 @@
         "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-text-1": {
           "type": "text",
           "settings": {
-            "text": "Stöbere im grossen Restposten-Sale.",
+            "text": "Entdecke viele Winter-Schnäppchen",
             "text_style": "body"
           }
         },
@@ -41,6 +41,54 @@
         "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-heading-1",
         "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-text-1",
         "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Winter-Sale-Banner_c7703ffe-bc9d-4a74-a695-b62f816240bf.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "7c953456-54dd-47f3-ad05-3bfdadc9d88f": {
+      "type": "image-banner",
+      "blocks": {
+        "9b649a64-be06-4976-843e-bc1aaee709bd": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "ab67b6c8-49e9-490a-8a71-a56ef8ca879a": {
+          "type": "text",
+          "settings": {
+            "text": "Stöbere im grossen Restposten-Sale.",
+            "text_style": "body"
+          }
+        },
+        "0f34848f-d8c2-415b-af7e-85f6412a1f0e": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "www.herzanherz-sale.ch",
+            "button_link_1": "https:\/\/www.herzanherz-sale.ch",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "9b649a64-be06-4976-843e-bc1aaee709bd",
+        "ab67b6c8-49e9-490a-8a71-a56ef8ca879a",
+        "0f34848f-d8c2-415b-af7e-85f6412a1f0e"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Infobild-Restposten-Sale-Banner.jpg",
@@ -161,6 +209,7 @@
   "order": [
     "main",
     "105c6ba4-0194-41e9-8343-c235fc9e5a4d",
+    "7c953456-54dd-47f3-ad05-3bfdadc9d88f",
     "6742f22c-cbaa-4b6a-aaaf-980509b003a2",
     "e85f1518-7e1b-4e45-a379-09ca75c69fce"
   ]

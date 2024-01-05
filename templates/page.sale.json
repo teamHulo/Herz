@@ -214,8 +214,8 @@
         "2da6ca1f-e66c-4ea8-8886-1fabd5696f22": {
           "type": "button",
           "settings": {
-            "button_label": "Zu den Wintersale Kleidern",
-            "button_link": "shopify:\/\/collections\/wintersale24-kleider",
+            "button_label": "Zu den Wintersale Schuhen",
+            "button_link": "shopify:\/\/collections\/wintersale24-schuhe",
             "button_style_secondary": false
           }
         }
@@ -226,7 +226,7 @@
         "2da6ca1f-e66c-4ea8-8886-1fabd5696f22"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Minimalisma-klein.jpg",
+        "image": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Stonz-Winterschuhe-Baby-Barfussschuhe-Puffer-Boots-hazeblue-S-2_47513_2.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",

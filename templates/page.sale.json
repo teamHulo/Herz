@@ -88,9 +88,56 @@
         "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-button-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d4681154-d470-4d7a-81e5-8a13abbf1abf": {
+      "type": "image-with-text",
+      "blocks": {
+        "493d9fb5-15a9-4b85-ae21-3dadb0a0b2c7": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "d73e6b47-d6ed-46ac-9cf4-288341b84054": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Kinderkleider<\/h2><p>Im Wintersale findest du viele reduzierte Woll-Produkte: Pullis, Hosen, Bodys, Jäckchen und noch vieles mehr von Disana, Manymonths, Minimalisma! Auch ein paar hübsche Bio-Baumwoll-Schnäppchen sind mit dabei.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "18d0ef72-81b1-4668-a636-dcd7382f9531": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Wintersale Accessoires",
+            "button_link": "shopify:\/\/collections\/mutzen-stirnbander",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "493d9fb5-15a9-4b85-ae21-3dadb0a0b2c7",
+        "d73e6b47-d6ed-46ac-9cf4-288341b84054",
+        "18d0ef72-81b1-4668-a636-dcd7382f9531"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -255,6 +302,7 @@
     "main",
     "105c6ba4-0194-41e9-8343-c235fc9e5a4d",
     "9cd22424-77c2-4a63-a2df-812fd173aead",
+    "d4681154-d470-4d7a-81e5-8a13abbf1abf",
     "7c953456-54dd-47f3-ad05-3bfdadc9d88f",
     "6742f22c-cbaa-4b6a-aaaf-980509b003a2",
     "e85f1518-7e1b-4e45-a379-09ca75c69fce"

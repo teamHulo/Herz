@@ -56,6 +56,48 @@
         "show_text_below": true
       }
     },
+    "4a11a08e-176d-4996-8ebb-f52780d76852": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Grosser Winter Sale 2024<\/h1><p>Unser Winter Sale startet am Samstag 6.Januar 2024 um 17.00 Uhr. Mit vielen hochwertigen Winterprodukten zu tollen Preisen. Komm im Laden vorbei oder profitiere direkt hier im Onlineshop.<\/p>"
+          }
+        },
+        "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-heading-1",
+        "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-text-1",
+        "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "9cd22424-77c2-4a63-a2df-812fd173aead": {
       "type": "image-with-text",
       "blocks": {
@@ -432,6 +474,7 @@
   "order": [
     "main",
     "105c6ba4-0194-41e9-8343-c235fc9e5a4d",
+    "4a11a08e-176d-4996-8ebb-f52780d76852",
     "9cd22424-77c2-4a63-a2df-812fd173aead",
     "d4681154-d470-4d7a-81e5-8a13abbf1abf",
     "ccdef9f6-f225-4c21-95df-0bb73a5ac65d",

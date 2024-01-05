@@ -21,14 +21,14 @@
         "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-text-1": {
           "type": "text",
           "settings": {
-            "text": "Entdecke viele Winter-Schnäppchen",
+            "text": "Willkommen beim Winter Sale von Herz an Herz!",
             "text_style": "body"
           }
         },
         "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Zum Wintersale 2024",
+            "button_label_1": "Wintersale 2024",
             "button_link_1": "https:\/\/www.herzanherz-sale.ch",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -54,6 +54,51 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "9cd22424-77c2-4a63-a2df-812fd173aead": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mützen <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "shopify:\/\/collections\/mutzen-stirnbander",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-heading-1",
+        "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-text-1",
+        "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-button-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "7c953456-54dd-47f3-ad05-3bfdadc9d88f": {
@@ -209,6 +254,7 @@
   "order": [
     "main",
     "105c6ba4-0194-41e9-8343-c235fc9e5a4d",
+    "9cd22424-77c2-4a63-a2df-812fd173aead",
     "7c953456-54dd-47f3-ad05-3bfdadc9d88f",
     "6742f22c-cbaa-4b6a-aaaf-980509b003a2",
     "e85f1518-7e1b-4e45-a379-09ca75c69fce"

@@ -302,23 +302,11 @@
             "text": "Stöbere im grossen <strong>Restposten-Sale<\/strong>.",
             "text_style": "body"
           }
-        },
-        "0f34848f-d8c2-415b-af7e-85f6412a1f0e": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "www.herzanherz-sale.ch",
-            "button_link_1": "https:\/\/www.herzanherz-sale.ch",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "9b649a64-be06-4976-843e-bc1aaee709bd",
-        "ab67b6c8-49e9-490a-8a71-a56ef8ca879a",
-        "0f34848f-d8c2-415b-af7e-85f6412a1f0e"
+        "ab67b6c8-49e9-490a-8a71-a56ef8ca879a"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Infobild-Restposten-Sale-Banner.jpg",
@@ -347,7 +335,7 @@
         "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Restposten-Sale<\/h2><p>Mit dem neuen Onlineshop starten wir frisch und mit unseren aktuellen Produkten. Die Restposten aus älteren Kollektionen oder Produkte, die wir aus dem Sortiment nehmen werden - weil es einfach manchmal Platz für Neues braucht - haben wir nicht in den neuen Onlineshop übernommen. Du findest sie noch eine Weile in unserem alten Shop zu Schnäppchenpreisen!<\/p>"
+            "text": "<h2>Restposten-Sale<\/h2><p>Mit diesem neuen Onlineshop starteten wir frisch und mit unseren aktuellen Produkten. Die Restposten aus älteren Kollektionen oder Produkte, die wir aus dem Sortiment nehmen - weil es einfach manchmal Platz für Neues braucht - haben wir nicht in den neuen Onlineshop übernommen. Du findest sie noch eine Weile in unserem alten Online-Shop zu Schnäppchenpreisen! Dort kannst du sie bestellen. Wenn du hier im Shop eine Bestellung machst, kannst du die Produkte aus dem Restposten-Sale zur \"Abholung\" bestellen, damit du nicht doppelt Versandkosten bezahlst. Hinterlasse bitte einen Kommentar bei der Bestellung, dass wir beide Bestellungen zusammenfügen können.<\/p>"
           }
         },
         "57daa999-8fd3-441b-8441-73b727a3e256": {

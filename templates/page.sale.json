@@ -69,14 +69,14 @@
         "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Mützen & Stirnbänder<\/h2><p>Entdecke verschiedene Arten von warmen Wintermützen: Schlupfmützen, Wolle-Seide-Beanies, kuschlige Woll-Fleece-Mützen für Klein und Gross.<\/p>",
+            "text": "<h2>Accessoires<\/h2><p>Entdecke verschiedene warme Wintermützen: Wolle-Seide-Mützen, Woll-Beanies oder kuschlige Woll-Fleece-Mützen für Klein und Gross. Auch die beliebten Loop-Schals, Handschuhe und Hüftwärmer haben es in den Sale geschafft.<\/p>",
             "text_style": "body"
           }
         },
         "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Mützen & Stirnbänder",
+            "button_label": "Zu den Wintersale Accessoires",
             "button_link": "shopify:\/\/collections\/mutzen-stirnbander",
             "button_style_secondary": false
           }

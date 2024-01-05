@@ -21,7 +21,7 @@
         "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-text-1": {
           "type": "text",
           "settings": {
-            "text": "Willkommen beim Winter Sale 2024 von Herz an Herz!",
+            "text": "Willkommen beim <strong>Winter Sale 2024<\/strong> von Herz an Herz!",
             "text_style": "body"
           }
         },
@@ -77,7 +77,7 @@
           "type": "button",
           "settings": {
             "button_label": "Zu den Wintersale Accessoires",
-            "button_link": "shopify:\/\/collections\/mutzen-stirnbander",
+            "button_link": "shopify:\/\/collections\/wintersale24-accessoires",
             "button_style_secondary": false
           }
         }
@@ -134,10 +134,56 @@
         "18d0ef72-81b1-4668-a636-dcd7382f9531"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
+        "image": "shopify:\/\/shop_images\/Minimalisma-klein.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ccdef9f6-f225-4c21-95df-0bb73a5ac65d": {
+      "type": "image-with-text",
+      "blocks": {
+        "bb922f13-04b0-4d46-895d-479b01fd43ea": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "d0538d00-3cbf-44aa-ac0d-900a4b590aed": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Accessoires<\/h2><p>Entdecke verschiedene warme Wintermützen: Wolle-Seide-Mützen, Woll-Beanies oder kuschlige Woll-Fleece-Mützen für Klein und Gross. Auch die beliebten Loop-Schals, Handschuhe und Hüftwärmer haben es in den Sale geschafft.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "cbeb152e-4265-468d-94a3-5761ac1c43fa": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Wintersale Accessoires",
+            "button_link": "shopify:\/\/collections\/mutzen-stirnbander",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "bb922f13-04b0-4d46-895d-479b01fd43ea",
+        "d0538d00-3cbf-44aa-ac0d-900a4b590aed",
+        "cbeb152e-4265-468d-94a3-5761ac1c43fa"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -303,6 +349,7 @@
     "105c6ba4-0194-41e9-8343-c235fc9e5a4d",
     "9cd22424-77c2-4a63-a2df-812fd173aead",
     "d4681154-d470-4d7a-81e5-8a13abbf1abf",
+    "ccdef9f6-f225-4c21-95df-0bb73a5ac65d",
     "7c953456-54dd-47f3-ad05-3bfdadc9d88f",
     "6742f22c-cbaa-4b6a-aaaf-980509b003a2",
     "e85f1518-7e1b-4e45-a379-09ca75c69fce"

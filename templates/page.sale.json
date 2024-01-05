@@ -21,14 +21,14 @@
         "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-text-1": {
           "type": "text",
           "settings": {
-            "text": "Willkommen beim Winter Sale von Herz an Herz!",
+            "text": "Willkommen beim Winter Sale 2024 von Herz an Herz!",
             "text_style": "body"
           }
         },
         "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Wintersale 2024",
+            "button_label_1": "Alle Winter Sale Produkte",
             "button_link_1": "shopify:\/\/collections\/wintersale-24",
             "button_style_secondary_1": false,
             "button_label_2": "",

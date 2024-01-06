@@ -5,7 +5,6 @@
       "blocks": {
         "24910c9d-15a9-4196-9b65-cc074f34c723": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img1": "shopify:\/\/shop_images\/image-left.png",
             "img2": "shopify:\/\/shop_images\/Main_image.png",
@@ -18,11 +17,12 @@
         },
         "bda35f88-36c5-4661-a703-9f1ce55cd109": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify:\/\/shop_images\/Winter-Sale_Wollwalk.jpg",
             "img2": "shopify:\/\/shop_images\/Winter-Sale_Accessoires.jpg",
             "img3": "shopify:\/\/shop_images\/Winter-Sale_Tragejacken.jpg",
-            "title": "Grosser Winter Sale zum Jahresauftakt",
+            "title": "WINTER SALE zum Jahresauftakt",
             "text": "<p>Um das 2024 gebührend einzuläuten, startet ab sofort unser grosser Winter Sale! Gerade rechtzeitig, denn es wird nochmals eisig kalt. Tauche ein in eine Welt voller hochwertiger und funktionaler Winterprodukte für Babys und Kinder und profitiere von attraktiven Rabatten <\/p>",
             "url": "shopify:\/\/collections\/sale",
             "btn_name": ""

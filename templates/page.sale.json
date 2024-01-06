@@ -24,11 +24,23 @@
             "text": "Willkommen beim <strong>Winter Sale 2024<\/strong> von Herz an Herz!",
             "text_style": "body"
           }
+        },
+        "e1bc0a35-42ba-4f41-9f54-7e9660a4ae30": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Alle Sale Produkte",
+            "button_link_1": "shopify:\/\/collections\/wintersale-24",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-heading-1",
-        "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-text-1"
+        "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-text-1",
+        "e1bc0a35-42ba-4f41-9f54-7e9660a4ae30"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Winter-Sale-Banner_c7703ffe-bc9d-4a74-a695-b62f816240bf.jpg",

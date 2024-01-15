@@ -2,7 +2,6 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
@@ -12,49 +11,49 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "blocks": {
-        "b8264581-ac20-4515-aa91-6b8af7ea48da": {
+        "sidebar_pCeFNQ": {
           "type": "sidebar",
           "settings": {
             "menu_item": "new-in"
           }
         },
-        "d1616bd3-477f-4a12-b48c-188ef2803a91": {
+        "sidebar_EyrKQD": {
           "type": "sidebar",
           "settings": {
             "menu_item": "schwangerschaft-geburt"
           }
         },
-        "a2602813-ae99-4597-81b8-a16acaccf8ff": {
+        "sidebar_AXNbkj": {
           "type": "sidebar",
           "settings": {
             "menu_item": "babyzeit"
           }
         },
-        "a95cbe09-bfee-47f9-8a53-63445a8a10c3": {
+        "sidebar_hpK3pk": {
           "type": "sidebar",
           "settings": {
             "menu_item": "kindermode"
           }
         },
-        "91e9bced-451d-4e4b-a20f-a58147e1f0d2": {
+        "sidebar_Yt6mCi": {
           "type": "sidebar",
           "settings": {
             "menu_item": "barfuss-schuhe"
           }
         },
-        "15754c10-e9bb-4333-9419-1151182842a8": {
+        "sidebar_KB9RNm": {
           "type": "sidebar",
           "settings": {
             "menu_item": "familienalltag"
           }
         },
-        "3da67c0b-695d-4503-9093-03dc395f2182": {
+        "sidebar_nHRwri": {
           "type": "sidebar",
           "settings": {
             "menu_item": "frausein"
           }
         },
-        "9cd2ff19-3c62-46e7-a07a-6fb6e9e505aa": {
+        "sidebar_HyVYhz": {
           "type": "sidebar",
           "settings": {
             "menu_item": "geschenke"
@@ -62,18 +61,20 @@
         }
       },
       "block_order": [
-        "b8264581-ac20-4515-aa91-6b8af7ea48da",
-        "d1616bd3-477f-4a12-b48c-188ef2803a91",
-        "a2602813-ae99-4597-81b8-a16acaccf8ff",
-        "a95cbe09-bfee-47f9-8a53-63445a8a10c3",
-        "91e9bced-451d-4e4b-a20f-a58147e1f0d2",
-        "15754c10-e9bb-4333-9419-1151182842a8",
-        "3da67c0b-695d-4503-9093-03dc395f2182",
-        "9cd2ff19-3c62-46e7-a07a-6fb6e9e505aa"
+        "sidebar_pCeFNQ",
+        "sidebar_EyrKQD",
+        "sidebar_AXNbkj",
+        "sidebar_hpK3pk",
+        "sidebar_Yt6mCi",
+        "sidebar_KB9RNm",
+        "sidebar_nHRwri",
+        "sidebar_HyVYhz"
       ],
       "settings": {
-        "products_per_page": 12,
+        "products_per_page": 24,
         "columns_desktop": 3,
+        "sale": true,
+        "sold": false,
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -82,7 +83,7 @@
         "enable_quick_add": false,
         "enable_filtering": true,
         "filter_type": "horizontal",
-        "enable_sorting": true,
+        "enable_sorting": false,
         "columns_mobile": "2",
         "padding_top": 0,
         "padding_bottom": 60

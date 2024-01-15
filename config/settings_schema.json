@@ -1462,22 +1462,22 @@
   },
   {
     "name": "Swatcher url ",
-    "settings":[
+    "settings": [
       {
-        "type":"text",
+        "type": "text",
         "id": "file_swatch_url",
-        "label":"file url swatch",
-        "default":"https://cdn.shopify.com/s/files/1/0837/0719/9803/files/swatch.json?v=1697217553"
+        "label": "file url swatch",
+        "default": "https:\/\/cdn.shopify.com\/s\/files\/1\/0837\/0719\/9803\/files\/swatch.json?v=1697217553"
       }
     ]
   },
   {
     "name": "Filter Vendors",
-    "settings":[
+    "settings": [
       {
-        "type":"text",
+        "type": "text",
         "id": "filter_vendor",
-        "label":"Prefix url"
+        "label": "Prefix url"
       }
     ]
   }

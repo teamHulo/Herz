@@ -2,6 +2,7 @@
 {{ 'component-loading-overlay.css' | asset_url | stylesheet_tag }}
 {{ 'component-card.css' | asset_url | stylesheet_tag }}
 {{ 'component-price.css' | asset_url | stylesheet_tag }}
+{{ 'c-item-menu.css' | asset_url | stylesheet_tag }}
 
 {% if section.settings.image_shape == 'blob' %}
   {{ 'mask-blobs.css' | asset_url | stylesheet_tag }}
@@ -25,8 +26,43 @@
       padding-bottom: {{ section.settings.padding_bottom }}px;
     }
   }
-{%- endstyle -%}
+  @media(max-width: 750px) {
+    .collection-filter.desctop-filter {
+        display: none
+    }
+    .product-grid-wrap {
+      flex: auto;
+    }
+  }
+  .collection {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .desctop-filter {
+    flex: 3;
+  }
+  .product-grid-wrap {
+    flex: 6;
+  }
+  .pagination-wrapper {
+    width: 100%;
+  }
 
+{%- endstyle -%}
+{% assign nav = false %}
+{% for block in section.blocks %}
+  {% if handle == block.settings.menu_item.handle %}
+    {% assign nav = block.settings.menu_item %}
+  {% else %}
+    {% for lk in  block.settings.menu_item.links %}
+      {% if lk.current or lk.child_active %}
+        {% assign nav = block.settings.menu_item %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+<div class="container" style="margin-top: 37px;">{% render 'bread-crump', nav: nav %}</div>
 <div class="section-{{ section.id }}-padding">
   {%- paginate collection.products by section.settings.products_per_page -%}
     {% comment %} Sort is the first tabbable element when filter type is vertical {% endcomment %}
@@ -102,27 +138,10 @@
     {%- endif -%}
 
     <div class="{% if section.settings.filter_type == 'vertical' %} facets-vertical page-width{% endif %}">
-      {{ 'component-facets.css' | asset_url | stylesheet_tag }}
-      <script src="{{ 'facets.js' | asset_url }}" defer="defer"></script>
-      {%- if section.settings.enable_filtering or section.settings.enable_sorting -%}
-        <aside
-          aria-labelledby="verticalTitle"
-          class="facets-wrapper{% unless section.settings.enable_filtering %} facets-wrapper--no-filters{% endunless %}{% if section.settings.filter_type != 'vertical' %} page-width{% endif %}"
-          id="main-collection-filters"
-          data-id="{{ section.id }}"
-        >
-          {% render 'facets',
-            results: collection,
-            enable_filtering: section.settings.enable_filtering,
-            enable_sorting: section.settings.enable_sorting,
-            filter_type: section.settings.filter_type,
-            paginate: paginate
-          %}
-        </aside>
-      {%- endif -%}
+
 
       <div
-        class="product-grid-container{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
+        class="product-grid-container{% if settings.animations_reveal_on_scroll %} scroll-trigger{% endif %}"
         id="ProductGridContainer"
         {% if settings.animations_reveal_on_scroll %}
           data-cascade
@@ -145,32 +164,140 @@
         {%- else -%}
           <div class="collection{% if section.settings.filter_type != 'vertical' %} page-width{% endif %}">
             <div class="loading-overlay gradient"></div>
-
-            <ul data-section-id="{% if section.id %}{{section.id}}{% endif %}" data-sectionId="{% if section.id %}{{section.id}}{% endif %}" {% if section.blocks %}data-blocks='{ {%- capture blocks_json -%}{% for block in section.blocks %}{%- capture block_json -%}"{{ block.type }}":{{ block.settings | json }}{%- endcapture -%}{{ block_json | prepend: ","  }}{% endfor %}{%- endcapture -%}{{ blocks_json | remove_first: "," }} }' {% endif %} data-settings='{% if section.settings %}{{section.settings | json}}{% endif %}' data-globo-filter-items
-              id="product-grid"
-              data-id="{{ section.id }}"
-              class="
-                grid product-grid grid--{{ section.settings.columns_mobile }}-col-tablet-down
-                grid--{{ section.settings.columns_desktop }}-col-desktop
-              "
-            >
-              {%- for product in collection.products -%}
-                {% assign lazy_load = false %}
-                {%- if forloop.index > 2 -%}
-                  {%- assign lazy_load = true -%}
-                {%- endif -%}
-                <li
-                  class="grid__item{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
-                  {% if settings.animations_reveal_on_scroll %}
-                    data-cascade
-                    style="--animation-order: {{ forloop.index }};"
+            <div class="collection-filter desctop-filter">
+              <ul class="menu">
+                {% for block in section.blocks %}
+                  {% assign isActiveItem = false %}
+                  {% if handle == block.settings.menu_item.handle %}
+                    {% assign isActiveItem = true %}
+                  {% else %}
+                    
+                    {% for l in block.settings.menu_item.links %}
+                      {% if l.current or l.child_active %}
+                        {% assign isActiveItem = true %}
+                      {% endif %}
+                    {% endfor %}
                   {% endif %}
-                >
-                {% render 'my-cart-item', section: section, product: product, show_contant: true %}
-                </li>
-              {%- endfor -%}
-            </ul>
+                  <item-menu class="menu-link {% if isActiveItem %}active{% endif %}">
+                    <div class="">
+                      <a href="{{ block.settings.menu_item.handle }}">{{ block.settings.menu_item.title }}</a>
+                      {% if block.settings.menu_item.links.size > 0 %}
+                        <span class="has-children"></span>
+                      {% else %}
+                        <a class="icon-arrow" href="{{ block.settings.menu_item.handle }}"><span class="not-children"></span></a>
+                      {% endif %}
+                    </div>
 
+                    {% if block.settings.menu_item.links.size > 0 %}
+                      <ul class="menu dropdown-child {% if isActiveItem != true %}d-none{% endif %}">
+                      
+
+                        {% for link in block.settings.menu_item.links %}
+                          <item-menu class="menu-link {% if link.child_active or link.current %}active{% endif %}">
+                            <div class="level-1">
+                              <a href="{{ link.url }}">{{ link.title }}</a>
+                              {% if link.links.size > 0 %}
+                                <span class="has-children"></span>
+                              {% else %}
+                                <a href="{{ link.url }}" class="icon-arrow"><span class="not-children"></span></a>
+                              {% endif %}
+                            </div>
+                            
+                            {% if link.links.size > 0 %}
+                              <ul class="menu dropdown-child {% if link.child_active != true %}d-none{% endif %}">
+                                {% for child_link in link.links %}
+                                  <item-menu class="menu-link {% if child_link.child_active or child_link.current %}active{% endif %}">
+                                    <div class="level-2">
+                                      <a href="{{ child_link.url }}">{{ child_link.title }}</a>
+                                      {% if child_link.links.size > 0 %}
+                                        <span class="has-children"></span>
+                                      {% else %}
+                                        <a href="{{ child_link.url }}" class="icon-arrow"><span class="not-children"></span></a>
+                                      {% endif %}
+                                    </div>
+                    
+                                    {% if child_link.links.size > 0 %}
+                                      <ul class="menu dropdown-grandchild {% if child_link.child_active != true %}d-none{% endif %}">
+                                        {% for grandchild_link in child_link.links %}
+                                          <item-menu class="menu-link {% if grandchild_link.current %}active{% endif %}">
+                                            <div class="level-3">
+                                              <a href="{{ grandchild_link.url }}">{{ grandchild_link.title }}</a>
+                                              <a href="{{ grandchild_link.url }}" class="icon-arrow"><span class="not-children"></span></a>
+                                            </div>
+                                          </item-menu>
+                                        {% endfor %}
+                                      </ul>
+                                    {% endif %}
+                                  </item-menu>
+                                {% endfor %}
+                              </ul>
+                            {% endif %}
+                          </item-menu>
+                        {% endfor %}
+                      </ul>
+                    {% endif %}
+                  </item-menu>
+                {% endfor %}
+              </ul>
+            </div>            
+            <div class="product-grid-wrap">
+              <div class="collection-hero__inner scroll-trigger animate--fade-in">
+                <div class="collection-hero__text-wrapper">
+                  <div class="collection-hero__title-wrap">
+                    <h2 class="collection-hero__title">
+                      <span class="visually-hidden">{{ 'sections.collection_template.title' | t }}: </span>
+                      {{- collection.title | escape -}}
+                    </h2>
+                  </div>
+                  {%- if collection.description != blank -%}
+                    <div class=" rte">{{ collection.description }}</div>
+                  {%- endif -%}
+                </div>
+              </div>
+              {{ 'component-facets.css' | asset_url | stylesheet_tag }}
+              <script src="{{ 'facets.js' | asset_url }}" defer="defer"></script>
+              {%- if section.settings.enable_filtering or section.settings.enable_sorting -%}
+                <aside
+                  aria-labelledby="verticalTitle"
+                  class="facets-wrapper{% unless section.settings.enable_filtering %} facets-wrapper--no-filters{% endunless %}"
+                  id="main-collection-filters"
+                  data-id="{{ section.id }}"
+                >
+                  {% render 'facets',
+                    results: collection,
+                    enable_filtering: section.settings.enable_filtering,
+                    enable_sorting: section.settings.enable_sorting,
+                    filter_type: section.settings.filter_type,
+                    paginate: paginate,
+                    nav_array: section.blocks
+                  %}
+                </aside>
+              {%- endif -%}
+              <ul data-section-id="{% if section.id %}{{section.id}}{% endif %}" data-sectionId="{% if section.id %}{{section.id}}{% endif %}" {% if section.blocks %}data-blocks='{ {%- capture blocks_json -%}{% for block in section.blocks %}{%- capture block_json -%}"{{ block.type }}":{{ block.settings | json }}{%- endcapture -%}{{ block_json | prepend: ","  }}{% endfor %}{%- endcapture -%}{{ blocks_json | remove_first: "," }} }' {% endif %} data-settings='{% if section.settings %}{{section.settings | json}}{% endif %}' data-globo-filter-items
+                id="product-grid"
+                data-id="{{ section.id }}"
+                class="
+                  grid product-grid grid--{{ section.settings.columns_mobile }}-col-tablet-down
+                  grid--{{ section.settings.columns_desktop }}-col-desktop
+                "
+              >
+                {%- for product in collection.products -%}
+                  {% assign lazy_load = false %}
+                  {%- if forloop.index > 2 -%}
+                    {%- assign lazy_load = true -%}
+                  {%- endif -%}
+                  <li
+                    class="grid__item{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
+                    {% if settings.animations_reveal_on_scroll %}
+                      data-cascade
+                      style="--animation-order: {{ forloop.index }};"
+                    {% endif %}
+                  >
+                  {% render 'my-cart-item', section: section, product: product, show_contant: true, show_option: true, showButton: false, sale: section.settings.sale, sold: section.settings.sold %}
+                  </li>
+                {%- endfor -%}
+              </ul>
+            </div>
             {%- if paginate.pages > 1 -%}
               {% render 'pagination', paginate: paginate, anchor: '' %}
             {%- endif -%}
@@ -183,7 +310,7 @@
     {% render 'mask-arch' %}
   {%- endif -%}
 </div>
-
+<script src="{{ 'c-item-menu.js' | asset_url }}" defer="defer"></script>
 {% schema %}
 {
   "name": "t:sections.main-collection-product-grid.name",
@@ -210,6 +337,18 @@
     {
       "type": "header",
       "content": "t:sections.main-collection-product-grid.settings.header__3.content"
+    },
+    {
+      "type": "checkbox",
+      "id": "sale",
+      "label": "Show sale label",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "sold",
+      "label": "Show Sold out label",
+      "default": false
     },
     {
       "type": "select",
@@ -378,6 +517,19 @@
       "unit": "px",
       "label": "t:sections.all.padding.padding_bottom",
       "default": 36
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Sidebar item",
+      "type": "sidebar",
+      "settings": [
+        {
+          "type": "link_list",
+          "id": "menu_item",
+          "label": "Collection menu item"
+        }
+      ]
     }
   ]
 }

@@ -8,13 +8,21 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Zu jeder Bestellung erhältst du einen Schatzkisten-Code! ♥️ Öffnet vielleicht DEIN Code die Schatztruhe in unserem Laden in Winterthur?",
+            "text": "❄️ Grosser WINTER SALE bei Herz an Herz ❄️",
+            "link": ""
+          }
+        },
+        "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c"
       ],
       "settings": {
         "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",

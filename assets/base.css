@@ -604,7 +604,7 @@ details > * {
 .underlined-link,
 .customer a,
 .inline-richtext a {
-  text-underline-offset: 0.3rem;
+  /* text-underline-offset: 0.3rem; */
   text-decoration-thickness: 0.1rem;
   transition: text-decoration-thickness ease 100ms;
 }
@@ -1679,10 +1679,10 @@ details[open] > .share-button__fallback {
 .customer .field input:focus-visible,
 .customer select:focus-visible,
 .localization-form__select:focus-visible.localization-form__select:after {
-  box-shadow: 0 0 0 calc(0.1rem + var(--inputs-border-width))
+  /* box-shadow: 0 0 0 calc(0.1rem + var(--inputs-border-width))
     rgba(var(--color-foreground));
   outline: 0;
-  border-radius: var(--inputs-radius);
+  border-radius: var(--inputs-radius); */
 }
 
 .field__input:focus,
@@ -1853,6 +1853,7 @@ input[type="checkbox"] {
 }
 
 .form__message {
+  font-family: sans-serif !important;
   align-items: center;
   display: flex;
   font-size: 1.4rem;
@@ -3351,7 +3352,7 @@ details-disclosure > details {
   .scroll-trigger.scroll-trigger--design-mode .slider,
   .scroll-trigger:not(.scroll-trigger--offscreen).scroll-trigger--cancel {
     opacity: 1;
-    animation: none;
+    /*animation: none;*/
     transition: none;
   }
 

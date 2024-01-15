@@ -445,14 +445,14 @@ class MenuDrawer extends HTMLElement {
     this.closeSubmenu(detailsElement);
   }
 
-  // closeSubmenu(detailsElement) {
-  //   const parentMenuElement = detailsElement.closest('.submenu-open');
-  //   parentMenuElement && parentMenuElement.classList.remove('submenu-open');
-  //   detailsElement.classList.remove('menu-opening');
-  //   detailsElement.querySelector('summary').setAttribute('aria-expanded', false);
-  //   removeTrapFocus(detailsElement.querySelector('summary'));
-  //   this.closeAnimation(detailsElement);
-  // }
+  closeSubmenu(detailsElement) {
+    const parentMenuElement = detailsElement.closest('.submenu-open');
+    parentMenuElement && parentMenuElement.classList.remove('submenu-open');
+    detailsElement.classList.remove('menu-opening');
+    detailsElement.querySelector('summary').setAttribute('aria-expanded', false);
+    removeTrapFocus(detailsElement.querySelector('summary'));
+    this.closeAnimation(detailsElement);
+  }
 
   closeAnimation(detailsElement) {
     let animationStart;

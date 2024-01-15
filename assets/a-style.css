@@ -55,6 +55,7 @@ h6 {
 
 p,
 a,
+li,
 span,
 label,
 input,
@@ -828,6 +829,34 @@ button {
   justify-content: space-between;
   align-items: center;
 }
+.info__wrap .compare-price {
+  color: #969595;
+  text-decoration: line-through;
+}
+.info__wrap .price {
+  color: #d21625 !important;
+  font-weight: 500;
+}
+.product_image-wrap .sale-label {
+  color: #F0F0F0;
+  background: #d21625;
+  position: absolute;
+  left: 5px;
+  padding: 3px 10px;
+  z-index: 9;
+  top: 5px;
+  border-radius: 2px;
+}
+.product_image-wrap .sold-label {
+  color: #F0F0F0;
+  background: #989898;
+  position: absolute;
+  left: 5px;
+  padding: 3px 10px;
+  z-index: 9;
+  top: 5px;
+  border-radius: 2px;
+}
 .my-cart-product .title h3 {
   color: #00281d;
   font-family: Work Sans;
@@ -876,11 +905,12 @@ button {
   opacity: 1;
   visibility: visible;
 }
-.count-option span {
+.count-option span, .count-option a {
   color: var(--light-green---secondary-text, #828071);
   font-family: Work Sans;
   font-size: 12px;
   font-style: normal;
+  text-decoration: none;
   font-weight: 400;
   line-height: 160%; /* 19.2px */
 }
@@ -1162,7 +1192,7 @@ button {
 .footer-block__heading {
   color: var(--green---secondary-text, #545248);
   /* HaH desktop/eyebrow text */
-  font-family: Work Sans;
+  font-family: Work Sans !important;
   font-size: 12px !important;
   font-style: normal;
   font-weight: 400;
@@ -1177,7 +1207,7 @@ button {
 .footer-block__details-content li a {
   color: var(--dark-green---text, #00281d) !important;
   /* HaH desktop/body text */
-  font-family: Work Sans;
+  font-family: Work Sans !important;
   font-size: 16px !important;
   font-style: normal;
   font-weight: 400;
@@ -1226,7 +1256,7 @@ button {
 }
 .footer-contact-info .contact-info a {
   color: var(--dark-green---text, #00281d);
-  font-family: Work Sans;
+  font-family: Work Sans !important;
   font-size: 28px;
   font-style: normal;
   font-weight: 400;
@@ -2344,13 +2374,13 @@ variant-radios fieldset {
   margin: 0;
   padding: 0;
   display: flex;
-  align-items: center;
+  align-items: baseline;
   gap: 6px;
 }
 
 .breadcrumbs__item {
   display: flex;
-  align-items: center;
+  align-items: baseline;
   gap: 6px;
 }
 
@@ -2379,7 +2409,7 @@ variant-radios fieldset {
   font-size: 12.594px;
   font-style: normal;
   font-weight: 400;
-  line-height: 26px; /* 206.452% */
+  line-height: 1;
   text-decoration: none;
 }
 .bread-crumb {
@@ -2625,8 +2655,32 @@ header-menu .mega-menu summary svg {
 
 }
 .header--top-center .mega-menu__list li{
-  width:calc(25% - 50px);
+  width:calc(25% - 38px);
 }
 .header--top-center .mega-menu__list li ul li{
   width:100%;
+}
+
+.option-btn{
+  display: flex;
+  text-decoration: none;
+  padding: 4px 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+  max-width:105px;
+  border: 1px solid #828071;
+  border-radius: 18px;
+  background: var(--beige-01-off-white, #FAF8F3);
+
+}
+.option-btn span{
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--light-green---secondary-text, #828071);
+  font-family: Work Sans;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 19.2px */
 }

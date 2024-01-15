@@ -43,7 +43,7 @@
         <div class="swiper-wrapper">
           {% for product in collection.products %}
             <div class="swiper-slide">
-              {% render 'my-cart-item', section: section ,product: product, show_contant: section.settings.show_contant %}
+              {% render 'my-cart-item', section: section ,product: product, show_contant: section.settings.show_contant, showButton: true %}
             </div>
 
           {% endfor %}

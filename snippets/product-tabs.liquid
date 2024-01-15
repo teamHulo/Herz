@@ -84,204 +84,211 @@ Versand & Rücksendung</li> {% endcomment %}
 </div>
 
 
-<div class="product-tab-mobile">
-  <div class="product-tab-mobile__wrap">
-    <div class="tab-item">
-      <div class="tab-item-wrap">
-        <div class="tab-name">
-          <p>
-            Beschreibung
-            <svg
-            class="open-svg"
-            width="18"
-            height="19"
-            viewBox="0 0 18 19"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg">
-            <path
-              d="M9 1.71582V17.7158M17 9.71582L1 9.71582"
-              stroke="#828071"
-              stroke-width="1.5"
-              stroke-linecap="round"
-              stroke-linejoin="round" />
-          </svg>
-          <svg
-            class="close-svg"
-            width="18"
-            height="3"
-            viewBox="0 0 18 3"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg">
-            <path
-              d="M1 1.71582H17"
-              stroke="black"
-              stroke-width="1.5"
-              stroke-linecap="round"
-              stroke-linejoin="round" />
-          </svg>
-
-          </p>
-        </div>
-        <div class="tab-contant">
-          {{ product.metafields.custom.product_short_description | metafield_tag }}
-        </div>
-      </div>
-    </div>
-    <div class="tab-item">
-      <div class="tab-item-wrap">
-        <div class="tab-name">
-          <p>
-            Spezifikation
-            <svg
-            class="open-svg"
-            width="18"
-            height="19"
-            viewBox="0 0 18 19"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg">
-            <path
-              d="M9 1.71582V17.7158M17 9.71582L1 9.71582"
-              stroke="#828071"
-              stroke-width="1.5"
-              stroke-linecap="round"
-              stroke-linejoin="round" />
-          </svg>
-          <svg
-            class="close-svg"
-            width="18"
-            height="3"
-            viewBox="0 0 18 3"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg">
-            <path
-              d="M1 1.71582H17"
-              stroke="black"
-              stroke-width="1.5"
-              stroke-linecap="round"
-              stroke-linejoin="round" />
-          </svg>
-
-          </p>
-        </div>
-        <div class="tab-contant">
-          {% if  product.metafields.custom.spezifikation_material != blank %}
-            <div class="">
-              <div class="text">
-                <p style="text-align: left !important">
-                  Material:
+ <div class="product-tab-mobile">
+      <div class="product-tab-mobile__wrap">
+        {% if product.metafields.custom.product_short_description != blank %}
+          <div class="tab-item">
+            <div class="tab-item-wrap">
+              <div class="tab-name">
+                <p>
+                  Beschreibung
+                  <svg
+                  class="open-svg"
+                  width="18"
+                  height="19"
+                  viewBox="0 0 18 19"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M9 1.71582V17.7158M17 9.71582L1 9.71582"
+                    stroke="#828071"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round" />
+                </svg>
+                <svg
+                  class="close-svg"
+                  width="18"
+                  height="3"
+                  viewBox="0 0 18 3"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M1 1.71582H17"
+                    stroke="black"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round" />
+                </svg>
+      
                 </p>
               </div>
-              {{ product.metafields.custom.spezifikation_material | metafield_tag }}
+              <div class="tab-contant">
+                {{ product.metafields.custom.product_short_description | metafield_tag }}
+              </div>
             </div>
-          {% endif %}
-          {% if  product.metafields.custom.spezifikation_inhalt != blank %}
-            <div class="">
-              <div class="text">
-                <p style="text-align: left !important">
-                  Inhalt:
+          </div>
+        {% endif%}
+        {% if product.metafields.custom.spezifikation_material != blank or product.metafields.custom.spezifikation_inhalt != blank or product.metafields.custom.spezifikation_passform != blank %}
+          <div class="tab-item">
+            <div class="tab-item-wrap">
+              <div class="tab-name">
+                <p>
+                  Spezifikation
+                  <svg
+                  class="open-svg"
+                  width="18"
+                  height="19"
+                  viewBox="0 0 18 19"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M9 1.71582V17.7158M17 9.71582L1 9.71582"
+                    stroke="#828071"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round" />
+                </svg>
+                <svg
+                  class="close-svg"
+                  width="18"
+                  height="3"
+                  viewBox="0 0 18 3"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M1 1.71582H17"
+                    stroke="black"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round" />
+                </svg>
+      
                 </p>
               </div>
-              {{ product.metafields.custom.spezifikation_inhalt | metafield_tag }}
+              <div class="tab-contant">
+                {% if  product.metafields.custom.spezifikation_material != blank %}
+                  <div class="">
+                    <div class="text">
+                      <p style="text-align: left !important">
+                        Material:
+                      </p>
+                    </div>
+                    {{ product.metafields.custom.spezifikation_material | metafield_tag }}
+                  </div>
+                {% endif %}
+                {% if  product.metafields.custom.spezifikation_inhalt != blank %}
+                  <div class="">
+                    <div class="text">
+                      <p style="text-align: left !important">
+                        Inhalt:
+                      </p>
+                    </div>
+                    {{ product.metafields.custom.spezifikation_inhalt | metafield_tag }}
+                  </div>
+                {% endif  %}
+                {% if  product.metafields.custom.spezifikation_passform != blank%}
+                  <div class="">
+                    <div class="text">
+                      <p style="text-align: left !important">
+                        Passform:
+                      </p>
+                    </div>
+                    {{  product.metafields.custom.spezifikation_passform | metafield_tag }}
+                  </div>
+                {% endif  %}  
+              </div>
             </div>
-          {% endif  %}
-          {% if  product.metafields.custom.spezifikation_passform != blank%}
-            <div class="">
-              <div class="text">
-                <p style="text-align: left !important">
-                  Passform:
+          </div>
+        {% endif %}
+        {% if product.metafields.custom.tab_2 != blank %}
+          <div class="tab-item">
+            <div class="tab-item-wrap">
+              <div class="tab-name">
+                <p>
+                  Pflegehinweise
+                  <svg
+                    class="open-svg"
+                    width="18"
+                    height="19"
+                    viewBox="0 0 18 19"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg">
+                    <path
+                      d="M9 1.71582V17.7158M17 9.71582L1 9.71582"
+                      stroke="#828071"
+                      stroke-width="1.5"
+                      stroke-linecap="round"
+                      stroke-linejoin="round" />
+                  </svg>
+                  <svg
+                    class="close-svg"
+                    width="18"
+                    height="3"
+                    viewBox="0 0 18 3"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg">
+                    <path
+                      d="M1 1.71582H17"
+                      stroke="black"
+                      stroke-width="1.5"
+                      stroke-linecap="round"
+                      stroke-linejoin="round" />
+                  </svg>
+      
                 </p>
               </div>
-              {{  product.metafields.custom.spezifikation_passform | metafield_tag }}
+              <div class="tab-contant">
+                {{ product.metafields.custom.tab_2 | metafield_tag }}
+              </div>
             </div>
-          {% endif  %}  
-        </div>
+          </div>
+        {% endif %}
+        {% if product.metafields.custom.philosophie != blank %}
+          <div class="tab-item">
+            <div class="tab-item-wrap">
+              <div class="tab-name">
+                <p>
+                  <span>
+                      <img src="https://cdn.shopify.com/s/files/1/0837/0719/9803/files/Symbol.png?v=1697587432" alt=""> Philosophie
+                  </span>
+                  
+                  <svg
+                  class="open-svg"
+                  width="18"
+                  height="19"
+                  viewBox="0 0 18 19"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M9 1.71582V17.7158M17 9.71582L1 9.71582"
+                    stroke="#828071"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round" />
+                </svg>
+                <svg
+                  class="close-svg"
+                  width="18"
+                  height="3"
+                  viewBox="0 0 18 3"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M1 1.71582H17"
+                    stroke="black"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round" />
+                </svg>
+      
+                </p>
+              </div>
+              <div class="tab-contant">
+                {{ product.metafields.custom.philosophie | metafield_tag }}
+              </div>
+            </div>
+          </div>
+        {% endif %}
       </div>
     </div>
-
-    <div class="tab-item">
-      <div class="tab-item-wrap">
-        <div class="tab-name">
-          <p>
-            Pflegehinweise
-            <svg
-              class="open-svg"
-              width="18"
-              height="19"
-              viewBox="0 0 18 19"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg">
-              <path
-                d="M9 1.71582V17.7158M17 9.71582L1 9.71582"
-                stroke="#828071"
-                stroke-width="1.5"
-                stroke-linecap="round"
-                stroke-linejoin="round" />
-            </svg>
-            <svg
-              class="close-svg"
-              width="18"
-              height="3"
-              viewBox="0 0 18 3"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg">
-              <path
-                d="M1 1.71582H17"
-                stroke="black"
-                stroke-width="1.5"
-                stroke-linecap="round"
-                stroke-linejoin="round" />
-            </svg>
-
-          </p>
-        </div>
-        <div class="tab-contant">
-          {{ product.metafields.custom.tab_2 | metafield_tag }}
-        </div>
-      </div>
-    </div>
-    <div class="tab-item">
-      <div class="tab-item-wrap">
-        <div class="tab-name">
-          <p>
-            <span>
-                <img src="https://cdn.shopify.com/s/files/1/0837/0719/9803/files/Symbol.png?v=1697587432" alt=""> Philosophie
-            </span>
-            
-            <svg
-            class="open-svg"
-            width="18"
-            height="19"
-            viewBox="0 0 18 19"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg">
-            <path
-              d="M9 1.71582V17.7158M17 9.71582L1 9.71582"
-              stroke="#828071"
-              stroke-width="1.5"
-              stroke-linecap="round"
-              stroke-linejoin="round" />
-          </svg>
-          <svg
-            class="close-svg"
-            width="18"
-            height="3"
-            viewBox="0 0 18 3"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg">
-            <path
-              d="M1 1.71582H17"
-              stroke="black"
-              stroke-width="1.5"
-              stroke-linecap="round"
-              stroke-linejoin="round" />
-          </svg>
-
-          </p>
-        </div>
-        <div class="tab-contant">
-          {{ product.metafields.custom.philosophie | metafield_tag }}
-        </div>
-      </div>
-    </div>
-  </div>
-</div>

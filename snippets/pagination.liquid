@@ -30,14 +30,18 @@
         {%- endif -%}
 
         {%- for part in paginate.parts -%}
-          <li>
+          <li class="pagination-item {% if forloop.last %}last{% endif %}">
             {%- if part.is_link -%}
               <a
                 href="{{ part.url }}{{ anchor }}"
                 class="pagination__item link"
                 aria-label="{{ 'general.pagination.page' | t: number: part.title }}"
               >
+              {% if part.title < 10 %}
+                0{{- part.title -}}
+              {% else %}
                 {{- part.title -}}
+              {% endif %}
               </a>
             {%- else -%}
               {%- if part.title == paginate.current_page -%}
@@ -48,10 +52,14 @@
                   aria-current="page"
                   aria-label="{{ 'general.pagination.page' | t: number: part.title }}"
                 >
+                {% if part.title < 10 %}
+                  0{{- part.title -}}
+                {% else %}
                   {{- part.title -}}
+                {% endif %}
                 </a>
               {%- else -%}
-                <span class="pagination__item">{{ part.title }}</span>
+                <span class="pagination__item">&#8226;&#8226;&#8226;</span>
               {%- endif -%}
             {%- endif -%}
           </li>

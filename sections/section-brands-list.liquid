@@ -38,7 +38,7 @@
                 {% if block.settings.url != blank %}        
                     <div class="title"><a href="{{ block.settings.url }}"><h2>{{ block.settings.title }}</h2></a></div>
                 {% else %}
-                <div class="title"><a href="{{ vendorUrl }}"><h2>{{ block.settings.title }}</h2></a></div>
+                <div class="title"><a href="/collections/vendors?q={{ vendorName }}"><h2>{{ block.settings.title }}</h2></a></div>
                 {% endif %}
                 <div class="text">{{ block.settings.text }}</div>
             </div>

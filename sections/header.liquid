@@ -208,7 +208,8 @@
         if section.settings.menu_type_desktop == 'dropdown'
           render 'header-dropdown-menu'
         elsif section.settings.menu_type_desktop != 'drawer'
-          render 'header-mega-menu'
+          assign imagess = section.blocks | where: 'type', 'image'  
+          render 'header-mega-menu', images: imagess
         endif
       endif
     %}
@@ -327,7 +328,7 @@
         <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="header__icon header__icon--account link focus-inset{% if section.settings.menu != blank %} small-hide{% endif %}">
           {% render 'icon-account' %} 
           {% if customer.has_account %}
-            Account
+            Konto
             {% else %}
             log in
           {% endif %}
@@ -699,6 +700,27 @@
   "blocks": [
     {
       "type": "@app"
+    },
+        {
+      "type": "image",
+      "name": "Megamenu image",
+      "settings": [
+        {
+          "type": "text",
+          "id": "menu_handle",
+          "label": "Menu handle"
+        },
+        {
+          "type": "image_picker",
+          "id": "img",
+          "label": "Image"
+        },
+        {
+          "type": "url",
+          "id": "url",
+          "label": "Url"
+        }
+      ]
     }
   ]
 }

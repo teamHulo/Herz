@@ -333,7 +333,7 @@ fieldset.product-form__input .form__label {
 
 a.product__text {
   display: block;
-  text-decoration: none;
+  /* text-decoration: none; */
   color: rgba(var(--color-foreground), 0.75);
 }
 
@@ -1103,7 +1103,7 @@ a.product__text {
   }
 
   .product__media-wrapper .slider-mobile-gutter .slider-button {
-    display: none;
+    display: none !important;
   }
 
   .thumbnail-list.slider--tablet-up .thumbnail-list__item.slider__slide {

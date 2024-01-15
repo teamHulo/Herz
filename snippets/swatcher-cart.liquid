@@ -22,7 +22,11 @@
               {% if forloop.index0 == 0 %}checked{% endif %}
               {% if option_disabled %}class="disabled"{% endif %}>
             <label class="swatch-color-body" for="{{section.id}}-{{ product.id }}-{{ option.position }}-{{ forloop.index0 }}">
-              <div class="swatch-color-wrap" style="background: url('{{ value | remove: ' '  | append: '.png' | file_url }}') center/150% 150%; "></div>
+              {% assign colorArray = "" %}
+              {% for item in shop.metaobjects.colors.values %}
+                {% assign colorArray = item.farbe %}
+              {% endfor %}
+              <div class="swatch-color-wrap" style="background-color: {{ colorArray.value[value] }}"></div>
             </label>
           </div>
 
@@ -33,6 +37,7 @@
 </div>
 {% if count > 3 %}
   <div class="count-option">
-    <span>+{{ count | minus: 3 }}</span>
+    <!-- <span>+{{ count | minus: 3 }}</span> -->
+    <a href="{{ product.url }}">+{{ count | minus: 3 }}</a>
   </div>
 {% endif %}

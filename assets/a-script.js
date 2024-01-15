@@ -238,60 +238,6 @@ $(() => {
   });
 });
 
-$(() => {
-
-  function loadSwatchColor(){
-    const jsonFileUrl = $("#url_json").val();
-    console.log(jsonFileUrl);
-
-    fetch(jsonFileUrl)
-      .then((response) => response.json())
-      .then((data) => {
-        console.log(data);
-
-        $(".swatch-color").each(function () {
-          let valueColor = $(this).val();
-          let hexColor = data[0][valueColor];
-          if (hexColor != undefined) {
-            console.log($(this).val());
-            $(this).closest(".my-cart-product").addClass("hex");
-            console.log(hexColor);
-            $(this)
-              .closest(".div__wrap-swatcher-item")
-              .find(".swatch-color-wrap")
-              .css("background-color", hexColor);
-          } else {
-            $(this)
-              .closest(".div__wrap-swatcher-item")
-              .find(".swatch-color-wrap")
-              .css("background-color", valueColor);
-          }
-        });
-      })
-      .catch((error) => {
-        console.error("Произошла ошибка при загрузке JSON-файла", error);
-      });
-  }
-
-
-  if ($("#url_json").length != 0) {
-    loadSwatchColor();
-  }
-
-  if($('product-recommendations').length > 0){
-    let findProductRecomendation = setInterval(() => {
-      if($('product-recommendations .grid__item').length > 0){
-        loadSwatchColor();
-        clearInterval(findProductRecomendation);
-      }
-    }, 500);
-  }
-
-
-
-
-
-});
 
 $(() => {
   let valCheck = $(".swatch-color:checked").val();
@@ -471,10 +417,10 @@ $(() => {
       });
   });
 
-  $(document).on("click", ".count-option",function () {
-    console.log('fff');
-    $(this).closest(".my-cart-product").find(".colors").toggleClass("active");
-  });
+  // $(document).on("click", ".count-option",function () {
+  //   console.log('fff');
+  //   $(this).closest(".my-cart-product").find(".colors").toggleClass("active");
+  // });
 });
 
 /********* end **** */

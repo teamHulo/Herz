@@ -181,6 +181,7 @@ class FacetFiltersForm extends HTMLElement {
 
   onSubmitForm(searchParams, event) {
     FacetFiltersForm.renderPage(searchParams, event);
+    document.body.classList.remove('overflow-hidden-mobile');
   }
 
   onSubmitHandler(event) {

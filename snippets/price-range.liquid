@@ -1,0 +1,54 @@
+{{ 'price-range.css' | asset_url | stylesheet_tag }}
+<script src="{{ 'custom-price-range.js' | asset_url }}" defer="defer"></script>
+
+<c-price-range class="card-price-range">
+    {%- if uses_comma_decimals -%}
+        {% assign maxValue = filter.range_max | money_without_currency | replace: '.', '' | replace: ',', '.' %}
+    {%- else -%}
+        {% assign maxValue = filter.range_max | money_without_currency | replace: ',', '' %}
+    {% endif %}
+    <div class="price-content" data-max="{{ maxValue }}">
+        <div>
+            <span class="symbol">{{ symbol }}</span>
+            <p id="min-value">0</p>
+        </div>
+        <div>
+            <span class="symbol">{{ symbol }}</span>
+            <p id="max-value">
+                {{ filter.range_max | money }}
+            </p>
+        </div>
+    </div>
+    <div class="range-slider">
+        <div class="range-fill"></div>      
+        <input
+            type="range"
+            name="{{ filter.min_value.param_name }}"
+            class="min-price"
+            {% if filter.min_value.value %}
+                value="{{ filter.min_value.value | money_without_currency }}"
+            {% else %}
+                value="0"
+            {% endif %}
+            
+
+            min="0"
+            max="{{ maxValue }}"
+            step="1"
+        />
+        <input
+            type="range"
+            name="{{ filter.max_value.param_name }}"
+            class="max-price"
+            {% if filter.max_value.value %}
+                value="{{ filter.max_value.value | money_without_currency }}"
+            {% else %}
+                value="{{ maxValue }}"
+            {% endif %}
+
+            min="0"
+            max="{{ maxValue }}"
+            step="1"
+        />
+    </div>
+</c-price-range>

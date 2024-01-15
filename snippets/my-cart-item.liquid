@@ -1,4 +1,4 @@
-{%  assign  count =  0%} 
+{% assign  count =  0%} 
 {%- for option in product.options_with_values -%}  
   {% if option.name == 'Color' or option.name == 'color' or option.name == 'Farbe' or option.name == 'farbe'%} 
     {%  assign count =  count | plus : 1%}
@@ -17,6 +17,12 @@
         {% endfor %}{% endcomment %}
         {% if product.images.size > 0 %}
             <img  src="{{ product.images[0].src | product_img_url: 'large' }}" alt="{{ product.title }}">
+        {% endif %}
+        {% if product.compare_at_price > product.price and sale %}
+          <span class="sale-label">Sale</span>
+        {% endif %}
+        {% if sold and product.available == false %}
+          <span class="sold-label">Sold out</span>
         {% endif %}
       </div>
     </a>
@@ -39,30 +45,62 @@
       </div>
       <div class="info__wrap">
         <div class="price scroll-trigger animate--slide-in" style="--animation-order: 0;">
+        {% if product.compare_at_price > product.price and sale %}
+          <span class="compare-price">
+            {{ product.compare_at_price | money }}
+          </span>
+          <span class="price">
+            {{ product.price | money }}
+          </span>
+        {% else %}
           <span>
             {{ product.price | money }}
           </span>
+        {% endif %}
         </div>
-        <div class="block-add-btn-wrap scroll-trigger animate--slide-in" style="--animation-order: 0;">
-          {% form 'product', product %}
-            <input
-              type="hidden"
-              class="cart-id-first"
-              value="{{product.first_available_variant.id}}">
-            <button class="add-my-cart">
-              Add to cart
-              <svg
-                width="14"
-                height="8"
-                viewBox="0 0 14 8"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg">
-                <path d="M13.3535 4.35355C13.5488 4.15829 13.5488 3.84171 13.3535 3.64645L10.1716 0.464465C9.9763 0.269203 9.65972 0.269203 9.46446 0.464465C9.2692 0.659728 9.2692 0.97631 9.46446 1.17157L12.2929 4L9.46446 6.82843C9.2692 7.02369 9.2692 7.34027 9.46446 7.53553C9.65972 7.7308 9.9763 7.7308 10.1716 7.53553L13.3535 4.35355ZM0.775238 4.5L13 4.5L13 3.5L0.775238 3.5L0.775238 4.5Z" fill="#828071" />
-              </svg>
-
-            </button>
-          {% endform %}
-        </div>
+        {% if showButton %}
+          <div class="block-add-btn-wrap scroll-trigger animate--slide-in" style="--animation-order: 0;">
+            {% form 'product', product %}
+              <input
+                type="hidden"
+                class="cart-id-first"
+                value="{{product.first_available_variant.id}}">
+              <button class="add-my-cart">
+                {{ 'products.product.add_to_cart' | t }}
+                <svg
+                  width="14"
+                  height="8"
+                  viewBox="0 0 14 8"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <path d="M13.3535 4.35355C13.5488 4.15829 13.5488 3.84171 13.3535 3.64645L10.1716 0.464465C9.9763 0.269203 9.65972 0.269203 9.46446 0.464465C9.2692 0.659728 9.2692 0.97631 9.46446 1.17157L12.2929 4L9.46446 6.82843C9.2692 7.02369 9.2692 7.34027 9.46446 7.53553C9.65972 7.7308 9.9763 7.7308 10.1716 7.53553L13.3535 4.35355ZM0.775238 4.5L13 4.5L13 3.5L0.775238 3.5L0.775238 4.5Z" fill="#828071" />
+                </svg>
+  
+              </button>
+            {% endform %}
+          </div>
+        {% endif %}
+        {% if show_option %}
+          {% assign opt = product.options | size %}
+          {% assign counter = 0 %}
+          {% for option in product.options %}
+            {% assign option_name = option | downcase %}
+            {% if option_name == 'farbe' %}
+                {% assign counter = counter | plus: 1 %}
+            {% elsif option_name == 'größe' or option_name == 'grösse'%}
+              {% assign counter = counter | plus: 1 %}
+            {% endif %}
+          {% endfor %}
+          {% if opt > 2 %}
+             <a href="{{product.url}}" class="option-btn">
+              <span>optionen+</span>
+            </a>
+          {% elsif opt == 2 and counter != 2 %}
+             <a href="{{product.url}}" class="option-btn">
+              <span>optionen+</span>
+            </a>
+          {% endif %}
+        {% endif %}
       </div>
     </div>
   {% endif %}

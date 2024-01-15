@@ -50,15 +50,15 @@
 
 <script>
     let collectionBanner = document.querySelector('.collection-hero');
-    let timer =  setInterval(() => {
-        console.log('Interval')
-        let gfGrid = document.querySelector('#gf-grid');
-        if (gfGrid) {
-            gfGrid.prepend(collectionBanner);
-            collectionBanner.classList.remove('d-none');
-            clearInterval(timer);
-        }
-    }, 100)
+    // let timer =  setInterval(() => {
+    //     console.log('Interval')
+    //     let gfGrid = document.querySelector('#gf-grid');
+    //     if (gfGrid) {
+    //         gfGrid.prepend(collectionBanner);
+    //         collectionBanner.classList.remove('d-none');
+    //         clearInterval(timer);
+    //     }
+    // }, 100)
    
 </script>
 <script>
@@ -93,14 +93,14 @@
     firstLevelParent.classList.remove('is-collapsed');
 
   }
-  var timerToCheckFilter = setInterval(function() {
-  if (document.body.contains(document.getElementById('gf-tree'))) {
-          addActiveFilter();
-          clearInterval(timerToCheckFilter);
-      }else{
-          console.log('?');
-      }
-  }, 500);
+  // var timerToCheckFilter = setInterval(function() {
+  // if (document.body.contains(document.getElementById('gf-tree'))) {
+  //         addActiveFilter();
+  //         clearInterval(timerToCheckFilter);
+  //     }else{
+  //         console.log('?');
+  //     }
+  // }, 500);
 
 </script>
 

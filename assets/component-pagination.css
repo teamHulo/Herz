@@ -17,6 +17,13 @@
 .pagination__list > li {
   flex: 1 0 4.4rem;
   max-width: 4.4rem;
+  position: relative;
+}
+
+.pagination-item:not(.last)::after {
+  content: "\2022";
+  position: absolute;
+  top: 8px;
 }
 
 .pagination__list > li:not(:last-child) {
@@ -35,9 +42,9 @@
   text-decoration: none;
 }
 
-a.pagination__item:hover::after {
+/* a.pagination__item:hover::after {
   height: 0.1rem;
-}
+} */
 
 .pagination__item .icon-caret {
   height: 0.6rem;
@@ -49,14 +56,14 @@ a.pagination__item:hover::after {
 
 .pagination__item--current::after,
 .pagination__item:hover::after {
-  content: '';
+  /* content: '';
   display: block;
   width: 2rem;
   position: absolute;
   bottom: 8px;
   left: 50%;
   transform: translateX(-50%);
-  background-color: currentColor;
+  background-color: currentColor; */
 }
 
 .pagination__item--next .icon {

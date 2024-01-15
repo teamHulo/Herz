@@ -3,15 +3,40 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "67bececa-9c31-424d-a18a-4a49adda00b5": {
+        "bda35f88-36c5-4661-a703-9f1ce55cd109": {
           "type": "item",
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_nutcracker.webp",
-            "img2": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
-            "title": "Geschenke für leuchtende Kinderaugen",
-            "text": "<p>Weihnachten steht wieder vor der Tür, und damit die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.<\/p>",
-            "url": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
-            "btn_name": "Zum Geschenke-Guide"
+            "img1": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Warme_Kopie.jpg",
+            "img2": "shopify:\/\/shop_images\/Winter-Sale.jpg",
+            "img3": "shopify:\/\/shop_images\/Winter-Sale-Prozent.png",
+            "title": "WINTER SALE zum Jahresauftakt",
+            "text": "<p>Um das 2024 gebührend einzuläuten, startet ab sofort unser grosser Winter Sale! Gerade rechtzeitig, denn es wird nochmals eisig kalt. Tauche ein in eine Welt voller hochwertiger und funktionaler Winterprodukte für Babys und Kinder und spare 30% auf tolle Winter-Klassiker.<\/p>",
+            "url": "https:\/\/herzanherz-shop.ch\/collections\/wintersale-24",
+            "btn_name": "Zum Winter Sale"
+          }
+        },
+        "24910c9d-15a9-4196-9b65-cc074f34c723": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/image-left.png",
+            "img2": "shopify:\/\/shop_images\/Main_image.png",
+            "img3": "shopify:\/\/shop_images\/image-rigt.png",
+            "title": "Schwangerschaft & Geburt",
+            "text": "<p>Du bist schwanger? Wir haben alles was du für dich und dein Neugeborenes brauchst. Ob praktische Still- und Umstandsmode, natürliche Pflegeprodukte oder nachhaltige Dinge für die Erstausstattung.<\/p>",
+            "url": "shopify:\/\/pages\/erstausstattung",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
+        "beb1387a-20df-4238-a01b-69c08fe7ba72": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
+            "img2": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
+            "img3": "shopify:\/\/shop_images\/Infobild-Handschuhe.jpg",
+            "title": "Warm durch Herbst & Winter",
+            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.<\/p>",
+            "url": "shopify:\/\/pages\/warm-durch-herbst-winter",
+            "btn_name": "Unsere Tipps"
           }
         },
         "8fc6288d-372e-45df-a8da-4a794678a4f4": {
@@ -27,18 +52,6 @@
             "btn_name": "Mehr zum Thema"
           }
         },
-        "bda35f88-36c5-4661-a703-9f1ce55cd109": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
-            "img2": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
-            "img3": "shopify:\/\/shop_images\/Infobild-Handschuhe.jpg",
-            "title": "Warm durch Herbst & Winter",
-            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.<\/p>",
-            "url": "shopify:\/\/pages\/warm-durch-herbst-winter",
-            "btn_name": "Unsere Tipps"
-          }
-        },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
           "type": "item",
           "settings": {
@@ -51,26 +64,26 @@
             "btn_name": "Mehr zum Thema erfahren"
           }
         },
-        "24910c9d-15a9-4196-9b65-cc074f34c723": {
+        "67bececa-9c31-424d-a18a-4a49adda00b5": {
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify:\/\/shop_images\/image-left.png",
-            "img2": "shopify:\/\/shop_images\/Main_image.png",
-            "img3": "shopify:\/\/shop_images\/image-rigt.png",
-            "title": "Schwangerschaft & Geburt",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
-            "url": "#",
-            "btn_name": "Jetzt einkaufen"
+            "img1": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_nutcracker.webp",
+            "img2": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
+            "title": "Geschenke für leuchtende Kinderaugen",
+            "text": "<p>Weihnachten steht wieder vor der Tür, und damit die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.<\/p>",
+            "url": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
+            "btn_name": "Zum Geschenke-Guide"
           }
         }
       },
       "block_order": [
-        "67bececa-9c31-424d-a18a-4a49adda00b5",
-        "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "bda35f88-36c5-4661-a703-9f1ce55cd109",
+        "24910c9d-15a9-4196-9b65-cc074f34c723",
+        "beb1387a-20df-4238-a01b-69c08fe7ba72",
+        "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
-        "24910c9d-15a9-4196-9b65-cc074f34c723"
+        "67bececa-9c31-424d-a18a-4a49adda00b5"
       ],
       "settings": {
       }
@@ -241,7 +254,7 @@
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Leichte.jpg",
-            "title": "Leichte Umstands- & Tragejacken",
+            "title": "Leichte Umstands-\u2028& Tragejacken",
             "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.<\/p>",
             "url": "shopify:\/\/collections\/leichte-umstands-tragejacken",
             "btn_name": "Jetzt einkaufen"
@@ -309,7 +322,7 @@
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
-        "title": "Für den die kalte Jahreszeit"
+        "title": "Für die kalte Jahreszeit"
       }
     },
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba": {

@@ -1,0 +1,66 @@
+<style>
+      #shopify-section-{{ section.id }} {
+        padding-top: {{ section.settings.padding_top }}px;
+        padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+</style>
+{% assign dazuCollectionTag = null %}
+{% for tag in product.tags %}
+  {% if tag contains 'Dazu passt Collection' %}
+    {% assign dazuCollectionTag = tag | replace: 'Dazu passt Collection:', '' | handle %}
+  {% endif %}
+{% endfor %}
+{% assign dazuCollection = collections[dazuCollectionTag] %}
+
+{% if dazuCollectionTag != null and dazuCollection.products.size > 0 %}
+  <div class="section-dazu-collection container">
+    <h2 style="margin-top: 0;">{{ section.settings.title }}</h2>
+    <div class="swiper list-products-swiper-2">
+      <div class="swiper-wrapper" style="height: 100%">
+        {% for product in dazuCollection.products %}
+          <div class="swiper-slide" style="height: auto;">
+            {% render 'my-cart-item', section: section, product: product, show_contant: section.settings.show_contant, showButton: false %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+{% endif %}
+
+{% schema %}
+  {
+    "name": "Dazu passt",
+    "settings": [
+      {
+        "type": "range",
+        "id": "padding_top",
+        "label": "Paddind top",
+        "min": 0,
+        "max": 200,
+        "step": 2,
+        "unit": "px",
+        "default": 60
+      },
+      {
+        "type": "range",
+        "id": "padding_bottom",
+        "label": "Paddind bottom",
+        "min": 0,
+        "max": 200,
+        "step": 2,
+        "unit": "px",
+        "default": 60
+      },
+      {
+        "type": "text",
+        "id": "title",
+        "label": "title"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Dazu passt"
+      }
+    ]
+  }
+{% endschema %}

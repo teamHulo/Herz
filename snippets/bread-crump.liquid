@@ -17,9 +17,61 @@
             {{ collection.title | link_to: collection.url }}
           </li>
         {%- endif -%}
-        <li class="breadcrumbs__item">
+        {% comment %} <li class="breadcrumbs__item">
           <a class="breadcrumbs__link {% if t == 'product' %}current-page{% endif %}" href="{{ product.url }}" aria-current="page">{{ product.title }}</a>
-        </li>
+        </li> {% endcomment %}
+        {% if nav != blank %}
+          <li class="breadcrumbs__item">
+            <a class="breadcrumbs__link" data-nn href="/collections/{{ nav.title | handle }}" aria-current="page">{{ nav.title }}</a>
+          </li>
+          {% assign should_break = false %}
+          {% for link in nav.links %}
+            {% for col in product.collections %}
+              {% if col.handle == link.handle %}
+                <li class="breadcrumbs__item">
+                  <a class="breadcrumbs__link" href="{{ link.url }}" aria-current="page">{{ link.title }}</a>
+                </li>
+                {% for child_link in link.links %}
+                  {% for col in product.collections %}
+                    {% if col.handle == child_link.handle %}
+                      <li class="breadcrumbs__item">
+                        <a class="breadcrumbs__link" href="{{ child_link.url }}" aria-current="page">{{ child_link.title }}</a>
+                      </li>
+                      {% for grandchild_link in child_link.links %}
+                        {% for col in product.collections %}
+                          {% if col.handle == grandchild_link.handle %}
+                            <li class="breadcrumbs__item">
+                              <a class="breadcrumbs__link" href="{{ grandchild_link.url }}" aria-current="page">{{ grandchild_link.title }}</a>
+                            </li>
+                            {% break %}
+                          {% endif %}
+                        {% endfor %}
+                      {% if should_break %}
+                        {% break %}
+                      {% endif %}
+                      {% endfor %}
+                    {% assign should_break = true %}
+                    {% endif %}
+                  {% endfor %}
+                {% if should_break %}
+                  {% break %}
+                {% endif %}
+                {% endfor %}
+              {% assign should_break = true %}
+              {% endif %}
+            {% endfor %}
+          {% if should_break %}
+            {% break %}
+          {% endif %}
+          {% endfor %}
+        {% else %}
+          <li class="breadcrumbs__item">
+            <a class="breadcrumbs__link {% if t == 'product' %}current-page{% endif %}" href="{{ product.url }}" aria-current="page">{{ product.title }}</a>
+          </li>
+        {% endif %}
+
+
+
       {%- when 'collection' and collection.handle -%}
         {%- if current_tags -%}
           <li class="breadcrumbs__item">

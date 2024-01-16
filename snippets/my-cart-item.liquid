@@ -18,10 +18,10 @@
         {% if product.images.size > 0 %}
             <img  src="{{ product.images[0].src | product_img_url: 'large' }}" alt="{{ product.title }}">
         {% endif %}
-        {% if product.compare_at_price > product.price and sale %}
+        {% if product.compare_at_price > product.price %}
           <span class="sale-label">Sale</span>
         {% endif %}
-        {% if sold and product.available == false %}
+        {% if product.available == false %}
           <span class="sold-label">Sold out</span>
         {% endif %}
       </div>

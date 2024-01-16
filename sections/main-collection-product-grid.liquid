@@ -293,7 +293,7 @@
                       style="--animation-order: {{ forloop.index }};"
                     {% endif %}
                   >
-                  {% render 'my-cart-item', section: section, product: product, show_contant: true, show_option: true, showButton: false, sale: section.settings.sale, sold: section.settings.sold %}
+                  {% render 'my-cart-item', section: section, product: product, show_contant: true, show_option: true, showButton: false %}
                   </li>
                 {%- endfor -%}
               </ul>
@@ -337,18 +337,6 @@
     {
       "type": "header",
       "content": "t:sections.main-collection-product-grid.settings.header__3.content"
-    },
-    {
-      "type": "checkbox",
-      "id": "sale",
-      "label": "Show sale label",
-      "default": true
-    },
-    {
-      "type": "checkbox",
-      "id": "sold",
-      "label": "Show Sold out label",
-      "default": false
     },
     {
       "type": "select",

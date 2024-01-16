@@ -62,8 +62,26 @@
   {%- endif -%}
 
   {% assign variant_images = product.images | where: 'attached_to_variant?', true | map: 'src' %}
+  {% assign currentNav = null %}
+  {% assign should_break = false %}
+  {% for block in section.blocks %}
+    {% if block.type == 'nav' %}
+      {% for link in block.settings.menu_item.links %}
+        {% for coll in product.collections %}
+          {% if coll.handle == link.handle %}
+            {% assign currentNav = block.settings.menu_item %}
+            {% assign should_break = true %}
+          {% endif %}
+        {% endfor %}
+        {% if should_break %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+
   <div class="bread-crumb">
-      {% render 'bread-crump' %}
+      {% render 'bread-crump', nav: currentNav %}
   </div>
   <div class="product product--{{ section.settings.media_size }} product--{{ section.settings.media_position }} product--{{ section.settings.gallery_layout }} product--mobile-{{ section.settings.mobile_thumbnails }} grid grid--1-col {% if product.media.size > 0 %}grid--2-col-tablet{% else %}product--no-media{% endif %}">
     <div class="grid__item product__media-wrapper{% if section.settings.media_position == 'right' %} medium-hide large-up-hide{% endif %}">
@@ -712,6 +730,17 @@
   "blocks": [
     {
       "type": "@app"
+    },
+    {
+      "name": "Navigations",
+      "type": "nav",
+      "settings": [
+        {
+          "type": "link_list",
+          "id": "menu_item",
+          "label": "Collection menu item"
+        }
+      ]
     },
     {
       "type":"tabs",

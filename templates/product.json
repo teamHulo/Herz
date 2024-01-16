@@ -66,6 +66,54 @@
           "type": "tabs",
           "settings": {
           }
+        },
+        "nav_BrRQe7": {
+          "type": "nav",
+          "settings": {
+            "menu_item": "new-in"
+          }
+        },
+        "nav_VqarbQ": {
+          "type": "nav",
+          "settings": {
+            "menu_item": "schwangerschaft-geburt"
+          }
+        },
+        "nav_DRkYw6": {
+          "type": "nav",
+          "settings": {
+            "menu_item": "babyzeit"
+          }
+        },
+        "nav_JCRbY9": {
+          "type": "nav",
+          "settings": {
+            "menu_item": "kindermode"
+          }
+        },
+        "nav_FhnTTN": {
+          "type": "nav",
+          "settings": {
+            "menu_item": "barfuss-schuhe"
+          }
+        },
+        "nav_bDfLWj": {
+          "type": "nav",
+          "settings": {
+            "menu_item": "familienalltag"
+          }
+        },
+        "nav_DBpGjb": {
+          "type": "nav",
+          "settings": {
+            "menu_item": "frausein"
+          }
+        },
+        "nav_9VKPPU": {
+          "type": "nav",
+          "settings": {
+            "menu_item": "geschenke"
+          }
         }
       },
       "block_order": [
@@ -79,7 +127,15 @@
         "quantity_selector",
         "buy_buttons",
         "bd04fabe-6622-49d9-81a5-be72d3d085f4",
-        "df3b24f0-414c-4bcf-8546-3ca7b22f0573"
+        "df3b24f0-414c-4bcf-8546-3ca7b22f0573",
+        "nav_BrRQe7",
+        "nav_VqarbQ",
+        "nav_DRkYw6",
+        "nav_JCRbY9",
+        "nav_FhnTTN",
+        "nav_bDfLWj",
+        "nav_DBpGjb",
+        "nav_9VKPPU"
       ],
       "settings": {
         "enable_sticky_info": true,

@@ -28,10 +28,19 @@
             "text": "<h4>Wie begleite ich mein Kind wenn es krank ist?<\/h4><p>Wenn kleine Kinder erkältet sind, fiebern und husten, ist das für Eltern oft schlimm mitanzusehen. Doch bei Fieber gleich zu Fieberzäpfchen und bei jeder Erkältung zu Algifor greifen? Hier erfährst du, warum du deinem Kind damit langfristig mehr schadest als hilfst - und welche sanften Möglichkeiten die Naturheilkunde zu bieten hat.<\/p>",
             "text_style": "body"
           }
+        },
+        "button_CNE7K7": {
+          "type": "button",
+          "settings": {
+            "button_label": "Direkt zu den Produkten",
+            "button_link": "shopify:\/\/collections\/babygesundheit",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
-        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
+        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1",
+        "button_CNE7K7"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/info-erkaeltung-kind_Klein.jpg",
@@ -131,22 +140,10 @@
           "settings": {
             "text": "<h2>Unterstützung bei Husten<\/h2><p><strong>Bienenwachswickel<\/strong>: Die Wärme des <a href=\"\/products\/homedi-kind-bienenwachswickel-brustfleck\" target=\"_blank\" title=\"Bienenwachswickel BRUSTFLECK\">Bienenwachswickels<\/a> ist unterstützend bei Husten, Erkältungen und auch bei Bauchschmerzen. Die Wachsplatte wird zwischen zwei Wärmeflaschen oder mit einem Fön erwärmt und dann auf die Brust aufgelegt. Dort lässt du sie am besten über ein, zwei oder mehr Stunden, damit die Wärme tief in den Körper und in die oberen Muskelschichten eindringen kann. In Wechselwirkung mit der eigenen Körperwärme entsteht so eine tiefe und langanhaltende Wärme. Der sanfte Reiz wirkt durchblutungsfördernd, schleimlösend, reizlindernd und entspannend zugleich. Bedecke die Platte für eine noch längere Wirkung mit <a href=\"\/products\/eindufterladen-heilwolle\" target=\"_blank\" title=\"Heilwolle \/ Schafwolle\">Heilwolle<\/a> und ziehe dann z.B. einen Body drüber, damit alles an Ort und Stelle bleibt.<\/p><p>Herz an Herz Tipp: Die Ecken der Bienenwachsplatten für Babys und Kinder abrunden, damit es sich noch angenehmer auf der Haut anfühlt.<\/p><p><strong>Thymian-Myrte-Balsam<\/strong>: Der bekannte <a href=\"\/products\/homedi-kind-thymian-myrte-balsam\" target=\"_blank\" title=\"Thymian-Myrte Balsam\">Thymian-Myrte-Balsam<\/a> besteht aus einer milden Aromamischung extra für Kinder, die gut tut bei Husten.<\/p><p>Bei Erkältungen ist der Thymian Balsam das erste was bei uns zuhause in Aktion tritt. Der feine Duft wirkt sofort beruhigend und verbunden mit einer schönen Rücken- und Fussmassage ist er eine absolute Wohltat. Unsere Kinder lieben es damit eingerieben zu werden!<\/p><p>Herz an Herz Tipp 1: 1 EL Balsam gemischt mit 1 EL Bio-Honig ergibt ein wohltuendes Baby-Erkältungsbad. Danach sollte dein Kind eine Schlafpause einlegen.<\/p><p>Herz an Herz Tipp 2: Der Effekt wird in Kombination mit einem Bienenwachswickel noch erhöht. Zuerst das Kind mit dem Balsam einreiben und nach ein paar Minuten den erwärmten Wickel auflegen.<\/p><p><strong>Natürlicher Hustensirup:<\/strong> Wenn du lieber einen klassischen <a href=\"\/products\/sana-cura-hustensirup\" target=\"_blank\" title=\"Hustensirup für Kinder und Erwachsene\">Hustensirup<\/a> verwenden möchtest,  ist der natürliche Hustensirup von SanaCura etwas für dich. Er besteht aus lauter natürlichen Inhaltsstoffen wie Manuka-Honig, biologischem Blütenhonig, Wegerich-, Grindelia- und Strohblumenextrakt und hat einen angenehmen Geschmack. Das Tolle daran: Er ist für die ganze Familie geeignet - für Erwachsene genauso wie für Kinder.<br\/><\/p>"
           }
-        },
-        "button_Hhk4PX": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "text_YaWGzm",
-        "button_Hhk4PX"
+        "text_YaWGzm"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -157,42 +154,26 @@
         "padding_bottom": 52
       }
     },
-    "9f2d927d-daf8-4fcf-aceb-a840a11d7b82": {
-      "type": "image-with-text",
+    "rich_text_dzHPcn": {
+      "type": "rich-text",
       "blocks": {
-        "5c670314-e4f2-497c-a210-812f13bbf66b": {
+        "text_8yk6px": {
           "type": "text",
           "settings": {
-            "text": "<h3>Handschuhe<\/h3><p>Für Babys und kleine Kinder sind Fäustlinge aus Wollwalk bestens geeignet. Sie sind leicht und bequem, warm und wasserabweisend. Bei kleinen Kindern sorgt eine Kordel dafür, dass die Handschuhe nicht verloren gehen. Für ältere Kinder, die in Schnee und Kälte spielen, eignen sich auch dick gefütterte, wasserdichte Handschuhe mit längerem Schaft.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "fbbbd352-9a4f-49a2-be70-e82c0f9155bd": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zu den Handschuhen",
-            "button_link": "shopify:\/\/collections\/stulpen-pulswarmer",
-            "button_style_secondary": false
+            "text": "<h2>Unterstützung bei Schnupfen<\/h2><p><strong>Allgemeiner Herz an Herz Tipp<\/strong>: Für die Nacht kannst du die Matratze des Babybetts etwas hochlagern, indem Du zum Beispiel ein zusammengerolltes Handtuch unter das Kopfende der Matratze legst. Dadurch liegt der Oberkörper deines Babys etwas höher und der Schleim kann besser abfliessen. Feuchte Tücher auf der Heizung sorgen zudem für ausreichend Luftfeuchtigkeit.<\/p><p><\/p><p><strong>Engelwurz-Balsam<\/strong>: Schon im Mittelalter galt Engelwurz als Allheilmittel. Die Heilkraft steckt vor allem in den Wurzeln, aus denen das wohltuende Öl gewonnen wird. Der beliebt Engelwurzbalsam hilft grossen und kleinen Schnupfnasen. Er löst Schleim und bringt die Nase zum Fliessen.<\/p><p>Die Nasengänge von Babys sind noch sehr eng. Daher staut sich bei ihnen das Sekret besonders schnell in der kleinen Nase, das Atmen und vor allem das Trinken fällt schwer. Engelwurzbalsam ist dann genau das Richtige. Für Neugeborene einfach ein Nuschi oder Tüchlein mit dem Balsam bestreichen und neben Babys Schlafplatz hängen. Bei Säuglingen kannst du den Balsam auf die Fuss-Sohlen oder an die Nasenflügel streichen. Bei älteren Kindern darf der Balsam auch auf die Oberlippe und die Naseneingänge, damit er zusätzlich inhaliert wird.<\/p><p>Herz an Herz Tipp: Für die Nacht kannst du die Matratze des Babybetts etwas hochlagern, indem Du zum Beispiel ein zusammengerolltes Handtuch unter das Kopfende der Matratze legst. Dadurch liegt der Oberkörper deines Babys etwas höher und der Schleim kann besser abfliessen. Feuchte Tücher auf der Heizung sorgen zudem für ausreichend Luftfeuchtigkeit.<\/p><p><\/p>"
           }
         }
       },
       "block_order": [
-        "5c670314-e4f2-497c-a210-812f13bbf66b",
-        "fbbbd352-9a4f-49a2-be70-e82c0f9155bd"
+        "text_8yk6px"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Handschuhe.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
+        "desktop_content_position": "center",
+        "content_alignment": "left",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "de7f5108-2c92-404d-8671-8437b9ae096a": {
@@ -252,7 +233,7 @@
     "image_with_text_fdXXzt",
     "image_banner_ftRVhe",
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
-    "9f2d927d-daf8-4fcf-aceb-a840a11d7b82",
+    "rich_text_dzHPcn",
     "de7f5108-2c92-404d-8671-8437b9ae096a",
     "66cf2c2d-098b-49ab-93be-9ca360db9db4"
   ]

@@ -107,18 +107,46 @@
         "padding_bottom": 36
       }
     },
+    "image_banner_ftRVhe": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "6b097b85-0abe-47cb-8728-a6b07bd3d882": {
       "type": "rich-text",
       "blocks": {
-        "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1": {
+        "text_YaWGzm": {
           "type": "text",
           "settings": {
-            "text": "<h2>Produkt-Empfehlungen für die Erkältungszeit<\/h2><p>Eingriffe in die körpereigene Abwehr durch Medikamente sind oft nicht nötig und langfristig eher kontraproduktiv, da sie das Immunsystem um wichtige Lernerfahrungen bringen. Dennoch musst du nicht tatenlos zuschauen, wenn es deinem Kind nicht gut geht. Die Naturheilkunde hält viele Möglichkeiten bereit, bei Erkältung und Krankheit sanft zu helfen.<\/p>"
+            "text": "<h2>Wickel & Co<\/h2><p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "button_Hhk4PX": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1"
+        "text_YaWGzm",
+        "button_Hhk4PX"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -127,120 +155,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Wickel<\/h3><p>Je nach Temperatur eignen sich leichte oder dickere Mützen aus Wolle\/Seide, Wollstrick oder Wollwalk. Wir lieben auch Schlupfmützen: Sie wärmen den Hals gleich mit. Das ist beim Tragen des Babys nützlich, wo ein Halstuch schwieriger ist. Auch wenn es auf dem Rücken getragen wird und eine Tragejacke drübergezogen wird, verrutscht die Schlupfmütze nicht.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zu den Mützen",
-            "button_link": "shopify:\/\/collections\/mutzen-stirnbander",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1",
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "b3fa52d2-f2d9-4105-abf3-5171c37af62b": {
-      "type": "image-with-text",
-      "blocks": {
-        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Schals<\/h3><p>Klassische Schals zum Binden sind für Kinder wniger geeignet, sie sitzen zu eng, zu locker oder gehen verloren. Wir empfehlen Schlauchschals aus leichter Wolle\/Seide. Sie kratzen auch empfindliche Kinder nicht. Ebenfalls praktisch ist der Dickie von Manymonths, der den gesamten Hals- und Brustbereich wärmt. Für ältere Kinder sind auch dickere, kuschlig warme Loops aus Wolle ideal.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1213e182-6420-4dc6-b2ba-8a8ad1072c57": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zu den Schals",
-            "button_link": "shopify:\/\/collections\/schals-loops",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98",
-        "1213e182-6420-4dc6-b2ba-8a8ad1072c57"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Schals.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e0647214-9936-4525-a517-be4c05c8b5c3": {
-      "type": "image-with-text",
-      "blocks": {
-        "b12b4506-8983-44eb-b9db-3fcbb5c56894": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Stulpen & Pulswärmer<\/h3><p>Unser Lieblings-Accessoire: Stulpen und Pulswärmer bieten eine flexible Extraportion Wärme. Sie sind schnell an- oder ausgezogen und wärmen Handgelenk, Arme oder Beine. Das ist für Trage-Babys super, da sie an- und ausgezogen werden können, ohne das Kind aus der Tragehilfe zu nehmen. Extra-Tipp: Beinstulpen für Babys passen Kindern und Erwachsenen an den Armen!<\/p>",
-            "text_style": "body"
-          }
-        },
-        "ac69770f-93af-4ffa-8278-7abd004dc300": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zu den Stulpen",
-            "button_link": "shopify:\/\/collections\/stulpen-pulswarmer",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "b12b4506-8983-44eb-b9db-3fcbb5c56894",
-        "ac69770f-93af-4ffa-8278-7abd004dc300"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Stulpen.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "9f2d927d-daf8-4fcf-aceb-a840a11d7b82": {
@@ -336,10 +250,8 @@
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "image_with_text_fdXXzt",
+    "image_banner_ftRVhe",
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
-    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
-    "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
-    "e0647214-9936-4525-a517-be4c05c8b5c3",
     "9f2d927d-daf8-4fcf-aceb-a840a11d7b82",
     "de7f5108-2c92-404d-8671-8437b9ae096a",
     "66cf2c2d-098b-49ab-93be-9ca360db9db4"

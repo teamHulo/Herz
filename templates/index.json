@@ -39,6 +39,18 @@
             "btn_name": "Unsere Tipps"
           }
         },
+        "item_zabzeK": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
+            "img2": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
+            "img3": "shopify:\/\/shop_images\/Infobild-Handschuhe.jpg",
+            "title": "Warm durch Herbst & Winter",
+            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.<\/p>",
+            "url": "shopify:\/\/pages\/warm-durch-herbst-winter",
+            "btn_name": "Unsere Tipps"
+          }
+        },
         "8fc6288d-372e-45df-a8da-4a794678a4f4": {
           "type": "item",
           "disabled": true,
@@ -81,6 +93,7 @@
         "bda35f88-36c5-4661-a703-9f1ce55cd109",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
+        "item_zabzeK",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "67bececa-9c31-424d-a18a-4a49adda00b5"

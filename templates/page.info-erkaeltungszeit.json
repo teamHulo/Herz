@@ -182,7 +182,7 @@
         "e27274ae-5ee3-4d54-9e4d-130cb04651b7": {
           "type": "text",
           "settings": {
-            "text": "<h2>Du willst mehr wissen?<\/h2><p>Wenn du noch mehr Informationen über Kinderheilkunde und natürliche Begleitung bei Krankheit und Erkältungen erhalten willst, findest du bei uns Bücher zum Thema. Und unsere spannende Podcast-Folge mit Naturheilpraktikerin Nadja Röthlisberger zum Thema Kinderheilkunde legen wir dir ebenfalls wärmstens ans Herz.<\/p>"
+            "text": "<h2>Du willst mehr wissen?<\/h2><p>Wenn du noch mehr Informationen über Kinderheilkunde und natürliche Begleitung bei Krankheit und Erkältungen erhalten willst, findest du bei uns <a href=\"\/collections\/bucher-zur-kinderheilkunde\" target=\"_blank\" title=\"Bücher zur Kinderheilkunde\">Bücher<\/a> zum Thema. Und unsere spannende <a href=\"https:\/\/handufsherz.podigee.io\/15-episode-15\" target=\"_blank\" title=\"https:\/\/handufsherz.podigee.io\/15-episode-15\">Podcast-Folge<\/a> mit Naturheilpraktikerin Nadja Röthlisberger zum Thema Kinderheilkunde legen wir dir ebenfalls wärmstens ans Herz.<\/p>"
           }
         }
       },

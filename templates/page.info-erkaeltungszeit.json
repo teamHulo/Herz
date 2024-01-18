@@ -86,20 +86,11 @@
             "text": "<h2>Mama-Trick bei Fieber<\/h2><p>Dass Körperkontakt wichtig für die Entwicklung eines Kindes ist, dürfte kein Geheimnis mehr sein. Aber hast du das gewusst: Allen Mamas hat die Natur eine ziemlich tolle Superkraft mitgegeben! Du kannst die Temperatur deines eigenen Babys oder Kleinkindes mit deinem Körper um bis zu 2 Grad regulieren. Mach dir das zunutze wenn dein Kind fiebert: Lege es dir nackt auf deine ebenfalls nackte Haut, damit die Temperatur sanft und auf natürliche Weise sinkt. Sonst braucht es nicht viel bei Fieber: Nähe, Körperkontakt, Schlaf & viel Trinken!<\/p>",
             "text_style": "body"
           }
-        },
-        "button_kdHJfA": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_GHNANM",
-        "text_cp8R7w",
-        "button_kdHJfA"
+        "text_cp8R7w"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/info-fieber-begleiten.jpg",

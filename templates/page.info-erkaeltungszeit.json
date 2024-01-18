@@ -54,7 +54,7 @@
         "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
           "type": "text",
           "settings": {
-            "text": "<h2>Allgemeine Tipps zur richtigen Kleidung<\/h2><p><strong>Jedes Kind ist anders.<\/strong> Was deine Nachbarin ihrem Baby anzieht, muss für dein Baby nicht automatisch das Richtige sein. Und wenn wir selber kalt oder heiss haben, muss das nicht für unser Kind gelten. Es gibt hitzige Kinder und solche, die schneller frieren.<\/p><p><strong>Fühle die Temperatur am Nacken. <\/strong>Fühle im Halsausschnitt, ob die Haut kalt, angenehm warm oder eher schwitzig ist. Babys haben schnell mal kühle Hände oder Füsse. Das bedeutet nicht, dass das Baby zu kalt hat, sondern dass sein Körper richtig auf Kälte reagiert und die inneren Organe warm hält. Sind die Extremitäten marmoriert, hat das Kind aber zu kalt.<\/p><p><strong>Eltern wärmen das Baby.<\/strong> Die Natur hat vorgesehen, dass Babys ihre ersten Monate hauptsächlich am Körper eines Erwachsenen verbringen. Dieser reguliert die Körpertemperatur des Kindes gleich mit. Je weniger Kleidungsschichten zwischen Kind und Trageperson sind, umso besser funktioniert der Wärmeaustausch. <\/p><p><strong>Die Natur hat vorgesorgt.<\/strong> Babys haben noch viel braunes Fett - dieses hält den Körper warm, ohne dass das Baby sich bewegen muss. Dieses äusserst nützliche Fett bleibt dem Körper erhalten, solange er regelmässig der Kälte ausgesetzt ist. Kinder zu warm einzupacken ist daher kontraproduktiv: Der Körper kann so nicht mehr richtig auf die kalten Temperaturen reagieren und das braune Fett geht zurück.<\/p><p><strong>Selbstbestimmung ist zentral.<\/strong> Je älter und selbständiger das Kind wird, desto mehr darfst du ihm vertrauen, dass es selber weiss, was es braucht. Kinder, die selbstbestimmt entscheiden dürfen, ob sie eine Jacke oder Mütze, ein langes oder kurzes Shirt anziehen wollen, entwickeln ein gutes Körpergefühl und ein Gespür dafür, was sie brauchen. Und dieses kann ganz anders sein als unser eigenes Empfinden, denn greifen wir nicht ein und packen die Kinder nicht zu warm ein, dann behalten sie ihr braunes Fett und können wunderbar mit kalten Temperaturen umgehen, was ihr Immunsystem zusätzlich stärkt.<\/p><p><strong>Das Schichten-Prinzip.<\/strong> Wenn es kalt ist, sind mehrere Schichten ideal. Nicht nur, weil du dann flexibel etwas an- oder ausziehen kannst. Zwischen den Schichten wird warme Luft gespeichert und das hält den Körper angenehm warm.<\/p><p><strong>Temperaturausgleichende Kleidung.<\/strong> Wähle Materialien wie Wolle oder Wolle\/Seide, denn das Material hält durch die besonderen Eigenschaften der Fasern die Körpertemperatur konstant. Zudem kann Wolle Feuchtigkeit aufnehmen und wärmt auch dann noch, wenn sie nass wird. Zum Beispiel durch Schweiss, Speichel, Regen oder Schnee.<\/p>"
+            "text": "<h2>Der natürliche Umgang mit Krankheit<\/h2><p><strong>Die Natur hat uns Menschen und unsere Baby perfekt erschaffen.<\/strong> So erstaunt es nicht, dass sie auch einiges bietet, um uns bei Krankheit zu unterstützen. Das alte Wissen um die Kräfte der Natur findet langsam seinen Weg zurück in die moderne Zivilisation. Mit gutem Grund: Gerade Kinder naturheilkundlich bei Erkrankungen und Beschwerden zu begleiten, ist für das noch unausgereifte Immunsystem ein enormer Vorteil. Denn jede Krankheit, die das Kind aus eigener Kraft überwindet, stärkt sein Immunsystem nachhaltig. Und das Immunsystem ist die Grundlage für eine nachhaltige Gesundheit - ein Leben lang.<\/p><p><strong>Eine ganzheitliche Sicht:<\/strong> Die Naturheilkunde versucht den Menschen als Ganzes zu sehen, mit dem Ziel, den Organismus wieder ins Gleichgewicht zu bringen, um die Selbstheilungskräfte des Körpers zu aktivieren. Es geht nicht immer ohne Schulmedizin, aber in den meisten Fällen reicht eine heilkundliche Begleitung aus und die Alternativen zu Algifor und Fieberzäpfli sind vielfältig.<\/p><h2>Was tun bei Fieber?<\/h2><p>Nicht allen Eltern ist bewusst, dass Fieber eine gesunde Reaktion des Körpers ist. Die hohe Temperatur ermöglicht dem Körper, vermehrt weisse Blutkörperchen zu produzieren, damit die Abwehr besser funktioniert. Es werden Stoffwechselfunktionen beschleunigt und Giftstoffe schneller ausgeschieden. Wird Fieber gesenkt, stört man diese Abwehr-Arbeit des Körpers und die Krankheit zieht sich unter Umständen länger hin. Vielmehr gilt es, das Kind liebevoll und geduldig zu begleiten. Falls der Allgemeinzustand sehr schlecht ist und das Kind vom Fieber so erschöpft sind, dass es nicht mehr trinkt, sind Pulswickel eine sanfte Möglichkeit, das Fieber langsam und kontrolliert zu senken.<\/p><p>(Wichtiger Hinweis am Rande: Bei Neugeborenen mit Fieber, sollte die URSACHE des Fiebers immer ärztlich abgeklärt werden.)<\/p>"
           }
         }
       },
@@ -68,6 +68,52 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "image_with_text_fdXXzt": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_GHNANM": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_cp8R7w": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Was tun bei Fieber?<\/h2><p>Nicht allen Eltern ist bewusst, dass Fieber eine gesunde Reaktion des Körpers ist. Die hohe Temperatur ermöglicht dem Körper, vermehrt weisse Blutkörperchen zu produzieren, damit die Abwehr besser funktioniert. Es werden Stoffwechselfunktionen beschleunigt und Giftstoffe schneller ausgeschieden. Das Fieber muss also nicht bekämpft werden, denn das Fieber bekämpft die Erreger im Körper. Wird Fieber gesenkt, stört man diese Abwehr-Arbeit. Vielmehr gilt es, <\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_kdHJfA": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_GHNANM",
+        "text_cp8R7w",
+        "button_kdHJfA"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/info-fieber-begleiten.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "6b097b85-0abe-47cb-8728-a6b07bd3d882": {
@@ -386,6 +432,7 @@
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
+    "image_with_text_fdXXzt",
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
     "388c73b8-7370-40e1-a909-65073172a5ee",
     "3775d3fa-6914-4695-bb24-49ef76cf4845",

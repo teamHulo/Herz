@@ -44,10 +44,19 @@
             "img": "shopify:\/\/shop_images\/Megamenu-Erstausstattung.jpg",
             "url": "shopify:\/\/pages\/erstausstattung"
           }
+        },
+        "image_g9BcHj": {
+          "type": "image",
+          "settings": {
+            "menu_handle": "Schwangerschaft & Geburt",
+            "img": "shopify:\/\/shop_images\/Megamenu-Geburtsvorbereitung.jpg",
+            "url": "https:\/\/www.herzanherz.ch\/kurse\/dein-weg-zur-nat%C3%BCrlichen-geburt\/"
+          }
         }
       },
       "block_order": [
-        "image_ngqb9j"
+        "image_ngqb9j",
+        "image_g9BcHj"
       ],
       "settings": {
         "logo_position": "top-center",

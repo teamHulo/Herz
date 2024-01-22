@@ -36,6 +36,19 @@
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "image_ngqb9j": {
+          "type": "image",
+          "settings": {
+            "menu_handle": "Schwangerschaft & Geburt",
+            "img": "shopify:\/\/shop_images\/Megamenu-Erstausstattung.jpg",
+            "url": "shopify:\/\/pages\/erstausstattung"
+          }
+        }
+      },
+      "block_order": [
+        "image_ngqb9j"
+      ],
       "settings": {
         "logo_position": "top-center",
         "menu": "main-menu",

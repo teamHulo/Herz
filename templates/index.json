@@ -5,6 +5,7 @@
       "blocks": {
         "bda35f88-36c5-4661-a703-9f1ce55cd109": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Warme_Kopie.jpg",
             "img2": "shopify:\/\/shop_images\/Winter-Sale.jpg",

@@ -21,14 +21,14 @@
         "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-text-1": {
           "type": "text",
           "settings": {
-            "text": "Herz an Herz <strong>Sale<\/strong>",
+            "text": "Entdecke unsere reduzierten Produkte im <strong>Herz an Herz Sale<\/strong>",
             "text_style": "body"
           }
         },
         "e1bc0a35-42ba-4f41-9f54-7e9660a4ae30": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Alle Sale Produkte",
+            "button_label_1": "Im Sale stöbern",
             "button_link_1": "shopify:\/\/collections\/wintersale-24",
             "button_style_secondary_1": false,
             "button_label_2": "",

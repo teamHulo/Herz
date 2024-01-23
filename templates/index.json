@@ -117,8 +117,19 @@
     "eb12502c-a978-4a64-8794-299bf7d22d27": {
       "type": "section-our",
       "blocks": {
+        "item_JkwHwM": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Slider-Bild-Erstausstattung-Wolle-Seide-Babykleider.jpg",
+            "title": "Wolle-Seide Kleidung",
+            "text": "<p>Wir empfehlen Kleidung aus Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.<\/p>",
+            "url": "shopify:\/\/collections\/wolle-seide-produkte",
+            "btn_name": "Wolle-Seide Produkte"
+          }
+        },
         "ddbc2566-4cd1-45cc-82ba-724076b2eb6d": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify:\/\/shop_images\/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
             "title": "Etwas Schönes für euer Zuhause",
@@ -129,6 +140,7 @@
         },
         "44ff8293-3505-462f-9c87-f9c28c332b83": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Fridahild-Haarschmuck-Kinder-Haargummi-Haarschmuck-Stoff-1.webp",
             "title": "Hübsche Mitbringsel",
@@ -139,6 +151,7 @@
         },
         "52dfc1bb-e625-41fa-861f-c29664072780": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
             "title": "Weltenbau und stundenlanges freies Spiel",
@@ -149,6 +162,7 @@
         },
         "a20d7289-674c-4546-a4f6-6102c2ab22c9": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
             "title": "Weihnachtsgeschenke Guide",
@@ -159,6 +173,7 @@
         },
         "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify:\/\/shop_images\/Infobild-Advent-Wichteltuer.jpg",
             "title": "Wichteltürchen",
@@ -188,31 +203,21 @@
             "url": "shopify:\/\/collections\/adventskalender",
             "btn_name": "Adventskalender"
           }
-        },
-        "item_JkwHwM": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Slider-Bild-Erstausstattung-Wolle-Seide-Babykleider.jpg",
-            "title": "Wolle-Seide Kleidung",
-            "text": "<p>Wir empfehlen Kleidung aus Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.<\/p>",
-            "url": "shopify:\/\/collections\/wolle-seide-produkte",
-            "btn_name": "Wolle-Seide Produkte"
-          }
         }
       },
       "block_order": [
+        "item_JkwHwM",
         "ddbc2566-4cd1-45cc-82ba-724076b2eb6d",
         "44ff8293-3505-462f-9c87-f9c28c332b83",
         "52dfc1bb-e625-41fa-861f-c29664072780",
         "a20d7289-674c-4546-a4f6-6102c2ab22c9",
         "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8",
         "be814ee1-dadc-46d9-a79e-6128f77f64d7",
-        "b7e797f2-1b5f-4151-a871-182489f8f988",
-        "item_JkwHwM"
+        "b7e797f2-1b5f-4151-a871-182489f8f988"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
-        "title": "Sinnvolle Geschenkideen"
+        "title": "Babys Erstausstattung"
       }
     },
     "36e0d3e3-5bd7-406a-a6e0-7b82cebec1e4": {

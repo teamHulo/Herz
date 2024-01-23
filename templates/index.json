@@ -137,6 +137,16 @@
             "btn_name": "Produkte rund ums Stillen"
           }
         },
+        "item_bPf7kc": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Slider-Bild-Erstausstattung-Baby-Schlafsack.jpg",
+            "title": "Für guten Babyschlaf",
+            "text": "<p>Der Schlafplatz des Babys sollte kühl sein. Damit das Baby trotzdem warm hat, empfehlen wir flexible Schichten aus Wolle oder Wolle-Seide. Dazu gehört insbesondere ein passender <a href=\"\/collections\/schlafsacke\" target=\"_blank\" title=\"Schlafsäcke\">Schlafsack<\/a> und nach Bedarf eine warme <a href=\"\/collections\/babydecken\" target=\"_blank\" title=\"Babydecken\">Wolldecke<\/a>.<\/p>",
+            "url": "shopify:\/\/collections\/schlafen",
+            "btn_name": "Produkte rund ums Stillen"
+          }
+        },
         "ddbc2566-4cd1-45cc-82ba-724076b2eb6d": {
           "type": "item",
           "disabled": true,
@@ -218,6 +228,7 @@
       "block_order": [
         "item_JkwHwM",
         "item_yrPzyC",
+        "item_bPf7kc",
         "ddbc2566-4cd1-45cc-82ba-724076b2eb6d",
         "44ff8293-3505-462f-9c87-f9c28c332b83",
         "52dfc1bb-e625-41fa-861f-c29664072780",

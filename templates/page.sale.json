@@ -1,487 +1,543 @@
 {
-    "sections": {
-      "main": {
-        "type": "main-page",
-        "disabled": true,
-        "settings": {
-          "padding_top": 36,
-          "padding_bottom": 28
-        }
-      },
-      "105c6ba4-0194-41e9-8343-c235fc9e5a4d": {
-        "type": "image-banner",
-        "blocks": {
-          "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-heading-1": {
-            "type": "heading",
-            "settings": {
-              "heading": "",
-              "heading_size": "h1"
-            }
-          },
-          "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-text-1": {
-            "type": "text",
-            "settings": {
-              "text": "Willkommen beim <strong>Winter Sale 2024<\/strong> von Herz an Herz!",
-              "text_style": "body"
-            }
-          },
-          "e1bc0a35-42ba-4f41-9f54-7e9660a4ae30": {
-            "type": "buttons",
-            "settings": {
-              "button_label_1": "Alle Sale Produkte",
-              "button_link_1": "shopify:\/\/collections\/wintersale-24",
-              "button_style_secondary_1": false,
-              "button_label_2": "",
-              "button_link_2": "",
-              "button_style_secondary_2": false
-            }
-          }
-        },
-        "block_order": [
-          "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-heading-1",
-          "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-text-1",
-          "e1bc0a35-42ba-4f41-9f54-7e9660a4ae30"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Winter-Sale-Banner_c7703ffe-bc9d-4a74-a695-b62f816240bf.jpg",
-          "image_overlay_opacity": 0,
-          "image_height": "medium",
-          "desktop_content_position": "middle-center",
-          "show_text_box": true,
-          "desktop_content_alignment": "center",
-          "color_scheme": "",
-          "image_behavior": "none",
-          "mobile_content_alignment": "center",
-          "stack_images_on_mobile": true,
-          "show_text_below": true
-        }
-      },
-      "4a11a08e-176d-4996-8ebb-f52780d76852": {
-        "type": "rich-text",
-        "blocks": {
-          "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-heading-1": {
-            "type": "heading",
-            "settings": {
-              "heading": "",
-              "heading_size": "h1"
-            }
-          },
-          "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-text-1": {
-            "type": "text",
-            "settings": {
-              "text": "<h1>Grosser Winter Sale 2024<\/h1><p>Unser Winter Sale startet am Samstag 6. Januar 2024 um 17.00 Uhr. Mit vielen hochwertigen Winterprodukten zu tollen Preisen. Komm im Laden vorbei oder profitiere direkt hier im Onlineshop. <\/p>"
-            }
-          },
-          "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-button-1": {
-            "type": "button",
-            "settings": {
-              "button_label": "",
-              "button_link": "",
-              "button_style_secondary": false,
-              "button_label_2": "",
-              "button_link_2": "",
-              "button_style_secondary_2": false
-            }
-          }
-        },
-        "block_order": [
-          "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-heading-1",
-          "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-text-1",
-          "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-button-1"
-        ],
-        "settings": {
-          "desktop_content_position": "center",
-          "content_alignment": "center",
-          "color_scheme": "",
-          "full_width": true,
-          "padding_top": 40,
-          "padding_bottom": 52
-        }
-      },
-      "9cd22424-77c2-4a63-a2df-812fd173aead": {
-        "type": "image-with-text",
-        "blocks": {
-          "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-heading-1": {
-            "type": "heading",
-            "settings": {
-              "heading": "",
-              "heading_size": "h1"
-            }
-          },
-          "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-text-1": {
-            "type": "text",
-            "settings": {
-              "text": "<h2>Accessoires<\/h2><p>Entdecke verschiedene warme Wintermützen: Wolle-Seide-Mützen, Woll-Beanies oder kuschlige Woll-Fleece-Mützen für Klein und Gross. Auch die beliebten Loop-Schals, Handschuhe und Hüftwärmer haben es in den Sale geschafft.<\/p>",
-              "text_style": "body"
-            }
-          },
-          "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-button-1": {
-            "type": "button",
-            "settings": {
-              "button_label": "Zu den Wintersale Accessoires",
-              "button_link": "shopify:\/\/collections\/wintersale24-accessoires",
-              "button_style_secondary": false
-            }
-          }
-        },
-        "block_order": [
-          "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-heading-1",
-          "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-text-1",
-          "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-button-1"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
-          "height": "adapt",
-          "desktop_image_width": "medium",
-          "layout": "image_first",
-          "desktop_content_position": "top",
-          "desktop_content_alignment": "left",
-          "content_layout": "no-overlap",
-          "color_scheme": "",
-          "image_behavior": "none",
-          "mobile_content_alignment": "left",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "d4681154-d470-4d7a-81e5-8a13abbf1abf": {
-        "type": "image-with-text",
-        "blocks": {
-          "493d9fb5-15a9-4b85-ae21-3dadb0a0b2c7": {
-            "type": "heading",
-            "settings": {
-              "heading": "",
-              "heading_size": "h1"
-            }
-          },
-          "d73e6b47-d6ed-46ac-9cf4-288341b84054": {
-            "type": "text",
-            "settings": {
-              "text": "<h2>Kinderkleider<\/h2><p>Im Wintersale findest du viele reduzierte Woll-Produkte: Pullis, Hosen, Bodys, Jäckchen und noch vieles mehr von Disana, Manymonths, Minimalisma! Auch ein paar hübsche Bio-Baumwoll-Schnäppchen sind mit dabei.<\/p>",
-              "text_style": "body"
-            }
-          },
-          "18d0ef72-81b1-4668-a636-dcd7382f9531": {
-            "type": "button",
-            "settings": {
-              "button_label": "Zu den Wintersale Kleidern",
-              "button_link": "shopify:\/\/collections\/wintersale24-kleider",
-              "button_style_secondary": false
-            }
-          }
-        },
-        "block_order": [
-          "493d9fb5-15a9-4b85-ae21-3dadb0a0b2c7",
-          "d73e6b47-d6ed-46ac-9cf4-288341b84054",
-          "18d0ef72-81b1-4668-a636-dcd7382f9531"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Minimalisma-klein.jpg",
-          "height": "adapt",
-          "desktop_image_width": "medium",
-          "layout": "text_first",
-          "desktop_content_position": "top",
-          "desktop_content_alignment": "left",
-          "content_layout": "no-overlap",
-          "color_scheme": "",
-          "image_behavior": "none",
-          "mobile_content_alignment": "left",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "ccdef9f6-f225-4c21-95df-0bb73a5ac65d": {
-        "type": "image-with-text",
-        "blocks": {
-          "bb922f13-04b0-4d46-895d-479b01fd43ea": {
-            "type": "heading",
-            "settings": {
-              "heading": "",
-              "heading_size": "h1"
-            }
-          },
-          "d0538d00-3cbf-44aa-ac0d-900a4b590aed": {
-            "type": "text",
-            "settings": {
-              "text": "<h2>Wollfleece & Wollwalk<\/h2><p>Overalls, Jacken und Outdoor-Hosen aus Wollwalk und Wollfleece sind kuschlig warm, wasserabweisend, temperaturausgleichend und daher unsere erste Wahl für Kinder jeden Alters, die gerne draussen sind. Sei es im Herbst, Winter oder Frühling. Die Overalls sind zudem auch wunderbar zum Tragen der Babys geeignet.<\/p>",
-              "text_style": "body"
-            }
-          },
-          "cbeb152e-4265-468d-94a3-5761ac1c43fa": {
-            "type": "button",
-            "settings": {
-              "button_label": "Zu den Wintersale Walksachen",
-              "button_link": "shopify:\/\/collections\/wintersale24-wollwalk",
-              "button_style_secondary": false
-            }
-          }
-        },
-        "block_order": [
-          "bb922f13-04b0-4d46-895d-479b01fd43ea",
-          "d0538d00-3cbf-44aa-ac0d-900a4b590aed",
-          "cbeb152e-4265-468d-94a3-5761ac1c43fa"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Infobild-ErsteSchuhe.jpg",
-          "height": "adapt",
-          "desktop_image_width": "medium",
-          "layout": "image_first",
-          "desktop_content_position": "top",
-          "desktop_content_alignment": "left",
-          "content_layout": "no-overlap",
-          "color_scheme": "",
-          "image_behavior": "none",
-          "mobile_content_alignment": "left",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "162fda03-8546-44a4-ad4c-b7aaaba0be2b": {
-        "type": "image-with-text",
-        "blocks": {
-          "b6cda377-78ed-4720-b474-d64ba735c4ad": {
-            "type": "heading",
-            "settings": {
-              "heading": "",
-              "heading_size": "h1"
-            }
-          },
-          "739be956-be2c-46c9-befb-d3b0090f338c": {
-            "type": "text",
-            "settings": {
-              "text": "<h2>Winterschuhe & Booties<\/h2><p>Im Wintersale findest du gefütterte Schuhe, Winterstiefel und Booties. Sie alle bieten Wärme und Komfort und erfüllen trotzdem die Vorteile von Barfuss-Schuhen! So hat dein Kind bei kalten Temperaturen jederzeit warm und der Fuss kann sich optimal und natürlich entwickeln.<\/p>",
-              "text_style": "body"
-            }
-          },
-          "2da6ca1f-e66c-4ea8-8886-1fabd5696f22": {
-            "type": "button",
-            "settings": {
-              "button_label": "Zu den Wintersale Schuhen",
-              "button_link": "shopify:\/\/collections\/wintersale24-schuhe",
-              "button_style_secondary": false
-            }
-          }
-        },
-        "block_order": [
-          "b6cda377-78ed-4720-b474-d64ba735c4ad",
-          "739be956-be2c-46c9-befb-d3b0090f338c",
-          "2da6ca1f-e66c-4ea8-8886-1fabd5696f22"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Stonz-Winterschuhe-Baby-Barfussschuhe-Puffer-Boots-hazeblue-S-2_47513_2.jpg",
-          "height": "adapt",
-          "desktop_image_width": "medium",
-          "layout": "text_first",
-          "desktop_content_position": "top",
-          "desktop_content_alignment": "left",
-          "content_layout": "no-overlap",
-          "color_scheme": "",
-          "image_behavior": "none",
-          "mobile_content_alignment": "left",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "f63db1ec-6cc4-4299-8f26-ca93c37104a3": {
-        "type": "image-with-text",
-        "blocks": {
-          "8ad00cef-1f27-43ad-a15c-762eba1a28d6": {
-            "type": "heading",
-            "settings": {
-              "heading": "",
-              "heading_size": "h1"
-            }
-          },
-          "ae1c3c2e-dd77-4980-b6b6-c0654a48749b": {
-            "type": "text",
-            "settings": {
-              "text": "<h2>Tragejacken für Mamas & Papas<\/h2><p>Du möchtest dein Baby auch bei kalten Temperaturen tragen? Unsere Woll-Mäntel und Winter-Tragejacken sind jetzt im Sale zu finden. Diese Jacken kannst du auch lange nach der Schwangerschaft und Baby-Tragezeit noch weiter verwenden. <\/p>",
-              "text_style": "body"
-            }
-          },
-          "4b12faa3-f761-4984-9226-362f8091df34": {
-            "type": "button",
-            "settings": {
-              "button_label": "Zu den Wintersale Tragejacken",
-              "button_link": "shopify:\/\/collections\/wintersale24-tragejacken",
-              "button_style_secondary": false
-            }
-          }
-        },
-        "block_order": [
-          "8ad00cef-1f27-43ad-a15c-762eba1a28d6",
-          "ae1c3c2e-dd77-4980-b6b6-c0654a48749b",
-          "4b12faa3-f761-4984-9226-362f8091df34"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Infobild-Tragenimwinter.jpg",
-          "height": "adapt",
-          "desktop_image_width": "medium",
-          "layout": "image_first",
-          "desktop_content_position": "top",
-          "desktop_content_alignment": "left",
-          "content_layout": "no-overlap",
-          "color_scheme": "",
-          "image_behavior": "none",
-          "mobile_content_alignment": "left",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "7c953456-54dd-47f3-ad05-3bfdadc9d88f": {
-        "type": "image-banner",
-        "blocks": {
-          "9b649a64-be06-4976-843e-bc1aaee709bd": {
-            "type": "heading",
-            "settings": {
-              "heading": "",
-              "heading_size": "h1"
-            }
-          },
-          "ab67b6c8-49e9-490a-8a71-a56ef8ca879a": {
-            "type": "text",
-            "settings": {
-              "text": "Stöbere im grossen <strong>Restposten-Sale<\/strong>.",
-              "text_style": "body"
-            }
-          }
-        },
-        "block_order": [
-          "9b649a64-be06-4976-843e-bc1aaee709bd",
-          "ab67b6c8-49e9-490a-8a71-a56ef8ca879a"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Infobild-Restposten-Sale-Banner.jpg",
-          "image_overlay_opacity": 0,
-          "image_height": "medium",
-          "desktop_content_position": "middle-center",
-          "show_text_box": true,
-          "desktop_content_alignment": "center",
-          "color_scheme": "",
-          "image_behavior": "none",
-          "mobile_content_alignment": "center",
-          "stack_images_on_mobile": true,
-          "show_text_below": true
-        }
-      },
-      "6742f22c-cbaa-4b6a-aaaf-980509b003a2": {
-        "type": "rich-text",
-        "blocks": {
-          "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-heading-1": {
-            "type": "heading",
-            "settings": {
-              "heading": "",
-              "heading_size": "h1"
-            }
-          },
-          "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-text-1": {
-            "type": "text",
-            "settings": {
-              "text": "<h2>Restposten-Sale<\/h2><p>Mit diesem neuen Onlineshop starteten wir frisch und mit unseren aktuellen Produkten. Die Restposten aus älteren Kollektionen oder Produkte, die wir aus dem Sortiment nehmen - weil es einfach manchmal Platz für Neues braucht - haben wir nicht in den neuen Onlineshop übernommen. Du findest sie noch eine Weile in unserem alten Online-Shop zu Schnäppchenpreisen! Dort kannst du sie bestellen. Wenn du hier im Shop eine Bestellung machst, kannst du die Produkte aus dem Restposten-Sale zur \"Abholung\" bestellen, damit du nicht doppelt Versandkosten bezahlst. Hinterlasse bitte einen Kommentar bei der Bestellung, dass wir beide Bestellungen zusammenfügen können.<\/p><p><\/p><p><a href=\"https:\/\/www.herzanherz-sale.ch\" target=\"_blank\" title=\"https:\/\/www.herzanherz-sale.ch\">--&gt; Hier gehts zum Sale: www.herzanherz-sale.ch<\/a><\/p>"
-            }
-          },
-          "57daa999-8fd3-441b-8441-73b727a3e256": {
-            "type": "button",
-            "settings": {
-              "button_label": "",
-              "button_link": "",
-              "button_style_secondary": false,
-              "button_label_2": "",
-              "button_link_2": "",
-              "button_style_secondary_2": false
-            }
-          },
-          "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-button-1": {
-            "type": "button",
-            "settings": {
-              "button_label": "",
-              "button_link": "",
-              "button_style_secondary": false,
-              "button_label_2": "",
-              "button_link_2": "",
-              "button_style_secondary_2": false
-            }
-          }
-        },
-        "block_order": [
-          "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-heading-1",
-          "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-text-1",
-          "57daa999-8fd3-441b-8441-73b727a3e256",
-          "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-button-1"
-        ],
-        "settings": {
-          "desktop_content_position": "center",
-          "content_alignment": "center",
-          "color_scheme": "background-1",
-          "full_width": true,
-          "padding_top": 40,
-          "padding_bottom": 52
-        }
-      },
-      "e85f1518-7e1b-4e45-a379-09ca75c69fce": {
-        "type": "section-achievements",
-        "blocks": {
-          "d5aea120-3c34-4183-aaea-05e5c393320d": {
-            "type": "person",
-            "settings": {
-              "ava": "shopify:\/\/shop_images\/Vector_1.png",
-              "name": "10 Fachfrauen",
-              "text": "Bei Herz an Herz arbeiten 10 Frauen, die sich mit viel Herzblut für dich und dein Baby einsetzen."
-            }
-          },
-          "71709b28-2f50-4146-b31c-ff29852b75b1": {
-            "type": "person",
-            "settings": {
-              "ava": "shopify:\/\/shop_images\/Vector_1.png",
-              "name": "12 Aus- und Weiterbildungen",
-              "text": "Wir legen grossen Wert auf ständige Weiterentwicklung und Bildung, um stets auf dem neuesten Stand in Bezug auf Kinderwunsch, Schwangerschaft, Geburt, Baby und Familie zu sein."
-            }
-          },
-          "e3a0d4fe-d2e6-4e55-881b-903312ced00c": {
-            "type": "person",
-            "settings": {
-              "ava": "shopify:\/\/shop_images\/Vector_1.png",
-              "name": "16 eigene Kinder",
-              "text": "Unsere tiefgreifende Erfahrung resultiert aus unserer eigenen Elternschaft. Zusammen haben wir 16 Kinder im Alter von 1 bis 10 Jahren, und wir wissen aus erster Hand, wovon wir sprechen."
-            }
-          },
-          "70686f75-0757-4b4c-ab47-4adf4556549a": {
-            "type": "person",
-            "settings": {
-              "ava": "shopify:\/\/shop_images\/Vector_1.png",
-              "name": "1000 Beratungen",
-              "text": "Tagtäglich beraten wir Familien, sei es im Laden oder in persönlichen Beratungsgesprächen, und helfen ihnen bei ihren individuellen Anliegen. Wir sind hier, um unser Wissen und unsere Erfahrung mit dir zu teilen und dir auf deiner Reise zur Seite zu stehen."
-            }
-          }
-        },
-        "block_order": [
-          "d5aea120-3c34-4183-aaea-05e5c393320d",
-          "71709b28-2f50-4146-b31c-ff29852b75b1",
-          "e3a0d4fe-d2e6-4e55-881b-903312ced00c",
-          "70686f75-0757-4b4c-ab47-4adf4556549a"
-        ],
-        "disabled": true,
-        "settings": {
-          "bg": "#ffffff",
-          "text_color": "",
-          "padding_top": 60,
-          "padding_bottom": 60,
-          "title": "Unser Team in Zahlen",
-          "label": "Bei Herz an Herz arbeiten nicht einfach \"Verkäuferinnen\". Wir sind  Fachfrauen in den unterschliedlichsten Bereichen rund um den natürlichen Umgang mit Schwangerschaft, Geburt, Baby und Familienleben. Und zudem sind wir mit Herzblut Mamas und geben dir unsere Erfahrung und unser Wissen weiter."
-        }
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
       }
     },
-    "order": [
-      "main",
-      "105c6ba4-0194-41e9-8343-c235fc9e5a4d",
-      "4a11a08e-176d-4996-8ebb-f52780d76852",
-      "9cd22424-77c2-4a63-a2df-812fd173aead",
-      "d4681154-d470-4d7a-81e5-8a13abbf1abf",
-      "ccdef9f6-f225-4c21-95df-0bb73a5ac65d",
-      "162fda03-8546-44a4-ad4c-b7aaaba0be2b",
-      "f63db1ec-6cc4-4299-8f26-ca93c37104a3",
-      "7c953456-54dd-47f3-ad05-3bfdadc9d88f",
-      "6742f22c-cbaa-4b6a-aaaf-980509b003a2",
-      "e85f1518-7e1b-4e45-a379-09ca75c69fce"
-    ]
-  }
+    "105c6ba4-0194-41e9-8343-c235fc9e5a4d": {
+      "type": "image-banner",
+      "blocks": {
+        "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Herz an Herz <strong>Sale<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "e1bc0a35-42ba-4f41-9f54-7e9660a4ae30": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Alle Sale Produkte",
+            "button_link_1": "shopify:\/\/collections\/wintersale-24",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-heading-1",
+        "template--21515681104187__105c6ba4-0194-41e9-8343-c235fc9e5a4d-text-1",
+        "e1bc0a35-42ba-4f41-9f54-7e9660a4ae30"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Winter-Sale-Banner_c7703ffe-bc9d-4a74-a695-b62f816240bf.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_eJyU7e": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_XRM6rU": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_gUVzQF": {
+          "type": "text",
+          "settings": {
+            "text": "Willkommen beim <strong>Winter Sale 2024<\/strong> von Herz an Herz!",
+            "text_style": "body"
+          }
+        },
+        "buttons_AfGGfG": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Alle Sale Produkte",
+            "button_link_1": "shopify:\/\/collections\/wintersale-24",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_XRM6rU",
+        "text_gUVzQF",
+        "buttons_AfGGfG"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Winter-Sale-Banner_c7703ffe-bc9d-4a74-a695-b62f816240bf.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "4a11a08e-176d-4996-8ebb-f52780d76852": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Grosser Winter Sale 2024<\/h1><p>Unser Winter Sale startet am Samstag 6. Januar 2024 um 17.00 Uhr. Mit vielen hochwertigen Winterprodukten zu tollen Preisen. Komm im Laden vorbei oder profitiere direkt hier im Onlineshop. <\/p>"
+          }
+        },
+        "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-heading-1",
+        "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-text-1",
+        "template--21936234135867__4a11a08e-176d-4996-8ebb-f52780d76852-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "9cd22424-77c2-4a63-a2df-812fd173aead": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Accessoires<\/h2><p>Entdecke verschiedene warme Wintermützen: Wolle-Seide-Mützen, Woll-Beanies oder kuschlige Woll-Fleece-Mützen für Klein und Gross. Auch die beliebten Loop-Schals, Handschuhe und Hüftwärmer haben es in den Sale geschafft.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Wintersale Accessoires",
+            "button_link": "shopify:\/\/collections\/wintersale24-accessoires",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-heading-1",
+        "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-text-1",
+        "template--21936234135867__9cd22424-77c2-4a63-a2df-812fd173aead-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d4681154-d470-4d7a-81e5-8a13abbf1abf": {
+      "type": "image-with-text",
+      "blocks": {
+        "493d9fb5-15a9-4b85-ae21-3dadb0a0b2c7": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "d73e6b47-d6ed-46ac-9cf4-288341b84054": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Kinderkleider<\/h2><p>Im Wintersale findest du viele reduzierte Woll-Produkte: Pullis, Hosen, Bodys, Jäckchen und noch vieles mehr von Disana, Manymonths, Minimalisma! Auch ein paar hübsche Bio-Baumwoll-Schnäppchen sind mit dabei.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "18d0ef72-81b1-4668-a636-dcd7382f9531": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Wintersale Kleidern",
+            "button_link": "shopify:\/\/collections\/wintersale24-kleider",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "493d9fb5-15a9-4b85-ae21-3dadb0a0b2c7",
+        "d73e6b47-d6ed-46ac-9cf4-288341b84054",
+        "18d0ef72-81b1-4668-a636-dcd7382f9531"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Minimalisma-klein.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ccdef9f6-f225-4c21-95df-0bb73a5ac65d": {
+      "type": "image-with-text",
+      "blocks": {
+        "bb922f13-04b0-4d46-895d-479b01fd43ea": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "d0538d00-3cbf-44aa-ac0d-900a4b590aed": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Wollfleece & Wollwalk<\/h2><p>Overalls, Jacken und Outdoor-Hosen aus Wollwalk und Wollfleece sind kuschlig warm, wasserabweisend, temperaturausgleichend und daher unsere erste Wahl für Kinder jeden Alters, die gerne draussen sind. Sei es im Herbst, Winter oder Frühling. Die Overalls sind zudem auch wunderbar zum Tragen der Babys geeignet.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "cbeb152e-4265-468d-94a3-5761ac1c43fa": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Wintersale Walksachen",
+            "button_link": "shopify:\/\/collections\/wintersale24-wollwalk",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "bb922f13-04b0-4d46-895d-479b01fd43ea",
+        "d0538d00-3cbf-44aa-ac0d-900a4b590aed",
+        "cbeb152e-4265-468d-94a3-5761ac1c43fa"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-ErsteSchuhe.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "162fda03-8546-44a4-ad4c-b7aaaba0be2b": {
+      "type": "image-with-text",
+      "blocks": {
+        "b6cda377-78ed-4720-b474-d64ba735c4ad": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "739be956-be2c-46c9-befb-d3b0090f338c": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Winterschuhe & Booties<\/h2><p>Im Wintersale findest du gefütterte Schuhe, Winterstiefel und Booties. Sie alle bieten Wärme und Komfort und erfüllen trotzdem die Vorteile von Barfuss-Schuhen! So hat dein Kind bei kalten Temperaturen jederzeit warm und der Fuss kann sich optimal und natürlich entwickeln.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "2da6ca1f-e66c-4ea8-8886-1fabd5696f22": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Wintersale Schuhen",
+            "button_link": "shopify:\/\/collections\/wintersale24-schuhe",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "b6cda377-78ed-4720-b474-d64ba735c4ad",
+        "739be956-be2c-46c9-befb-d3b0090f338c",
+        "2da6ca1f-e66c-4ea8-8886-1fabd5696f22"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Stonz-Winterschuhe-Baby-Barfussschuhe-Puffer-Boots-hazeblue-S-2_47513_2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f63db1ec-6cc4-4299-8f26-ca93c37104a3": {
+      "type": "image-with-text",
+      "blocks": {
+        "8ad00cef-1f27-43ad-a15c-762eba1a28d6": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "ae1c3c2e-dd77-4980-b6b6-c0654a48749b": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Tragejacken für Mamas & Papas<\/h2><p>Du möchtest dein Baby auch bei kalten Temperaturen tragen? Unsere Woll-Mäntel und Winter-Tragejacken sind jetzt im Sale zu finden. Diese Jacken kannst du auch lange nach der Schwangerschaft und Baby-Tragezeit noch weiter verwenden. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "4b12faa3-f761-4984-9226-362f8091df34": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Wintersale Tragejacken",
+            "button_link": "shopify:\/\/collections\/wintersale24-tragejacken",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "8ad00cef-1f27-43ad-a15c-762eba1a28d6",
+        "ae1c3c2e-dd77-4980-b6b6-c0654a48749b",
+        "4b12faa3-f761-4984-9226-362f8091df34"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Tragenimwinter.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "7c953456-54dd-47f3-ad05-3bfdadc9d88f": {
+      "type": "image-banner",
+      "blocks": {
+        "9b649a64-be06-4976-843e-bc1aaee709bd": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "ab67b6c8-49e9-490a-8a71-a56ef8ca879a": {
+          "type": "text",
+          "settings": {
+            "text": "Stöbere im grossen <strong>Restposten-Sale<\/strong>.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "9b649a64-be06-4976-843e-bc1aaee709bd",
+        "ab67b6c8-49e9-490a-8a71-a56ef8ca879a"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Restposten-Sale-Banner.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "6742f22c-cbaa-4b6a-aaaf-980509b003a2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Restposten-Sale<\/h2><p>Mit diesem neuen Onlineshop starteten wir frisch und mit unseren aktuellen Produkten. Die Restposten aus älteren Kollektionen oder Produkte, die wir aus dem Sortiment nehmen - weil es einfach manchmal Platz für Neues braucht - haben wir nicht in den neuen Onlineshop übernommen. Du findest sie noch eine Weile in unserem alten Online-Shop zu Schnäppchenpreisen! Dort kannst du sie bestellen. Wenn du hier im Shop eine Bestellung machst, kannst du die Produkte aus dem Restposten-Sale zur \"Abholung\" bestellen, damit du nicht doppelt Versandkosten bezahlst. Hinterlasse bitte einen Kommentar bei der Bestellung, dass wir beide Bestellungen zusammenfügen können.<\/p><p><\/p><p><a href=\"https:\/\/www.herzanherz-sale.ch\" target=\"_blank\" title=\"https:\/\/www.herzanherz-sale.ch\">--&gt; Hier gehts zum Sale: www.herzanherz-sale.ch<\/a><\/p>"
+          }
+        },
+        "57daa999-8fd3-441b-8441-73b727a3e256": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-heading-1",
+        "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-text-1",
+        "57daa999-8fd3-441b-8441-73b727a3e256",
+        "template--21450253959483__6742f22c-cbaa-4b6a-aaaf-980509b003a2-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "e85f1518-7e1b-4e45-a379-09ca75c69fce": {
+      "type": "section-achievements",
+      "blocks": {
+        "d5aea120-3c34-4183-aaea-05e5c393320d": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Vector_1.png",
+            "name": "10 Fachfrauen",
+            "text": "Bei Herz an Herz arbeiten 10 Frauen, die sich mit viel Herzblut für dich und dein Baby einsetzen."
+          }
+        },
+        "71709b28-2f50-4146-b31c-ff29852b75b1": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Vector_1.png",
+            "name": "12 Aus- und Weiterbildungen",
+            "text": "Wir legen grossen Wert auf ständige Weiterentwicklung und Bildung, um stets auf dem neuesten Stand in Bezug auf Kinderwunsch, Schwangerschaft, Geburt, Baby und Familie zu sein."
+          }
+        },
+        "e3a0d4fe-d2e6-4e55-881b-903312ced00c": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Vector_1.png",
+            "name": "16 eigene Kinder",
+            "text": "Unsere tiefgreifende Erfahrung resultiert aus unserer eigenen Elternschaft. Zusammen haben wir 16 Kinder im Alter von 1 bis 10 Jahren, und wir wissen aus erster Hand, wovon wir sprechen."
+          }
+        },
+        "70686f75-0757-4b4c-ab47-4adf4556549a": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify:\/\/shop_images\/Vector_1.png",
+            "name": "1000 Beratungen",
+            "text": "Tagtäglich beraten wir Familien, sei es im Laden oder in persönlichen Beratungsgesprächen, und helfen ihnen bei ihren individuellen Anliegen. Wir sind hier, um unser Wissen und unsere Erfahrung mit dir zu teilen und dir auf deiner Reise zur Seite zu stehen."
+          }
+        }
+      },
+      "block_order": [
+        "d5aea120-3c34-4183-aaea-05e5c393320d",
+        "71709b28-2f50-4146-b31c-ff29852b75b1",
+        "e3a0d4fe-d2e6-4e55-881b-903312ced00c",
+        "70686f75-0757-4b4c-ab47-4adf4556549a"
+      ],
+      "disabled": true,
+      "settings": {
+        "bg": "#ffffff",
+        "text_color": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "title": "Unser Team in Zahlen",
+        "label": "Bei Herz an Herz arbeiten nicht einfach \"Verkäuferinnen\". Wir sind  Fachfrauen in den unterschliedlichsten Bereichen rund um den natürlichen Umgang mit Schwangerschaft, Geburt, Baby und Familienleben. Und zudem sind wir mit Herzblut Mamas und geben dir unsere Erfahrung und unser Wissen weiter."
+      }
+    }
+  },
+  "order": [
+    "main",
+    "105c6ba4-0194-41e9-8343-c235fc9e5a4d",
+    "image_banner_eJyU7e",
+    "4a11a08e-176d-4996-8ebb-f52780d76852",
+    "9cd22424-77c2-4a63-a2df-812fd173aead",
+    "d4681154-d470-4d7a-81e5-8a13abbf1abf",
+    "ccdef9f6-f225-4c21-95df-0bb73a5ac65d",
+    "162fda03-8546-44a4-ad4c-b7aaaba0be2b",
+    "f63db1ec-6cc4-4299-8f26-ca93c37104a3",
+    "7c953456-54dd-47f3-ad05-3bfdadc9d88f",
+    "6742f22c-cbaa-4b6a-aaaf-980509b003a2",
+    "e85f1518-7e1b-4e45-a379-09ca75c69fce"
+  ]
+}

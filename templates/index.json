@@ -289,11 +289,20 @@
       "blocks": {
         "item_CjqJ8J": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
             "title": "Erste Schühchen",
             "text": "<p>Bei Füssen, die sich noch im Wachstum befinden, ist es besonders wichtig, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Babyschuhen berücksichtigt das. Sie sind weich, flexibel und erfüllen alle Kriterien eines Barfuss-Schuhs.<\/p>",
+            "url": "shopify:\/\/collections\/erste-schuhchen",
+            "btn_name": "Read more"
+          }
+        },
+        "item_JY7qQY": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
+            "title": "Barfuss-Übergangs-Schuhe",
+            "text": "<p>Entdecke unsere Auswahl an praktischen Alltagsschuhen für Kinder, die Komfort und natürliche Bewegungsfreiheit bieten. Wir führen klassische Modelle aus Leder, aber auch vegane Modelle. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.<\/p>",
             "url": "shopify:\/\/collections\/erste-schuhchen",
             "btn_name": "Read more"
           }
@@ -341,6 +350,7 @@
       },
       "block_order": [
         "item_CjqJ8J",
+        "item_JY7qQY",
         "b36b2098-d211-431d-acd0-23649bf238c2",
         "8038429f-adf3-48b3-93d2-f37c76eec66f",
         "0f45442c-cec0-47c4-8890-45ecdabc70da",

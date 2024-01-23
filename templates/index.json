@@ -127,6 +127,16 @@
             "btn_name": "Wolle-Seide Produkte"
           }
         },
+        "item_yrPzyC": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Slider-Bild-Erstausstattung-Stillen-Stillkissen.jpg",
+            "title": "Stillkissen & Co",
+            "text": "<p>Fürs Stillen brauchst du Ruhe, Entspannung und Körperkontakt mit dem Baby. Ein <a href=\"\/products\/bettmaus-stillkissen-gross\" target=\"_blank\" title=\"Stillkissen gross mit Bio-Dinkelspreu\">Stillkissen<\/a> sorgt für eine gemütliche Stillzeit. Für einfaches und diskretes Stillen auch unterwegs lohnt es sich, in passende <a href=\"\/collections\/umstands-stillmode\" target=\"_blank\" title=\"Umstands- & Stillmode\">Still-Mode<\/a> zu investieren.<\/p>",
+            "url": "shopify:\/\/collections\/stillen",
+            "btn_name": "Produkte rund ums Stillen"
+          }
+        },
         "ddbc2566-4cd1-45cc-82ba-724076b2eb6d": {
           "type": "item",
           "disabled": true,
@@ -207,6 +217,7 @@
       },
       "block_order": [
         "item_JkwHwM",
+        "item_yrPzyC",
         "ddbc2566-4cd1-45cc-82ba-724076b2eb6d",
         "44ff8293-3505-462f-9c87-f9c28c332b83",
         "52dfc1bb-e625-41fa-861f-c29664072780",

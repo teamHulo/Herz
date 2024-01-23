@@ -399,11 +399,23 @@
             "text": "Entdecke unsere reduzierten Produkte im <strong>Herz an Herz Sale<\/strong>",
             "text_style": "body"
           }
+        },
+        "buttons_cVLaxi": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Im Sale stöbern",
+            "button_link_1": "shopify:\/\/collections\/sale",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "9b649a64-be06-4976-843e-bc1aaee709bd",
-        "ab67b6c8-49e9-490a-8a71-a56ef8ca879a"
+        "ab67b6c8-49e9-490a-8a71-a56ef8ca879a",
+        "buttons_cVLaxi"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Infobild-Restposten-Sale-Banner.jpg",

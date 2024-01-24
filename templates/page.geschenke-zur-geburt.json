@@ -34,7 +34,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-geschenke-zur-geburt.jpg",
+        "image": "shopify:\/\/shop_images\/infobild-geschenk.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -151,7 +151,7 @@
         "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Zum Anziehen<\/h2><p>Wir empfehlen Kleidung aus Wolle oder Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Wolle wärmt zudem auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.<\/p>",
+            "text": "<h2>Wochenbett-Korb<\/h2><p>In der Zeit nach der Geburt ist für Mama und Baby erstmal für ein paar Wochen schonen angesagt. Der Körper muss sich erholen, die Beziehung zum Baby darf sich entfalten, der neue Alltag sich sanft einpendeln.<\/p><p>Verschenke einen Wochenbettkorb voller nährender Produkte fürs Wochenbett: Stärkende Snacks, Kraftbrühen, regenerierende Balsame, Mama-Baby-Bäder, leckere Stilltees, Stillkugeln, Stilleinlagen, ein alufreies Still-Deo, Seifen ohne Parfüm, wohltuende Pflege für Bauch und Intimbereich,... Wir beraten dich gerne und stellen auf Wunsch auch einen Wochenbettkorb für dich zusammen - ganz nach deinen Wünschen und deinem Budget.<\/p>",
             "text_style": "body"
           }
         }
@@ -161,7 +161,7 @@
         "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Kleidung.jpg",
+        "image": "shopify:\/\/shop_images\/infobild-geschenke-zur-geburt.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",

@@ -3,20 +3,19 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "bda35f88-36c5-4661-a703-9f1ce55cd109": {
+        "item_zabzeK": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Warme_Kopie.jpg",
-            "img2": "shopify:\/\/shop_images\/Winter-Sale.jpg",
-            "img3": "shopify:\/\/shop_images\/Winter-Sale-Prozent.png",
-            "title": "WINTER SALE zum Jahresauftakt",
-            "text": "<p>Um das 2024 gebührend einzuläuten, startet ab sofort unser grosser Winter Sale! Gerade rechtzeitig, denn es wird nochmals eisig kalt. Tauche ein in eine Welt voller hochwertiger und funktionaler Winterprodukte für Babys und Kinder und spare 30% auf tolle Winter-Klassiker.<\/p>",
-            "url": "https:\/\/herzanherz-shop.ch\/collections\/wintersale-24",
-            "btn_name": "Zum Winter Sale"
+            "img1": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Namaki_Kinderschminke-3erset-piratmarienkaefer2_a4a6caf7-fd0f-48a3-87e3-5f34a47f8dcc.jpg",
+            "img2": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Namaki_Kinderschminke-stifteset-enchanted3.jpg",
+            "img3": "shopify:\/\/shop_images\/hair-mascara-orange_795bde33-dc9d-47ad-8048-382314d5246d.jpg",
+            "title": "Alles für die Fasnacht",
+            "text": "<p>Verkleiden und in andere Rollen schlüpfen ist für Kinder ein absolutes Highlight! Mit unserem natürlichen und ungieftigen Bio Kinderschminksets, der Haar-Mascara oder dem Nagellack für Kinder bist du für die Fasnacht, den Kindergeburtstag, Halloween oder den kunterbunten Alltagsspass gerüstet.<\/p>",
+            "url": "https:\/\/herzanherz-shop.ch\/pages\/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
+            "btn_name": "Mehr erfahren"
           }
         },
-        "item_zabzeK": {
+        "item_Jc9eFD": {
           "type": "item",
           "settings": {
             "img1": "shopify:\/\/shop_images\/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
@@ -88,16 +87,30 @@
             "url": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
             "btn_name": "Zum Geschenke-Guide"
           }
+        },
+        "bda35f88-36c5-4661-a703-9f1ce55cd109": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Warme_Kopie.jpg",
+            "img2": "shopify:\/\/shop_images\/Winter-Sale.jpg",
+            "img3": "shopify:\/\/shop_images\/Winter-Sale-Prozent.png",
+            "title": "WINTER SALE zum Jahresauftakt",
+            "text": "<p>Um das 2024 gebührend einzuläuten, startet ab sofort unser grosser Winter Sale! Gerade rechtzeitig, denn es wird nochmals eisig kalt. Tauche ein in eine Welt voller hochwertiger und funktionaler Winterprodukte für Babys und Kinder und spare 30% auf tolle Winter-Klassiker.<\/p>",
+            "url": "https:\/\/herzanherz-shop.ch\/collections\/wintersale-24",
+            "btn_name": "Zum Winter Sale"
+          }
         }
       },
       "block_order": [
-        "bda35f88-36c5-4661-a703-9f1ce55cd109",
         "item_zabzeK",
+        "item_Jc9eFD",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
-        "67bececa-9c31-424d-a18a-4a49adda00b5"
+        "67bececa-9c31-424d-a18a-4a49adda00b5",
+        "bda35f88-36c5-4661-a703-9f1ce55cd109"
       ],
       "settings": {
       }

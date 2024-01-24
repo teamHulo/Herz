@@ -161,6 +161,52 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_cM6aqz": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_CFheHU": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_A9AVeP": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Erstausstattung<\/h2><p>Möchtest du etwas für die Erstausstattung verschenken, dann wähle etwas, das über längere Zeit Freude macht und nebenbei noch extra Komfort bietet: Kleidung aus Wolle oder Seide hält die Temperatur konstant, ist antibakteriell und muss selten gewaschen werden. Und weil Neugeborene unglaublich schnell grösser werden, ist es umso schöner, wenn die Kleidung mitwächst und auch nach mehreren Monaten noch passt.<\/p><p>Wir empfehlen: Einen mitwachsenden <a href=\"\/collections\/body-langarm\" target=\"_blank\" title=\"Body langarm\">Body<\/a> von Minimalisma oder ManyMonths, ein <a href=\"\/products\/pickapooh-newborn-knotenmutze-paula\" target=\"_blank\" title=\"Newborn Knotenmütze aus Wolle-Seide PAULA uni\">Knotenmützchen<\/a> von Pickapooh oder ein buntes, handgenähtes <a href=\"\/products\/bettmaus-pumphosen\" target=\"_blank\" title=\"Pumphösli aus Bio-Baumwolle\">Bio-Pumphösli<\/a>. Ergänze das Geschenk mit einem hübschen <a href=\"\/collections\/greiflinge-beissringe-rasseln\" target=\"_blank\" title=\"Greiflinge & Beissringe & Rasseln\">Holz-Greifling<\/a>, einer <a href=\"\/collections\/babydecken\" target=\"_blank\" title=\"Babydecken\">Babydecke<\/a> oder einem <a href=\"\/collections\/nuschis-sabberlatzli\" target=\"_blank\" title=\"Nuschis & Sabberlätzli\">Nuschi<\/a>.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_eDpcW6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Mehr über die Erstausstattung erfahren",
+            "button_link": "shopify:\/\/pages\/erstausstattung",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_CFheHU",
+        "text_A9AVeP",
+        "button_eDpcW6"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Slider-Bild-Erstausstattung-Wolle-Seide-Babykleider.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -169,6 +215,7 @@
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "d9d26fc9-a25d-4077-9aad-6466edd663a3",
-    "image_with_text_qX6Fnc"
+    "image_with_text_qX6Fnc",
+    "image_with_text_cM6aqz"
   ]
 }

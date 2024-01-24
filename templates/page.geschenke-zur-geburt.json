@@ -299,6 +299,52 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_rcX6rH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ACxf3C": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_pqpzbb": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Babys Name in Holzbuchstaben<\/h2><p>Auch wenn das Neugeborene noch lange kein eigenes Zimmer braucht - den eigenen Namen in hübschen und angenehm nach Arven duftenden Buchstaben geschenkt zu bekommen, ist eine ganz besondere Ehre.<\/p><p>Die Buchstaben werden in Winterthur aus einheimischem Holz hergestellt. Wir haben übrigens viele lokal handgemachte Produkte: Wie wäre es mit einer bunt gemusterten Bettmaus, einem Knistertuch oder handgenähten Wolle-Seide-Body?<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_8Tgb9U": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zur Babyschaukel",
+            "button_link": "shopify:\/\/products\/swingsanddreams-babyschaukel",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ACxf3C",
+        "text_pqpzbb",
+        "button_8Tgb9U"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Holz-Buchstaben.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -310,6 +356,7 @@
     "image_with_text_qX6Fnc",
     "image_with_text_cM6aqz",
     "image_with_text_x933jV",
-    "image_with_text_xaQPCt"
+    "image_with_text_xaQPCt",
+    "image_with_text_rcX6rH"
   ]
 }

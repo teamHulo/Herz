@@ -70,74 +70,6 @@
         "padding_bottom": 52
       }
     },
-    "44c01f17-18ce-4124-bc46-25f6a8583cc9": {
-      "type": "rich-text",
-      "blocks": {
-        "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Wochenbett-Korb<\/h2><p>In der Zeit nach der Geburt ist für Mama und Baby erstmal für ein paar Wochen schonen angesagt. Der Körper muss sich erholen, die Beziehung zum Baby darf sich entfalten, der neue Alltag sich sanft einpendeln.<\/p><p>Verschenke einen Wochenbettkorb voller nährender Produkte fürs Wochenbett: Stärkende Snacks, Kraftbrühen, regenerierende Balsame, Mama-Baby-Bäder, leckere Stilltees, Stillkugeln, Stilleinlagen, ein alufreies Still-Deo, Seifen ohne Parfüm, wohltuende Pflege für Bauch und Intimbereich,... Wir beraten dich gerne und stellen auf Wunsch auch einen Wochenbettkorb für dich zusammen - ganz nach deinen Wünschen und deinem Budget.<\/p>"
-          }
-        },
-        "8aa4bfdf-a799-463e-a251-3a0ff167620a": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5",
-        "8aa4bfdf-a799-463e-a251-3a0ff167620a"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "9bd6da64-741f-4778-b102-c414c3587318": {
-      "type": "rich-text",
-      "blocks": {
-        "70218380-5e6d-45e8-8037-a035266de833": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Das ist ganz nützlich<\/h2><p><\/p>"
-          }
-        },
-        "33438ce5-47f1-4bc4-811e-9b5c8503c4f7": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "70218380-5e6d-45e8-8037-a035266de833",
-        "33438ce5-47f1-4bc4-811e-9b5c8503c4f7"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "d9d26fc9-a25d-4077-9aad-6466edd663a3": {
       "type": "image-with-text",
       "blocks": {
@@ -154,16 +86,25 @@
             "text": "<h2>Wochenbett-Korb<\/h2><p>In der Zeit nach der Geburt ist für Mama und Baby erstmal für ein paar Wochen schonen angesagt. Der Körper muss sich erholen, die Beziehung zum Baby darf sich entfalten, der neue Alltag sich sanft einpendeln.<\/p><p>Verschenke einen Wochenbettkorb voller nährender Produkte fürs Wochenbett: Stärkende Snacks, Kraftbrühen, regenerierende Balsame, Mama-Baby-Bäder, leckere Stilltees, Stillkugeln, Stilleinlagen, ein alufreies Still-Deo, Seifen ohne Parfüm, wohltuende Pflege für Bauch und Intimbereich,... Wir beraten dich gerne und stellen auf Wunsch auch einen Wochenbettkorb für dich zusammen - ganz nach deinen Wünschen und deinem Budget.<\/p>",
             "text_style": "body"
           }
+        },
+        "button_7zRdRV": {
+          "type": "button",
+          "settings": {
+            "button_label": "Fülle einen Wochenbettkorb",
+            "button_link": "shopify:\/\/collections\/geschenke-fur-den-wochenbettkorb",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-heading-1",
-        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1"
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1",
+        "button_7zRdRV"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/infobild-geschenke-zur-geburt.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -615,8 +556,6 @@
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
-    "44c01f17-18ce-4124-bc46-25f6a8583cc9",
-    "9bd6da64-741f-4778-b102-c414c3587318",
     "d9d26fc9-a25d-4077-9aad-6466edd663a3",
     "1d8754a4-e8bf-46ea-b6d6-71564cd84808",
     "1e702735-a8e9-4e16-a1ce-9d5cf6f1e539",

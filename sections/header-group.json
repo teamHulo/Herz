@@ -52,11 +52,20 @@
             "img": "shopify:\/\/shop_images\/Megamenu-Geburtsvorbereitung_b926e675-0302-4c1a-887d-1013cf48efd8.jpg",
             "url": "https:\/\/www.herzanherz.ch\/kurse\/dein-weg-zur-nat%C3%BCrlichen-geburt\/"
           }
+        },
+        "image_DWX8nW": {
+          "type": "image",
+          "settings": {
+            "menu_handle": "Geschenke",
+            "img": "shopify:\/\/shop_images\/Megamenu-Geschenke-zur-Geburt_9378d095-3441-4026-a577-411401f779d3.jpg",
+            "url": "shopify:\/\/pages\/geschenke-zur-geburt"
+          }
         }
       },
       "block_order": [
         "image_ngqb9j",
-        "image_g9BcHj"
+        "image_g9BcHj",
+        "image_DWX8nW"
       ],
       "settings": {
         "logo_position": "top-center",

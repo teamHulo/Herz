@@ -228,8 +228,8 @@
         "button_CLK4Vn": {
           "type": "button",
           "settings": {
-            "button_label": "Mehr über die Erstausstattung erfahren",
-            "button_link": "shopify:\/\/pages\/erstausstattung",
+            "button_label": "Geburtstagsring & Zubehör entdecken",
+            "button_link": "shopify:\/\/collections\/festtagsring-zubehor",
             "button_style_secondary": false
           }
         }

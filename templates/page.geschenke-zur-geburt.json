@@ -412,8 +412,8 @@
         "button_iBfiJf": {
           "type": "button",
           "settings": {
-            "button_label": "Geschenke für werdende Geschwister",
-            "button_link": "shopify:\/\/collections\/geschenke-fur-werdende-geschwister",
+            "button_label": "Gutschein kaufen",
+            "button_link": "shopify:\/\/collections\/gutscheine",
             "button_style_secondary": false
           }
         }
@@ -424,7 +424,7 @@
         "button_iBfiJf"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Puppen-Tragehilfe.jpg",
+        "image": "shopify:\/\/shop_images\/Infobild-Gutschein.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",

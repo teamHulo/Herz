@@ -207,6 +207,52 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_x933jV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_fKAFfL": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_mwJzBg": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Geburtstagsring<\/h2><p>Feste und Rituale in der Familie sind etwas wunderschönes. Sie geben dem Kind Orientierung und schaffen zauberhafte Erinnerungen. Mit einem <a href=\"\/collections\/festtagsring-zubehor\" target=\"_blank\" title=\"Festtagsring & Zubehör\">Geburtstagsring<\/a> (den du natürlich zu allen anderen Festtagen oder auch im Alltag als Dekoration verwenden kannst) legst du den Grundstein für eine schöne und ebenso nachhaltige Geburtstags-Tradition, denn er kann jedes Jahr wieder verwendet und neu geschmückt werden.<\/p><p>Verschenke einen Festtagsring oder eine Festtagsspirale und einen passenden Grundstock an Steckfiguren, Kerzen und Bilderhalter. Dazu eine Krone fürs Geburtstagskind, eine <a href=\"\/products\/grimms-wimpelkette\" target=\"_blank\" title=\"Wimpelkette aus Holz\">Wimpelkette<\/a> und <a href=\"\/products\/grimms-konfettitaler\" target=\"_blank\" title=\"Konfettitaler aus Holz\">Konfetti-Taler<\/a> aus Holz. Mit diesem Geschenk sorgst du dafür, dass alle weiteren Geburtstage in der Familie unvergesslich werden.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_CLK4Vn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Mehr über die Erstausstattung erfahren",
+            "button_link": "shopify:\/\/pages\/erstausstattung",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_fKAFfL",
+        "text_mwJzBg",
+        "button_CLK4Vn"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Grimms-Geburtstagsring.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -216,6 +262,7 @@
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "d9d26fc9-a25d-4077-9aad-6466edd663a3",
     "image_with_text_qX6Fnc",
-    "image_with_text_cM6aqz"
+    "image_with_text_cM6aqz",
+    "image_with_text_x933jV"
   ]
 }

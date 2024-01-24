@@ -148,10 +148,10 @@
         "button_hMcw6x"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-geschenke-zur-geburt.jpg",
+        "image": "shopify:\/\/shop_images\/infobild-tragebaby.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",

@@ -391,6 +391,52 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_epUTnw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_acTULG": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_rhhxTU": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Geschenkgutschein<\/h2><p>Die Familie soll lieber selber auswählen? Dann verschenke ganz einfach einen Herz an Herz Geschenkgutschein. Er kann im Laden oder Onlineshop eingelöst werden und ist auch für alle unsere Beratungen gültig.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_iBfiJf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Geschenke für werdende Geschwister",
+            "button_link": "shopify:\/\/collections\/geschenke-fur-werdende-geschwister",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_acTULG",
+        "text_rhhxTU",
+        "button_iBfiJf"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Puppen-Tragehilfe.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -404,6 +450,7 @@
     "image_with_text_x933jV",
     "image_with_text_xaQPCt",
     "image_with_text_rcX6rH",
-    "image_with_text_89ba7b"
+    "image_with_text_89ba7b",
+    "image_with_text_epUTnw"
   ]
 }

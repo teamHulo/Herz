@@ -13,7 +13,7 @@ Usage:
   {%- if block.settings.picker_type == 'button' -%}
     <variant-radios
       id="variant-radios-{{ section.id }}"
-      class="no-js-hidden"
+      class="no-js-hidden {% if  option.name != 'Color' and option.name != 'color' and option.name != 'Farbe' and option.name != 'farbe' %}options-no-color{% endif %}"
       data-section="{{ section.id }}"
       data-url="{{ product.url }}"
       {% if update_url == false %}

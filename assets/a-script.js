@@ -259,7 +259,6 @@ $(() => {
     let isChecked = $(this).prop("checked");
     if (isChecked) {
       let valInput = $(this).val();
-      console.log(valInput);
       $(this)
         .closest(".my-custom-select-product-wrap")
         .find(".custom-select-value p")
@@ -269,16 +268,14 @@ $(() => {
 
   $(document).on("change",".my-input-radio", function () {
     let valInput = $(this).val();
-    console.log(valInput);
     let customSelectProductWrap = $(this).closest(".my-custom-select-product-wrap");
     
     customSelectProductWrap.find(".custom-select-value p")
       .text(valInput);
-      console.log(customSelectProductWrap);
     customSelectProductWrap.toggleClass("active");
   });
 
-  $(".select__wrap-header").on("click", function () {
+  $(document).on("click", '.select__wrap-header', function () {
     $(this).closest(".my-custom-select-product-wrap").toggleClass("active");
   });
 
@@ -306,7 +303,6 @@ $(() => {
       $(cart).find('.product_image-wrap img').attr('src',src);
     }
   }*/
-  console.log('213123123');
   function cartImageUpdate(src, cart) {
     if (src != "" && src != undefined && src != null) {
       const image = $(cart).find(".product_image-wrap img");
@@ -322,7 +318,6 @@ $(() => {
       let variantData = JSON.parse(
         cart.querySelector('[type="application/json"]').textContent
       );
-      console.log(variantData);
       for (let i = 0; i < variantData.length; i++) {
         if (variantData[i].id == id) {
           option1 = variantData[i].option1;
@@ -337,7 +332,6 @@ $(() => {
       } else {
         option3 = colorValue;
       }
-      console.log(option1, option2, option3);
       for (let i = 0; i < variantData.length; i++) {
         if (
           (variantData[i].option1 === option1 || option1 === undefined) &&
@@ -356,11 +350,8 @@ $(() => {
 
   function handleResponse() {
     let a = this.responseText;
-    console.log(a);
     let parser = new DOMParser();
-    console.log(parser);
     let objCarts = JSON.parse(this.responseText);
-    console.log(objCarts);
     $("#cart-icon-bubble").html($(objCarts["cart-icon-bubble"]).html());
     $("cart-drawer").html(
       $(objCarts["cart-drawer"]).find("cart-drawer").html()
@@ -379,7 +370,6 @@ $(() => {
   });
 
   $(document).on('click',".add-my-cart", function (e) {
-    console.log('CLICK')
     e.preventDefault();
     let variant = $(this)
       .closest(".my-cart-product")

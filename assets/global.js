@@ -1112,6 +1112,21 @@ class VariantSelects extends HTMLElement {
 
         const volumePricingDestination = document.getElementById(`Volume-${this.dataset.section}`);
 
+        const domVariantsNoColor = document.querySelector('.options-no-color');
+        const variantsNoColor = html.querySelector('.options-no-color');
+
+        if(variantsNoColor) {
+          domVariantsNoColor.innerHTML = variantsNoColor.innerHTML;
+          domVariantsNoColor.querySelectorAll('.my-input-radio').forEach(el => {
+            let isChecked = el.checked;
+            if (isChecked) {
+              let valInput = el.value;
+              const customSelectElement = el.closest('.my-custom-select-product-wrap').querySelector('.custom-select-value > p');
+              customSelectElement.innerText = valInput
+            }
+          });
+        }
+
         if (source && destination) destination.innerHTML = source.innerHTML;
         if (inventorySource && inventoryDestination) inventoryDestination.innerHTML = inventorySource.innerHTML;
         if (skuSource && skuDestination) {

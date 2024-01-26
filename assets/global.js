@@ -991,6 +991,19 @@ class VariantSelects extends HTMLElement {
         })
         .includes(false);
     });
+
+    if(!this.currentVariant) {
+      const selectedOptionOneVariants = this.variantData.filter(
+        (variant) => this.querySelector(':checked').value === variant.option1
+      );
+      const firstAvailable =  selectedOptionOneVariants.filter(el => el.available == true)
+
+      if(firstAvailable.length) {
+        this.currentVariant = firstAvailable[0]
+      } else {
+        this.currentVariant = selectedOptionOneVariants[0]
+      }
+    }
   }
 
   updateMedia() {

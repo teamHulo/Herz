@@ -124,6 +124,14 @@
             "img": "shopify:\/\/shop_images\/Megamenu-Mensunterwasche.jpg",
             "url": "shopify:\/\/collections\/mensunterwasche"
           }
+        },
+        "image_DLbAqM": {
+          "type": "image",
+          "settings": {
+            "menu_handle": "Frausein",
+            "img": "shopify:\/\/shop_images\/Megamenu-Paarzeit.jpg",
+            "url": "shopify:\/\/collections\/paarzeit"
+          }
         }
       },
       "block_order": [
@@ -137,7 +145,8 @@
         "image_zNM6qx",
         "image_me6bbX",
         "image_JaBDqg",
-        "image_V4yF97"
+        "image_V4yF97",
+        "image_DLbAqM"
       ],
       "settings": {
         "logo_position": "top-center",

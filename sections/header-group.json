@@ -84,6 +84,14 @@
             "img": "shopify:\/\/shop_images\/Megamenu-Babyzeit-Schlafsack.jpg",
             "url": "shopify:\/\/collections\/schlafsacke"
           }
+        },
+        "image_tBBQUU": {
+          "type": "image",
+          "settings": {
+            "menu_handle": "Babyzeit",
+            "img": "shopify:\/\/shop_images\/Megamenu-Babyzeit-Stillmode.jpg",
+            "url": "shopify:\/\/collections\/umstands-stillmode"
+          }
         }
       },
       "block_order": [
@@ -92,7 +100,8 @@
         "image_DWX8nW",
         "image_YEdWz7",
         "image_Fajgcw",
-        "image_dzPfPt"
+        "image_dzPfPt",
+        "image_tBBQUU"
       ],
       "settings": {
         "logo_position": "top-center",

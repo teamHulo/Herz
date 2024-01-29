@@ -76,6 +76,14 @@
             "img": "shopify:\/\/shop_images\/Megamenu-Warum-Barfuss-Schuhe.jpg",
             "url": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder"
           }
+        },
+        "image_dzPfPt": {
+          "type": "image",
+          "settings": {
+            "menu_handle": "Babyzeit",
+            "img": "shopify:\/\/shop_images\/Megamenu-Babyzeit-Schlafsack.jpg",
+            "url": "shopify:\/\/collections\/schlafsacke"
+          }
         }
       },
       "block_order": [
@@ -83,7 +91,8 @@
         "image_g9BcHj",
         "image_DWX8nW",
         "image_YEdWz7",
-        "image_Fajgcw"
+        "image_Fajgcw",
+        "image_dzPfPt"
       ],
       "settings": {
         "logo_position": "top-center",

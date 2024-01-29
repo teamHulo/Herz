@@ -96,9 +96,9 @@
         "image_zNM6qx": {
           "type": "image",
           "settings": {
-            "menu_handle": "Babyzeit",
+            "menu_handle": "Kindermode",
             "img": "shopify:\/\/shop_images\/Megamenu-Wolle-Seide.jpg",
-            "url": ""
+            "url": "shopify:\/\/collections\/wolle-seide-produkte"
           }
         }
       },

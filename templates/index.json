@@ -348,6 +348,15 @@
       "settings": {
       }
     },
+    "section_with_text_btn_ECAitC": {
+      "type": "section-with-text-btn",
+      "settings": {
+        "title": "Feste & Rituale mit Kindern erleben",
+        "text": "<p>Feste und Rituale spielen eine bedeutsame Rolle in Familien, insbesondere wenn es darum geht, sich im Jahr zu orientieren. So werden Familientraditionen erschaffen, ihr macht gemeinsam die Jahreszeiten erlebbar und den Verlauf der Zeit sichtbar.<\/p>",
+        "url": "shopify:\/\/collections\/fruhling",
+        "btn_name": "Den Frühling entdecken"
+      }
+    },
     "section_slider_ennB3g": {
       "type": "section-slider",
       "blocks": {
@@ -380,23 +389,12 @@
             "url": "shopify:\/\/collections\/jahreszeiten",
             "btn_name": "Jetzt entdecken"
           }
-        },
-        "item_GpMMmz": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Leichte.jpg",
-            "title": "Leichte Umstands-\u2028& Tragejacken",
-            "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.<\/p>",
-            "url": "shopify:\/\/collections\/leichte-umstands-tragejacken",
-            "btn_name": "Jetzt einkaufen"
-          }
         }
       },
       "block_order": [
         "item_xCEKRK",
         "item_4WCR8B",
-        "item_qtgAht",
-        "item_GpMMmz"
+        "item_qtgAht"
       ],
       "disabled": true,
       "settings": {
@@ -608,6 +606,7 @@
     "26c8d3c8-7ce7-4af3-9637-22df869f6e7b",
     "a0cd7d12-bf7a-4e82-8365-6c3379aab588",
     "32304844-b226-476a-b89c-c9bad2a32f6b",
+    "section_with_text_btn_ECAitC",
     "section_slider_ennB3g",
     "3042eba3-91b9-4a6e-9e08-4e8237a86bf5",
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba",

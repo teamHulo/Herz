@@ -116,6 +116,14 @@
             "img": "shopify:\/\/shop_images\/Megamenu-Lernturm.jpg",
             "url": "shopify:\/\/collections\/learning-tower"
           }
+        },
+        "image_V4yF97": {
+          "type": "image",
+          "settings": {
+            "menu_handle": "Frausein",
+            "img": "shopify:\/\/shop_images\/Megamenu-Mensunterwasche.jpg",
+            "url": "shopify:\/\/collections\/mensunterwasche"
+          }
         }
       },
       "block_order": [
@@ -128,7 +136,8 @@
         "image_tBBQUU",
         "image_zNM6qx",
         "image_me6bbX",
-        "image_JaBDqg"
+        "image_JaBDqg",
+        "image_V4yF97"
       ],
       "settings": {
         "logo_position": "top-center",

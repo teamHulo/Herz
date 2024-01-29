@@ -3,6 +3,18 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "item_WxFtCe": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Paarzeit-Kartenset-Paare-Sofasafari-2_66294_2.jpg",
+            "img2": "shopify:\/\/shop_images\/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
+            "img3": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_sweetvalentine_63229_2.jpg",
+            "title": "Für Verliebte",
+            "text": "<p>Es müssen nicht immer Blumen oder Schokolade zum Valentinstag sein. (Und es muss auch gar nicht Valentinstag sein, um seine Liebsten zu beschenken.) Unsere Paarzeit Artikel schaffen besondere Augenblicke und bringen euch als Paar näher zusammen. Und auch sonst haben wir ein paar kleine, feine Highlights für Paare.<\/p>",
+            "url": "shopify:\/\/collections\/partnerschaft",
+            "btn_name": "Guck dich um!"
+          }
+        },
         "item_zabzeK": {
           "type": "item",
           "settings": {
@@ -13,19 +25,6 @@
             "text": "<p>Verkleiden und in andere Rollen schlüpfen ist für Kinder ein absolutes Highlight! Mit unserem natürlichen & ungiftigen Bio Kinderschminksets, der Haar-Mascara oder dem natürlichen Nagellack für Kinder seid ihr für die Fasnacht, den Kindergeburtstag oder den kunterbunten Alltagsspass gerüstet.<\/p>",
             "url": "shopify:\/\/collections\/kinder-accessoires",
             "btn_name": "Zu den Produkten"
-          }
-        },
-        "item_WxFtCe": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Paarzeit-Kartenset-Paare-Sofasafari-2_66294_2.jpg",
-            "img2": "shopify:\/\/shop_images\/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
-            "img3": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_sweetvalentine_63229_2.jpg",
-            "title": "Für Verliebte",
-            "text": "<p>Es müssen nicht immer Blumen oder Schokolade zum Valentinstag sein. (Und es muss auch gar nicht Valentinstag sein, um seine Liebsten zu beschenken.) Unsere Paarzeit Artikel schaffen besondere Augenblicke und bringen euch als Paar näher zusammen. Und auch sonst haben wir ein paar kleine, feine Highlights für Paare.<\/p>",
-            "url": "shopify:\/\/collections\/partnerschaft",
-            "btn_name": "Guck dich um!"
           }
         },
         "item_Jc9eFD": {
@@ -116,8 +115,8 @@
         }
       },
       "block_order": [
-        "item_zabzeK",
         "item_WxFtCe",
+        "item_zabzeK",
         "item_Jc9eFD",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",

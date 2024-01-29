@@ -76,100 +76,12 @@
         "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Entdecke unsere Windelsysteme<\/h2><p>Es gibt (ganz vereinfacht gesagt) zwei verschiedene Arten, mit Stoff zu wickeln: Entweder verwendest du eine Komplettwindel, die aus einem Stück besteht, in einem \"Arbeitsschritt\" angezogen werden kann und komplett in die Wäsche wandert, wenn sie nass oder schmutzig wird. Oder du kombinierst eine wasserdichte Überhose mit einer saugenden Einlage. Dann wechselst du nur die Einlage und kannst die Überhose mehrmals verwenden. Eine etwas speziellere Form des Überhose-Einlage-Systems ist das \"All-in-three\" System. Diese Windel besteht aus einer Aussenwindel aus Stoff, einer wasserdichten Wanne (Innenwindel) und einer schmalen Einlage.<\/p>"
+            "text": "<h2>Entdecke unsere Windelsysteme<\/h2><p>Es gibt (ganz vereinfacht gesagt) zwei verschiedene Arten, mit Stoff zu wickeln: Entweder verwendest du eine All-in-one Komplettwindel, die aus einem Stück besteht, in einem \"Arbeitsschritt\" angezogen werden kann und komplett in die Wäsche wandert, wenn sie nass oder schmutzig wird. Oder du kombinierst eine wasserdichte Überhose mit einer saugenden Einlage. Dann wechselst du nur die Einlage und kannst die Überhose mehrmals verwenden. Eine etwas speziellere Form des Überhose-Einlage-Systems ist das \"All-in-three\" System. Diese Windel besteht aus einer Aussenwindel aus Stoff, einer wasserdichten Wanne (Innenwindel) und einer schmalen Einlage.<\/p>"
           }
         }
       },
       "block_order": [
         "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "388c73b8-7370-40e1-a909-65073172a5ee": {
-      "type": "rich-text",
-      "blocks": {
-        "121e17b7-86da-409f-b7fc-df65ab3dc485": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>2. Schicht<\/h4><p>Wir empfehlen einen Woll-Pullover oder Woll-Jäckli. Und bei trockenem Wetter eine etwas dickere Hose oder Leggings aus Wolle. Bei Regen oder Schnee eine Wollwalkhose. Wenn das Baby unter einer Tragejacke getragen wird, braucht es diese zweite Schicht nicht. Meist reicht dann die Wohnungskleidung kombiniert mit passenden Accessoires aus.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "121e17b7-86da-409f-b7fc-df65ab3dc485"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "3775d3fa-6914-4695-bb24-49ef76cf4845": {
-      "type": "rich-text",
-      "blocks": {
-        "4d5b5399-751a-44ad-b61b-5b61d650bdac": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>3. Schicht<\/h4><p>Die dritte Schicht bildet eine Jacke oder ein Anzug. Wollwalk ist besonders wärmend, robust und angenehm zu tragen. Die perfekte Outdoor-Kleidung für kleine Weltentdecker! Anzüge aus Wollfleece sind etwas feiner und toll für kleine Babys. Wolle wärmt, ist wasserabweisend und auch für Schnee gut geeignet. Für sehr nasse Tage kann eine Regenhose oder ein Regenanzug mit den unteren Schichten kombiniert werden.<\/p><p>Gut zu wissen: Schneeanzüge mit Luftpolstern, sind nicht zum Tragen von Babys geeignet, da die Luftpolster beim Tragen zusammengedrückt werden und so nicht mehr wärmen. Wir empfehlen, Babys unter jährig in Wohnungskleidung unter einer Tragejacke zu tragen, so funktioniert der Wärmeaustausch am besten. Für ältere Kinder, die über der Jacke getragen werden, eignet sich ein Wollwalk-Overall.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "4d5b5399-751a-44ad-b61b-5b61d650bdac"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "8036f04c-8a1b-4f53-9952-98bd167f1f6e": {
-      "type": "rich-text",
-      "blocks": {
-        "22191bc8-f3b2-431d-9f2f-bdc78eda99d2": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>4. Schicht<\/h4><p>An die Füsse: Für Kinder, die hauptsächlich getragen werden, gibt es praktische Tragestiefelchen aus Wolle oder Softshell. Laufen die Kinder schon, eignen sich auch Booties und Barfuss-Winterschuhe mit warmem Woll-Futter.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "22191bc8-f3b2-431d-9f2f-bdc78eda99d2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "44c01f17-18ce-4124-bc46-25f6a8583cc9": {
-      "type": "rich-text",
-      "blocks": {
-        "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Accessoires<\/h2><p>Wenn es kalt ist, sind die richtigen Accessoires für dein Kind Gold wert. Auch hier setzen wir hauptsächlich auf Produkte aus Wolle oder Wolle-Seide.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -186,7 +98,7 @@
         "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h3>Mützen & Stirnbänder<\/h3><p>Je nach Temperatur eignen sich leichte oder dickere Mützen aus Wolle\/Seide, Wollstrick oder Wollwalk. Wir lieben auch Schlupfmützen: Sie wärmen den Hals gleich mit. Das ist beim Tragen des Babys nützlich, wo ein Halstuch schwieriger ist. Auch wenn es auf dem Rücken getragen wird und eine Tragejacke drübergezogen wird, verrutscht die Schlupfmütze nicht.<\/p>",
+            "text": "<h3>All-in-one \/ <\/h3><p>Je nach Temperatur eignen sich leichte oder dickere Mützen aus Wolle\/Seide, Wollstrick oder Wollwalk. Wir lieben auch Schlupfmützen: Sie wärmen den Hals gleich mit. Das ist beim Tragen des Babys nützlich, wo ein Halstuch schwieriger ist. Auch wenn es auf dem Rücken getragen wird und eine Tragejacke drübergezogen wird, verrutscht die Schlupfmütze nicht.<\/p>",
             "text_style": "body"
           }
         },
@@ -387,10 +299,6 @@
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
-    "388c73b8-7370-40e1-a909-65073172a5ee",
-    "3775d3fa-6914-4695-bb24-49ef76cf4845",
-    "8036f04c-8a1b-4f53-9952-98bd167f1f6e",
-    "44c01f17-18ce-4124-bc46-25f6a8583cc9",
     "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
     "e0647214-9936-4525-a517-be4c05c8b5c3",

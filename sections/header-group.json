@@ -100,6 +100,14 @@
             "img": "shopify:\/\/shop_images\/Megamenu-Wolle-Seide.jpg",
             "url": "shopify:\/\/collections\/wolle-seide-produkte"
           }
+        },
+        "image_me6bbX": {
+          "type": "image",
+          "settings": {
+            "menu_handle": "Familienalltag",
+            "img": "shopify:\/\/shop_images\/Megamenu-Geburtstagsring.jpg",
+            "url": "shopify:\/\/collections\/feste-rituale"
+          }
         }
       },
       "block_order": [
@@ -110,7 +118,8 @@
         "image_Fajgcw",
         "image_dzPfPt",
         "image_tBBQUU",
-        "image_zNM6qx"
+        "image_zNM6qx",
+        "image_me6bbX"
       ],
       "settings": {
         "logo_position": "top-center",

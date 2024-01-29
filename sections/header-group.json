@@ -92,6 +92,14 @@
             "img": "shopify:\/\/shop_images\/Megamenu-Babyzeit-Stillmode.jpg",
             "url": "shopify:\/\/collections\/umstands-stillmode"
           }
+        },
+        "image_zNM6qx": {
+          "type": "image",
+          "settings": {
+            "menu_handle": "Babyzeit",
+            "img": "shopify:\/\/shop_images\/Megamenu-Wolle-Seide.jpg",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -101,7 +109,8 @@
         "image_YEdWz7",
         "image_Fajgcw",
         "image_dzPfPt",
-        "image_tBBQUU"
+        "image_tBBQUU",
+        "image_zNM6qx"
       ],
       "settings": {
         "logo_position": "top-center",

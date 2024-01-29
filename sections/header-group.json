@@ -108,6 +108,14 @@
             "img": "shopify:\/\/shop_images\/Megamenu-Geburtstagsring.jpg",
             "url": "shopify:\/\/collections\/feste-rituale"
           }
+        },
+        "image_JaBDqg": {
+          "type": "image",
+          "settings": {
+            "menu_handle": "Familienalltag",
+            "img": "shopify:\/\/shop_images\/Megamenu-Lernturm.jpg",
+            "url": "shopify:\/\/collections\/learning-tower"
+          }
         }
       },
       "block_order": [
@@ -119,7 +127,8 @@
         "image_dzPfPt",
         "image_tBBQUU",
         "image_zNM6qx",
-        "image_me6bbX"
+        "image_me6bbX",
+        "image_JaBDqg"
       ],
       "settings": {
         "logo_position": "top-center",

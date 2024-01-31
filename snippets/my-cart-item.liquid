@@ -39,6 +39,7 @@
   {% if show_contant != false %}
     <div class="product-contant">
       <div class="title scroll-trigger animate--slide-in" style="--animation-order: 0;">
+        {{ product.vendor | link_to_vendor: class: 'product__text product_vendor' }}
         <h3>
           <a href="{{product.url}}">{{ product.title }}</a>
         </h3>

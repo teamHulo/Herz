@@ -2697,3 +2697,7 @@ header-menu .mega-menu summary svg {
     width: 50px;
   }
 }
+
+.product_vendor {
+  text-decoration: underline !important;
+}

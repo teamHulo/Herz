@@ -36,9 +36,23 @@
             {% assign vendorUrl = routes.all_products_collection_url | append: prfx | append: vendorName %}
             <div class="item">
                 {% if block.settings.url != blank %}        
-                    <div class="title"><a href="{{ block.settings.url }}"><h2>{{ block.settings.title }}</h2></a></div>
+                    <div class="title">
+                        <a href="{{ block.settings.url }}">
+                            <h2>{{ block.settings.title }}</h2>
+                        </a>
+                        {% if block.settings.logo != blank %}
+                            <img src="{{ block.settings.logo | img_url: 'master'}}" alt="" style="width: 200px;">
+                        {% endif %}
+                    </div>
                 {% else %}
-                <div class="title"><a href="/collections/vendors?q={{ vendorName }}"><h2>{{ block.settings.title }}</h2></a></div>
+                <div class="title">
+                    <a href="/collections/vendors?q={{ vendorName }}">
+                        <h2>{{ block.settings.title }}</h2>
+                    </a>
+                    {% if block.settings.logo != blank %}
+                        <img src="{{ block.settings.logo | img_url: 'master'}}" alt="" style="width: 200px;">
+                    {% endif %}
+                </div>
                 {% endif %}
                 <div class="text">{{ block.settings.text }}</div>
             </div>
@@ -90,6 +104,11 @@
                     "type": "url",
                     "id": "url",
                     "label": "Link url"
+                },
+                {
+                    "type": "image_picker",
+                    "id": "logo",
+                    "label": "Logo"
                 }
             ]
         }

@@ -98,15 +98,15 @@
         "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h3>All-in-one \/ Pocket<\/h3><p>Je nach Temperatur eignen sich leichte oder dickere Mützen aus Wolle\/Seide, Wollstrick oder Wollwalk. Wir lieben auch Schlupfmützen: Sie wärmen den Hals gleich mit. Das ist beim Tragen des Babys nützlich, wo ein Halstuch schwieriger ist. Auch wenn es auf dem Rücken getragen wird und eine Tragejacke drübergezogen wird, verrutscht die Schlupfmütze nicht.<\/p>",
+            "text": "<h3>All-in-one \/ Pocket<\/h3><p>Die All-in-one ist eine Komplettwindel, die ganz ähnlich wie eine Wegwerfwindel funktioniert. Dieses unkomplizierte System eignet sich gut zum Einsteigen ins Wickeln mit Stoff. Es gibt eine einzige Grösse, die dank dem verstellbaren Verschluss von Anfang an bis zum Ende der Wickelzeit passt. Für ganz kleine Neugeborene ist sie in der Regel noch etwas zu gross, passt aber ab ca. 3 Monaten.<\/p>",
             "text_style": "body"
           }
         },
         "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Zu den Mützen",
-            "button_link": "shopify:\/\/collections\/mutzen-stirnbander",
+            "button_label": "Zu den All-in-ones",
+            "button_link": "shopify:\/\/collections\/all-in-one",
             "button_style_secondary": false
           }
         }

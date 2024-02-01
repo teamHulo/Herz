@@ -15,7 +15,7 @@
         "padding_bottom": 60,
         "logo": "shopify:\/\/shop_images\/Group.png",
         "title": "Willkommen auf unserer Wissens-Seite",
-        "text": "",
+        "text": "<p>Hier findest du eine Übersicht über verschiedene spannende Themen.<\/p>",
         "max_width": 1050
       }
     },
@@ -119,7 +119,7 @@
         "button_AfGDxn"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-geschenk.jpg",
+        "image": "shopify:\/\/shop_images\/info-erkaeltung-kind_Klein.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",

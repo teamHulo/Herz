@@ -219,7 +219,7 @@
         "fbbbd352-9a4f-49a2-be70-e82c0f9155bd": {
           "type": "button",
           "settings": {
-            "button_label": "Einlagen \/ Prefolds",
+            "button_label": "Zu den Einlagen & Prefolds",
             "button_link": "shopify:\/\/collections\/prefolds-einlagen",
             "button_style_secondary": false
           }
@@ -230,7 +230,7 @@
         "fbbbd352-9a4f-49a2-be70-e82c0f9155bd"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Handschuhe.jpg",
+        "image": "shopify:\/\/shop_images\/culla-di-teby-6pack-einlagen-bambus-culla-di-teby-prefolds-einlagen-stoffwindeln-304-21903-2.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",

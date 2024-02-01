@@ -208,6 +208,44 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_Xbnawt": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_9KwUti": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Tragejacken<\/h2><h4>Mit Baby unterwegs im Herbst & Winter<\/h4><p>Gerade wenn es kühl ist, profitiert das Baby besonders vom Tragen. Warum das so ist und welche Kleidung sich zum Tragen eignet (und welche nicht), erfährst du hier. Wir stellen dir auch verschiedene Tragejacken vor, sodass du die richtige für dich findest. Papa trägt? Auch für ihn haben wir die passende Jacke.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_K9Vxbn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Stoffwindel-Guide",
+            "button_link": "shopify:\/\/pages\/stoffwindeln",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_9KwUti",
+        "button_K9Vxbn"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Wickeln.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -217,6 +255,7 @@
     "image_with_text_aaPfHF",
     "image_with_text_9jmtCV",
     "image_with_text_3QLkBQ",
-    "image_with_text_dXeC47"
+    "image_with_text_dXeC47",
+    "image_with_text_Xbnawt"
   ]
 }

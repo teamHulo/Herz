@@ -355,8 +355,8 @@
         "button_K9x983": {
           "type": "button",
           "settings": {
-            "button_label": "Zu den Überhosen",
-            "button_link": "shopify:\/\/collections\/uberhosen",
+            "button_label": "Pflege & Waschmittel",
+            "button_link": "shopify:\/\/collections\/pflege-waschmittel",
             "button_style_secondary": false
           }
         }

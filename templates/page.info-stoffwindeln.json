@@ -105,7 +105,7 @@
         "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Zu den All-in-ones",
+            "button_label": "All-in-one",
             "button_link": "shopify:\/\/collections\/all-in-one",
             "button_style_secondary": false
           }
@@ -143,7 +143,7 @@
         "1213e182-6420-4dc6-b2ba-8a8ad1072c57": {
           "type": "button",
           "settings": {
-            "button_label": "Zu den Schals",
+            "button_label": "All-in-three",
             "button_link": "shopify:\/\/collections\/all-in-three",
             "button_style_secondary": false
           }

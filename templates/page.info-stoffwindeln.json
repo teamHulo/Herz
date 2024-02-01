@@ -136,7 +136,7 @@
         "b1e16a22-d92a-4fef-8e59-67a00b4f1d98": {
           "type": "text",
           "settings": {
-            "text": "<h3>All-in-three<\/h3><p>Sie besteht aus Aussenwindel, Innenwindel und Einlage. Beim Wickeln wechselt man nur die Einlage und wenn nötig die Innenwindel. Dadurch hat man ein System, das wenig Wäsche macht. Zudem kommt viel Luft an die Haut und es gibt nicht so ein dickes \"Windelfüdli\" wie bei anderen Systemen.<\/p>",
+            "text": "<h3>All-in-three<\/h3><p>Sie besteht aus Bio-Baumwoll-Aussenwindel, Innenwindel und Einlage. Beim Wickeln wechselt man nur die Einlage und wenn nötig die Innenwindel. Dadurch hat man ein System, das wenig Wäsche macht. Zudem kommt viel Luft an die Haut und es gibt nicht so ein dickes \"Windelfüdli\" wie bei anderen Systemen.<\/p>",
             "text_style": "body"
           }
         },
@@ -250,7 +250,7 @@
         "text_PcbFjU": {
           "type": "text",
           "settings": {
-            "text": "<h3>Höschenwindel<\/h3><p>Die Höschenwindel ist eine saugfähige Windel, die viel Flexibilität ermöglicht. Da die ganze Windel saugt, ist die Saugkraft gut um den ganzen Po verteilt und die Windel eignet sich so bestens für die Nacht oder für längere Wickelabstände.<\/p>",
+            "text": "<h3>Höschenwindel<\/h3><p>Die Höschenwindel ist eine saugfähige Windel, die viel Flexibilität ermöglicht. Da die ganze Windel saugt, ist die Saugkraft gut um den ganzen Po verteilt und die Windel eignet sich so bestens für die Nacht oder für längere Wickelabstände. Sie muss mit einer wasserdichten Überhose kombiniert werden.<\/p>",
             "text_style": "body"
           }
         },
@@ -268,7 +268,7 @@
         "button_iFrfwh"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Doodush_Ueberhose_Botanic_Garden_Otulacz_OS_2_59464_2.jpg",
+        "image": "shopify:\/\/shop_images\/Windelzauberland_stoffwickeln_stoffwindel_baumwolle_flanell_bio_deutschland_hoeschenwindel_onesize_baby_newborn_neugeborene_snaps_feathers-of-happiness.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",

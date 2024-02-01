@@ -288,12 +288,24 @@
         "e27274ae-5ee3-4d54-9e4d-130cb04651b7": {
           "type": "text",
           "settings": {
-            "text": "<h2>Nützliches Zubehör<\/h2><h4>Wetbags<\/h4><p>In den Wetbags bewahrst du nasse und schmutzige Stoffwindeln auf bis sie gewaschen werden. Die grösseren Grössen sind perfekt für zuhause und die kleineren eignen sich für den Transport unterwegs in der Wickeltasche. Denn Nässe und Geruch bleiben zuverlässig drinnen.<\/p><p>Ein praktisches Accessoire in vielen bunten Designs, die Spass machen!<\/p>"
+            "text": "<h2>Nützliches Zubehör<\/h2><h4>Wetbags<\/h4><p>In den <a href=\"\/collections\/wetbags\" target=\"_blank\" title=\"Wetbags\">Wetbags<\/a> bewahrst du nasse und schmutzige Stoffwindeln auf bis sie gewaschen werden. Die grösseren Grössen sind perfekt für zuhause und die kleineren eignen sich für den Transport unterwegs in der Wickeltasche. Denn Nässe und Geruch bleiben zuverlässig drinnen.<\/p><p>Ein praktisches Accessoire in vielen bunten Designs, die Spass machen!<\/p><h4>Wickelunterlage<\/h4><p>Mit einer waschbaren <a href=\"\/collections\/wickelunterlagen\" target=\"_blank\" title=\"Wickelunterlagen\">Wickelunterlage<\/a> wickelst du dein Kind überall hygienisch und sauber. Sie lässt sich gut falten oder rollen und passt damit bestens in deine Wickeltasche. Die wasserdichte bzw. wasserabweisende Aussenschicht fängt einen \"Unfall\" auf und dank dem kuscheligen Futter liegt dein Baby überall bequem.<\/p><h4>Waschbare Feuchttücher<\/h4><p>Diese wiederverwendbaren <a href=\"\/collections\/waschlappen-feuchttucher\" target=\"_blank\" title=\"Waschlappen & Feuchttücher\">Feuchttücher aus Stoff<\/a> sind nicht nur für Stoffwindel-Fans eine tolle Sache! Damit reduzierst du den Abfall der Wegwerf-Feuchttücher, sparst Geld und kommst ganz ohne Chemie oder Parfüm aus.<\/p><p>Die Tücher werden einfach mit Wasser und gegebenenfalls etwas Kokosöl verwendet.<\/p>"
+          }
+        },
+        "button_KiBndE": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zum Stoffwindelzubehör",
+            "button_link": "shopify:\/\/collections\/stoffwindelzubehor",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "e27274ae-5ee3-4d54-9e4d-130cb04651b7"
+        "e27274ae-5ee3-4d54-9e4d-130cb04651b7",
+        "button_KiBndE"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -310,13 +322,13 @@
         "76fc5bc7-fa04-4e26-b5c9-7356990f3127": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Warme.jpg"
+            "img": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Petit_Lulu_Wickelunterlage_Hippos2_46142_2.jpg"
           }
         },
         "73eba713-8692-420c-87fe-5dddb984fb69": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/DeColores-Stulpen-Erwachsene_Kopie_66460_2.jpg"
+            "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Doodush_Wetbag_Sweet-Dreams.jpg"
           }
         }
       },
@@ -328,6 +340,44 @@
         "padding_top": 60,
         "padding_bottom": 60,
         "max_width": 870
+      }
+    },
+    "image_with_text_nHmTVQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_cj3gCA": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Waschen<\/h3><p>Um Chemie am Po des Kindes zu vermeiden, empfehlen wir ein ökologisches Waschmittel. <a href=\"\/products\/ulrichnatuerlich-windelwaschmittel\" target=\"_blank\" title=\"Windelwaschmittel ACTIFRESH\">Windelwaschmittel von Ulrich Natürlich<\/a> ist ideal, denn es wurde speziell für Stoffwindeln entwickelt und enthält alles, was es dafür braucht. Aber auch die <a href=\"\/products\/bluu\" target=\"_blank\" title=\"Waschstreifen\">Blue Waschstreifen<\/a> eignen sich für Stoffwindeln.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_K9x983": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Überhosen",
+            "button_link": "shopify:\/\/collections\/uberhosen",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_cj3gCA",
+        "button_K9x983"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Bluu_Waschmittel_Nachhaltig_ohne_Duft2_44904_2.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -343,6 +393,7 @@
     "9f2d927d-daf8-4fcf-aceb-a840a11d7b82",
     "image_with_text_ntarbL",
     "de7f5108-2c92-404d-8671-8437b9ae096a",
-    "66cf2c2d-098b-49ab-93be-9ca360db9db4"
+    "66cf2c2d-098b-49ab-93be-9ca360db9db4",
+    "image_with_text_nHmTVQ"
   ]
 }

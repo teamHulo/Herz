@@ -14,7 +14,7 @@
         "padding_top": 60,
         "padding_bottom": 60,
         "logo": "shopify:\/\/shop_images\/Group.png",
-        "title": "Advent, Weihnachten & Jahreswechsel mit Kindern",
+        "title": "Jahreszeiten, Feste & Rituale in der Familie",
         "text": "",
         "max_width": 1050
       }
@@ -25,7 +25,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h4>Feste und Rituale in der Familie<\/h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente steckt. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.<\/p>",
+            "text": "<h4>Kinder durch das Jahr begleiten<\/h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Geburtstage und andere Feste für dein Kind unvergesslich gestalten und die Jahreszeit zuhause sichtbar machen kannst (und warum das eine gute Idee ist) erfährst du hier.<\/p>",
             "text_style": "body"
           }
         }
@@ -34,7 +34,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Advent-Weihnachten-gestalten.jpg",
+        "image": "shopify:\/\/shop_images\/infobild-grimms-feste-rituale.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -73,12 +73,6 @@
     "44c01f17-18ce-4124-bc46-25f6a8583cc9": {
       "type": "rich-text",
       "blocks": {
-        "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Advent & Weihnachtszeit mit Kindern gestalten<\/h2><p>In der Advents- und Weihnachtszeit ist die Bedeutung von Ritualen und Festen besonders offensichtlich. Sie bereiten das Kind auf eine festliche Zeit vor, bringen die Familie näher zusammen und schaffen ein Gefühl von Zusammengehörigkeit und Geborgenheit.<\/p>"
-          }
-        },
         "8aa4bfdf-a799-463e-a251-3a0ff167620a": {
           "type": "button",
           "settings": {
@@ -92,7 +86,6 @@
         }
       },
       "block_order": [
-        "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5",
         "8aa4bfdf-a799-463e-a251-3a0ff167620a"
       ],
       "settings": {
@@ -110,12 +103,12 @@
         "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-1": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Advent-Kalender.jpg",
+            "image": "shopify:\/\/shop_images\/Section-Slider_Feste-Rituale_Kalender-Planer.jpg",
             "caption": "Idee 1",
             "heading": "",
-            "text": "<h2>Wählt einen passenden Adventskalender<\/h2><p>Ein Adventskalender bereichert die Adventszeit von Gross und Klein. Sei es der klassische Türchen-Kalender, 24 selber ausgesuchte und liebevoll verpackte Geschenke oder etws ganz anderes wie z.B. eine Adventskalender-Geschichte, jeden Tag eine gemeinsame Aktivität, jeden Tag eine Dekofigur an ein Bäumchen hängen. Dies schürt die Vorfreude und den Zauber der Adventszeit.<\/p><p>(Beliebt ist übrigens auch unser Paarzeit-Adventskalender, extra für Paare. Denn gerade wenn man Eltern wird, lohnt es sich, sich für die Partnerschaft bewusst Zeit zu nehmen.)<\/p>",
-            "button_label": "Zu den Adventskalendern",
-            "button_link": "shopify:\/\/collections\/adventskalender"
+            "text": "<h2>Die Zeit sichtbar machen<\/h2><p>Die Zeit ist für Kinder abstrakt und schwer zu begreifen. Indem du die Zeit auf eine kindgerechte, greifbare Weise präsentierst, hilfst du deinem Kind, sie besser zu verstehen. So bringst du auf spielerische Weise Ordnung, Struktur und Verlässlichkeit in den Alltag. Ein ewiger Kalender ist eine grossartige Möglichkeit, die Zeit visuell darzustellen. Durch tägliches Aktualisieren können Kinder lernen, wie Tage, Wochen und Monate vergehen.<\/p>",
+            "button_label": "Kalender & Wochenplaner",
+            "button_link": "shopify:\/\/collections\/kalender-wochenplaner"
           }
         },
         "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-2": {

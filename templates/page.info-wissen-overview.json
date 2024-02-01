@@ -299,7 +299,7 @@
           "type": "button",
           "settings": {
             "button_label": "Feste & Rituale",
-            "button_link": "shopify:\/\/pages\/tragen-im-herbst-und-winter",
+            "button_link": "shopify:\/\/pages\/themenseite",
             "button_style_secondary": false
           }
         }

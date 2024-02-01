@@ -322,6 +322,44 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_NKbETw": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_mGVtXL": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Weihnachtsgeschenke-Guide<\/h2><h4>Geschenke, die Freude machen<\/h4><p>Vor Weihnachten beginnt die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_Kheyg9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Feste & Rituale",
+            "button_link": "shopify:\/\/pages\/themenseite",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_mGVtXL",
+        "button_Kheyg9"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Advent-Weihnachten-gestalten_14012f06-1770-4441-8737-7f588978ebf2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -334,6 +372,7 @@
     "image_with_text_dXeC47",
     "image_with_text_Xbnawt",
     "image_with_text_krnqdd",
-    "image_with_text_Nm3mGq"
+    "image_with_text_Nm3mGq",
+    "image_with_text_NKbETw"
   ]
 }

@@ -70,8 +70,8 @@
         "button_xFkVw4": {
           "type": "button",
           "settings": {
-            "button_label": "Erstausstattung",
-            "button_link": "shopify:\/\/pages\/erstausstattung",
+            "button_label": "Geschenke zur Geburt",
+            "button_link": "shopify:\/\/pages\/geschenke-zur-geburt",
             "button_style_secondary": false
           }
         }

@@ -174,7 +174,7 @@
         "b12b4506-8983-44eb-b9db-3fcbb5c56894": {
           "type": "text",
           "settings": {
-            "text": "<h3>Überhosen<\/h3><p>Die wasserdichten Überhosen aus PUL oder aus Wolle können entweder mit einer Höschenwindel oder mit einer Einlage \/ Prefold kombiniert werden. Die Überhosen müssen nicht jedesmal gewaschen werden, daher reichen davon oft 5-6 Stück. Du kannst einfach die Einlage wechseln. So ist dieses System relativ günstig.<\/p>",
+            "text": "<h3>Überhosen<\/h3><p>Die wasserdichten Überhosen aus <a href=\"\/collections\/uberhosen\" target=\"_blank\" title=\"Überhosen\">PUL<\/a> oder aus <a href=\"\/collections\/wolluberhosen\" target=\"_blank\" title=\"Wollüberhosen\">Wolle<\/a> können entweder mit einer Höschenwindel oder mit einer Einlage \/ Prefold kombiniert werden. Die Überhosen müssen nicht jedesmal gewaschen werden, daher reichen davon oft 5-6 Stück. Du kannst einfach die Einlage wechseln. So ist dieses System relativ günstig.<\/p>",
             "text_style": "body"
           }
         },
@@ -192,7 +192,7 @@
         "ac69770f-93af-4ffa-8278-7abd004dc300"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Stulpen.jpg",
+        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Doodush_PUL_Ueberhose_Turquoise_Lamas_cover_Newborn_1_62078_2_62082_2.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -212,7 +212,7 @@
         "5c670314-e4f2-497c-a210-812f13bbf66b": {
           "type": "text",
           "settings": {
-            "text": "<h3>Handschuhe<\/h3><p>Für Babys und kleine Kinder sind Fäustlinge aus Wollwalk bestens geeignet. Sie sind leicht und bequem, warm und wasserabweisend. Bei kleinen Kindern sorgt eine Kordel dafür, dass die Handschuhe nicht verloren gehen. Für ältere Kinder, die in Schnee und Kälte spielen, eignen sich auch dick gefütterte, wasserdichte Handschuhe mit längerem Schaft.<\/p>",
+            "text": "<h3>Einlagen \/ Prefolds<\/h3><p>Prefolds sind sehr saugstarke Einlagen für die Überhosen. Sie werden gefaltet und in die Überhose gelegt. Werden die Einlagen nass oder schmutzig, wechselst du sie einfach aus. Prefolds aus Bio-Baumwolle oder Bambus saugen sehr schnell, wobei Einlagen mit Hanf viel Nässe speichern können.<\/p>",
             "text_style": "body"
           }
         },

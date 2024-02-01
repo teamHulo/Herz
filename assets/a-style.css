@@ -2699,5 +2699,9 @@ header-menu .mega-menu summary svg {
 }
 
 .product_vendor {
-  text-decoration: underline !important;
+  color: #969595 !important;
+  font-size: 13px;
+  font-weight: 600;
+  font-style: normal;
+  text-transform: uppercase;
 }

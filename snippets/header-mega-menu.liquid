@@ -27,9 +27,6 @@
   <ul class="list-menu list-menu--inline" role="list">
     {%- for link in section.settings.menu.links -%}
       {% assign banners = images | map: 'settings' | where: 'menu_handle', link.title %}
-      {% for item in banners %}
-        <script>console.log('{{ item.menu_handle }}')</script>
-      {% endfor %}
       <li  class="{%- if link.links.size == 0 -%} li-no-targer {% endif %}" data-size="{{link.links | size }}">
         {%- if link.links != blank -%}
           <header-menu>
@@ -98,7 +95,7 @@
                 <div class="right">
                   {% for banner in banners %}
                     <div class="banner">
-                      <a href="{{ banner.url }}">
+                      <a href="{{ banner.url }}" {% if banner.new_tab %}target="_blank"{% endif %}>
                         <img src="{{ banner.img | image_url: width: 200 }}" alt="">
                       </a>
                     </div>

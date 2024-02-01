@@ -219,8 +219,8 @@
         "fbbbd352-9a4f-49a2-be70-e82c0f9155bd": {
           "type": "button",
           "settings": {
-            "button_label": "Zu den Handschuhen",
-            "button_link": "shopify:\/\/collections\/stulpen-pulswarmer",
+            "button_label": "Einlagen \/ Prefolds",
+            "button_link": "shopify:\/\/collections\/prefolds-einlagen",
             "button_style_secondary": false
           }
         }

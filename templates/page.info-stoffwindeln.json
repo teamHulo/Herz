@@ -34,7 +34,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
+        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Wickeln.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -181,8 +181,8 @@
         "ac69770f-93af-4ffa-8278-7abd004dc300": {
           "type": "button",
           "settings": {
-            "button_label": "Zu den Stulpen",
-            "button_link": "shopify:\/\/collections\/stulpen-pulswarmer",
+            "button_label": "Zu den Überhosen",
+            "button_link": "shopify:\/\/collections\/uberhosen",
             "button_style_secondary": false
           }
         }
@@ -192,7 +192,7 @@
         "ac69770f-93af-4ffa-8278-7abd004dc300"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Doodush_PUL_Ueberhose_Turquoise_Lamas_cover_Newborn_1_62078_2_62082_2.jpg",
+        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Doodush_Ueberhose_Botanic_Garden_Otulacz_OS_2_59464_2.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",

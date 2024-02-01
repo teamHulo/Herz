@@ -124,36 +124,12 @@
             "button_label": "Festtagsring & Zubehör",
             "button_link": "shopify:\/\/collections\/festtagsring-zubehor"
           }
-        },
-        "500df705-3da4-4a89-a4e9-2c63c4246267": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Advent-Jahreszeitentisch.jpg",
-            "caption": "Idee 4",
-            "heading": "",
-            "text": "<h2>Dekoriert euer Zuhause<\/h2><p>Eine wunderschöne Idee fürs ganze Jahr - und natürlich insbesondere für die Adventszeit - ist der Jahreszeitentisch. Sei es ein Regal, ein Kästchen oder ein kleiner Tisch: Findet zuhause einen Ort, an dem die aktuelle Jahreszeit für die Kinder sicht- und erlebbar wird. Dort stellt ihr gemeinsam Dinge wie Bastelsachen, Fundstücke aus der Natur, eine passende Wimmelbuchseite, Steckfiguren oder Motivkarten auf. Im Advent passt auch die Adventsspirale, ein Adventskranz oder ein Wichteltürchen dazu.<\/p>",
-            "button_label": "Winter",
-            "button_link": "shopify:\/\/collections\/winter"
-          }
-        },
-        "401a036f-036d-454e-abcd-940d0e47d01e": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Advent-Lesen.jpg",
-            "caption": "Idee 5",
-            "heading": "",
-            "text": "<h2>Singt Lieder & erzählt Geschichten<\/h2><p>Kocht eine Tasse heissen Kakao und kuschelt euch mit einem Buch gemeinsam aufs Sofa. Für die Adventszeit gibt es schöne Vorlesegeschichten, die jeden Tag ein Stück weitergehen. Das Vorlesen fördert die Fantasie der Kinder und schafft eine ruhige, besinnliche Stimmung. Auch das gemeinsame Singen und Musikhören schafft eine weihnachtlich vorfreudige Atmosphäre.<\/p>",
-            "button_label": "Kinderbücher",
-            "button_link": "shopify:\/\/collections\/kinderbucher-zu-weihnachten-advent"
-          }
         }
       },
       "block_order": [
         "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-1",
         "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-2",
-        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-3",
-        "500df705-3da4-4a89-a4e9-2c63c4246267",
-        "401a036f-036d-454e-abcd-940d0e47d01e"
+        "template--21493636727099__5557db53-3e75-4ef9-a993-f08e092ebf73-row-3"
       ],
       "settings": {
         "image_height": "small",
@@ -171,40 +147,6 @@
         "padding_bottom": 36
       }
     },
-    "5122c367-4d3f-4c2f-9004-912defd2b221": {
-      "type": "rich-text",
-      "blocks": {
-        "7605f7b4-baf0-4bec-b7b5-b717db6e2f5e": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Winterzeit und  Jahreswechsel mit Kindern gestalten<\/h2><p>Feste und Rituale sind oft eng mit den Jahreszeiten und der Natur verknüpft, und sie können dazu beitragen, das Verständnis für die natürlichen Abläufe und den Kreislauf des Lebens zu vertiefen. Singen, Geschichten erzählen und bestimmte Aktivitäten können eine wunderbare Möglichkeit bieten, die Jahreszeiten und ihre Veränderungen zu reflektieren.<\/p><p>In der Winterzeit und zum Jahreswechsel bieten sich zahlreiche Gelegenheiten, Rituale und Feste zu gestalten, die den Zusammenhalt in der Familie stärken und gleichzeitig den Kindern wichtige Werte und Traditionen vermitteln. Dabei sind es oft die kleinen Dinge, die in Erinnerung bleiben und diese besonderen Momente schaffen.<\/p><p>Die Übergangszeit im Winter kann von tiefgreifender spiritueller und kultureller Bedeutung sein. Sie markiert das Ende eines Jahres und den Beginn eines neuen Abschnitts, und sie gibt uns die Möglichkeit, innezuhalten, zur Ruhe zu kommen und uns auf die kommenden Monate auszurichten.<\/p><p><\/p><p><strong>Rituale bei Kälte: <\/strong>Wenn es draussen kalt ist, können ihr drinnen gemütliche Rituale schaffen. Vielleicht ein wöchentlicher Kakao- und Vorleseabend, bei dem ihr euch einkuschelt und gemeinsam in fantastische Geschichten eintaucht.<\/p><p><strong>Rituale in der Dunkelheit:<\/strong> Wie wäre es mit einem Picknick bei Nacht? Packt eine dicke Decke und Warmes Essen ein, um draussen gemeinsam im Laternenschein zu essen. Die klaren Winternächte bieten auch die Möglichkeit, die Sterne zu beobachten. Gemeinsam könnt ihr Sternbilder erkunden und Geschichten über den Nachthimmel teilen.<\/p><p><strong>Rituale zum Jahreswechsel:<\/strong> Schon mit ganz kleinen Kindern können wir auf das vergangene Jahr zurückblicken und Dinge finden, für die wir dankbar sind. Das fördert die Achtsamkeit und das Verständnis für die Fülle in unserem Leben. Es ist auch eine schöne Idee, gemeinsam Schönes ins neue Jahr einzuladen. Vielleicht mit einem Glücksglas: Das stellt ihr zum Neujahr auf und füllt es das ganze Jahr hindurch mit schönen Erinnerungen.<\/p><p><strong>Rauhnächte:<\/strong> Die Rauhnächte sind eine mystische Zeit zwischen Weihnachten und Dreikönig. In dieser Zeit wird oft das Räuchern als Brauch praktiziert. Auch mit kleinen Kindern kannst du diese alte Tradition erlebbar machen. Verwende kindersichere Räucherutensilien und kinderfreundliche Räuchermischungen, die sanfte Düfte verbreiten. Gemeinsam zu beobachten, wie der Rauch aufsteigt, kann eine geheimnisvolle und lehrreiche Erfahrung für Kinder sein, bei der sie die Rauhnächte auf spielerische Weise kennenlernen.<\/p>"
-          }
-        },
-        "c88e1981-900a-48ed-99e4-0fa344dab455": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "7605f7b4-baf0-4bec-b7b5-b717db6e2f5e",
-        "c88e1981-900a-48ed-99e4-0fa344dab455"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "89834954-c2ad-49b8-afb9-6df4016420df": {
       "type": "image-with-text",
       "blocks": {
@@ -218,7 +160,7 @@
         "template--21493636727099__89834954-c2ad-49b8-afb9-6df4016420df-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Insgesamt bieten Feste und Rituale in der Familie eine Gelegenheit, die Bindung zwischen den Generationen zu stärken, Traditionen weiterzugeben und gemeinsam schöne Erinnerungen zu schaffen. Sie sind ein Weg, sich im Jahr zu orientieren, die Zeit bewusst zu erleben und die Bedeutung von Gemeinschaft und Tradition zu schätzen.<\/p>",
+            "text": "<p>Indem Eltern die Zeit greifbar machen, die Jahreszeiten zu Hause erlebbar gestalten und bedeutsame Feste mit Ritualen feiern, können sie eine liebevolle und unterstützende Umgebung schaffen, die das Wachstum und die Entwicklung ihrer Kinder fördert.<\/p><p>Es ist eine Gelegenheit, die Bindung zwischen den Generationen zu stärken, Traditionen weiterzugeben und gemeinsam schöne Erinnerungen zu schaffen, sowie die Bedeutung von Gemeinschaft und Tradition zu schätzen.<\/p><p><\/p>",
             "text_style": "body"
           }
         },
@@ -259,7 +201,6 @@
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "section_custom_image_pNaqVF",
     "5557db53-3e75-4ef9-a993-f08e092ebf73",
-    "5122c367-4d3f-4c2f-9004-912defd2b221",
     "89834954-c2ad-49b8-afb9-6df4016420df"
   ]
 }

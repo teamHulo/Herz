@@ -291,14 +291,14 @@
         "text_LnGMYF": {
           "type": "text",
           "settings": {
-            "text": "<h2>Advent mit Kindern<\/h2><h4>Feste und Rituale zu Advent, Weihnachten und Jahreswechsel in der Familie<\/h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente steckt. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.<\/p>",
+            "text": "<h2>Advent & Co mit Kindern<\/h2><h4>Feste und Rituale zu Advent, Weihnachten und Jahreswechsel in der Familie<\/h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.<\/p>",
             "text_style": "body"
           }
         },
         "button_gM4WAY": {
           "type": "button",
           "settings": {
-            "button_label": "Tragen im Herbst & Winter",
+            "button_label": "Feste & Rituale",
             "button_link": "shopify:\/\/pages\/tragen-im-herbst-und-winter",
             "button_style_secondary": false
           }

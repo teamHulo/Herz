@@ -146,8 +146,8 @@
         "button_rhg37c": {
           "type": "button",
           "settings": {
-            "button_label": "Geschenke zur Geburt",
-            "button_link": "shopify:\/\/pages\/geschenke-zur-geburt",
+            "button_label": "Barfuss-Schuhe für Kinder",
+            "button_link": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
             "button_style_secondary": false
           }
         }

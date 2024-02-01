@@ -170,6 +170,44 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_dXeC47": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_bN9K4P": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Stoffwindel-Guide<\/h2><h4>Wickeln mit Stoff?<\/h4><p>Du möchtest für die Gesundheit deines Kindes und die der Umwelt einen Beitrag leisten? Du willst keine Chemie am Babyfüdli? Du willst Abfall und Geld sparen? Dann bist du beim Thema Stoffwindeln genau richtig.<\/p><p>Hier erfährst du, was die Vorteile von Stoffwindeln sind, welche Systeme es gibt und welches Zubehör ganz nützlich ist.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_f3dCLL": {
+          "type": "button",
+          "settings": {
+            "button_label": "Barfuss-Schuhe für Kinder",
+            "button_link": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_bN9K4P",
+        "button_f3dCLL"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Barfuss-Schuhe.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -178,6 +216,7 @@
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "image_with_text_aaPfHF",
     "image_with_text_9jmtCV",
-    "image_with_text_3QLkBQ"
+    "image_with_text_3QLkBQ",
+    "image_with_text_dXeC47"
   ]
 }

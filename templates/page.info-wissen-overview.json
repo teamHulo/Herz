@@ -184,8 +184,8 @@
         "button_f3dCLL": {
           "type": "button",
           "settings": {
-            "button_label": "Barfuss-Schuhe für Kinder",
-            "button_link": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
+            "button_label": "Stoffwindel-Guide",
+            "button_link": "shopify:\/\/pages\/stoffwindeln",
             "button_style_secondary": false
           }
         }
@@ -195,7 +195,7 @@
         "button_f3dCLL"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Barfuss-Schuhe.jpg",
+        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Wickeln.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",

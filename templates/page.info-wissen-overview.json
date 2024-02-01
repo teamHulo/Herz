@@ -336,8 +336,8 @@
         "button_Kheyg9": {
           "type": "button",
           "settings": {
-            "button_label": "Feste & Rituale",
-            "button_link": "shopify:\/\/pages\/themenseite",
+            "button_label": "Weihnachtsgeschenke Guide",
+            "button_link": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
             "button_style_secondary": false
           }
         }

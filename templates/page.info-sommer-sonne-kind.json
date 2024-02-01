@@ -1,0 +1,401 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "16a27f16-b5b6-4838-b516-46c85c826eb0": {
+      "type": "section-about-text",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "logo": "shopify:\/\/shop_images\/Group.png",
+        "title": "Warm durch Herbst & Winter",
+        "text": "",
+        "max_width": 1050
+      }
+    },
+    "01bd0c23-c272-4bfe-9a96-88558e4ef1f1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Was ziehe ich meinem Kind bloss an?<\/h4><p>Diese Frage stellen sich früher oder später wohl alle Eltern. Gerade wenn es kühler wird, macht man sich Sorgen, dass das Kind friert (oder schwitzt, weil es zu dick angezogen ist). Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben. Unser Wissen haben wir auf dieser Seite für dich zusammengefasst.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e8baebdb-259f-4344-ad11-8a7c98b9fdb0": {
+      "type": "rich-text",
+      "blocks": {
+        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Allgemeine Tipps zur richtigen Kleidung<\/h2><p><strong>Jedes Kind ist anders.<\/strong> Was deine Nachbarin ihrem Baby anzieht, muss für dein Baby nicht automatisch das Richtige sein. Und wenn wir selber kalt oder heiss haben, muss das nicht für unser Kind gelten. Es gibt hitzige Kinder und solche, die schneller frieren.<\/p><p><strong>Fühle die Temperatur am Nacken. <\/strong>Fühle im Halsausschnitt, ob die Haut kalt, angenehm warm oder eher schwitzig ist. Babys haben schnell mal kühle Hände oder Füsse. Das bedeutet nicht, dass das Baby zu kalt hat, sondern dass sein Körper richtig auf Kälte reagiert und die inneren Organe warm hält. Sind die Extremitäten marmoriert, hat das Kind aber zu kalt.<\/p><p><strong>Eltern wärmen das Baby.<\/strong> Die Natur hat vorgesehen, dass Babys ihre ersten Monate hauptsächlich am Körper eines Erwachsenen verbringen. Dieser reguliert die Körpertemperatur des Kindes gleich mit. Je weniger Kleidungsschichten zwischen Kind und Trageperson sind, umso besser funktioniert der Wärmeaustausch. <\/p><p><strong>Die Natur hat vorgesorgt.<\/strong> Babys haben noch viel braunes Fett - dieses hält den Körper warm, ohne dass das Baby sich bewegen muss. Dieses äusserst nützliche Fett bleibt dem Körper erhalten, solange er regelmässig der Kälte ausgesetzt ist. Kinder zu warm einzupacken ist daher kontraproduktiv: Der Körper kann so nicht mehr richtig auf die kalten Temperaturen reagieren und das braune Fett geht zurück.<\/p><p><strong>Selbstbestimmung ist zentral.<\/strong> Je älter und selbständiger das Kind wird, desto mehr darfst du ihm vertrauen, dass es selber weiss, was es braucht. Kinder, die selbstbestimmt entscheiden dürfen, ob sie eine Jacke oder Mütze, ein langes oder kurzes Shirt anziehen wollen, entwickeln ein gutes Körpergefühl und ein Gespür dafür, was sie brauchen. Und dieses kann ganz anders sein als unser eigenes Empfinden, denn greifen wir nicht ein und packen die Kinder nicht zu warm ein, dann behalten sie ihr braunes Fett und können wunderbar mit kalten Temperaturen umgehen, was ihr Immunsystem zusätzlich stärkt.<\/p><p><strong>Das Schichten-Prinzip.<\/strong> Wenn es kalt ist, sind mehrere Schichten ideal. Nicht nur, weil du dann flexibel etwas an- oder ausziehen kannst. Zwischen den Schichten wird warme Luft gespeichert und das hält den Körper angenehm warm.<\/p><p><strong>Temperaturausgleichende Kleidung.<\/strong> Wähle Materialien wie Wolle oder Wolle\/Seide, denn das Material hält durch die besonderen Eigenschaften der Fasern die Körpertemperatur konstant. Zudem kann Wolle Feuchtigkeit aufnehmen und wärmt auch dann noch, wenn sie nass wird. Zum Beispiel durch Schweiss, Speichel, Regen oder Schnee.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "6b097b85-0abe-47cb-8728-a6b07bd3d882": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Die Basics für das Schichten-Prinzip<\/h2><h4>1. Schicht<\/h4><p>Als erste Schicht - auch für zuhause geeignet - empfehlen wir einen Langarmbody und Leggings oder Strumpfhose aus Wolle oder einem Wolle-Seide-Gemisch. Wolle-Seide ist etwas leichter und feiner und auch für sehr empfindliche Kinder gut geeignet. Dazu Wollsocken. <\/p><p>Woll-Bodys sind die perfekte Basis für Babys und Kleinkinder. Wolle ist nicht nur temperaturausgleichend, sondern auch antibakteriell und schmutzabweisend. Sie neutralisieret Gerüche und Flüssigkeiten und regeneriert sich durch Auslüften. Daher muss sie selten gewaschen werden.<\/p><p>Tipp: Wähle Strumpfhosen mit Füssen eine Grösse grösser, wenn du dein Kind im Tragetuch oder der Tragehilfe trägst.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "388c73b8-7370-40e1-a909-65073172a5ee": {
+      "type": "rich-text",
+      "blocks": {
+        "121e17b7-86da-409f-b7fc-df65ab3dc485": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>2. Schicht<\/h4><p>Wir empfehlen einen Woll-Pullover oder Woll-Jäckli. Und bei trockenem Wetter eine etwas dickere Hose oder Leggings aus Wolle. Bei Regen oder Schnee eine Wollwalkhose. Wenn das Baby unter einer Tragejacke getragen wird, braucht es diese zweite Schicht nicht. Meist reicht dann die Wohnungskleidung kombiniert mit passenden Accessoires aus.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "121e17b7-86da-409f-b7fc-df65ab3dc485"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "3775d3fa-6914-4695-bb24-49ef76cf4845": {
+      "type": "rich-text",
+      "blocks": {
+        "4d5b5399-751a-44ad-b61b-5b61d650bdac": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>3. Schicht<\/h4><p>Die dritte Schicht bildet eine Jacke oder ein Anzug. Wollwalk ist besonders wärmend, robust und angenehm zu tragen. Die perfekte Outdoor-Kleidung für kleine Weltentdecker! Anzüge aus Wollfleece sind etwas feiner und toll für kleine Babys. Wolle wärmt, ist wasserabweisend und auch für Schnee gut geeignet. Für sehr nasse Tage kann eine Regenhose oder ein Regenanzug mit den unteren Schichten kombiniert werden.<\/p><p>Gut zu wissen: Schneeanzüge mit Luftpolstern, sind nicht zum Tragen von Babys geeignet, da die Luftpolster beim Tragen zusammengedrückt werden und so nicht mehr wärmen. Wir empfehlen, Babys unter jährig in Wohnungskleidung unter einer Tragejacke zu tragen, so funktioniert der Wärmeaustausch am besten. Für ältere Kinder, die über der Jacke getragen werden, eignet sich ein Wollwalk-Overall.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "4d5b5399-751a-44ad-b61b-5b61d650bdac"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "8036f04c-8a1b-4f53-9952-98bd167f1f6e": {
+      "type": "rich-text",
+      "blocks": {
+        "22191bc8-f3b2-431d-9f2f-bdc78eda99d2": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>4. Schicht<\/h4><p>An die Füsse: Für Kinder, die hauptsächlich getragen werden, gibt es praktische Tragestiefelchen aus Wolle oder Softshell. Laufen die Kinder schon, eignen sich auch Booties und Barfuss-Winterschuhe mit warmem Woll-Futter.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "22191bc8-f3b2-431d-9f2f-bdc78eda99d2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "44c01f17-18ce-4124-bc46-25f6a8583cc9": {
+      "type": "rich-text",
+      "blocks": {
+        "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Accessoires<\/h2><p>Wenn es kalt ist, sind die richtigen Accessoires für dein Kind Gold wert. Auch hier setzen wir hauptsächlich auf Produkte aus Wolle oder Wolle-Seide.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Mützen & Stirnbänder<\/h3><p>Je nach Temperatur eignen sich leichte oder dickere Mützen aus Wolle\/Seide, Wollstrick oder Wollwalk. Wir lieben auch Schlupfmützen: Sie wärmen den Hals gleich mit. Das ist beim Tragen des Babys nützlich, wo ein Halstuch schwieriger ist. Auch wenn es auf dem Rücken getragen wird und eine Tragejacke drübergezogen wird, verrutscht die Schlupfmütze nicht.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Mützen",
+            "button_link": "shopify:\/\/collections\/mutzen-stirnbander",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1",
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Muetzen.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b3fa52d2-f2d9-4105-abf3-5171c37af62b": {
+      "type": "image-with-text",
+      "blocks": {
+        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Schals<\/h3><p>Klassische Schals zum Binden sind für Kinder wniger geeignet, sie sitzen zu eng, zu locker oder gehen verloren. Wir empfehlen Schlauchschals aus leichter Wolle\/Seide. Sie kratzen auch empfindliche Kinder nicht. Ebenfalls praktisch ist der Dickie von Manymonths, der den gesamten Hals- und Brustbereich wärmt. Für ältere Kinder sind auch dickere, kuschlig warme Loops aus Wolle ideal.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1213e182-6420-4dc6-b2ba-8a8ad1072c57": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Schals",
+            "button_link": "shopify:\/\/collections\/schals-loops",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98",
+        "1213e182-6420-4dc6-b2ba-8a8ad1072c57"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Schals.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e0647214-9936-4525-a517-be4c05c8b5c3": {
+      "type": "image-with-text",
+      "blocks": {
+        "b12b4506-8983-44eb-b9db-3fcbb5c56894": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Stulpen & Pulswärmer<\/h3><p>Unser Lieblings-Accessoire: Stulpen und Pulswärmer bieten eine flexible Extraportion Wärme. Sie sind schnell an- oder ausgezogen und wärmen Handgelenk, Arme oder Beine. Das ist für Trage-Babys super, da sie an- und ausgezogen werden können, ohne das Kind aus der Tragehilfe zu nehmen. Extra-Tipp: Beinstulpen für Babys passen Kindern und Erwachsenen an den Armen!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "ac69770f-93af-4ffa-8278-7abd004dc300": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Stulpen",
+            "button_link": "shopify:\/\/collections\/stulpen-pulswarmer",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "b12b4506-8983-44eb-b9db-3fcbb5c56894",
+        "ac69770f-93af-4ffa-8278-7abd004dc300"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Stulpen.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9f2d927d-daf8-4fcf-aceb-a840a11d7b82": {
+      "type": "image-with-text",
+      "blocks": {
+        "5c670314-e4f2-497c-a210-812f13bbf66b": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Handschuhe<\/h3><p>Für Babys und kleine Kinder sind Fäustlinge aus Wollwalk bestens geeignet. Sie sind leicht und bequem, warm und wasserabweisend. Bei kleinen Kindern sorgt eine Kordel dafür, dass die Handschuhe nicht verloren gehen. Für ältere Kinder, die in Schnee und Kälte spielen, eignen sich auch dick gefütterte, wasserdichte Handschuhe mit längerem Schaft.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "fbbbd352-9a4f-49a2-be70-e82c0f9155bd": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Handschuhen",
+            "button_link": "shopify:\/\/collections\/stulpen-pulswarmer",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "5c670314-e4f2-497c-a210-812f13bbf66b",
+        "fbbbd352-9a4f-49a2-be70-e82c0f9155bd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Handschuhe.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "de7f5108-2c92-404d-8671-8437b9ae096a": {
+      "type": "rich-text",
+      "blocks": {
+        "e27274ae-5ee3-4d54-9e4d-130cb04651b7": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Und was ziehst du an?<\/h2><p>Wie überstehst du Minustemperaturen auf dem Spielplatz? Am besten trägst du (d)ein Baby unter der <a href=\"\/collections\/umstands-tragejacken\" target=\"_blank\" title=\"Umstands- & Tragejacken\">Tragejacke<\/a>. Das hält nicht nur das Baby kuschlig warm, sondern auch dich. Tragejacken gibt es in sportlich, klassisch, elegant oder funktional. Sie ermöglichen auch das Rückentragen dank dem Reissverschluss am Rücken und können auch ganz ohne Trage-Einsatz getragen werden. So sind sie eine langfristige Investition.<br\/><br\/>Unsere liebsten Mama-Accessoires im Herbst & Winter sind übrigens Armstulpen (<a href=\"\/collections\/stulpen-pulswarmer\" target=\"_blank\" title=\"Stulpen & Pulswärmer\">Babystulpen<\/a> passen dir super an den Armen!), Stirnbänder und kuschlige <a href=\"\/products\/decolores-frauen-hueftwaermer\" target=\"_blank\" title=\"Alpakawolle Hüftwärmer für Frauen\">Hüftwärmer<\/a> aus Wolle. (Diese wärmen dein Zentrum - ein echt toller Effekt!).<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "e27274ae-5ee3-4d54-9e4d-130cb04651b7"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "66cf2c2d-098b-49ab-93be-9ca360db9db4": {
+      "type": "section-custom-image",
+      "blocks": {
+        "76fc5bc7-fa04-4e26-b5c9-7356990f3127": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Warme.jpg"
+          }
+        },
+        "73eba713-8692-420c-87fe-5dddb984fb69": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/DeColores-Stulpen-Erwachsene_Kopie_66460_2.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "76fc5bc7-fa04-4e26-b5c9-7356990f3127",
+        "73eba713-8692-420c-87fe-5dddb984fb69"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "max_width": 870
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16a27f16-b5b6-4838-b516-46c85c826eb0",
+    "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
+    "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
+    "6b097b85-0abe-47cb-8728-a6b07bd3d882",
+    "388c73b8-7370-40e1-a909-65073172a5ee",
+    "3775d3fa-6914-4695-bb24-49ef76cf4845",
+    "8036f04c-8a1b-4f53-9952-98bd167f1f6e",
+    "44c01f17-18ce-4124-bc46-25f6a8583cc9",
+    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
+    "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
+    "e0647214-9936-4525-a517-be4c05c8b5c3",
+    "9f2d927d-daf8-4fcf-aceb-a840a11d7b82",
+    "de7f5108-2c92-404d-8671-8437b9ae096a",
+    "66cf2c2d-098b-49ab-93be-9ca360db9db4"
+  ]
+}

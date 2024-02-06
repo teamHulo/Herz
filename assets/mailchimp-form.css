@@ -28,6 +28,12 @@
     border: none;
 }
 
+.mailchimp-form .mc_fieldset input,
+.mailchimp-form .mc_fieldset span {
+    cursor: pointer;
+}
+
+
 .mailchimp-form .button {
     width: 100%;
 }

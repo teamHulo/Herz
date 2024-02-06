@@ -2,6 +2,14 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "mailchimp_form_p4MrmT": {
+      "type": "mailchimp-form",
+      "settings": {
+        "enable_side_paddings": false,
+        "badges_description": "",
+        "badges_title": "SERVICES PROVIDED"
+      }
+    },
     "newsletter": {
       "type": "newsletter",
       "blocks": {
@@ -104,6 +112,7 @@
     }
   },
   "order": [
+    "mailchimp_form_p4MrmT",
     "newsletter",
     "footer"
   ]

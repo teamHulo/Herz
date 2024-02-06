@@ -74,8 +74,6 @@
       "settings": {
         "products_per_page": 24,
         "columns_desktop": 3,
-        "sale": true,
-        "sold": false,
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,

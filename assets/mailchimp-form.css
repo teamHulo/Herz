@@ -1,0 +1,17 @@
+.mailchimp-form h2 {
+    color: #00281d;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.newsletter__subheading {
+    margin-top: 10px;
+}
+
+.mailchimp-form .field__input {
+    background-color: #e5e0d5;
+}
+
+.mailchimp-form .newsletter-form {
+    align-items: center;
+}

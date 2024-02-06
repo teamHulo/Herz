@@ -1,3 +1,11 @@
+.mailchimp-form .newsletter-form {
+    align-items: center;
+}
+
+.mailchimp-form #mc_embed_signup_scroll {
+    width: 100%;
+}
+
 .mailchimp-form h2 {
     color: #00281d;
     margin-top: 0;
@@ -8,10 +16,18 @@
     margin-top: 10px;
 }
 
+.mailchimp-form .field {
+    margin-top: 10px;
+}
+
 .mailchimp-form .field__input {
     background-color: #e5e0d5;
 }
 
-.mailchimp-form .newsletter-form {
-    align-items: center;
+.mailchimp-form .mc_fieldset {
+    border: none;
+}
+
+.mailchimp-form .button {
+    width: 100%;
 }

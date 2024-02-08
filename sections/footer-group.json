@@ -2,6 +2,12 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "mailchimp_form_p4MrmT": {
+      "type": "mailchimp-form",
+      "settings": {
+        "bg_color": "#e5e0d5"
+      }
+    },
     "newsletter": {
       "type": "newsletter",
       "blocks": {
@@ -104,6 +110,7 @@
     }
   },
   "order": [
+    "mailchimp_form_p4MrmT",
     "newsletter",
     "footer"
   ]

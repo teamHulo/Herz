@@ -70,28 +70,6 @@
         "padding_bottom": 52
       }
     },
-    "rich_text_UjMYrL": {
-      "type": "rich-text",
-      "blocks": {
-        "text_yBar8n": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Stillen bei Hitze<\/h2><p>Der Körper der Trageperson ist auch im Sommer der beste Platz für ein Baby. Überhitzen kann das Baby nicht, denn es wird durch den Körper des Tragenden gekühlt. Wie immer beim Tragen des Babys gilt auch im Sommer, dass so wenig Schichten wie möglich zwischen dir und dem Baby sind, damit der Wärmeaustausch gut funktioniert und du die Körperwärme des Babys gut regulieren kannst. Wenn du mal schwitzt ist das übrigens kein Problem, denn beim Schwitzen entsteht Verdunstungskälte, die dein Baby kühlt.<\/p><p>Bevorzuge eine einlagige, luftige Bindeweise, leichte Tücher und Materialien wie Leinen, Bambus und Hanf. Oder trage in der Tragehilfe, denn diese ist etwas luftiger als ein Tragetuch. Im Schwimmbad oder am Strand bewährt sich ein Wasser-Sling.<\/p><p>Das <a href=\"\/collections\/fest-gewebte-tragetucher\" target=\"_blank\" title=\"Fest gewebte Tragetücher\">Tragetuch<\/a> oder die <a href=\"\/collections\/tragehilfen\" target=\"_blank\" title=\"Tragehilfen\">Tragehilfe<\/a> ersetzen eine Kleidungsschicht. Wähle luftige, atmungsaktive Kleidung. Musselin-Kleidung oder Kleidung aus Hanf, Bambus oder Seide eignet sich besonders gut. Du kannst dein Kind auch nackt bzw. nur in der Windel tragen (aber nicht alle Kinder mögen das).<\/p><p>Wenn es euch zu heiss wird, macht eine Pause. Meidet die Mittagssonne und haltet euch möglichst im Schatten auf. Sorge für guten <a href=\"\/collections\/sonnenschutz\" target=\"_blank\" title=\"Sonnenschutz\">Sonnenschutz<\/a> des Kindes. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_yBar8n"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "66cf2c2d-098b-49ab-93be-9ca360db9db4": {
       "type": "section-custom-image",
       "blocks": {
@@ -111,6 +89,54 @@
       "block_order": [
         "76fc5bc7-fa04-4e26-b5c9-7356990f3127",
         "73eba713-8692-420c-87fe-5dddb984fb69"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "max_width": 870
+      }
+    },
+    "rich_text_UjMYrL": {
+      "type": "rich-text",
+      "blocks": {
+        "text_yBar8n": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Stillen bei Hitze<\/h2><p>Achte darauf, dass dein Baby genügend trinkt. Stille oder füttere unbedingt nach Bedarf und nicht nach der Uhr. Babys die voll gestillt werden löschen ihren Durst mit der Muttermilch und brauchen auch bei grosser Hitze kein zusätzliches Wasser. Aber vergiss beim Stillen nicht, selber genügend Wasser zu trinken.<\/p><p>Stillen in der Öffentlichkeit wird übrigens viel einfacher und angenehmer, wenn du mit passender Still-Kleidung ausgestattet bist. BHs, Tops, Shirts und sommerlich luftige Blusen und Kleider findest du <a href=\"\/collections\/umstands-stillmode\" target=\"_blank\" title=\"Umstands- & Stillmode\">hier<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_yBar8n"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "section_custom_image_cK8xwA": {
+      "type": "section-custom-image",
+      "blocks": {
+        "image_JXgNzj": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/infobild-tragen-sommer-papa.jpg"
+          }
+        },
+        "image_qRR3Wy": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/infobild-tragen-sommer.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_JXgNzj",
+        "image_qRR3Wy"
       ],
       "settings": {
         "padding_top": 0,
@@ -430,8 +456,9 @@
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
-    "rich_text_UjMYrL",
     "66cf2c2d-098b-49ab-93be-9ca360db9db4",
+    "rich_text_UjMYrL",
+    "section_custom_image_cK8xwA",
     "rich_text_URzWh9",
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
     "388c73b8-7370-40e1-a909-65073172a5ee",

@@ -215,11 +215,49 @@
         "text_9KwUti": {
           "type": "text",
           "settings": {
-            "text": "<h2>Warm durch Herbst & Winter<\/h2><h4>Was ziehe ich meinem Kind bloss an?<\/h4><p>Diese Frage stellen sich früher oder später wohl alle Eltern. Gerade wenn es kühler wird, macht man sich Sorgen, dass das Kind friert (oder schwitzt, weil es zu dick angezogen ist). Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben. Unser Wissen haben wir auf dieser Seite für dich zusammengefasst.<\/p>",
+            "text": "<h2>Jahreszeiten, Feste & Rituale in der Familie<\/h2><h4>Kinder durch das Jahr begleiten<\/h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Geburtstage und andere Feste für dein Kind unvergesslich gestalten und die Jahreszeit zuhause sichtbar machen kannst (und warum das eine gute Idee ist) erfährst du auf dieser Seite.<\/p>",
             "text_style": "body"
           }
         },
         "button_K9Vxbn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Warm durch Herbst & Winter",
+            "button_link": "shopify:\/\/pages\/jahreszeiten-feste-rituale-in-der-familie",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_9KwUti",
+        "button_K9Vxbn"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_AmNqdA": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_MFqpp4": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Warm durch Herbst & Winter<\/h2><h4>Was ziehe ich meinem Kind bloss an?<\/h4><p>Diese Frage stellen sich früher oder später wohl alle Eltern. Gerade wenn es kühler wird, macht man sich Sorgen, dass das Kind friert (oder schwitzt, weil es zu dick angezogen ist). Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben. Unser Wissen haben wir auf dieser Seite für dich zusammengefasst.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_TUf7WP": {
           "type": "button",
           "settings": {
             "button_label": "Warm durch Herbst & Winter",
@@ -229,8 +267,8 @@
         }
       },
       "block_order": [
-        "text_9KwUti",
-        "button_K9Vxbn"
+        "text_MFqpp4",
+        "button_TUf7WP"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
@@ -371,6 +409,7 @@
     "image_with_text_3QLkBQ",
     "image_with_text_dXeC47",
     "image_with_text_Xbnawt",
+    "image_with_text_AmNqdA",
     "image_with_text_krnqdd",
     "image_with_text_Nm3mGq",
     "image_with_text_NKbETw"

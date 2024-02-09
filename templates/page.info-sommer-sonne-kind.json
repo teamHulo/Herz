@@ -25,7 +25,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h4>Was ziehe ich meinem Kind bloss an?<\/h4><p>Diese Frage stellen sich früher oder später wohl alle Eltern. Gerade wenn es kühler wird, macht man sich Sorgen, dass das Kind friert (oder schwitzt, weil es zu dick angezogen ist). Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben. Unser Wissen haben wir auf dieser Seite für dich zusammengefasst.<\/p>",
+            "text": "<h4>So überstehst du heisse Tage mit deinem Kind<\/h4><p>Wenn es so richtig heiss ist, kann das Leben ganz schön streng sein. So schön es an der Sonne ist, so herausfordernd ist sie manchmal, wenn man mit Baby oder Kind draussen ist. Was zieht das Kind am besten an? Ist Tragen auch sinnvoll, wenn es so heiss ist? Welche Sonnencreme ist die beste für mein Kind? Und was gibt es sonst noch alles zu beachten? Hier erfährst du es.<\/p>",
             "text_style": "body"
           }
         }
@@ -34,7 +34,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
+        "image": "shopify:\/\/shop_images\/infobild-sommersonnekind.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -54,12 +54,60 @@
         "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
           "type": "text",
           "settings": {
-            "text": "<h2>Allgemeine Tipps für heisse Tage<\/h2><h3>Tragen bei Hitze<\/h3><p>Der Körper der Trageperson ist auch im Sommer der beste Platz für ein Baby. Überhitzen kann das Baby nicht, denn es wird durch den Körper des Tragenden gekühlt. Wie immer beim Tragen des Babys gilt auch im Sommer, dass so wenig Schichten wie möglich zwischen dir und dem Baby sind, damit der Wärmeaustausch gut funktioniert und du die Körperwärme des Babys gut regulieren kannst. Wenn du mal schwitzt ist das übrigens kein Problem, denn beim Schwitzen entsteht Verdunstungskälte, die dein Baby kühlt.<br\/>Bevorzuge eine einlagige, luftige Bindeweise, leichte Tücher und Materialien wie Leinen, Bambus und Hanf. Oder trage in der Tragehilfe, denn diese ist etwas luftiger als ein Tragetuch. Im Schwimmbad oder am Strand bewährt sich ein Wasser-Sling.<br\/>Das Tragetuch oder die Tragehilfe ersetzen eine Kleidungsschicht. Wähle luftige, atmungsaktive Kleidung. Passende Tipps findest du in dieser Broschüre. Du kannst dein Kind auch nackt bzw. nur in der Windel tragen (aber nicht alle Kinder mögen das).<br\/>Wenn es euch zu heiss wird, macht eine Pause. Meidet die Mittagssonne, haltet euch möglichst im Schatten auf und sorge für guten Sonnenschutz des Kindes. <br\/><br\/>Stillen bei Hitze<br\/>Achte darauf, dass dein Baby genügend trinkt. Stille oder füttere unbedingt nach Bedarf und nicht nach der Uhr. Babys die voll gestillt werden löschen ihren Durst mit der Muttermilch und brauchen auch bei grosser Hitze kein zusätzliches Wasser. Aber vergiss beim Stillen nicht, selber genügend Wasser zu trinken.<br\/><br\/>Wickeln bei Hitze <br\/>Stoffwindeln haben viele Vorteile und ein grosser Vorteil im Sommer ist die optimale Regulation der Temperatur im Innern. Sie werden nicht so schnell warm oder schwitzig und sie sind luftdurchlässiger als Wegwerfwindeln.<br\/>Eine gute Wahl für heisse Sommertage sind Windeln aus Bambus-Viskose. Sie sind weich und atmungsaktiver als Baumwolle. Durch die natürlichen Fasereigenschaften der Cellulose wirkt der Stoff kühlend, ist antibakteriell und saugt gut.<br\/>Wolle überzeugt bei warmen Temperaturen auch, da sie von Natur aus atmungsaktiv und temperaturausgleichend ist. Sie hält angenehm kühl und ist pflegend für die Babyhaut. Wollüberhosen schützen zudem vor Hitzestau im Windelbereich.<br\/>Noch eine Möglichkeit für warme Tage und  ziemlich sicher die erste Wahl des Babys: die Windel einfach komplett weglassen. Denn Kinder lieben es, nackt sein zu dürfen.<br\/><br\/>Schlafen bei Hitze <br\/>Im Rahmen der SIDS-Prophylaxe wird ein kühler Schlafplatz von etwa 18°C empfohlen. Da dies im Sommer kaum möglich ist, achte umso mehr auf geeignete Kleidung. Wähle z.B. einen Schlafstrampler mit ausgleichenden Eigenschaften (Wolle\/Seide) oder kombiniere einen Body mit einem leichten Sommer-Schlafsack.<\/p>"
+            "text": "<h2>Tragen bei Hitze<\/h2><p>Der Körper der Trageperson ist auch im Sommer der beste Platz für ein Baby. Überhitzen kann das Baby nicht, denn es wird durch den Körper des Tragenden gekühlt. Wie immer beim Tragen des Babys gilt auch im Sommer, dass so wenig Schichten wie möglich zwischen dir und dem Baby sind, damit der Wärmeaustausch gut funktioniert und du die Körperwärme des Babys gut regulieren kannst. Wenn du mal schwitzt ist das übrigens kein Problem, denn beim Schwitzen entsteht Verdunstungskälte, die dein Baby kühlt.<\/p><p>Bevorzuge eine einlagige, luftige Bindeweise, leichte Tücher und Materialien wie Leinen, Bambus und Hanf. Oder trage in der Tragehilfe, denn diese ist etwas luftiger als ein Tragetuch. Im Schwimmbad oder am Strand bewährt sich ein Wasser-Sling.<\/p><p>Das Tragetuch oder die Tragehilfe ersetzen eine Kleidungsschicht. Wähle luftige, atmungsaktive Kleidung. Passende Tipps findest du in dieser Broschüre. Du kannst dein Kind auch nackt bzw. nur in der Windel tragen (aber nicht alle Kinder mögen das).<br\/>Wenn es euch zu heiss wird, macht eine Pause. Meidet die Mittagssonne, haltet euch möglichst im Schatten auf und sorge für guten Sonnenschutz des Kindes. <\/p>"
           }
         }
       },
       "block_order": [
         "16dc5c7d-ef9f-451a-a8e2-f69d19bff972"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "66cf2c2d-098b-49ab-93be-9ca360db9db4": {
+      "type": "section-custom-image",
+      "blocks": {
+        "76fc5bc7-fa04-4e26-b5c9-7356990f3127": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Warme.jpg"
+          }
+        },
+        "73eba713-8692-420c-87fe-5dddb984fb69": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/DeColores-Stulpen-Erwachsene_Kopie_66460_2.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "76fc5bc7-fa04-4e26-b5c9-7356990f3127",
+        "73eba713-8692-420c-87fe-5dddb984fb69"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "max_width": 870
+      }
+    },
+    "rich_text_URzWh9": {
+      "type": "rich-text",
+      "blocks": {
+        "text_FJKfYC": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Allgemeine Tipps für heisse Tage<\/h2><h3>Tragen bei Hitze<\/h3><p>Der Körper der Trageperson ist auch im Sommer der beste Platz für ein Baby. Überhitzen kann das Baby nicht, denn es wird durch den Körper des Tragenden gekühlt. Wie immer beim Tragen des Babys gilt auch im Sommer, dass so wenig Schichten wie möglich zwischen dir und dem Baby sind, damit der Wärmeaustausch gut funktioniert und du die Körperwärme des Babys gut regulieren kannst. Wenn du mal schwitzt ist das übrigens kein Problem, denn beim Schwitzen entsteht Verdunstungskälte, die dein Baby kühlt.<br\/>Bevorzuge eine einlagige, luftige Bindeweise, leichte Tücher und Materialien wie Leinen, Bambus und Hanf. Oder trage in der Tragehilfe, denn diese ist etwas luftiger als ein Tragetuch. Im Schwimmbad oder am Strand bewährt sich ein Wasser-Sling.<br\/>Das Tragetuch oder die Tragehilfe ersetzen eine Kleidungsschicht. Wähle luftige, atmungsaktive Kleidung. Passende Tipps findest du in dieser Broschüre. Du kannst dein Kind auch nackt bzw. nur in der Windel tragen (aber nicht alle Kinder mögen das).<br\/>Wenn es euch zu heiss wird, macht eine Pause. Meidet die Mittagssonne, haltet euch möglichst im Schatten auf und sorge für guten Sonnenschutz des Kindes. <\/p><p>Stillen bei Hitze<\/p><p>Achte darauf, dass dein Baby genügend trinkt. Stille oder füttere unbedingt nach Bedarf und nicht nach der Uhr. Babys die voll gestillt werden löschen ihren Durst mit der Muttermilch und brauchen auch bei grosser Hitze kein zusätzliches Wasser. Aber vergiss beim Stillen nicht, selber genügend Wasser zu trinken.<br\/><br\/>Wickeln bei Hitze <br\/>Stoffwindeln haben viele Vorteile und ein grosser Vorteil im Sommer ist die optimale Regulation der Temperatur im Innern. Sie werden nicht so schnell warm oder schwitzig und sie sind luftdurchlässiger als Wegwerfwindeln.<br\/>Eine gute Wahl für heisse Sommertage sind Windeln aus Bambus-Viskose. Sie sind weich und atmungsaktiver als Baumwolle. Durch die natürlichen Fasereigenschaften der Cellulose wirkt der Stoff kühlend, ist antibakteriell und saugt gut.<br\/>Wolle überzeugt bei warmen Temperaturen auch, da sie von Natur aus atmungsaktiv und temperaturausgleichend ist. Sie hält angenehm kühl und ist pflegend für die Babyhaut. Wollüberhosen schützen zudem vor Hitzestau im Windelbereich.<br\/>Noch eine Möglichkeit für warme Tage und  ziemlich sicher die erste Wahl des Babys: die Windel einfach komplett weglassen. Denn Kinder lieben es, nackt sein zu dürfen.<br\/><br\/>Schlafen bei Hitze <br\/>Im Rahmen der SIDS-Prophylaxe wird ein kühler Schlafplatz von etwa 18°C empfohlen. Da dies im Sommer kaum möglich ist, achte umso mehr auf geeignete Kleidung. Wähle z.B. einen Schlafstrampler mit ausgleichenden Eigenschaften (Wolle\/Seide) oder kombiniere einen Body mit einem leichten Sommer-Schlafsack.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_FJKfYC"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -353,32 +401,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "66cf2c2d-098b-49ab-93be-9ca360db9db4": {
-      "type": "section-custom-image",
-      "blocks": {
-        "76fc5bc7-fa04-4e26-b5c9-7356990f3127": {
-          "type": "image",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Warme.jpg"
-          }
-        },
-        "73eba713-8692-420c-87fe-5dddb984fb69": {
-          "type": "image",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/DeColores-Stulpen-Erwachsene_Kopie_66460_2.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "76fc5bc7-fa04-4e26-b5c9-7356990f3127",
-        "73eba713-8692-420c-87fe-5dddb984fb69"
-      ],
-      "settings": {
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "max_width": 870
-      }
     }
   },
   "order": [
@@ -386,6 +408,8 @@
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
+    "66cf2c2d-098b-49ab-93be-9ca360db9db4",
+    "rich_text_URzWh9",
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
     "388c73b8-7370-40e1-a909-65073172a5ee",
     "3775d3fa-6914-4695-bb24-49ef76cf4845",
@@ -395,7 +419,6 @@
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
     "e0647214-9936-4525-a517-be4c05c8b5c3",
     "9f2d927d-daf8-4fcf-aceb-a840a11d7b82",
-    "de7f5108-2c92-404d-8671-8437b9ae096a",
-    "66cf2c2d-098b-49ab-93be-9ca360db9db4"
+    "de7f5108-2c92-404d-8671-8437b9ae096a"
   ]
 }

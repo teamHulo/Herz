@@ -54,7 +54,7 @@
         "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
           "type": "text",
           "settings": {
-            "text": "<h2>Tragen bei Hitze<\/h2><p>Der Körper der Trageperson ist auch im Sommer der beste Platz für ein Baby. Überhitzen kann das Baby nicht, denn es wird durch den Körper des Tragenden gekühlt. Wie immer beim Tragen des Babys gilt auch im Sommer, dass so wenig Schichten wie möglich zwischen dir und dem Baby sind, damit der Wärmeaustausch gut funktioniert und du die Körperwärme des Babys gut regulieren kannst. Wenn du mal schwitzt ist das übrigens kein Problem, denn beim Schwitzen entsteht Verdunstungskälte, die dein Baby kühlt.<\/p><p>Bevorzuge eine einlagige, luftige Bindeweise, leichte Tücher und Materialien wie Leinen, Bambus und Hanf. Oder trage in der Tragehilfe, denn diese ist etwas luftiger als ein Tragetuch. Im Schwimmbad oder am Strand bewährt sich ein Wasser-Sling.<\/p><p>Das <a href=\"\/collections\/fest-gewebte-tragetucher\" target=\"_blank\" title=\"Fest gewebte Tragetücher\">Tragetuch<\/a> oder die <a href=\"\/collections\/tragehilfen\" target=\"_blank\" title=\"Tragehilfen\">Tragehilfe<\/a> ersetzen eine Kleidungsschicht. Wähle luftige, atmungsaktive Kleidung. Musselin-Kleidung oder Kleidung aus Hanf, Bambus oder Seide eignet sich besonders gut. Du kannst dein Kind auch nackt bzw. nur in der Windel tragen (aber nicht alle Kinder mögen das).<\/p><p>Wenn es euch zu heiss wird, macht eine Pause. Meidet die Mittagssonne und haltet euch möglichst im Schatten auf. Sorge für guten <a href=\"\/collections\/sonnenschutz\" target=\"_blank\" title=\"Sonnenschutz\">Sonnenschutz<\/a> des Kindes.<\/p><p>Hast du Fragen rund ums Tragen deines Baby, besuche eine <a href=\"https:\/\/www.herzanherz.ch\/trageberatung\/\" target=\"_blank\" title=\"https:\/\/www.herzanherz.ch\/trageberatung\/\">Trageberatung<\/a> von Herz an Herz.<\/p>"
+            "text": "<h2>Tragen bei Hitze<\/h2><p>Der Körper der Trageperson ist auch im Sommer der beste Platz für ein Baby. Überhitzen kann das Baby nicht, denn es wird durch den Körper des Tragenden gekühlt. Wie immer beim Tragen des Babys gilt auch im Sommer, dass so wenig Schichten wie möglich zwischen dir und dem Baby sind, damit der Wärmeaustausch gut funktioniert und du die Körperwärme des Babys gut regulieren kannst. Wenn du mal schwitzt ist das übrigens kein Problem, denn beim Schwitzen entsteht Verdunstungskälte, die dein Baby kühlt.<\/p><p>Bevorzuge eine einlagige, luftige Bindeweise, leichte Tücher und Materialien wie Leinen, Bambus und Hanf. Oder trage in der Tragehilfe, denn diese ist etwas luftiger als ein Tragetuch. Im Schwimmbad oder am Strand bewährt sich ein Wasser-Sling.<\/p><p>Das <a href=\"\/collections\/fest-gewebte-tragetucher\" target=\"_blank\" title=\"Fest gewebte Tragetücher\">Tragetuch<\/a> oder die <a href=\"\/collections\/tragehilfen\" target=\"_blank\" title=\"Tragehilfen\">Tragehilfe<\/a> ersetzen eine Kleidungsschicht. Wähle luftige, atmungsaktive Kleidung. Musselin-Kleidung oder Kleidung aus Hanf, Bambus oder Seide eignet sich besonders gut. (Siehe Tipps dazu weiter unten.) Du kannst dein Kind auch nackt bzw. nur in der Windel tragen, aber nicht alle Kinder mögen das.<\/p><p>Wenn es euch zu heiss wird, macht eine Pause. Meidet die Mittagssonne und haltet euch möglichst im Schatten auf. Sorge für guten <a href=\"\/collections\/sonnenschutz\" target=\"_blank\" title=\"Sonnenschutz\">Sonnenschutz<\/a> des Kindes.<\/p><p>Hast du Fragen rund ums Tragen deines Baby, besuche eine <a href=\"https:\/\/www.herzanherz.ch\/trageberatung\/\" target=\"_blank\" title=\"https:\/\/www.herzanherz.ch\/trageberatung\/\">Trageberatung<\/a> von Herz an Herz.<\/p>"
           }
         }
       },
@@ -166,13 +166,39 @@
         "padding_bottom": 52
       }
     },
+    "section_custom_image_xwAyaY": {
+      "type": "section-custom-image",
+      "blocks": {
+        "image_rk4YDz": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Doodush_Ueberhose_Painted_Animals_Newborn_2_67023_2_d670b4be-e97c-4f7f-aa3a-b9174132d407.jpg"
+          }
+        },
+        "image_ix6pnz": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Bio_Culla_Di_Teby_Tipi_53210_2.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_rk4YDz",
+        "image_ix6pnz"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "max_width": 870
+      }
+    },
     "6b097b85-0abe-47cb-8728-a6b07bd3d882": {
       "type": "rich-text",
       "blocks": {
         "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Die Basics für das Schichten-Prinzip<\/h2><h4>1. Schicht<\/h4><p>Als erste Schicht - auch für zuhause geeignet - empfehlen wir einen Langarmbody und Leggings oder Strumpfhose aus Wolle oder einem Wolle-Seide-Gemisch. Wolle-Seide ist etwas leichter und feiner und auch für sehr empfindliche Kinder gut geeignet. Dazu Wollsocken. <\/p><p>Woll-Bodys sind die perfekte Basis für Babys und Kleinkinder. Wolle ist nicht nur temperaturausgleichend, sondern auch antibakteriell und schmutzabweisend. Sie neutralisieret Gerüche und Flüssigkeiten und regeneriert sich durch Auslüften. Daher muss sie selten gewaschen werden.<\/p><p>Tipp: Wähle Strumpfhosen mit Füssen eine Grösse grösser, wenn du dein Kind im Tragetuch oder der Tragehilfe trägst.<\/p>"
+            "text": "<h2>Schlafen bei Hitze<\/h2><h4>1. Schicht<\/h4><p>Als erste Schicht - auch für zuhause geeignet - empfehlen wir einen Langarmbody und Leggings oder Strumpfhose aus Wolle oder einem Wolle-Seide-Gemisch. Wolle-Seide ist etwas leichter und feiner und auch für sehr empfindliche Kinder gut geeignet. Dazu Wollsocken. <\/p><p>Woll-Bodys sind die perfekte Basis für Babys und Kleinkinder. Wolle ist nicht nur temperaturausgleichend, sondern auch antibakteriell und schmutzabweisend. Sie neutralisieret Gerüche und Flüssigkeiten und regeneriert sich durch Auslüften. Daher muss sie selten gewaschen werden.<\/p><p>Tipp: Wähle Strumpfhosen mit Füssen eine Grösse grösser, wenn du dein Kind im Tragetuch oder der Tragehilfe trägst.<\/p>"
           }
         }
       },
@@ -460,6 +486,7 @@
     "rich_text_UjMYrL",
     "section_custom_image_cK8xwA",
     "rich_text_URzWh9",
+    "section_custom_image_xwAyaY",
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
     "388c73b8-7370-40e1-a909-65073172a5ee",
     "3775d3fa-6914-4695-bb24-49ef76cf4845",

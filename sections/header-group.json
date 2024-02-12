@@ -41,6 +41,7 @@
           "type": "image",
           "settings": {
             "menu_handle": "Schwangerschaft & Geburt",
+            "new_tab": true,
             "img": "shopify:\/\/shop_images\/Megamenu-Erstausstattung_e540f791-3e32-4edb-b915-b40d86f7f36c.jpg",
             "url": "shopify:\/\/pages\/erstausstattung"
           }
@@ -49,6 +50,7 @@
           "type": "image",
           "settings": {
             "menu_handle": "Schwangerschaft & Geburt",
+            "new_tab": true,
             "img": "shopify:\/\/shop_images\/Megamenu-Geburtsvorbereitung_b926e675-0302-4c1a-887d-1013cf48efd8.jpg",
             "url": "https:\/\/www.herzanherz.ch\/kurse\/dein-weg-zur-nat%C3%BCrlichen-geburt\/"
           }
@@ -57,6 +59,7 @@
           "type": "image",
           "settings": {
             "menu_handle": "Geschenke",
+            "new_tab": true,
             "img": "shopify:\/\/shop_images\/Megamenu-Geschenke-zur-Geburt_9378d095-3441-4026-a577-411401f779d3.jpg",
             "url": "shopify:\/\/pages\/geschenke-zur-geburt"
           }
@@ -65,6 +68,7 @@
           "type": "image",
           "settings": {
             "menu_handle": "Geschenke",
+            "new_tab": true,
             "img": "shopify:\/\/shop_images\/Megamenu-Geschenkgutschein.jpg",
             "url": ""
           }
@@ -73,6 +77,7 @@
           "type": "image",
           "settings": {
             "menu_handle": "Barfuss-Schuhe",
+            "new_tab": true,
             "img": "shopify:\/\/shop_images\/Megamenu-Warum-Barfuss-Schuhe.jpg",
             "url": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder"
           }
@@ -81,6 +86,7 @@
           "type": "image",
           "settings": {
             "menu_handle": "Kindermode",
+            "new_tab": true,
             "img": "shopify:\/\/shop_images\/Megamenu-Babyzeit-Schlafsack.jpg",
             "url": "shopify:\/\/collections\/schlafsacke"
           }
@@ -89,6 +95,7 @@
           "type": "image",
           "settings": {
             "menu_handle": "Babyzeit",
+            "new_tab": true,
             "img": "shopify:\/\/shop_images\/Megamenu-Babyzeit-Stillmode.jpg",
             "url": "shopify:\/\/collections\/umstands-stillmode"
           }
@@ -97,6 +104,7 @@
           "type": "image",
           "settings": {
             "menu_handle": "Kindermode",
+            "new_tab": true,
             "img": "shopify:\/\/shop_images\/Megamenu-Wolle-Seide.jpg",
             "url": "shopify:\/\/collections\/wolle-seide-produkte"
           }
@@ -105,6 +113,7 @@
           "type": "image",
           "settings": {
             "menu_handle": "Familienalltag",
+            "new_tab": true,
             "img": "shopify:\/\/shop_images\/Megamenu-Geburtstagsring.jpg",
             "url": "shopify:\/\/collections\/feste-rituale"
           }
@@ -113,6 +122,7 @@
           "type": "image",
           "settings": {
             "menu_handle": "Familienalltag",
+            "new_tab": true,
             "img": "shopify:\/\/shop_images\/Megamenu-Lernturm.jpg",
             "url": "shopify:\/\/collections\/learning-tower"
           }
@@ -121,6 +131,7 @@
           "type": "image",
           "settings": {
             "menu_handle": "Frausein",
+            "new_tab": true,
             "img": "shopify:\/\/shop_images\/Megamenu-Mensunterwasche.jpg",
             "url": "shopify:\/\/collections\/mensunterwasche"
           }
@@ -129,8 +140,18 @@
           "type": "image",
           "settings": {
             "menu_handle": "Frausein",
+            "new_tab": true,
             "img": "shopify:\/\/shop_images\/Megamenu-Paarzeit.jpg",
             "url": "shopify:\/\/collections\/paarzeit"
+          }
+        },
+        "image_zDcERJ": {
+          "type": "image",
+          "settings": {
+            "menu_handle": "Babyzeit",
+            "new_tab": true,
+            "img": "shopify:\/\/shop_images\/Megamenu-Babyzeit-Stoffwindeln.jpg",
+            "url": ""
           }
         }
       },
@@ -146,7 +167,8 @@
         "image_me6bbX",
         "image_JaBDqg",
         "image_V4yF97",
-        "image_DLbAqM"
+        "image_DLbAqM",
+        "image_zDcERJ"
       ],
       "settings": {
         "logo_position": "top-center",

@@ -48,35 +48,13 @@
         "padding_bottom": 36
       }
     },
-    "e8baebdb-259f-4344-ad11-8a7c98b9fdb0": {
-      "type": "rich-text",
-      "blocks": {
-        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Ein paar Grundsätze <\/h2><ul><li><strong>Jedes Kind ist anders.<\/strong> Was deine Nachbarin ihrem Baby anzieht muss für dein Baby nicht automatisch auch das Richtige sein. Und wenn wir selber kalt oder heiss haben, muss dasselbe nicht für unser Baby gelten. Es gibt hitzige Babys und solche die schneller frieren.<\/li><li><strong>Fühle die Temperatur am Nacken.<\/strong> Ein guter Indikator um herauszufinden ob das Baby friert oder schwitzt ist der Nacken. Fühle im Halsausschnitt, ob die Haut kalt, angenehm warm oder eher schwitzig ist. Babys haben schnell mal kühle Hände oder Füsse. Das bedeutet nicht, dass das Baby zu kalt hat, sondern dass sein Körper richtig auf Kälte reagiert und die inneren Organe warm hält. (Sind die Extremitäten marmoriert, hat das Kind aber zu kalt.)<\/li><li><strong>Eltern wärmen das Baby.<\/strong> Die Natur hat vorgesehen, dass Babys ihre ersten Monate hauptsächlich am Körper eines Erwachsenen verbringen. Dieser reguliert praktischerweise die Körpertemperatur des Kindes gleich mit. Je weniger Kleidungsschichten zwischen Kind und Trageperson sind, umso besser funktioniert der Wärmeaustausch. Übrigens: Bei Fieber kann (nur!) die Mutter durch Körperkontakt die Temperatur des Kindes regulieren und das Fieber so schonend und sanft senken.<\/li><li><strong>Die Natur hat vorgesorgt.<\/strong> Babys haben noch viel braunes Fett - dieses hält den Körper warm ohne dass das Baby sich bewegen muss. Dieses äusserst nützliche Fett bleibt dem Körper erhalten, solange er regelmässig der Kälte ausgesetzt ist. Babys zu warm einzupacken ist daher kontraproduktiv. Der Körper kann so nicht mehr richtig auf die kalten Temperaturen reagieren und das braune Fett geht zurück.<\/li><li><strong>Selbstbestimmung ist zentral.<\/strong> Je älter und selbständiger das Kind wird, desto mehr darfst du ihm vertrauen, dass es selber weiss, was es braucht. Kinder, die selbstbestimmt entscheiden dürfen, ob sie eine Jacke oder Mütze, ein langes oder kurzes Shirt anziehen wollen, entwickeln ein gutes Körpergefühl und ein Gespür dafür, was sie brauchen. Und dieses kann ganz anders sein als unser eigenes Empfinden, denn greifen wir nicht ein und packen die Kinder nicht zu warm ein, dann behalten sie ihr braunes Fett und können wunderbar mit kalten Temperaturen umgehen, was ihr Immunsystem zusätzlich stärkt.<\/li><\/ul>"
-          }
-        }
-      },
-      "block_order": [
-        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "rich_text_UjMYrL": {
       "type": "rich-text",
       "blocks": {
         "text_yBar8n": {
           "type": "text",
           "settings": {
-            "text": "<h2>Kleidung für Zuhause<\/h2><p>Natürlich kommt es immer aufs Kind an und auf die Temperatur im Haus. Für kühle Temperaturen kannst du die Tipps \"Bei Kälte\" beachten und im Sommer die Tipps \"Bei Hitze\". Grundsätzlich sind temperaturausgleichende Materialien eine gute Wahl, daher empfehlen wir ganzjährig Kleidung aus Fasern, die dabei helfen, die Körpertemperatur konstant zu halten. So hat das Kind weder zu heiss noch zu kalt. Ideal dafür ist ein Wolle-Seide Gemisch.<\/p><p>Diese Wohnungskleidung ist auch ideal zum Tragen des Babys in einer Tragehilfe. Und sie dient als erste Schicht, die bei kaltem Wetter mit weiteren Schichten ergänzt werden kann.<\/p><ul><li><strong>Body\/Strampler:<\/strong> Langärmlige <a href=\"\/collections\/bodys-strampler\" target=\"_blank\" title=\"Bodys & Strampler\">Bodys oder Strampler<\/a> aus Wolle-Seide oder Seide-Baumwolle eignen sich das ganze Jahr über als Wohnungskleidung und erste Schicht.<\/li><li><strong>Leggings\/Hosen:<\/strong> Auch bequeme Leggings oder Hosen gibt es aus Wolle-Seide und Seide-Baumwolle. Sie sind dünn und kuschlig und daher gut für drinnen geeignet. Über etwas dickere (Stoff-) Windelpopos passen etwas weiter geschnittene <a href=\"\/products\/engel-ws-hose\" target=\"_blank\" title=\"Wolle-Seide Hose\">Hosen<\/a> oder diese bequemen <a href=\"\/products\/bettmaus-pumphosen\" target=\"_blank\" title=\"Pumphösli aus Bio-Baumwolle\">Pumphöschen<\/a> am besten! Sie wachsen dank der anpassbaren Bündchen oft lange Zeit mit dem Baby mit.<\/li><li><strong>Barfuss:<\/strong> Für die Entwicklung des gesamten Bewegungsapparates ist es von Vorteil, wenn das Kind seine Füsse und Zehen spürt und so oft wie möglich barfuss sein darf. Auch Socken sind nicht ideal, denn sie haben negative Auswirkungen auf Tastsinn, Körpergefühl, Durchblutung und Beweglichkeit. Wenn die Füsse zu kalt sind, den Rumpf besser wärmen oder mit <a href=\"\/collections\/stulpen-pulswarmer\" target=\"_blank\" title=\"Stulpen & Pulswärmer\">Stulpen<\/a> Abhilfe schaffen. Auch draussen darf das Kind wenn möglich barfuss sein (im Prinzip so lange, bis auch Handschuhe nötig würden).<\/li><\/ul>"
+            "text": "<h2>Kleidung für Zuhause<\/h2><p>Natürlich kommt es immer aufs Kind an und auf die Temperatur im Haus. Für kühle Temperaturen kannst du die Tipps \"Bei Kälte\" beachten und im Sommer die Tipps \"Bei Hitze\". Grundsätzlich sind temperaturausgleichende Materialien eine gute Wahl, daher empfehlen wir ganzjährig Kleidung aus Fasern, die dabei helfen, die Körpertemperatur konstant zu halten. So hat das Kind weder zu heiss noch zu kalt. Ideal dafür ist ein Wolle-Seide Gemisch.<\/p><p>Diese Wohnungskleidung ist auch ideal zum Tragen des Babys in einer Tragehilfe. Und sie dient als erste Schicht, die bei kaltem Wetter mit weiteren Schichten ergänzt werden kann.<\/p><ul><li><strong>Body\/Strampler:<\/strong> Langärmlige <a href=\"\/collections\/bodys-strampler\" target=\"_blank\" title=\"Bodys & Strampler\">Bodys oder Strampler<\/a> aus Wolle-Seide oder Seide-Baumwolle eignen sich das ganze Jahr über als Wohnungskleidung und erste Schicht.<\/li><li><strong>Leggings\/Hosen:<\/strong> Auch bequeme Leggings oder Hosen gibt es aus Wolle-Seide und Seide-Baumwolle. Sie sind dünn und kuschlig und daher gut für drinnen geeignet. Über etwas dickere (Stoff-) Windelpopos passen etwas weiter geschnittene <a href=\"\/products\/engel-ws-hose\" target=\"_blank\" title=\"Wolle-Seide Hose\">Hosen<\/a> oder diese bequemen <a href=\"\/products\/bettmaus-pumphosen\" target=\"_blank\" title=\"Pumphösli aus Bio-Baumwolle\">Pumphöschen<\/a> am besten! Sie wachsen dank der anpassbaren Bündchen oft lange Zeit mit dem Baby mit.<\/li><li><strong>Barfuss:<\/strong> Für die Entwicklung des gesamten Bewegungsapparates ist es von Vorteil, wenn das Kind seine Füsse und Zehen spürt und so oft wie möglich barfuss sein darf. Auch Socken sind für eine natürliche Entwicklung nicht nötig, denn sie haben negative Auswirkungen auf Tastsinn, Körpergefühl, Durchblutung und Beweglichkeit. Wenn die Füsse zu kalt sind, den Rumpf besser wärmen oder mit <a href=\"\/collections\/stulpen-pulswarmer\" target=\"_blank\" title=\"Stulpen & Pulswärmer\">Stulpen<\/a> Abhilfe schaffen. Auch draussen darf das Kind wenn möglich barfuss sein (im Prinzip so lange, bis auch Handschuhe nötig würden).<\/li><\/ul>"
           }
         }
       },
@@ -377,13 +355,34 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "e8baebdb-259f-4344-ad11-8a7c98b9fdb0": {
+      "type": "rich-text",
+      "blocks": {
+        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Ein paar Grundsätze <\/h2><ul><li><strong>Jedes Kind ist anders.<\/strong> Was deine Nachbarin ihrem Baby anzieht muss für dein Baby nicht automatisch auch das Richtige sein. Und wenn wir selber kalt oder heiss haben, muss dasselbe nicht für unser Baby gelten. Es gibt hitzige Babys und solche die schneller frieren.<\/li><li><strong>Fühle die Temperatur am Nacken.<\/strong> Ein guter Indikator um herauszufinden ob das Baby friert oder schwitzt ist der Nacken. Fühle im Halsausschnitt, ob die Haut kalt, angenehm warm oder eher schwitzig ist. Babys haben schnell mal kühle Hände oder Füsse. Das bedeutet nicht, dass das Baby zu kalt hat, sondern dass sein Körper richtig auf Kälte reagiert und die inneren Organe warm hält. (Sind die Extremitäten marmoriert, hat das Kind aber zu kalt.)<\/li><li><strong>Eltern wärmen das Baby.<\/strong> Die Natur hat vorgesehen, dass Babys ihre ersten Monate hauptsächlich am Körper eines Erwachsenen verbringen. Dieser reguliert praktischerweise die Körpertemperatur des Kindes gleich mit. Je weniger Kleidungsschichten zwischen Kind und Trageperson sind, umso besser funktioniert der Wärmeaustausch. Übrigens: Bei Fieber kann (nur!) die Mutter durch Körperkontakt die Temperatur des Kindes regulieren und das Fieber so schonend und sanft senken.<\/li><li><strong>Die Natur hat vorgesorgt.<\/strong> Babys haben noch viel braunes Fett - dieses hält den Körper warm ohne dass das Baby sich bewegen muss. Dieses äusserst nützliche Fett bleibt dem Körper erhalten, solange er regelmässig der Kälte ausgesetzt ist. Babys zu warm einzupacken ist daher kontraproduktiv. Der Körper kann so nicht mehr richtig auf die kalten Temperaturen reagieren und das braune Fett geht zurück.<\/li><li><strong>Selbstbestimmung ist zentral.<\/strong> Je älter und selbständiger das Kind wird, desto mehr darfst du ihm vertrauen, dass es selber weiss, was es braucht. Kinder, die selbstbestimmt entscheiden dürfen, ob sie eine Jacke oder Mütze, ein langes oder kurzes Shirt anziehen wollen, entwickeln ein gutes Körpergefühl und ein Gespür dafür, was sie brauchen. Und dieses kann ganz anders sein als unser eigenes Empfinden, denn greifen wir nicht ein und packen die Kinder nicht zu warm ein, dann behalten sie ihr braunes Fett und können wunderbar mit kalten Temperaturen umgehen, was ihr Immunsystem zusätzlich stärkt.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
-    "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "rich_text_UjMYrL",
     "section_custom_image_cK8xwA",
     "rich_text_URzWh9",
@@ -395,6 +394,7 @@
     "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
     "rich_text_tX7ECY",
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
-    "rich_text_r8wMyK"
+    "rich_text_r8wMyK",
+    "e8baebdb-259f-4344-ad11-8a7c98b9fdb0"
   ]
 }

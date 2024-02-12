@@ -350,15 +350,15 @@
         "b1e16a22-d92a-4fef-8e59-67a00b4f1d98": {
           "type": "text",
           "settings": {
-            "text": "<h3>Schals<\/h3><p>Klassische Schals zum Binden sind für Kinder wniger geeignet, sie sitzen zu eng, zu locker oder gehen verloren. Wir empfehlen Schlauchschals aus leichter Wolle\/Seide. Sie kratzen auch empfindliche Kinder nicht. Ebenfalls praktisch ist der Dickie von Manymonths, der den gesamten Hals- und Brustbereich wärmt. Für ältere Kinder sind auch dickere, kuschlig warme Loops aus Wolle ideal.<\/p>",
+            "text": "<h3>Sonnencreme<\/h3><p>Unsere beiden Favoriten was Sonnencreme angeht, haben wir mit unseren über 15 Team-Kids selber ausgiebig getestet. Warum wir uns für Skinnies und Naïf entschieden haben, liest du oben.<\/p>",
             "text_style": "body"
           }
         },
         "1213e182-6420-4dc6-b2ba-8a8ad1072c57": {
           "type": "button",
           "settings": {
-            "button_label": "Zu den Schals",
-            "button_link": "shopify:\/\/collections\/schals-loops",
+            "button_label": "Zur Sonnencreme",
+            "button_link": "shopify:\/\/collections\/sonnencreme",
             "button_style_secondary": false
           }
         }

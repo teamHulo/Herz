@@ -248,8 +248,24 @@
           "settings": {
             "text": "<h1>Kleidung & Sonnenschutz<\/h1><h2>Allgemeine Kleidungs-Tipps<\/h2><ul><li><strong>Lange, luftige Kleidung:<\/strong> Für optimalen Sonnenschutz an Armen und Beinen sollte Kleidung auch im Sommer langärmlig sein. Dafür eignen sich luftige, weite Schnitte, denn diese haben einen besseren UV-Schutz als eng anliegende Kleidung. Besonders angenehm sind Kleider aus Musselin-Stoffen, Hanf oder Leinen.<\/li><li><strong>Kühlendes oder ausgleichendes Material:<\/strong> Wähle Kleidung mit dem gewissen Extra! <a href=\"\/collections\/body-kurzarm\" target=\"_blank\" title=\"Body kurzarm\">Leichte Bodys <\/a>aus Wolle-Seide oder Seide-Baumwolle sind atmuntsaktiv und temperaturausgleichend. Sie sorgen dafür, dass das Baby nicht zu stark schwitzt. Bambus und Seide haben eine angenehm kühlende Wirkung auf der Haut und sind im Sommer besonders beliebt.<\/li><li><strong>UV-Kleidung:<\/strong> Jeder Stoff bietet je nach Gewebetyp, Dichte und Farbe einen gewissen UV-Schutz. Kleidung aus Hanf und Wolle bieten von Natur aus einen sehr hohen Schutz von LSF 30-50. Es gibt auch Baumwollkleidung, die extra dicht gewebt ist und so einen UV-Schutz von 50 erreicht. Für den Aufenthalt am und im Wasser eignet sich am besten <a href=\"\/collections\/uv-bademode\" target=\"_blank\" title=\"UV- & Bademode\">UV Bademode<\/a>, die einen grossen Teil des Körpers bedeckt.<\/li><li><strong>Barfuss-Schuhe: <\/strong>Am besten lässt du dein Kind so oft wie möglich barfuss laufen. So wird die Muskulatur gestärkt, die Zehen behalten die korrekte Stellung und die sensorischen Reize am Fuss sorgen für eine gute Koordination und Körperhaltung. Die Füsse können das Körpergewicht abfedern, Boden-unebenheiten ausgleichen und Informationen für den Gleichgewichtssinn liefern. Dies ist nur möglich, wenn ihre Funktion nicht durch zu feste, enge oder gefederte Schuhe eingeschränkt wird. Weil Barfuss-Laufen auch im Sommer nicht immer möglich ist, empfehlen wir <a href=\"\/collections\/barfuss-schuhe\" target=\"_blank\" title=\"Barfuss-Schuhe\">Barfuss-Schuhe<\/a>, die all diese Kriterien ebenfalls erfüllen. Wir von Herz an Herz beraten dich gerne dazu.<\/li><\/ul>"
           }
-        },
-        "text_xn8jDD": {
+        }
+      },
+      "block_order": [
+        "text_dUigJq"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_ihUfLg": {
+      "type": "rich-text",
+      "blocks": {
+        "text_bKLQF9": {
           "type": "text",
           "settings": {
             "text": "<h2>Sonnenhut<\/h2><p>Ein guter Sonnenhut ist für alle Kinder gold wert. Doch gerade für kleine Babys, die weder Sonnencreme noch Sonnebrille tragen, ist ein guter Sonnenhut unerlässlich. Er schützt idealerweise dank einer breiten Krempe das ganze Gesicht und den Nacken. Bindebänder sorgen dafür, dass das Kind den Hut nicht abnimmt und er beim Tragen (insbesondere auf dem Rücken) nicht verrutscht. Unser absoluter Favorit: Der <a href=\"\/products\/sonnenhut-feuerwehr\" target=\"_blank\" title=\"Sonnenhut FEUERWEHR\">Feuerwehr-Hut<\/a> von Pickapooh.<\/p>"
@@ -257,8 +273,7 @@
         }
       },
       "block_order": [
-        "text_dUigJq",
-        "text_xn8jDD"
+        "text_bKLQF9"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -275,7 +290,7 @@
         "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h3>Sonnenhut<\/h3><p>Ein guter Sonnenhut ist für alle Kinder gold wert. Doch gerade für kleine Babys, die weder Sonnencreme noch Sonnebrille tragen, ist ein guter Sonnenhut unerlässlich. Er schützt idealerweise dank einer breiten Krempe das ganze Gesicht und den Nacken. Bindebänder sorgen dafür, dass das Kind den Hut nicht abnimmt und er beim Tragen (insbesondere auf dem Rücken) nicht verrutscht. Unser absoluter Favorit: Der <a href=\"\/products\/sonnenhut-feuerwehr\" target=\"_blank\" title=\"Sonnenhut FEUERWEHR\">Feuerwehr-Hut<\/a> von Pickapooh.<\/p>",
+            "text": "<h3>Feuerwehr-Hut<\/h3><p>Die breite Krempe und der spezielle UV-Stoff in Bio-Qualität bieten viele Stunden Sonnenschutz. Das Strickbündchen sorgt für die perfekte Passform und Spielraum beim Wachsen. Der Hut wird in vielen schönen Farben in Deutschland hergestellt. Er ist und bleibt unser Herzenstipp für kühle Köpfe.<\/p>",
             "text_style": "body"
           }
         },
@@ -457,6 +472,7 @@
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
     "section_custom_image_d9EMQC",
     "rich_text_JX9MAq",
+    "rich_text_ihUfLg",
     "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
     "e0647214-9936-4525-a517-be4c05c8b5c3",

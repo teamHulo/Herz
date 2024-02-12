@@ -70,39 +70,13 @@
         "padding_bottom": 52
       }
     },
-    "66cf2c2d-098b-49ab-93be-9ca360db9db4": {
-      "type": "section-custom-image",
-      "blocks": {
-        "76fc5bc7-fa04-4e26-b5c9-7356990f3127": {
-          "type": "image",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/infobild-tragen-sommer-papa.jpg"
-          }
-        },
-        "73eba713-8692-420c-87fe-5dddb984fb69": {
-          "type": "image",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Cloby-UV-Decke-olive5.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "76fc5bc7-fa04-4e26-b5c9-7356990f3127",
-        "73eba713-8692-420c-87fe-5dddb984fb69"
-      ],
-      "settings": {
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "max_width": 870
-      }
-    },
     "rich_text_UjMYrL": {
       "type": "rich-text",
       "blocks": {
         "text_yBar8n": {
           "type": "text",
           "settings": {
-            "text": "<h2>Stillen bei Hitze<\/h2><p>Achte darauf, dass dein Baby genügend trinkt. Stille oder füttere unbedingt nach Bedarf und nicht nach der Uhr. Babys die voll gestillt werden löschen ihren Durst mit der Muttermilch und brauchen auch bei grosser Hitze kein zusätzliches Wasser. Aber vergiss beim Stillen nicht, selber genügend Wasser zu trinken.<\/p><p>Stillen in der Öffentlichkeit wird übrigens viel einfacher und angenehmer, wenn du mit passender Still-Kleidung ausgestattet bist. BHs, Tops, Shirts und sommerlich luftige Blusen und Kleider findest du <a href=\"\/collections\/umstands-stillmode\" target=\"_blank\" title=\"Umstands- & Stillmode\">hier<\/a>.<\/p>"
+            "text": "<h2>Kleidung für Zuhause<\/h2><p>Natürlich kommt es immer aufs Kind an und auf die Temperatur im Haus. Für kühle Temperaturen kannst du die Tipps \"Bei Kälte\" beachten und im Sommer die Tipps \"Bei Hitze\". Grundsätzlich sind temperaturausgleichende Materialien eine gute Wahl, daher empfehlen wir ganzjährig Kleidung aus Fasern, die temperaturausgleichend sind. Sie sorgen dafür, dass die Körpertemperatur konstant bleibt und das Kind weder zu heiss noch zu kalt hat. Ideal dafür ist ein Wolle-Seide Gemisch.<\/p><p>Diese Wohnungskleidung ist auch ideal zum Tragen des Babys in einer Tragehilfe. Und sie dient als erste Schicht, die bei kaltem Wetter mit weiteren Schichten ergänzt werden kann.<\/p>"
           }
         }
       },
@@ -410,7 +384,6 @@
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
-    "66cf2c2d-098b-49ab-93be-9ca360db9db4",
     "rich_text_UjMYrL",
     "section_custom_image_cK8xwA",
     "rich_text_URzWh9",

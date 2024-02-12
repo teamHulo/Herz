@@ -322,6 +322,28 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_tX7ECY": {
+      "type": "rich-text",
+      "blocks": {
+        "text_xe9zxY": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Sonnencreme<\/h2><p>Im ersten Lebensjahr lautet die Empfehlung, möglichst auf Sonnencreme zu verzichten. Die Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Setze lieber auf passende Kleidung und viel Schatten. Danach kannst du diese Punkte beachten:<\/p><ul><li>Der Lichtschutzfaktor (LSF\/SPF) sollte für Kinder mindestens 30 aber besser 50 betragen. Der Faktor gibt an, um welche Dauer der Eigenschutz der Haut verlängert wird. Der Eigenschutz ist bei Kindern je nach Hauttyp 2-7 Minuten.<\/li><li>UV-Filter: Chemische Filter ziehen in die Haut ein (Ausnahme: <a href=\"\/products\/skinnies-kids-100ml\" target=\"_blank\" title=\"Sonnencreme Kids LSF 50, 100 ml\">Skinnies<\/a>) und schützen, indem sie UV-Strahlen in Wärme wandeln. Möchtest du ein natürliches Produkt, wähle eine Creme mit mineralischem Filter. Sie bleibt auf der Hautoberfläche und reflektiert dort das Sonnenlicht. Sie ist oft weisslich und etwas schwerer einzucremen.<\/li><li>Achte darauf, dass deine Sonnencreme frei von unnötigen, bedenklichen oder schädlichen Inhaltsstoffen ist. Vermeide insbesondere: Parabene, Nanopartikel, Mikroplastik, Alkohol und Konservierungsstoffe. Wasche die Creme abends ab.<\/li><li>Umweltbewusste Hersteller verwenden beispielsweise plastikfreie Verpackungen oder Tuben aus Recycling-Material. Sie produzieren nachhaltig oder sogar CO2-neutral.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "text_xe9zxY"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b": {
       "type": "image-with-text",
       "blocks": {
@@ -474,6 +496,7 @@
     "rich_text_JX9MAq",
     "rich_text_ihUfLg",
     "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
+    "rich_text_tX7ECY",
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
     "e0647214-9936-4525-a517-be4c05c8b5c3",
     "9f2d927d-daf8-4fcf-aceb-a840a11d7b82",

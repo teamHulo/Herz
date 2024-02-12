@@ -1240,7 +1240,7 @@ class VariantRadios extends VariantSelects {
   }
 
   updateOptions() {
-    const fieldsets = Array.from(document.querySelectorAll('fieldset'));
+    const fieldsets = Array.from(document.querySelector('.product__info-wrapper').querySelectorAll('fieldset'));
     fieldsets.sort((a, b) => {
       const indexA = a.getAttribute('data-index-field');
       const indexB = b.getAttribute('data-index-field');

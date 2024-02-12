@@ -298,6 +298,32 @@
         "padding_bottom": 52
       }
     },
+    "section_custom_image_Xiyfw7": {
+      "type": "section-custom-image",
+      "blocks": {
+        "image_iKbwBK": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg"
+          }
+        },
+        "image_wFPQJf": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Schuhe-Warum.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_iKbwBK",
+        "image_wFPQJf"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "max_width": 870
+      }
+    },
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0": {
       "type": "rich-text",
       "blocks": {
@@ -334,6 +360,7 @@
     "rich_text_ihUfLg",
     "section_custom_image_9JFeAx",
     "rich_text_knJH6f",
+    "section_custom_image_Xiyfw7",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0"
   ]
 }

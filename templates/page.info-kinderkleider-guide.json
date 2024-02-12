@@ -238,133 +238,13 @@
         "padding_bottom": 52
       }
     },
-    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Feuerwehr-Hut<\/h3><p>Die breite Krempe und der spezielle UV-Stoff in Bio-Qualität bieten viele Stunden Sonnenschutz. Das Strickbündchen sorgt für die perfekte Passform und Spielraum beim Wachsen. Der Hut wird in vielen schönen Farben in Deutschland hergestellt. Er ist und bleibt unser Herzenstipp für kühle Köpfe.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zu den Sonnenhüten",
-            "button_link": "shopify:\/\/collections\/sonnenhute",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1",
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-pickapooh-sonnenhut.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_tX7ECY": {
-      "type": "rich-text",
-      "blocks": {
-        "text_xe9zxY": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Sonnencreme<\/h2><p>Im ersten Lebensjahr lautet die Empfehlung, möglichst auf Sonnencreme zu verzichten. Die Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Setze lieber auf passende Kleidung und viel Schatten. Danach kannst du diese Punkte beachten:<\/p><ul><li>Der Lichtschutzfaktor (LSF\/SPF) sollte für Kinder mindestens 30 aber besser 50 betragen. Der Faktor gibt an, um welche Dauer der Eigenschutz der Haut verlängert wird. Der Eigenschutz ist bei Kindern je nach Hauttyp 2-7 Minuten.<\/li><li>UV-Filter: Chemische Filter ziehen in die Haut ein (Ausnahme: <a href=\"\/products\/skinnies-kids-100ml\" target=\"_blank\" title=\"Sonnencreme Kids LSF 50, 100 ml\">Skinnies<\/a>) und schützen, indem sie UV-Strahlen in Wärme wandeln. Möchtest du ein natürliches Produkt, wähle eine Creme mit mineralischem Filter. Sie bleibt auf der Hautoberfläche und reflektiert dort das Sonnenlicht. Sie ist oft weisslich und etwas schwerer einzucremen.<\/li><li>Achte darauf, dass deine Sonnencreme frei von unnötigen, bedenklichen oder schädlichen Inhaltsstoffen ist. Vermeide insbesondere: Parabene, Nanopartikel, Mikroplastik, Alkohol und Konservierungsstoffe. Wasche die Creme abends ab.<\/li><li>Umweltbewusste Hersteller verwenden beispielsweise plastikfreie Verpackungen oder Tuben aus Recycling-Material. Sie produzieren nachhaltig oder sogar CO2-neutral.<\/li><\/ul><p>Wir von Herz an Herz haben uns für zwei Cremes entschieden, die wir mit gutem Gewissen empfehlen können:<\/p><p><strong>Skinnies: <\/strong>Die Creme kommt mit wenigen Inhaltsstoffen und komplett ohne Wasser aus; dank der hohen Konzentration brauchst du 5x weniger Creme. Das Gel ist leicht aufzutragen und dringt dank innovativer Technologie nicht in die Haut ein. Du kannst ohne Wartezeit direkt an die Sonne und ins Wasser. Skinnies wird nachhaltig hergestellt, ist \"Reef Safe\" und ist unser Favorit unter den Cremes mit chemischem Filter.<\/p><p><strong>Naïf:<\/strong> Diese Sonnencreme mit natürlichen, mineralischen Filtern auf Basis von Zinkoxid eignet sich ganz besonders für Babys und Kinder mit empfindlicher Haut. Sie kommt ohne bedenkliche Inhalte aus, verwendet keine Nanopartikel und lässt sich trotzdem leicht verstreichen. Und sie kommt erst noch in einer Tube, die aus Zuckerrohr gefertigt ist.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_xe9zxY"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "b3fa52d2-f2d9-4105-abf3-5171c37af62b": {
-      "type": "image-with-text",
-      "blocks": {
-        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Sonnencreme<\/h3><p>Unsere beiden Favoriten was Sonnencreme angeht, haben wir mit unseren über 15 Team-Kids selber ausgiebig getestet. Warum wir uns für Skinnies und Naïf entschieden haben, liest du oben.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1213e182-6420-4dc6-b2ba-8a8ad1072c57": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zur Sonnencreme",
-            "button_link": "shopify:\/\/collections\/sonnencreme",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98",
-        "1213e182-6420-4dc6-b2ba-8a8ad1072c57"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Koerperpflege_Bio_Vegan_Baby_Kinder_After_Sun_Feuchtigkeit_Pflege_Naif_Cooling_Apres_Soleil1_50146_2.png",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_r8wMyK": {
-      "type": "rich-text",
-      "blocks": {
-        "text_LxB3yw": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Sonnenbrille<\/h2><p>In unseren Breitengraden kann man aufgrund natürlicher Schutzmechanismen der Augen auch ohne <a href=\"\/collections\/sonnenbrillen\" target=\"_blank\" title=\"Sonnenbrillen\">Sonnenbrille<\/a> längere Zeit im Freien verbringen. Doch insbesondere am Wasser und in den Bergen ist ein guter Sonnenschutz für Kinderaugen wichtig. Da Kinder grössere Pupillen haben als Erwachsene, sind ihre hochempfindlichen Netzhautzellen dem UV-Licht stärker ausgesetzt. Eine hochwertige Sonnenbrille hat die Kennzeichnung CE und UV400 für 100%-igen Schutz vor UV A & B Strahlung sowie Scheiben mit Filter der Kategorie 3 (d.h. eine dunkle Tönung für hohe Lichtundurchlässigkeit). Kinderbrillen zeichnen sich zudem durch seitlichen Schutz gegen Streulicht, biegsames, bruchsicheres, kratzfestes Material und weitere Features wie Click-on Bügel oder Bindeband aus.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_LxB3yw"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0": {
       "type": "rich-text",
       "blocks": {
         "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
           "type": "text",
           "settings": {
-            "text": "<h2>Ein paar Grundsätze <\/h2><ul><li><strong>Jedes Kind ist anders.<\/strong> Was deine Nachbarin ihrem Baby anzieht muss für dein Baby nicht automatisch auch das Richtige sein. Und wenn wir selber kalt oder heiss haben, muss dasselbe nicht für unser Baby gelten. Es gibt hitzige Babys und solche die schneller frieren.<\/li><li><strong>Fühle die Temperatur am Nacken.<\/strong> Ein guter Indikator um herauszufinden ob das Baby friert oder schwitzt ist der Nacken. Fühle im Halsausschnitt, ob die Haut kalt, angenehm warm oder eher schwitzig ist. Babys haben schnell mal kühle Hände oder Füsse. Das bedeutet nicht, dass das Baby zu kalt hat, sondern dass sein Körper richtig auf Kälte reagiert und die inneren Organe warm hält. (Sind die Extremitäten marmoriert, hat das Kind aber zu kalt.)<\/li><li><strong>Eltern wärmen das Baby.<\/strong> Die Natur hat vorgesehen, dass Babys ihre ersten Monate hauptsächlich am Körper eines Erwachsenen verbringen. Dieser reguliert praktischerweise die Körpertemperatur des Kindes gleich mit. Je weniger Kleidungsschichten zwischen Kind und Trageperson sind, umso besser funktioniert der Wärmeaustausch. Übrigens: Bei Fieber kann (nur!) die Mutter durch Körperkontakt die Temperatur des Kindes regulieren und das Fieber so schonend und sanft senken.<\/li><li><strong>Die Natur hat vorgesorgt.<\/strong> Babys haben noch viel braunes Fett - dieses hält den Körper warm ohne dass das Baby sich bewegen muss. Dieses äusserst nützliche Fett bleibt dem Körper erhalten, solange er regelmässig der Kälte ausgesetzt ist. Babys zu warm einzupacken ist daher kontraproduktiv. Der Körper kann so nicht mehr richtig auf die kalten Temperaturen reagieren und das braune Fett geht zurück.<\/li><li><strong>Selbstbestimmung ist zentral.<\/strong> Je älter und selbständiger das Kind wird, desto mehr darfst du ihm vertrauen, dass es selber weiss, was es braucht. Kinder, die selbstbestimmt entscheiden dürfen, ob sie eine Jacke oder Mütze, ein langes oder kurzes Shirt anziehen wollen, entwickeln ein gutes Körpergefühl und ein Gespür dafür, was sie brauchen. Und dieses kann ganz anders sein als unser eigenes Empfinden, denn greifen wir nicht ein und packen die Kinder nicht zu warm ein, dann behalten sie ihr braunes Fett und können wunderbar mit kalten Temperaturen umgehen, was ihr Immunsystem zusätzlich stärkt.<\/li><\/ul>"
+            "text": "<h2>Ein paar Grundsätze  zur Kleiderfrage<\/h2><ul><li><strong>Jedes Kind ist anders.<\/strong> Was deine Nachbarin ihrem Baby anzieht muss für dein Baby nicht automatisch auch das Richtige sein. Und wenn wir selber kalt oder heiss haben, muss dasselbe nicht für unser Baby gelten. Es gibt hitzige Babys und solche die schneller frieren.<\/li><li><strong>Fühle die Temperatur am Nacken.<\/strong> Ein guter Indikator um herauszufinden ob das Baby friert oder schwitzt ist der Nacken. Fühle im Halsausschnitt, ob die Haut kalt, angenehm warm oder eher schwitzig ist. Babys haben schnell mal kühle Hände oder Füsse. Das bedeutet nicht, dass das Baby zu kalt hat, sondern dass sein Körper richtig auf Kälte reagiert und die inneren Organe warm hält. (Sind die Extremitäten marmoriert, hat das Kind aber zu kalt.)<\/li><li><strong>Eltern wärmen das Baby.<\/strong> Die Natur hat vorgesehen, dass Babys ihre ersten Monate hauptsächlich am Körper eines Erwachsenen verbringen. Dieser reguliert praktischerweise die Körpertemperatur des Kindes gleich mit. Je weniger Kleidungsschichten zwischen Kind und Trageperson sind, umso besser funktioniert der Wärmeaustausch. Übrigens: Bei Fieber kann (nur!) die Mutter durch Körperkontakt die Temperatur des Kindes regulieren und das Fieber so schonend und sanft senken.<\/li><li><strong>Die Natur hat vorgesorgt.<\/strong> Babys haben noch viel braunes Fett - dieses hält den Körper warm ohne dass das Baby sich bewegen muss. Dieses äusserst nützliche Fett bleibt dem Körper erhalten, solange er regelmässig der Kälte ausgesetzt ist. Babys zu warm einzupacken ist daher kontraproduktiv. Der Körper kann so nicht mehr richtig auf die kalten Temperaturen reagieren und das braune Fett geht zurück.<\/li><li><strong>Selbstbestimmung ist zentral.<\/strong> Je älter und selbständiger das Kind wird, desto mehr darfst du ihm vertrauen, dass es selber weiss, was es braucht. Kinder, die selbstbestimmt entscheiden dürfen, ob sie eine Jacke oder Mütze, ein langes oder kurzes Shirt anziehen wollen, entwickeln ein gutes Körpergefühl und ein Gespür dafür, was sie brauchen. Und dieses kann ganz anders sein als unser eigenes Empfinden, denn greifen wir nicht ein und packen die Kinder nicht zu warm ein, dann behalten sie ihr braunes Fett und können wunderbar mit kalten Temperaturen umgehen, was ihr Immunsystem zusätzlich stärkt.<\/li><\/ul>"
           }
         }
       },
@@ -392,10 +272,6 @@
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
     "section_custom_image_d9EMQC",
     "rich_text_ihUfLg",
-    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
-    "rich_text_tX7ECY",
-    "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
-    "rich_text_r8wMyK",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0"
   ]
 }

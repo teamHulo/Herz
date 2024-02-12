@@ -238,6 +238,32 @@
         "padding_bottom": 52
       }
     },
+    "section_custom_image_9JFeAx": {
+      "type": "section-custom-image",
+      "blocks": {
+        "image_eP6kJt": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Hempies_Bild_6.jpg"
+          }
+        },
+        "image_TtAYek": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/infobild-kinderkleider-guide-sommer_7f028583-2b67-4daa-8351-3f30fc1d2854.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_eP6kJt",
+        "image_TtAYek"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "max_width": 870
+      }
+    },
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0": {
       "type": "rich-text",
       "blocks": {
@@ -272,6 +298,7 @@
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
     "section_custom_image_d9EMQC",
     "rich_text_ihUfLg",
+    "section_custom_image_9JFeAx",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0"
   ]
 }

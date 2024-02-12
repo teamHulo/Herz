@@ -1247,7 +1247,7 @@ class VariantRadios extends VariantSelects {
       return indexA - indexB;
     });
     this.options = fieldsets.map((fieldset) => {
-      return Array.from(fieldset.querySelectorAll('input')).find((radio) => radio.checked);
+      return Array.from(fieldset.querySelectorAll('input')).find((radio) => radio.checked).value;
     });
   }
 }

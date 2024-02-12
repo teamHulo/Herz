@@ -264,6 +264,40 @@
         "max_width": 870
       }
     },
+    "rich_text_knJH6f": {
+      "type": "rich-text",
+      "blocks": {
+        "text_qxMYM3": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Kinderschuhe<\/h2><p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. <\/p><p>Anders als herkömmliche Schuhe, die oft stark gepolstert und stützend sind, sind Barfuss-Schuhe darauf ausgelegt, die natürliche Bewegung der Füsse zu fördern und die Füsse so zu trainieren, wie es die Evolution vorgesehen hat.<\/p><p>Auf unserer ausführlichen Wissens-Seite verraten wir dir, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind und wie du die passende Grösse für dein Kind ermittelst.<\/p>"
+          }
+        },
+        "button_UwwpxP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Warm durch Herbst & Winter",
+            "button_link": "shopify:\/\/pages\/warm-durch-herbst-winter",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_qxMYM3",
+        "button_UwwpxP"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0": {
       "type": "rich-text",
       "blocks": {
@@ -299,6 +333,7 @@
     "section_custom_image_d9EMQC",
     "rich_text_ihUfLg",
     "section_custom_image_9JFeAx",
+    "rich_text_knJH6f",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0"
   ]
 }

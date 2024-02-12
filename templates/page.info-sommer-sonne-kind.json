@@ -371,7 +371,7 @@
         "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Koerperpflege_Bio_Vegan_Baby_Kinder_After_Sun_Feuchtigkeit_Pflege_Naif_Cooling_Apres_Soleil1_50146_2.png",
         "height": "small",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
@@ -380,6 +380,28 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_r8wMyK": {
+      "type": "rich-text",
+      "blocks": {
+        "text_LxB3yw": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Sonnencreme<\/h2><p>In unseren Breitengraden kann man aufgrund natürlicher Schutzmechanismen der Augen auch ohne Sonnenbrille längere Zeit im Freien verbringen. Doch insbesondere am Wasser und in den Bergen ist ein guter Sonnenschutz für Kinderaugen wichtig. Da Kinder grössere Pupillen haben als Erwachsene, sind ihre hochempfindlichen Netzhautzellen dem UV-Licht stärker ausgesetzt. Eine hochwertige Sonnenbrille hat die Kennzeichnung CE und UV400 für 100%-igen Schutz vor UV A & B Strahlung sowie Scheiben mit Filter der Kategorie 3 (d.h. eine dunkle Tönung für hohe Lichtundurchlässigkeit). Kinderbrillen zeichnen sich zudem durch seitlichen Schutz gegen Streulicht, biegsames, bruchsicheres, kratzfestes Material und weitere Features wie Click-on Bügel oder Bindeband aus.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_LxB3yw"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "e0647214-9936-4525-a517-be4c05c8b5c3": {
@@ -498,6 +520,7 @@
     "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
     "rich_text_tX7ECY",
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
+    "rich_text_r8wMyK",
     "e0647214-9936-4525-a517-be4c05c8b5c3",
     "9f2d927d-daf8-4fcf-aceb-a840a11d7b82",
     "de7f5108-2c92-404d-8671-8437b9ae096a"

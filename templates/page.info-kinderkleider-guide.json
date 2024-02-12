@@ -152,10 +152,22 @@
           "settings": {
             "text": "<h2>Kleidung bei Sonne & Hitze<\/h2><p>Bei Hitze sind luftige, langärmelige Kleider ideal, da sie gut vor der Sonne schützen. Ebenso sind ausgleichende und kühlende Materialien wie Hanf, Seide, Bambus oder Leinen eine gute Wahl. Ein passender Sonnenhut, eine geeignete Kinder-Sonnencreme und UV-Kleidung am Wasser schützen das Kind vor der Sonne.<\/p><p>Schau dir dazu unsere Wissens-Seite \"Sommer, Sonne, Kind\" an - dort findest du viele Tipps und alle Informationen zu Kleidung & Accessoires für heisse Temperaturen.<\/p>"
           }
+        },
+        "button_GRjggP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Sommer, Sonne, Kind",
+            "button_link": "shopify:\/\/pages\/sommer-sonne-kind",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
-        "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1"
+        "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1",
+        "button_GRjggP"
       ],
       "settings": {
         "desktop_content_position": "center",

@@ -102,7 +102,7 @@
         "text_FJKfYC": {
           "type": "text",
           "settings": {
-            "text": "<h2>Kleidung zum Schlafen<\/h2><p>Experten empfehlen aufgrund der SIDS-Prophylaxe einen kühlen Schlafplatz von etwa 18°C. Da dies bei uns nicht immer möglich ist, gerade im Sommer, ist es umso wichtiger, auf geeignete Kleidung zu achten. Das Baby sollte weder zu kalt noch zu warm haben. Gerade für kleine Babys - aber auch für ältere Kinder - eignen sich daher Naturfasern am besten, die temperaturausgleichende Eigenschaften haben. Dazu gehören Wolle oder Gemische aus Wolle-Seide und Seide-Baumwolle. Im Sommer haben Bambus- oder Seide-Kleider zudem eine kühlende Wirkung. Da Babys nicht unter die Decke gehören, sind Schlafsäcke eine gute Wahl. Auch diese gibt's aus Wolle oder im Sommer aus leichter Bio-Baumwolle.<\/p><ul><li><strong>Schlafoveralls:<\/strong> Pyjamas und <a href=\"\/collections\/pyjamas-schlafstrampler\" target=\"_blank\" title=\"Pyjamas & Schlafstrampler\">Schlafstrampler<\/a> gibts bei Herz an Herz in verschiedenen Ausführungen. Materialien wie Wolle, Wolle-Seide oder Bambus gleichen die Temperatur aus, was gerade beim Schlafen ein grosser Vorteil ist.<\/li><li><strong>Schlafsack:<\/strong> Da Babys nachts nicht unter die Decke gehören, sind <a href=\"\/collections\/schlafsacke\" target=\"_blank\" title=\"Schlafsäcke\">Schlafsäcke<\/a> eine gute Wahl. Sie sorgen für eine Extraportion Wärme und können nicht weggestrampelt werden. Unsere leichten Woll-Schlafsäcke eignen sich gut fürs ganze Jahr. Wenn es im Sommer im Schlafzimmer sehr heiss wird, eignen sich leichtere Modelle aus Musselin.<\/li><\/ul>"
+            "text": "<h2>Kleidung zum Schlafen<\/h2><p>Experten empfehlen aufgrund der SIDS-Prophylaxe einen kühlen Schlafplatz von etwa 18°C. Da dies bei uns nicht immer möglich ist, gerade im Sommer, ist es umso wichtiger, auf geeignete Kleidung zu achten. Das Baby sollte weder zu kalt noch zu warm haben. Gerade für kleine Babys - aber auch für ältere Kinder - eignen sich daher Naturfasern am besten, die temperaturausgleichende Eigenschaften haben. Dazu gehören Wolle oder Gemische aus Wolle-Seide und Seide-Baumwolle. Im Sommer haben Bambus- oder Seide-Kleider zudem eine kühlende Wirkung. Da Babys nicht unter die Decke gehören, sind Schlafsäcke eine gute Wahl. Auch diese gibt's aus Wolle oder im Sommer aus leichter Bio-Baumwolle.<\/p><ul><li><strong>Schlafoveralls:<\/strong> Pyjamas und <a href=\"\/collections\/pyjamas-schlafstrampler\" target=\"_blank\" title=\"Pyjamas & Schlafstrampler\">Schlafstrampler<\/a> gibts bei Herz an Herz in verschiedenen Ausführungen. Materialien wie Wolle, Wolle-Seide oder Bambus gleichen die Temperatur aus, was gerade beim Schlafen ein grosser Vorteil ist.<\/li><li><strong>Schlafsack:<\/strong> Da Babys nachts nicht unter die Decke gehören, sind <a href=\"\/collections\/schlafsacke\" target=\"_blank\" title=\"Schlafsäcke\">Schlafsäcke<\/a> eine gute Wahl. Sie sorgen für eine Extraportion Wärme und können nicht weggestrampelt werden. Unsere leichten Woll-Schlafsäcke eignen sich gut fürs ganze Jahr. Wenn es im Sommer im Schlafzimmer sehr heiss wird, eignen sich leichtere Modelle aus Musselin.<\/li><li><strong>Kuschlige Decken:<\/strong> Leichte <a href=\"\/collections\/babydecken\" target=\"_blank\" title=\"Babydecken\">Babydecken<\/a> aus Wolle sorgen für kuschlige Zusatz-Wärme. Sie eignen sich bestens für kleine Schläfchen tagsüber im Arm, im Kinderwagen, in der Autoschale, in der Hängematte oder auch im Bett oder auf dem Sofa. Im Sommer ist eine <a href=\"\/collections\/uv-stampler-tucher\" target=\"_blank\" title=\"UV-Decken & -Kleidung\">UV-Decke<\/a> eine gute Wahl.<\/li><\/ul>"
           }
         }
       },
@@ -121,22 +121,22 @@
     "section_custom_image_xwAyaY": {
       "type": "section-custom-image",
       "blocks": {
-        "image_rk4YDz": {
-          "type": "image",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Doodush_Ueberhose_Painted_Animals_Newborn_2_67023_2_d670b4be-e97c-4f7f-aa3a-b9174132d407.jpg"
-          }
-        },
         "image_ix6pnz": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Bio_Culla_Di_Teby_Tipi_53210_2.jpg"
+            "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Cloby-UV-Decke-sandybeach3.jpg"
+          }
+        },
+        "image_rk4YDz": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/WoolrexSleepingBagMOOD_66306_2.jpg"
           }
         }
       },
       "block_order": [
-        "image_rk4YDz",
-        "image_ix6pnz"
+        "image_ix6pnz",
+        "image_rk4YDz"
       ],
       "settings": {
         "padding_top": 0,

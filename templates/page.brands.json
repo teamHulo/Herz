@@ -883,6 +883,14 @@
             "url": ""
           }
         },
+        "brand_mVtKBj": {
+          "type": "brand",
+          "settings": {
+            "title": "Play Up",
+            "text": "<p>Play Up ist eine Baby- und Kinderkleider-Marke aus Portugal. Mit über 30 Jahren Erfahrung in Design und Herstellung kreieren sie in hoher Qualität, nachhaltig, verantwortungsvoll und nach den Prinzipien von \"Slow-Making\" - vieles wird von Hand gemacht, mit viel Zeit und Aufmerksamkeit. Die Kleider werden mit biologisch abbaubaren Farben gefärbt und die meisten Teile aus Bio-Baumwolle gefertigt.<\/p>",
+            "url": ""
+          }
+        },
         "57bf30bf-5eaf-4d6d-a6dc-a1ace4d09686": {
           "type": "brand",
           "settings": {
@@ -946,14 +954,6 @@
             "text": "<p>Silverette Silberhütchen werden von der Tecnologia Ospedaliera in Italien hergestellt. Die Firma wurde in den 70ern von Luigi Sevignani gegründet und nun von seinen Töchtern weitergeführt. Sie arbeiteten mit bekannten Gesundheitsexperten des Universitätskrankenhauses von Padua, Italien zusammen<\/p>",
             "url": ""
           }
-        },
-        "brand_mVtKBj": {
-          "type": "brand",
-          "settings": {
-            "title": "Play Up",
-            "text": "<p>Play Up ist eine Baby- und Kinderkleider-Marke aus Portugal. Mit über 30 Jahren Erfahrung in Design und Herstellung kreieren sie in hoher Qualität, nachhaltig, verantwortungsvoll und nach den Prinzipien von \"Slow-Making\" - vieles wird von Hand gemacht, mit viel Zeit und Aufmerksamkeit. Die Kleider werden mit biologisch abbaubaren Farben gefärbt und die meisten Teile aus Bio-Baumwolle gefertigt.<\/p>",
-            "url": ""
-          }
         }
       },
       "block_order": [
@@ -974,6 +974,7 @@
         "b810120f-4b48-4a68-9405-c0434710bcea",
         "de03a7ff-25aa-4864-b98f-7bae20d92a0a",
         "c5cca916-8a7a-4216-85e0-f865286d2cf7",
+        "brand_mVtKBj",
         "57bf30bf-5eaf-4d6d-a6dc-a1ace4d09686",
         "c765f1ae-334b-496b-bbee-247fbdd38f67",
         "f7f17304-b089-43b4-8004-9e1539c04679",
@@ -981,8 +982,7 @@
         "a5ed4d76-8dec-4c1c-9a98-8a339bd56b41",
         "c7cff984-3912-40f5-b9cc-310bf0ac4038",
         "8daac7b1-35e8-40d3-8d23-e5776cd9c801",
-        "08906bcd-4b78-4ffe-9862-bb2b5940078b",
-        "brand_mVtKBj"
+        "08906bcd-4b78-4ffe-9862-bb2b5940078b"
       ],
       "settings": {
         "padding_top": 60,

@@ -68,7 +68,7 @@
           "type": "image",
           "settings": {
             "menu_handle": "Geschenke",
-            "new_tab": true,
+            "new_tab": false,
             "img": "shopify:\/\/shop_images\/Megamenu-Geschenkgutschein.jpg",
             "url": ""
           }

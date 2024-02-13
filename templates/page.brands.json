@@ -946,6 +946,14 @@
             "text": "<p>Silverette Silberhütchen werden von der Tecnologia Ospedaliera in Italien hergestellt. Die Firma wurde in den 70ern von Luigi Sevignani gegründet und nun von seinen Töchtern weitergeführt. Sie arbeiteten mit bekannten Gesundheitsexperten des Universitätskrankenhauses von Padua, Italien zusammen<\/p>",
             "url": ""
           }
+        },
+        "brand_mVtKBj": {
+          "type": "brand",
+          "settings": {
+            "title": "Play Up",
+            "text": "<p>Play Up ist eine Baby- und Kinderkleider-Marke aus Portugal. Mit über 30 Jahren Erfahrung in Design und Herstellung kreieren sie in hoher Qualität, nachhaltig, verantwortungsvoll und nach den Prinzipien von \"Slow-Making\" - vieles wird von Hand gemacht, mit viel Zeit und Aufmerksamkeit. Die Kleider werden mit biologisch abbaubaren Farben gefärbt und die meisten Teile aus Bio-Baumwolle gefertigt.<\/p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -973,7 +981,8 @@
         "a5ed4d76-8dec-4c1c-9a98-8a339bd56b41",
         "c7cff984-3912-40f5-b9cc-310bf0ac4038",
         "8daac7b1-35e8-40d3-8d23-e5776cd9c801",
-        "08906bcd-4b78-4ffe-9862-bb2b5940078b"
+        "08906bcd-4b78-4ffe-9862-bb2b5940078b",
+        "brand_mVtKBj"
       ],
       "settings": {
         "padding_top": 60,

@@ -109,9 +109,13 @@
                   {%- when 'link_list' -%}
                   {%- if block.settings.menu != blank -%}
                     <ul class="footer-block__details-content list-unstyled">
+                      {% assign isNewTab = false %}
                       {%- for link in block.settings.menu.links -%}
+                        {% if link.title == 'Beratungen' or link.title == 'Kurse & Events' or link.title == 'Podcast' %}
+                          {% assign isNewTab = true %}
+                        {% endif %}
                         <li>
-                          <a href="{{ link.url }}" class="link link--text list-menu__item list-menu__item--link{% if link.active %} list-menu__item--active{% endif %}">
+                          <a href="{{ link.url }}" {% if isNewTab %}target="_blank"{% endif %} class="link link--text list-menu__item list-menu__item--link{% if link.active %} list-menu__item--active{% endif %}">
                             {{ link.title }}
                           </a>
                         </li>

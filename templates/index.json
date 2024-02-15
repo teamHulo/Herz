@@ -3,6 +3,18 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "item_zabzeK": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Namaki_Kinderschminke-3erset-piratmarienkaefer2_a4a6caf7-fd0f-48a3-87e3-5f34a47f8dcc.jpg",
+            "img2": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Namaki_Kinderschminke-stifteset-enchanted3.jpg",
+            "img3": "shopify:\/\/shop_images\/hair-mascara-orange_795bde33-dc9d-47ad-8048-382314d5246d.jpg",
+            "title": "Alles für die Fasnacht",
+            "text": "<p>Verkleiden und in andere Rollen schlüpfen ist für Kinder ein absolutes Highlight! Mit unserem natürlichen & ungiftigen Bio Kinderschminksets, der Haar-Mascara oder dem natürlichen Nagellack für Kinder seid ihr für die Fasnacht, den Kindergeburtstag oder den kunterbunten Alltagsspass gerüstet.<\/p>",
+            "url": "shopify:\/\/collections\/kinder-accessoires",
+            "btn_name": "Zu den Produkten"
+          }
+        },
         "item_WxFtCe": {
           "type": "item",
           "settings": {
@@ -22,18 +34,6 @@
             "text": "",
             "url": "",
             "btn_name": "LEarn more"
-          }
-        },
-        "item_zabzeK": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Namaki_Kinderschminke-3erset-piratmarienkaefer2_a4a6caf7-fd0f-48a3-87e3-5f34a47f8dcc.jpg",
-            "img2": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Namaki_Kinderschminke-stifteset-enchanted3.jpg",
-            "img3": "shopify:\/\/shop_images\/hair-mascara-orange_795bde33-dc9d-47ad-8048-382314d5246d.jpg",
-            "title": "Alles für die Fasnacht",
-            "text": "<p>Verkleiden und in andere Rollen schlüpfen ist für Kinder ein absolutes Highlight! Mit unserem natürlichen & ungiftigen Bio Kinderschminksets, der Haar-Mascara oder dem natürlichen Nagellack für Kinder seid ihr für die Fasnacht, den Kindergeburtstag oder den kunterbunten Alltagsspass gerüstet.<\/p>",
-            "url": "shopify:\/\/collections\/kinder-accessoires",
-            "btn_name": "Zu den Produkten"
           }
         },
         "item_Jc9eFD": {
@@ -125,9 +125,9 @@
         }
       },
       "block_order": [
+        "item_zabzeK",
         "item_WxFtCe",
         "item_PAbVYD",
-        "item_zabzeK",
         "item_Jc9eFD",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",

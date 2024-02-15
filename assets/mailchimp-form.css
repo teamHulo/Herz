@@ -8,8 +8,13 @@
 
 .mailchimp-form h2 {
     color: #00281d;
+    font-style: italic;
     margin-top: 0;
     margin-bottom: 0;
+}
+
+.mailchimp-form .newsletter__subheading p {
+    font-style: italic;
 }
 
 .newsletter__subheading {

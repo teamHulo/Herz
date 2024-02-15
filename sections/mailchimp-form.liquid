@@ -1,4 +1,4 @@
-{{ "mailchimp-form.css" | asset_url | stylesheet_tag }}
+{{ "mailchimp-form.css" | asset_url | stylesheet_tag }} 
 
 <section style="background-color: {{ section.settings.bg_color }}; padding-top: {{ section.settings.padding_top }}px; padding-bottom: {{ section.settings.padding_bottom }}px;" class="mailchimp-form newsletter center">
     <div class="page-width">
@@ -39,7 +39,9 @@
                     <div class="response" id="mce-success-response" style="display: none;"></div>
                 </div>
                 <div aria-hidden="true" style="position: absolute; left: -5000px;"><input type="text" name="b_9b3b8dc9a9a6a1b7bfad37630_c8e399fe06" tabindex="-1" value=""></div>
-                <div class="clear scroll-trigger animate--slide-in" data-cascade style="--animation-order: 6;"><input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Abonnieren"></div>
+                <div class="clear scroll-trigger animate--slide-in" data-cascade style="--animation-order: 6;">
+                  <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Abonnieren">
+                </div>
                 </div>
             </form>
         </div>

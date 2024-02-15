@@ -9,10 +9,19 @@
             "img1": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Paarzeit-Kartenset-Paare-Sofasafari-2_66294_2.jpg",
             "img2": "shopify:\/\/shop_images\/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
             "img3": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_sweetvalentine_63229_2.jpg",
-            "title": "Für Verliebte",
-            "text": "<p>Es müssen nicht immer Blumen oder Schokolade zum Valentinstag sein. (Und es muss auch gar nicht Valentinstag sein, um seine Liebsten zu beschenken.) Unsere Paarzeit Artikel schaffen besondere Augenblicke und bringen euch als Paar näher zusammen. Und auch sonst haben wir ein paar kleine, feine Highlights für Paare.<\/p>",
+            "title": "Für mehr Zweisamkeit",
+            "text": "<p>Das Leben mit kleinen Kindern kann ganz schön hektisch sein. Da ist es umso wichtiger, sich bewusst Zeit für die Partnerschaft zu nehmen. Die klimaneutral gefertigten Paarzeit Produkte schenken euch wunderbare Momente tiefer Verbundenheit. Für mehr Liebe & Achtsamkeit in der Hektik des Alltags. Und auch sonst haben wir ein paar kleine, feine Highlights für Paare.<\/p>",
             "url": "shopify:\/\/collections\/partnerschaft",
             "btn_name": "LIEBEvolle Produkte entdecken"
+          }
+        },
+        "item_PAbVYD": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "text": "",
+            "url": "",
+            "btn_name": "LEarn more"
           }
         },
         "item_zabzeK": {
@@ -117,6 +126,7 @@
       },
       "block_order": [
         "item_WxFtCe",
+        "item_PAbVYD",
         "item_zabzeK",
         "item_Jc9eFD",
         "24910c9d-15a9-4196-9b65-cc074f34c723",

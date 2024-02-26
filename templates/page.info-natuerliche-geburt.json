@@ -324,14 +324,14 @@
         "text_dxXgQc": {
           "type": "text",
           "settings": {
-            "text": "<h3>Geburtsvorbereitungskurs<\/h3><p>In diesem kostenlosen Guide erfährst du, wie Schmerzen bei der Geburt entstehen und wie sie beeinflusst werden können. Und du bekommst 20 ganz praktische Strategien, um die Schmerzen zu reduzieren und gut mit ihnen umzugehen. So dass du eine wunderschöne Geburt erleben darfst.<\/p>",
+            "text": "<h3>Geburtsvorbereitungskurs<\/h3><p>In unserem ganzheitlichen Geburtsvorbereitungskurs erfährst du noch viel mehr über diese 6 Zutaten und wie du dich intensiv auf eine sanfte, natürliche und selbstbestimmte Geburt vorbereitest. Den Kurs gibt es als Live-Kurs in Winterthur sowie als Onlinekurs, den du von überall aus und zu jeder Zeit selber durchführen kannst.<\/p>",
             "text_style": "body"
           }
         },
         "button_iqcVtw": {
           "type": "button",
           "settings": {
-            "button_label": "Broschüre herunterladen",
+            "button_label": "Zum Geburtsvorbereitungskurs",
             "button_link": "https:\/\/herzanherz-academy.ch\/vsl-landingpage-natuerliche-geburt\/guide-geburt-schmerzen\/",
             "button_style_secondary": false
           }

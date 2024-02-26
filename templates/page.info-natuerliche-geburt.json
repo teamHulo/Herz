@@ -296,13 +296,35 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_wcGKAF": {
+      "type": "rich-text",
+      "blocks": {
+        "text_axEdKp": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>6 - Ein Quäntchen Glück<\/h4><p>Jede Geburt ist eine Wundertüte. Niemand kann dir vorher sagen, wie diese eine Geburt werden wird. „Erstens kommt es anders, zweitens als man denkt“ ist eine Redewendung, die ganz bestimmt auf Geburten zutrifft. Es gibt Dinge, die du nicht oder nur bedingt beeinflussen kannst und es kann jederzeit etwas Unvorhergesehenes geschehen.<\/p><p>Wie viele Geschichten gibt es von Frauen, die im Auto oder im Flugzeug geboren haben. Vielleicht beginnen die Wehen ausgerechnet wenn dein Mann auf einer Geschäftsreise ist oder die Betreuung für die älteren Kinder krank wird. Vielleicht erwartest du Zwillinge. Vielleicht leidest du an einer Krankheit, die Einfluss auf Schwangerschaft und Geburt hat.<\/p><p>Ein bisschen Glück ist somit immer mit im Spiel. Dieser Punkt steht aber mit Absicht am Ende der Liste für die Zutaten einer natürlichen Geburt. Denn es gibt wesentlich mehr Punkte, die du gut beeinflussen und Entscheidungen, die du bewusst treffen kannst.<\/p><p>Die Geburt dem Schicksal zu überlassen ist keine gute Idee, denn viele Frauen, die das getan haben, wünschen sich im Nachhinein, sie hätten sich besser vorbereitet. Ich kann es nicht genug betonen: Bereite dich gut vor, erwarte das Bestmögliche und öffne dich dann für alles was kommt.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_axEdKp"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_ihUfLg": {
       "type": "rich-text",
       "blocks": {
         "text_bKLQF9": {
           "type": "text",
           "settings": {
-            "text": "<h2>Sonnenhut<\/h2><p>Ein guter Sonnenhut ist für alle Kinder gold wert. Doch gerade für kleine Babys, die weder Sonnencreme noch Sonnebrille tragen, ist ein guter Sonnenhut unerlässlich. Er schützt idealerweise dank einer breiten Krempe das ganze Gesicht und den Nacken. Bindebänder sorgen dafür, dass das Kind den Hut nicht abnimmt und er beim Tragen (insbesondere auf dem Rücken) nicht verrutscht. Unser absoluter Favorit: Der <a href=\"\/products\/sonnenhut-feuerwehr\" target=\"_blank\" title=\"Sonnenhut FEUERWEHR\">Feuerwehr-Hut<\/a> von Pickapooh.<\/p>"
+            "text": "<h2>Geburtsvorbereitung<\/h2><p>Ein guter Sonnenhut ist für alle Kinder gold wert. Doch gerade für kleine Babys, die weder Sonnencreme noch Sonnebrille tragen, ist ein guter Sonnenhut unerlässlich. Er schützt idealerweise dank einer breiten Krempe das ganze Gesicht und den Nacken. Bindebänder sorgen dafür, dass das Kind den Hut nicht abnimmt und er beim Tragen (insbesondere auf dem Rücken) nicht verrutscht. Unser absoluter Favorit: Der <a href=\"\/products\/sonnenhut-feuerwehr\" target=\"_blank\" title=\"Sonnenhut FEUERWEHR\">Feuerwehr-Hut<\/a> von Pickapooh.<\/p>"
           }
         }
       },
@@ -415,6 +437,7 @@
     "section_custom_image_d9EMQC",
     "rich_text_JX9MAq",
     "rich_text_ebEgRF",
+    "rich_text_wcGKAF",
     "rich_text_ihUfLg",
     "rich_text_tX7ECY",
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",

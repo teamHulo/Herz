@@ -302,7 +302,7 @@
         "text_axEdKp": {
           "type": "text",
           "settings": {
-            "text": "<h4>6 - Ein Quäntchen Glück<\/h4><p>Jede Geburt ist eine Wundertüte. Niemand kann dir vorher sagen, wie diese eine Geburt werden wird. „Erstens kommt es anders, zweitens als man denkt“ ist eine Redewendung, die ganz bestimmt auf Geburten zutrifft. Es gibt Dinge, die du nicht oder nur bedingt beeinflussen kannst und es kann jederzeit etwas Unvorhergesehenes geschehen.<\/p><p>Wie viele Geschichten gibt es von Frauen, die im Auto oder im Flugzeug geboren haben. Vielleicht beginnen die Wehen ausgerechnet wenn dein Mann auf einer Geschäftsreise ist oder die Betreuung für die älteren Kinder krank wird. Vielleicht erwartest du Zwillinge. Vielleicht leidest du an einer Krankheit, die Einfluss auf Schwangerschaft und Geburt hat.<\/p><p>Ein bisschen Glück ist somit immer mit im Spiel. Dieser Punkt steht aber mit Absicht am Ende der Liste für die Zutaten einer natürlichen Geburt. Denn es gibt wesentlich mehr Punkte, die du gut beeinflussen und Entscheidungen, die du bewusst treffen kannst.<\/p><p>Die Geburt dem Schicksal zu überlassen ist keine gute Idee, denn viele Frauen, die das getan haben, wünschen sich im Nachhinein, sie hätten sich besser vorbereitet. Ich kann es nicht genug betonen: Bereite dich gut vor, erwarte das Bestmögliche und öffne dich dann für alles was kommt.<\/p>"
+            "text": "<h4>6 - Ein Quäntchen Glück<\/h4><p>Jede Geburt ist eine Wundertüte. Niemand kann dir vorher sagen, wie diese eine Geburt werden wird. „Erstens kommt es anders, zweitens als man denkt“ ist eine Redewendung, die ganz bestimmt auf Geburten zutrifft. Es gibt Dinge, die du nicht oder nur bedingt beeinflussen kannst und es kann jederzeit etwas Unvorhergesehenes geschehen.<\/p><p>Wie viele Geschichten gibt es von Frauen, die im Auto oder im Flugzeug geboren haben. Vielleicht beginnen die Wehen ausgerechnet wenn dein Mann auf einer Geschäftsreise ist oder die Betreuung für die älteren Kinder krank wird. Vielleicht erwartest du Zwillinge. Vielleicht leidest du an einer Krankheit, die Einfluss auf Schwangerschaft und Geburt hat.<\/p><p>Ein bisschen Glück ist somit immer mit im Spiel. Dieser Punkt steht aber mit Absicht am Ende der Liste für die Zutaten einer natürlichen Geburt. Denn es gibt wesentlich mehr Punkte, die du gut beeinflussen und Entscheidungen, die du bewusst treffen kannst.<\/p><p>Die Geburt dem Schicksal zu überlassen ist keine gute Idee, denn viele Frauen, die das getan haben, wünschen sich im Nachhinein, sie hätten sich besser vorbereitet. Wir können es nicht genug betonen: Bereite dich gut vor, erwarte das Bestmögliche und öffne dich dann für alles was kommt.<\/p>"
           }
         }
       },
@@ -316,6 +316,44 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "image_with_text_hWUQkL": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_dxXgQc": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Geburtsvorbereitungskurs<\/h3><p>In diesem kostenlosen Guide erfährst du, wie Schmerzen bei der Geburt entstehen und wie sie beeinflusst werden können. Und du bekommst 20 ganz praktische Strategien, um die Schmerzen zu reduzieren und gut mit ihnen umzugehen. So dass du eine wunderschöne Geburt erleben darfst.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_iqcVtw": {
+          "type": "button",
+          "settings": {
+            "button_label": "Broschüre herunterladen",
+            "button_link": "https:\/\/herzanherz-academy.ch\/vsl-landingpage-natuerliche-geburt\/guide-geburt-schmerzen\/",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_dxXgQc",
+        "button_iqcVtw"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/E-Book_Schmerzen_Buch.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_ihUfLg": {
@@ -438,6 +476,7 @@
     "rich_text_JX9MAq",
     "rich_text_ebEgRF",
     "rich_text_wcGKAF",
+    "image_with_text_hWUQkL",
     "rich_text_ihUfLg",
     "rich_text_tX7ECY",
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",

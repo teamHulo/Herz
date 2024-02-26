@@ -691,11 +691,9 @@
                         {% for link in block.settings.menu_item.links %}
                           <item-menu class="menu-link {% if link.child_active or link.current %}active{% endif %}">
                             <div class="level-1">
-                              <a href="{{ link.url }}">{{ link.title }}</a>
+                              <a href="{{ link.url }}">{{ link.title | upcase }}</a>
                               {% if link.links.size > 0 %}
                                 <span class="has-children"></span>
-                              {% else %}
-                                <a href="{{ link.url }}" class="icon-arrow"><span class="not-children"></span></a>
                               {% endif %}
                             </div>
                             
@@ -707,8 +705,6 @@
                                       <a href="{{ child_link.url }}">{{ child_link.title }}</a>
                                       {% if child_link.links.size > 0 %}
                                         <span class="has-children"></span>
-                                      {% else %}
-                                        <a href="{{ child_link.url }}" class="icon-arrow"><span class="not-children"></span></a>
                                       {% endif %}
                                     </div>
                     
@@ -718,7 +714,6 @@
                                           <item-menu class="menu-link {% if grandchild_link.current %}active{% endif %}">
                                             <div class="level-3">
                                               <a href="{{ grandchild_link.url }}">{{ grandchild_link.title }}</a>
-                                              <a href="{{ grandchild_link.url }}" class="icon-arrow"><span class="not-children"></span></a>
                                             </div>
                                           </item-menu>
                                         {% endfor %}

@@ -1,0 +1,427 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "16a27f16-b5b6-4838-b516-46c85c826eb0": {
+      "type": "section-about-text",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "logo": "shopify:\/\/shop_images\/Group.png",
+        "title": "Sommer, Sonne, Kind",
+        "text": "",
+        "max_width": 1050
+      }
+    },
+    "01bd0c23-c272-4bfe-9a96-88558e4ef1f1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>So überstehst du heisse Tage mit deinem Kind<\/h4><p>Wenn es so richtig heiss ist, kann das Leben ganz schön streng sein. So schön es an der Sonne ist, so herausfordernd ist sie manchmal, wenn man mit Baby oder Kind draussen ist. Was zieht das Kind am besten an? Ist Tragen auch sinnvoll, wenn es so heiss ist? Welche Sonnencreme ist die beste für mein Kind? Und was gibt es sonst noch alles zu beachten? Hier erfährst du es.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/infobild-sommersonnekind.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e8baebdb-259f-4344-ad11-8a7c98b9fdb0": {
+      "type": "rich-text",
+      "blocks": {
+        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Tragen bei Hitze<\/h2><p>Der Körper der Trageperson ist auch im Sommer der beste Platz für ein Baby. Überhitzen kann das Baby nicht, denn es wird durch den Körper des Tragenden gekühlt. Wie immer beim Tragen des Babys gilt auch im Sommer, dass so wenig Schichten wie möglich zwischen dir und dem Baby sind, damit der Wärmeaustausch gut funktioniert und du die Körperwärme des Babys gut regulieren kannst. Wenn du mal schwitzt ist das übrigens kein Problem, denn beim Schwitzen entsteht Verdunstungskälte, die dein Baby kühlt.<\/p><p>Bevorzuge eine einlagige, luftige Bindeweise, leichte Tücher und Materialien wie Leinen, Bambus und Hanf. Oder trage in der Tragehilfe, denn diese ist etwas luftiger als ein Tragetuch. Im Schwimmbad oder am Strand bewährt sich ein Wasser-Sling.<\/p><p>Das <a href=\"\/collections\/fest-gewebte-tragetucher\" target=\"_blank\" title=\"Fest gewebte Tragetücher\">Tragetuch<\/a> oder die <a href=\"\/collections\/tragehilfen\" target=\"_blank\" title=\"Tragehilfen\">Tragehilfe<\/a> ersetzen eine Kleidungsschicht. Wähle luftige, atmungsaktive Kleidung. Musselin-Kleidung oder Kleidung aus Hanf, Bambus oder Seide eignet sich besonders gut. (Siehe Tipps dazu weiter unten.) Du kannst dein Kind auch nackt bzw. nur in der Windel tragen, aber nicht alle Kinder mögen das.<\/p><p>Wenn es euch zu heiss wird, macht eine Pause. Meidet die Mittagssonne und haltet euch möglichst im Schatten auf. Sorge für guten <a href=\"\/collections\/sonnenschutz\" target=\"_blank\" title=\"Sonnenschutz\">Sonnenschutz<\/a> des Kindes.<\/p><p>Eine gute Idee für unterwegs ist eine <a href=\"\/collections\/uv-stampler-tucher\" target=\"_blank\" title=\"UV-Decken & -Kleidung\">UV-Decke<\/a>, denn mit ihr kannst du beim Tragen nackte Beine oder Arme schützen - oder sie beim Stillen oder als Sonnensegel am Kinderwagen verwenden.<\/p><p>Hast du Fragen rund ums Tragen deines Baby, besuche eine <a href=\"https:\/\/www.herzanherz.ch\/trageberatung\/\" target=\"_blank\" title=\"https:\/\/www.herzanherz.ch\/trageberatung\/\">Trageberatung<\/a> von Herz an Herz.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "66cf2c2d-098b-49ab-93be-9ca360db9db4": {
+      "type": "section-custom-image",
+      "blocks": {
+        "76fc5bc7-fa04-4e26-b5c9-7356990f3127": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/infobild-tragen-sommer-papa.jpg"
+          }
+        },
+        "73eba713-8692-420c-87fe-5dddb984fb69": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Cloby-UV-Decke-olive5.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "76fc5bc7-fa04-4e26-b5c9-7356990f3127",
+        "73eba713-8692-420c-87fe-5dddb984fb69"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "max_width": 870
+      }
+    },
+    "rich_text_UjMYrL": {
+      "type": "rich-text",
+      "blocks": {
+        "text_yBar8n": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Stillen bei Hitze<\/h2><p>Achte darauf, dass dein Baby genügend trinkt. Stille oder füttere unbedingt nach Bedarf und nicht nach der Uhr. Babys die voll gestillt werden löschen ihren Durst mit der Muttermilch und brauchen auch bei grosser Hitze kein zusätzliches Wasser. Aber vergiss beim Stillen nicht, selber genügend Wasser zu trinken.<\/p><p>Stillen in der Öffentlichkeit wird übrigens viel einfacher und angenehmer, wenn du mit passender Still-Kleidung ausgestattet bist. BHs, Tops, Shirts und sommerlich luftige Blusen und Kleider findest du <a href=\"\/collections\/umstands-stillmode\" target=\"_blank\" title=\"Umstands- & Stillmode\">hier<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_yBar8n"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "section_custom_image_cK8xwA": {
+      "type": "section-custom-image",
+      "blocks": {
+        "image_JXgNzj": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/infobild-stillen-sommer1.jpg"
+          }
+        },
+        "image_qRR3Wy": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/infobild-stillen-sommer2.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_JXgNzj",
+        "image_qRR3Wy"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "max_width": 870
+      }
+    },
+    "rich_text_URzWh9": {
+      "type": "rich-text",
+      "blocks": {
+        "text_FJKfYC": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Wickeln bei Hitze<\/h2><p><a href=\"\/collections\/stoffwindeln\" target=\"_blank\" title=\"Stoffwindeln\">Stoffwindeln<\/a> haben viele Vorteile und ein grosser Vorteil im Sommer ist die optimale Regulation der Temperatur im Innern. Sie werden nicht so schnell warm oder schwitzig und sie sind luftdurchlässiger als Wegwerfwindeln.<\/p><p>Eine gute Wahl für heisse Sommertage sind Windeln aus Bambus-Viskose. Sie sind weich und atmungsaktiver als Baumwolle. Durch die natürlichen Fasereigenschaften der Cellulose wirkt der Stoff kühlend, ist antibakteriell und saugt gut.<\/p><p>Wolle überzeugt bei warmen Temperaturen auch, da sie von Natur aus atmungsaktiv und temperaturausgleichend ist. Sie hält angenehm kühl und ist pflegend für die Babyhaut. <a href=\"\/collections\/wolluberhosen\" target=\"_blank\" title=\"Wollüberhosen\">Wollüberhosen<\/a> schützen zudem vor Hitzestau im Windelbereich.<\/p><p>Noch eine Möglichkeit für warme Tage und  ziemlich sicher die erste Wahl des Babys: die Windel einfach komplett weglassen. Denn Kinder lieben es, nackt sein zu dürfen.<\/p><p>Möchtest du mehr übers Wickeln mit Stoff erfahren, schau dir unseren <a href=\"\/pages\/stoffwindeln\" target=\"_blank\" title=\"Stoffwindeln\">Stoffwindel-Guide<\/a> an oder besuche eine <a href=\"https:\/\/www.herzanherz.ch\/stoffwindelberatung\/\" target=\"_blank\" title=\"https:\/\/www.herzanherz.ch\/stoffwindelberatung\/\">Stoffwindelberatung<\/a> bei uns.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_FJKfYC"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "section_custom_image_xwAyaY": {
+      "type": "section-custom-image",
+      "blocks": {
+        "image_rk4YDz": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Doodush_Ueberhose_Painted_Animals_Newborn_2_67023_2_d670b4be-e97c-4f7f-aa3a-b9174132d407.jpg"
+          }
+        },
+        "image_ix6pnz": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Bio_Culla_Di_Teby_Tipi_53210_2.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_rk4YDz",
+        "image_ix6pnz"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "max_width": 870
+      }
+    },
+    "6b097b85-0abe-47cb-8728-a6b07bd3d882": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Schlafen bei Hitze<\/h2><p>Im Rahmen der SIDS-Prophylaxe wird ein kühler Schlafplatz von etwa 18°C empfohlen. Da dies im Sommer kaum möglich ist, achte umso mehr auf geeignete Kleidung. Wähle z.B. einen <a href=\"\/collections\/strampler-langarm\" target=\"_blank\" title=\"Strampler langarm\">Schlafstrampler<\/a> mit ausgleichenden Eigenschaften (Wolle\/Seide) oder Material, das sich angenehm kühl auf der Haut anfühlt (Bambus) oder kombiniere einen <a href=\"\/collections\/body-langarm\" target=\"_blank\" title=\"Body langarm\">Body<\/a> (z.B. aus Seide) mit einem leichten <a href=\"\/collections\/schlafsacke\" target=\"_blank\" title=\"Schlafsäcke\">Musselin-Sommer-Schlafsack<\/a>.<\/p><p>Ob bei Hitze oder nicht - das Thema Babyschlaf kann für Eltern ein ganz schön herausforderndes Thema sein. Hast du Fragen zum Schlafverhalten deines Babys oder möchtest du Tipps & Inputs für einen bindungsorientierten Umgang mit dem Babyschlaf, dann besuche eine <a href=\"https:\/\/www.herzanherz.ch\/schlafberatung\/\" target=\"_blank\" title=\"https:\/\/www.herzanherz.ch\/schlafberatung\/\">Schlafberatung bei Herz an Herz<\/a> (das geht auch telefonisch oder online). Die Beraterin schaut sich eure ganz individuelle Situation an und gemeinsam findet ihr sanfte Lösungen für dich und deine Familie.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "section_custom_image_d9EMQC": {
+      "type": "section-custom-image",
+      "blocks": {
+        "image_EpieeW": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/infobild-schlafen-sommer2.jpg"
+          }
+        },
+        "image_Ap8ekp": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/infobild-schlafen-sommer1.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_EpieeW",
+        "image_Ap8ekp"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "max_width": 870
+      }
+    },
+    "rich_text_JX9MAq": {
+      "type": "rich-text",
+      "blocks": {
+        "text_dUigJq": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Kleidung & Sonnenschutz<\/h1><h2>Allgemeine Kleidungs-Tipps<\/h2><ul><li><strong>Lange, luftige Kleidung:<\/strong> Für optimalen Sonnenschutz an Armen und Beinen sollte Kleidung auch im Sommer langärmlig sein. Dafür eignen sich luftige, weite Schnitte, denn diese haben einen besseren UV-Schutz als eng anliegende Kleidung. Besonders angenehm sind Kleider aus Musselin-Stoffen, Hanf oder Leinen.<\/li><li><strong>Kühlendes oder ausgleichendes Material:<\/strong> Wähle Kleidung mit dem gewissen Extra! <a href=\"\/collections\/body-kurzarm\" target=\"_blank\" title=\"Body kurzarm\">Leichte Bodys <\/a>aus Wolle-Seide oder Seide-Baumwolle sind atmuntsaktiv und temperaturausgleichend. Sie sorgen dafür, dass das Baby nicht zu stark schwitzt. Bambus und Seide haben eine angenehm kühlende Wirkung auf der Haut und sind im Sommer besonders beliebt.<\/li><li><strong>UV-Kleidung:<\/strong> Jeder Stoff bietet je nach Gewebetyp, Dichte und Farbe einen gewissen UV-Schutz. Kleidung aus Hanf und Wolle bieten von Natur aus einen sehr hohen Schutz von LSF 30-50. Es gibt auch Baumwollkleidung, die extra dicht gewebt ist und so einen UV-Schutz von 50 erreicht. Für den Aufenthalt am und im Wasser eignet sich am besten <a href=\"\/collections\/uv-bademode\" target=\"_blank\" title=\"UV- & Bademode\">UV Bademode<\/a>, die einen grossen Teil des Körpers bedeckt.<\/li><li><strong>Barfuss-Schuhe: <\/strong>Am besten lässt du dein Kind so oft wie möglich barfuss laufen. So wird die Muskulatur gestärkt, die Zehen behalten die korrekte Stellung und die sensorischen Reize am Fuss sorgen für eine gute Koordination und Körperhaltung. Die Füsse können das Körpergewicht abfedern, Boden-unebenheiten ausgleichen und Informationen für den Gleichgewichtssinn liefern. Dies ist nur möglich, wenn ihre Funktion nicht durch zu feste, enge oder gefederte Schuhe eingeschränkt wird. Weil Barfuss-Laufen auch im Sommer nicht immer möglich ist, empfehlen wir <a href=\"\/collections\/barfuss-schuhe\" target=\"_blank\" title=\"Barfuss-Schuhe\">Barfuss-Schuhe<\/a>, die all diese Kriterien ebenfalls erfüllen. Wir von Herz an Herz beraten dich gerne dazu.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "text_dUigJq"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_ihUfLg": {
+      "type": "rich-text",
+      "blocks": {
+        "text_bKLQF9": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Sonnenhut<\/h2><p>Ein guter Sonnenhut ist für alle Kinder gold wert. Doch gerade für kleine Babys, die weder Sonnencreme noch Sonnebrille tragen, ist ein guter Sonnenhut unerlässlich. Er schützt idealerweise dank einer breiten Krempe das ganze Gesicht und den Nacken. Bindebänder sorgen dafür, dass das Kind den Hut nicht abnimmt und er beim Tragen (insbesondere auf dem Rücken) nicht verrutscht. Unser absoluter Favorit: Der <a href=\"\/products\/sonnenhut-feuerwehr\" target=\"_blank\" title=\"Sonnenhut FEUERWEHR\">Feuerwehr-Hut<\/a> von Pickapooh.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_bKLQF9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Feuerwehr-Hut<\/h3><p>Die breite Krempe und der spezielle UV-Stoff in Bio-Qualität bieten viele Stunden Sonnenschutz. Das Strickbündchen sorgt für die perfekte Passform und Spielraum beim Wachsen. Der Hut wird in vielen schönen Farben in Deutschland hergestellt. Er ist und bleibt unser Herzenstipp für kühle Köpfe.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Sonnenhüten",
+            "button_link": "shopify:\/\/collections\/sonnenhute",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1",
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/infobild-pickapooh-sonnenhut.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_tX7ECY": {
+      "type": "rich-text",
+      "blocks": {
+        "text_xe9zxY": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Sonnencreme<\/h2><p>Im ersten Lebensjahr lautet die Empfehlung, möglichst auf Sonnencreme zu verzichten. Die Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Setze lieber auf passende Kleidung und viel Schatten. Danach kannst du diese Punkte beachten:<\/p><ul><li>Der Lichtschutzfaktor (LSF\/SPF) sollte für Kinder mindestens 30 aber besser 50 betragen. Der Faktor gibt an, um welche Dauer der Eigenschutz der Haut verlängert wird. Der Eigenschutz ist bei Kindern je nach Hauttyp 2-7 Minuten.<\/li><li>UV-Filter: Chemische Filter ziehen in die Haut ein (Ausnahme: <a href=\"\/products\/skinnies-kids-100ml\" target=\"_blank\" title=\"Sonnencreme Kids LSF 50, 100 ml\">Skinnies<\/a>) und schützen, indem sie UV-Strahlen in Wärme wandeln. Möchtest du ein natürliches Produkt, wähle eine Creme mit mineralischem Filter. Sie bleibt auf der Hautoberfläche und reflektiert dort das Sonnenlicht. Sie ist oft weisslich und etwas schwerer einzucremen.<\/li><li>Achte darauf, dass deine Sonnencreme frei von unnötigen, bedenklichen oder schädlichen Inhaltsstoffen ist. Vermeide insbesondere: Parabene, Nanopartikel, Mikroplastik, Alkohol und Konservierungsstoffe. Wasche die Creme abends ab.<\/li><li>Umweltbewusste Hersteller verwenden beispielsweise plastikfreie Verpackungen oder Tuben aus Recycling-Material. Sie produzieren nachhaltig oder sogar CO2-neutral.<\/li><\/ul><p>Wir von Herz an Herz haben uns für zwei Cremes entschieden, die wir mit gutem Gewissen empfehlen können:<\/p><p><strong>Skinnies: <\/strong>Die Creme kommt mit wenigen Inhaltsstoffen und komplett ohne Wasser aus; dank der hohen Konzentration brauchst du 5x weniger Creme. Das Gel ist leicht aufzutragen und dringt dank innovativer Technologie nicht in die Haut ein. Du kannst ohne Wartezeit direkt an die Sonne und ins Wasser. Skinnies wird nachhaltig hergestellt, ist \"Reef Safe\" und ist unser Favorit unter den Cremes mit chemischem Filter.<\/p><p><strong>Naïf:<\/strong> Diese Sonnencreme mit natürlichen, mineralischen Filtern auf Basis von Zinkoxid eignet sich ganz besonders für Babys und Kinder mit empfindlicher Haut. Sie kommt ohne bedenkliche Inhalte aus, verwendet keine Nanopartikel und lässt sich trotzdem leicht verstreichen. Und sie kommt erst noch in einer Tube, die aus Zuckerrohr gefertigt ist.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_xe9zxY"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "b3fa52d2-f2d9-4105-abf3-5171c37af62b": {
+      "type": "image-with-text",
+      "blocks": {
+        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Sonnencreme<\/h3><p>Unsere beiden Favoriten was Sonnencreme angeht, haben wir mit unseren über 15 Team-Kids selber ausgiebig getestet. Warum wir uns für Skinnies und Naïf entschieden haben, liest du oben.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1213e182-6420-4dc6-b2ba-8a8ad1072c57": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zur Sonnencreme",
+            "button_link": "shopify:\/\/collections\/sonnencreme",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98",
+        "1213e182-6420-4dc6-b2ba-8a8ad1072c57"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Koerperpflege_Bio_Vegan_Baby_Kinder_After_Sun_Feuchtigkeit_Pflege_Naif_Cooling_Apres_Soleil1_50146_2.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_r8wMyK": {
+      "type": "rich-text",
+      "blocks": {
+        "text_LxB3yw": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Sonnenbrille<\/h2><p>In unseren Breitengraden kann man aufgrund natürlicher Schutzmechanismen der Augen auch ohne <a href=\"\/collections\/sonnenbrillen\" target=\"_blank\" title=\"Sonnenbrillen\">Sonnenbrille<\/a> längere Zeit im Freien verbringen. Doch insbesondere am Wasser und in den Bergen ist ein guter Sonnenschutz für Kinderaugen wichtig. Da Kinder grössere Pupillen haben als Erwachsene, sind ihre hochempfindlichen Netzhautzellen dem UV-Licht stärker ausgesetzt. Eine hochwertige Sonnenbrille hat die Kennzeichnung CE und UV400 für 100%-igen Schutz vor UV A & B Strahlung sowie Scheiben mit Filter der Kategorie 3 (d.h. eine dunkle Tönung für hohe Lichtundurchlässigkeit). Kinderbrillen zeichnen sich zudem durch seitlichen Schutz gegen Streulicht, biegsames, bruchsicheres, kratzfestes Material und weitere Features wie Click-on Bügel oder Bindeband aus.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_LxB3yw"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16a27f16-b5b6-4838-b516-46c85c826eb0",
+    "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
+    "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
+    "66cf2c2d-098b-49ab-93be-9ca360db9db4",
+    "rich_text_UjMYrL",
+    "section_custom_image_cK8xwA",
+    "rich_text_URzWh9",
+    "section_custom_image_xwAyaY",
+    "6b097b85-0abe-47cb-8728-a6b07bd3d882",
+    "section_custom_image_d9EMQC",
+    "rich_text_JX9MAq",
+    "rich_text_ihUfLg",
+    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
+    "rich_text_tX7ECY",
+    "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
+    "rich_text_r8wMyK"
+  ]
+}

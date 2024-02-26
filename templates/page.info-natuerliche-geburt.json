@@ -114,7 +114,7 @@
         "text_yBar8n": {
           "type": "text",
           "settings": {
-            "text": "<h2>6 Zutaten für eine natürliche Geburt<\/h2><h4>1 - Eine komplikationslose Schwangerschaft<\/h4><p>Je natürlicher deine Schwangerschaft abläuft, desto wahrscheinlicher ist eine natürliche Geburt. Komplikationen in der Schwangerschaft deuten meistens darauf hin, dass etwas im Körper aus dem Gleichgewicht geraten ist. Dann ist auch bei der Geburt besondere Vorsicht geboten, vielleicht besteht eine Gefahr für dich oder dein Kind, du machst dir Sorgen, bist verunsichert, was das alles genau bedeutet, brauchst engere medizinische Überwachung, hörst viele vielleicht gegenteilige Meinungen und gerätst automatisch in die medizinische Maschinerie, in der eine natürliche Geburt nicht so einfach umsetzbar ist. Daher lohnt es sich, für eine reibungslose Schwangerschaft zu sorgen.<\/p><p>Der allerwichtigste Faktor - und Ursache von vielen Komplikationen in der Schwangerschaft - ist unsere Ernährung. Schau dir deine eigene Ernährung genau an und setze dich damit auseinander, wo du für dich etwas optimieren kannst. Zusätzlich kannst du dir mit Bewegung oder leichtem Sport etwas Gutes tun und positiv auf deine Schwangerschaft einwirken.<\/p><p>Und nicht zuletzt sind genügend Schlaf, Entspannung, Erholung und Ruhe wichtig. Dein Körper leistet während der Schwangerschaft Erstaunliches. Er lässt ein Baby entstehen und das kostet Energie. Gönne dir Pausen, wenn du sie brauchst.<\/p>"
+            "text": "<h1>6 Zutaten für eine natürliche Geburt<\/h1><h3>1 - Eine komplikationslose Schwangerschaft<\/h3><ul><li>Je natürlicher deine Schwangerschaft abläuft, desto wahrscheinlicher ist eine natürliche Geburt. Komplikationen in der Schwangerschaft deuten meistens darauf hin, dass etwas im Körper aus dem Gleichgewicht geraten ist. Dann ist auch bei der Geburt besondere Vorsicht geboten, vielleicht besteht eine Gefahr für dich oder dein Kind, du machst dir Sorgen, bist verunsichert, was das alles genau bedeutet, brauchst engere medizinische Überwachung, hörst viele vielleicht gegenteilige Meinungen und gerätst automatisch in die medizinische Maschinerie, in der eine natürliche Geburt nicht so einfach umsetzbar ist. Daher lohnt es sich, für eine reibungslose Schwangerschaft zu sorgen.<\/li><li>Der allerwichtigste Faktor - und Ursache von vielen Komplikationen in der Schwangerschaft - ist unsere Ernährung. Schau dir deine eigene Ernährung genau an und setze dich damit auseinander, wo du für dich etwas optimieren kannst. Zusätzlich kannst du dir mit Bewegung oder leichtem Sport etwas Gutes tun und positiv auf deine Schwangerschaft einwirken.<\/li><li>Und nicht zuletzt sind genügend Schlaf, Entspannung, Erholung und Ruhe wichtig. Dein Körper leistet während der Schwangerschaft Erstaunliches. Er lässt ein Baby entstehen und das kostet Energie. Gönne dir Pausen, wenn du sie brauchst.<\/li><\/ul><p><\/p>"
           }
         }
       },
@@ -149,32 +149,6 @@
       "block_order": [
         "image_JXgNzj",
         "image_qRR3Wy"
-      ],
-      "settings": {
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "max_width": 870
-      }
-    },
-    "66cf2c2d-098b-49ab-93be-9ca360db9db4": {
-      "type": "section-custom-image",
-      "blocks": {
-        "76fc5bc7-fa04-4e26-b5c9-7356990f3127": {
-          "type": "image",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/infobild-tragen-sommer-papa.jpg"
-          }
-        },
-        "73eba713-8692-420c-87fe-5dddb984fb69": {
-          "type": "image",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Cloby-UV-Decke-olive5.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "76fc5bc7-fa04-4e26-b5c9-7356990f3127",
-        "73eba713-8692-420c-87fe-5dddb984fb69"
       ],
       "settings": {
         "padding_top": 0,
@@ -413,7 +387,6 @@
     "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
     "rich_text_UjMYrL",
     "section_custom_image_cK8xwA",
-    "66cf2c2d-098b-49ab-93be-9ca360db9db4",
     "rich_text_URzWh9",
     "section_custom_image_xwAyaY",
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",

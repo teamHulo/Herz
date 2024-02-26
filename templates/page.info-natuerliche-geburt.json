@@ -25,7 +25,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h4>Überlasse dein Geburtserlebnis nicht dem Zufall.<\/h4><p>Es ist nicht egal, wie wir geboren werden, und es ist auch nicht egal, wie wir gebären! Eine gute Vorbereitung ist der Schlüssel zur natürlichen Geburt. Das moderne Leben legt uns einige Stolpersteine in den Weg - wenn wir sie kennen und aus dem Weg räumen, erhöht sich die Chance auf eine sanfte, natürliche und selbstbestimmte Geburt massiv.<\/p>",
+            "text": "<h4>Überlasse dein Geburtserlebnis nicht dem Zufall.<\/h4><p>Es ist nicht egal, wie wir geboren werden, und es ist auch nicht egal, wie wir gebären! Eine gute Vorbereitung ist der Schlüssel zur natürlichen Geburt. Das moderne Leben legt uns einige Stolpersteine in den Weg. Räume sie aus dem Weg und kümmere dich um die 6 Zutaten, die es für eine natürliche Geburt braucht. So erhöht sich die Chance auf eine sanfte, natürliche und selbstbestimmte Geburt massiv.<\/p>",
             "text_style": "body"
           }
         }
@@ -54,7 +54,7 @@
         "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
           "type": "text",
           "settings": {
-            "text": "<h2>Ein Wunder der Natur<\/h2><p>Eine Geburt, wie die Natur sie vorgesehen hat, ist sanft und schön. Ein Wunder! Die Natur hat alles wunderbar eingerichtet. Deine Gebärmutter ist ein fabelhaftes Organ und dein Körper ist zum Gebären gemacht. Und doch will es  häufig nicht so recht klappen... Im Gegenteil: Geburt scheint heute ein risikoreiches Unterfangen zu sein. Ängste, Schmerzen und Komplikationen prägen unser Bild von Geburt.<\/p><p>Umso wichtiger ist eine gute Geburtsvorbereitung. Bereite dich optimal auf dieses Ereignis vor,<br\/>um deinem Baby den besten und einfachsten Start ins Leben zu ermöglichen. Und auch du selber verdienst ein Geburtserlebnis, das genau so ist, wie von der Natur vorgesehen: Du erlebst dich in deiner fantastischen Weiblichkeit. Du schenkst deinem Kind das Leben. Voller Mut, Freude, Zuversicht und purer Kraft.<\/p>"
+            "text": "<h2>Ein Wunder der Natur<\/h2><p>Eine Geburt, wie die Natur sie vorgesehen hat, ist sanft und schön. Ein Wunder! Die Natur hat alles wunderbar eingerichtet. Deine Gebärmutter ist ein fabelhaftes Organ und dein Körper ist zum Gebären gemacht. Und doch will es  häufig nicht so recht klappen... Im Gegenteil: Geburt scheint heute ein risikoreiches Unterfangen zu sein. Ängste, Schmerzen und Komplikationen prägen unser Bild von Geburt.<\/p><p>Umso wichtiger ist eine gute Geburtsvorbereitung. Bereite dich optimal auf dieses Ereignis vor,<br\/>um deinem Baby den besten und einfachsten Start ins Leben zu ermöglichen. Und auch du selber verdienst ein Geburtserlebnis, das genau so ist, wie von der Natur vorgesehen: Du erlebst dich in deiner fantastischen Weiblichkeit. Du schenkst deinem Kind das Leben. Voller Mut, Freude, Zuversicht und purer Kraft.<\/p><p>Welche 6 Zutaten es für eine solche Geburt braucht, erfährst du unten.<\/p>"
           }
         }
       },
@@ -101,7 +101,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
-        "color_scheme": "",
+        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,

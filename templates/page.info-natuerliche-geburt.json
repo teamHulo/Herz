@@ -34,7 +34,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-sommersonnekind.jpg",
+        "image": "shopify:\/\/shop_images\/Infobild-SS-Geburt.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -136,7 +136,7 @@
         "image_JXgNzj": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/infobild-stillen-sommer1.jpg"
+            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-herzbauch.jpg"
           }
         },
         "image_qRR3Wy": {
@@ -184,13 +184,13 @@
         "image_rk4YDz": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Doodush_Ueberhose_Painted_Animals_Newborn_2_67023_2_d670b4be-e97c-4f7f-aa3a-b9174132d407.jpg"
+            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-affirmation.jpg"
           }
         },
         "image_ix6pnz": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Bio_Culla_Di_Teby_Tipi_53210_2.jpg"
+            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-meditation.jpg"
           }
         }
       },
@@ -294,6 +294,25 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "section_custom_image_X9xwyg": {
+      "type": "section-custom-image",
+      "blocks": {
+        "image_qPLKFB": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-hebamme.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_qPLKFB"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "max_width": 800
       }
     },
     "rich_text_wcGKAF": {
@@ -475,6 +494,7 @@
     "section_custom_image_d9EMQC",
     "rich_text_JX9MAq",
     "rich_text_ebEgRF",
+    "section_custom_image_X9xwyg",
     "rich_text_wcGKAF",
     "image_with_text_hWUQkL",
     "rich_text_ihUfLg",

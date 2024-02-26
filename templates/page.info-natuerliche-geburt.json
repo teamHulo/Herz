@@ -274,6 +274,32 @@
         "padding_bottom": 52
       }
     },
+    "section_custom_image_Fxey8h": {
+      "type": "section-custom-image",
+      "blocks": {
+        "image_FW4hNp": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-bad.jpg"
+          }
+        },
+        "image_eAMBaF": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-bett.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_FW4hNp",
+        "image_eAMBaF"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "max_width": 870
+      }
+    },
     "rich_text_ebEgRF": {
       "type": "rich-text",
       "blocks": {
@@ -302,12 +328,19 @@
         "image_qPLKFB": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-hebamme.jpg"
+            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-hebammehoch.jpg"
+          }
+        },
+        "image_wr9LWc": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-partner.jpg"
           }
         }
       },
       "block_order": [
-        "image_qPLKFB"
+        "image_qPLKFB",
+        "image_wr9LWc"
       ],
       "settings": {
         "padding_top": 0,
@@ -374,110 +407,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "rich_text_ihUfLg": {
-      "type": "rich-text",
-      "blocks": {
-        "text_bKLQF9": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Geburtsvorbereitung<\/h2><p>Ein guter Sonnenhut ist für alle Kinder gold wert. Doch gerade für kleine Babys, die weder Sonnencreme noch Sonnebrille tragen, ist ein guter Sonnenhut unerlässlich. Er schützt idealerweise dank einer breiten Krempe das ganze Gesicht und den Nacken. Bindebänder sorgen dafür, dass das Kind den Hut nicht abnimmt und er beim Tragen (insbesondere auf dem Rücken) nicht verrutscht. Unser absoluter Favorit: Der <a href=\"\/products\/sonnenhut-feuerwehr\" target=\"_blank\" title=\"Sonnenhut FEUERWEHR\">Feuerwehr-Hut<\/a> von Pickapooh.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_bKLQF9"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "rich_text_tX7ECY": {
-      "type": "rich-text",
-      "blocks": {
-        "text_xe9zxY": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Sonnencreme<\/h2><p>Im ersten Lebensjahr lautet die Empfehlung, möglichst auf Sonnencreme zu verzichten. Die Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Setze lieber auf passende Kleidung und viel Schatten. Danach kannst du diese Punkte beachten:<\/p><ul><li>Der Lichtschutzfaktor (LSF\/SPF) sollte für Kinder mindestens 30 aber besser 50 betragen. Der Faktor gibt an, um welche Dauer der Eigenschutz der Haut verlängert wird. Der Eigenschutz ist bei Kindern je nach Hauttyp 2-7 Minuten.<\/li><li>UV-Filter: Chemische Filter ziehen in die Haut ein (Ausnahme: <a href=\"\/products\/skinnies-kids-100ml\" target=\"_blank\" title=\"Sonnencreme Kids LSF 50, 100 ml\">Skinnies<\/a>) und schützen, indem sie UV-Strahlen in Wärme wandeln. Möchtest du ein natürliches Produkt, wähle eine Creme mit mineralischem Filter. Sie bleibt auf der Hautoberfläche und reflektiert dort das Sonnenlicht. Sie ist oft weisslich und etwas schwerer einzucremen.<\/li><li>Achte darauf, dass deine Sonnencreme frei von unnötigen, bedenklichen oder schädlichen Inhaltsstoffen ist. Vermeide insbesondere: Parabene, Nanopartikel, Mikroplastik, Alkohol und Konservierungsstoffe. Wasche die Creme abends ab.<\/li><li>Umweltbewusste Hersteller verwenden beispielsweise plastikfreie Verpackungen oder Tuben aus Recycling-Material. Sie produzieren nachhaltig oder sogar CO2-neutral.<\/li><\/ul><p>Wir von Herz an Herz haben uns für zwei Cremes entschieden, die wir mit gutem Gewissen empfehlen können:<\/p><p><strong>Skinnies: <\/strong>Die Creme kommt mit wenigen Inhaltsstoffen und komplett ohne Wasser aus; dank der hohen Konzentration brauchst du 5x weniger Creme. Das Gel ist leicht aufzutragen und dringt dank innovativer Technologie nicht in die Haut ein. Du kannst ohne Wartezeit direkt an die Sonne und ins Wasser. Skinnies wird nachhaltig hergestellt, ist \"Reef Safe\" und ist unser Favorit unter den Cremes mit chemischem Filter.<\/p><p><strong>Naïf:<\/strong> Diese Sonnencreme mit natürlichen, mineralischen Filtern auf Basis von Zinkoxid eignet sich ganz besonders für Babys und Kinder mit empfindlicher Haut. Sie kommt ohne bedenkliche Inhalte aus, verwendet keine Nanopartikel und lässt sich trotzdem leicht verstreichen. Und sie kommt erst noch in einer Tube, die aus Zuckerrohr gefertigt ist.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_xe9zxY"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "b3fa52d2-f2d9-4105-abf3-5171c37af62b": {
-      "type": "image-with-text",
-      "blocks": {
-        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Sonnencreme<\/h3><p>Unsere beiden Favoriten was Sonnencreme angeht, haben wir mit unseren über 15 Team-Kids selber ausgiebig getestet. Warum wir uns für Skinnies und Naïf entschieden haben, liest du oben.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1213e182-6420-4dc6-b2ba-8a8ad1072c57": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zur Sonnencreme",
-            "button_link": "shopify:\/\/collections\/sonnencreme",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98",
-        "1213e182-6420-4dc6-b2ba-8a8ad1072c57"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Koerperpflege_Bio_Vegan_Baby_Kinder_After_Sun_Feuchtigkeit_Pflege_Naif_Cooling_Apres_Soleil1_50146_2.png",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_r8wMyK": {
-      "type": "rich-text",
-      "blocks": {
-        "text_LxB3yw": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Sonnenbrille<\/h2><p>In unseren Breitengraden kann man aufgrund natürlicher Schutzmechanismen der Augen auch ohne <a href=\"\/collections\/sonnenbrillen\" target=\"_blank\" title=\"Sonnenbrillen\">Sonnenbrille<\/a> längere Zeit im Freien verbringen. Doch insbesondere am Wasser und in den Bergen ist ein guter Sonnenschutz für Kinderaugen wichtig. Da Kinder grössere Pupillen haben als Erwachsene, sind ihre hochempfindlichen Netzhautzellen dem UV-Licht stärker ausgesetzt. Eine hochwertige Sonnenbrille hat die Kennzeichnung CE und UV400 für 100%-igen Schutz vor UV A & B Strahlung sowie Scheiben mit Filter der Kategorie 3 (d.h. eine dunkle Tönung für hohe Lichtundurchlässigkeit). Kinderbrillen zeichnen sich zudem durch seitlichen Schutz gegen Streulicht, biegsames, bruchsicheres, kratzfestes Material und weitere Features wie Click-on Bügel oder Bindeband aus.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_LxB3yw"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -493,13 +422,10 @@
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
     "section_custom_image_d9EMQC",
     "rich_text_JX9MAq",
+    "section_custom_image_Fxey8h",
     "rich_text_ebEgRF",
     "section_custom_image_X9xwyg",
     "rich_text_wcGKAF",
-    "image_with_text_hWUQkL",
-    "rich_text_ihUfLg",
-    "rich_text_tX7ECY",
-    "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
-    "rich_text_r8wMyK"
+    "image_with_text_hWUQkL"
   ]
 }

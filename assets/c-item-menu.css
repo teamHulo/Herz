@@ -44,6 +44,9 @@
     justify-content: space-between;
     cursor: pointer;
   }
+  .collection-filter > .menu > .menu-link > div > a {
+    font-weight: 500;
+  }
   .menu-link > div:has(+.menu.dropdown-child:not(.d-none)) {
     padding-bottom: 0;
   }
@@ -56,8 +59,14 @@
   .level-2 {
     padding-left: 32px !important;
   }
+  .level-1 a, .level-2 a, .menu-link > div > a {
+    color: #4C6257;
+  }
   .level-3 {
     padding-left: 48px !important;
+  }
+  .level-3 a {
+    color: rgba(var(--color-foreground), 0.75) !important;
   }
   .menu-link span {
     display: flex;

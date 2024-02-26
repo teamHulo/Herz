@@ -70,30 +70,42 @@
         "padding_bottom": 52
       }
     },
-    "66cf2c2d-098b-49ab-93be-9ca360db9db4": {
-      "type": "section-custom-image",
+    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7": {
+      "type": "image-with-text",
       "blocks": {
-        "76fc5bc7-fa04-4e26-b5c9-7356990f3127": {
-          "type": "image",
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1": {
+          "type": "text",
           "settings": {
-            "img": "shopify:\/\/shop_images\/infobild-tragen-sommer-papa.jpg"
+            "text": "<h3>20 Strategien für eine schmerzarme Geburt<\/h3><p>Die breite Krempe und der spezielle UV-Stoff in Bio-Qualität bieten viele Stunden Sonnenschutz. Das Strickbündchen sorgt für die perfekte Passform und Spielraum beim Wachsen. Der Hut wird in vielen schönen Farben in Deutschland hergestellt. Er ist und bleibt unser Herzenstipp für kühle Köpfe.<\/p>",
+            "text_style": "body"
           }
         },
-        "73eba713-8692-420c-87fe-5dddb984fb69": {
-          "type": "image",
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1": {
+          "type": "button",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Cloby-UV-Decke-olive5.jpg"
+            "button_label": "Broschüre herunterladen",
+            "button_link": "https:\/\/herzanherz-academy.ch\/vsl-landingpage-natuerliche-geburt\/guide-geburt-schmerzen\/",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "76fc5bc7-fa04-4e26-b5c9-7356990f3127",
-        "73eba713-8692-420c-87fe-5dddb984fb69"
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1",
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1"
       ],
       "settings": {
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "max_width": 870
+        "image": "shopify:\/\/shop_images\/infobild-pickapooh-sonnenhut.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_UjMYrL": {
@@ -137,6 +149,32 @@
       "block_order": [
         "image_JXgNzj",
         "image_qRR3Wy"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "max_width": 870
+      }
+    },
+    "66cf2c2d-098b-49ab-93be-9ca360db9db4": {
+      "type": "section-custom-image",
+      "blocks": {
+        "76fc5bc7-fa04-4e26-b5c9-7356990f3127": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/infobild-tragen-sommer-papa.jpg"
+          }
+        },
+        "73eba713-8692-420c-87fe-5dddb984fb69": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Cloby-UV-Decke-olive5.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "76fc5bc7-fa04-4e26-b5c9-7356990f3127",
+        "73eba713-8692-420c-87fe-5dddb984fb69"
       ],
       "settings": {
         "padding_top": 0,
@@ -284,44 +322,6 @@
         "padding_bottom": 52
       }
     },
-    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Feuerwehr-Hut<\/h3><p>Die breite Krempe und der spezielle UV-Stoff in Bio-Qualität bieten viele Stunden Sonnenschutz. Das Strickbündchen sorgt für die perfekte Passform und Spielraum beim Wachsen. Der Hut wird in vielen schönen Farben in Deutschland hergestellt. Er ist und bleibt unser Herzenstipp für kühle Köpfe.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zu den Sonnenhüten",
-            "button_link": "shopify:\/\/collections\/sonnenhute",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1",
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-pickapooh-sonnenhut.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "rich_text_tX7ECY": {
       "type": "rich-text",
       "blocks": {
@@ -410,16 +410,16 @@
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
-    "66cf2c2d-098b-49ab-93be-9ca360db9db4",
+    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
     "rich_text_UjMYrL",
     "section_custom_image_cK8xwA",
+    "66cf2c2d-098b-49ab-93be-9ca360db9db4",
     "rich_text_URzWh9",
     "section_custom_image_xwAyaY",
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
     "section_custom_image_d9EMQC",
     "rich_text_JX9MAq",
     "rich_text_ihUfLg",
-    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
     "rich_text_tX7ECY",
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
     "rich_text_r8wMyK"

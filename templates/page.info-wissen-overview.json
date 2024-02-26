@@ -57,6 +57,44 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_egtY7C": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_JyqFfC": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Natürlich, sanft & selbstbestimmt gebären<\/h2><h4>Überlasse dein Geburtserlebnis nicht dem Zufall.<\/h4><p>Es ist nicht egal, wie wir geboren werden, und es ist auch nicht egal, wie wir gebären! Eine gute Vorbereitung ist der Schlüssel zur natürlichen Geburt. Das moderne Leben legt uns einige Stolpersteine in den Weg. Räume sie aus dem Weg und kümmere dich um die 6 Zutaten, die es für eine natürliche Geburt braucht. So erhöht sich die Chance auf eine sanfte, natürliche und selbstbestimmte Geburt massiv.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_A76pqp": {
+          "type": "button",
+          "settings": {
+            "button_label": "Erstausstattung",
+            "button_link": "shopify:\/\/pages\/erstausstattung",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_JyqFfC",
+        "button_A76pqp"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_aaPfHF": {
       "type": "image-with-text",
       "blocks": {
@@ -480,6 +518,7 @@
     "main",
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
+    "image_with_text_egtY7C",
     "image_with_text_aaPfHF",
     "image_with_text_9jmtCV",
     "image_with_text_3QLkBQ",

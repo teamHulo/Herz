@@ -274,6 +274,28 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_ebEgRF": {
+      "type": "rich-text",
+      "blocks": {
+        "text_LqT4Kk": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>5 - Ein passendes Team<\/h4><p>Nicht nur wo du dein Kind zur Welt bringst ist wichtig, sondern auch wer dich dabei unterstützt. Einer der häufigsten Gründe für ein unbefriedigendes Geburtserlebnis ist es, während der Geburt nicht ernst genommen, nicht genügend unterstützt und allein gelassen worden zu sein. Suche dir daher ein Team, bei dem du ein richtig gutes Gefühl hast.<\/p><p>Auch der Faktor Sicherheit hängt weniger vom Geburtsort sondern vielmehr von einer optimalen persönlichen Betreuung ab. Eine Hebamme, die nur für dich zuständig ist, während der ganzen Geburt an deiner Seite bleibt und sich als aufmerksame Beobachterin im Hintergrund hält, um dich nicht von deiner intuitiven Geburtsarbeit abzulenken, merkt oft früher als ein technisches Überwachungsgerät, wenn die Geburt kompliziert wird oder Unterstützung benötigt.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_LqT4Kk"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_ihUfLg": {
       "type": "rich-text",
       "blocks": {
@@ -392,6 +414,7 @@
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
     "section_custom_image_d9EMQC",
     "rich_text_JX9MAq",
+    "rich_text_ebEgRF",
     "rich_text_ihUfLg",
     "rich_text_tX7ECY",
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",

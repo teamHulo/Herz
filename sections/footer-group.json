@@ -5,7 +5,9 @@
     "mailchimp_form_p4MrmT": {
       "type": "mailchimp-form",
       "settings": {
-        "bg_color": "#e5e0d5"
+        "bg_color": "#a25c3f",
+        "padding_top": 28,
+        "padding_bottom": 35
       }
     },
     "newsletter": {

@@ -195,6 +195,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "Das könnte dir auch gefallen",
         "heading_size": "h2",

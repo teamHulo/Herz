@@ -202,7 +202,7 @@
                             </div>
                             
                             {% if link.links.size > 0 %}
-                              <ul class="menu dropdown-child {% if link.child_active != true %}d-none{% endif %}">
+                              <ul class="menu dropdown-child {% if link.child_active != true and link.current != true %}d-none{% endif %}">
                                 {% for child_link in link.links %}
                                   <item-menu class="menu-link {% if child_link.child_active or child_link.current %}active{% endif %}">
                                     <div class="level-2">
@@ -213,7 +213,7 @@
                                     </div>
                     
                                     {% if child_link.links.size > 0 %}
-                                      <ul class="menu dropdown-grandchild {% if child_link.child_active != true %}d-none{% endif %}">
+                                      <ul class="menu dropdown-grandchild {% if child_link.child_active != true and child_link.current != true %}d-none{% endif %}">
                                         {% for grandchild_link in child_link.links %}
                                           <item-menu class="menu-link {% if grandchild_link.current %}active{% endif %}">
                                             <div class="level-3">

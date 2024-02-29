@@ -17,6 +17,7 @@
         },
         "item_zabzeK": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Namaki_Kinderschminke-3erset-piratmarienkaefer2_a4a6caf7-fd0f-48a3-87e3-5f34a47f8dcc.jpg",
             "img2": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Namaki_Kinderschminke-stifteset-enchanted3.jpg",

@@ -47,6 +47,11 @@
   .collection-filter > .menu > .menu-link > div > a {
     font-weight: 500;
   }
+  .main-menu-link a {
+    font-family: "Lora", serif!important;
+    font-style: italic !important;
+    font-weight: 600 !important;
+  }
   .menu-link > div:has(+.menu.dropdown-child:not(.d-none)) {
     padding-bottom: 0;
   }
@@ -58,6 +63,9 @@
   }
   .level-2 {
     padding-left: 32px !important;
+  }
+  .level-1 a, .level-2 a {
+    font-weight: 500;
   }
   .level-1 a, .level-2 a, .menu-link > div > a {
     color: #4C6257;

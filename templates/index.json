@@ -17,7 +17,6 @@
         },
         "item_zabzeK": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img1": "shopify:\/\/shop_images\/Zyklus_slider_unten.jpg",
             "img2": "shopify:\/\/shop_images\/Zyklus_Slider_Mitte_f2249a72-07e8-4a01-89a6-74910c0e31c5.jpg",

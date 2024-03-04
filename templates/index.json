@@ -3,6 +3,19 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "item_zabzeK": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Zyklus_slider_unten_9566118d-d98e-44dc-89c5-1369d8edbe0d.jpg",
+            "img2": "shopify:\/\/shop_images\/Zyklus_Slider_Mitte_f2249a72-07e8-4a01-89a6-74910c0e31c5.jpg",
+            "img3": "shopify:\/\/shop_images\/Zyklus_Slider_oben.jpg",
+            "title": "Unser Geschenk für dich zum Weltfrauentag",
+            "text": "<p>Bis morgen Abend profitiert ihr von 20% auf unser gesamtes Zyklus-Sortiment. Hübsche Mens-Unterwäsche, praktische Stoffbinden, den geschmeidigen Yoni-Bliss, Zyklus-Bücher und vieles mehr warten auf dich. <\/p>",
+            "url": "shopify:\/\/collections\/zyklus",
+            "btn_name": "Jetzt stöbern & profitieren"
+          }
+        },
         "item_c8wF6m": {
           "type": "item",
           "settings": {
@@ -13,18 +26,6 @@
             "text": "<p>Wir legen Wert auf Spielsachen, die langlebig sind und das freie Spiel fördern. Diese lassen deinem Kind viel Raum für eigene Ideen und Fantasie. Schaut euch unsere tolle Auswahl an Geschenken an, die euren Kleinen über das Osterfest hinaus noch lange Freude bereiten.<\/p>",
             "url": "shopify:\/\/collections\/nachhaltige-spielsachen",
             "btn_name": "Geschenkideen entdecken"
-          }
-        },
-        "item_zabzeK": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify:\/\/shop_images\/Zyklus_slider_unten_9566118d-d98e-44dc-89c5-1369d8edbe0d.jpg",
-            "img2": "shopify:\/\/shop_images\/Zyklus_Slider_Mitte_f2249a72-07e8-4a01-89a6-74910c0e31c5.jpg",
-            "img3": "shopify:\/\/shop_images\/Zyklus_Slider_oben.jpg",
-            "title": "Unser Geschenk für dich zum Weltfrauentag",
-            "text": "<p>Bis morgen Abend profitiert ihr von 20% auf unser gesamtes Zyklus-Sortiment. Hübsche Mens-Unterwäsche, praktische Stoffbinden, den geschmeidigen Yoni-Bliss, Zyklus-Bücher und vieles mehr warten auf dich. <\/p>",
-            "url": "shopify:\/\/collections\/zyklus",
-            "btn_name": "Jetzt stöbern & profitieren"
           }
         },
         "item_WxFtCe": {
@@ -128,8 +129,8 @@
         }
       },
       "block_order": [
-        "item_c8wF6m",
         "item_zabzeK",
+        "item_c8wF6m",
         "item_WxFtCe",
         "item_Jc9eFD",
         "24910c9d-15a9-4196-9b65-cc074f34c723",

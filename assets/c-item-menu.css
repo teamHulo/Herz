@@ -31,12 +31,15 @@
     border-bottom: 1px solid #e5e0d5;
     display: block;
   }
+  .menu-link:has(>.level-3) {
+    border-color: transparent;
+  }
   .menu-link:last-child {
     border: none;
 
   }
   .menu-link > div {
-    padding: 16px 0;
+    padding: 16px 0 8px 0;
     display: flex;
     position: relative;
     z-index: 2;
@@ -48,6 +51,7 @@
     font-weight: 500;
   }
   .main-menu-link a {
+    font-size: var(--font-size-20);
     font-family: "Lora", serif!important;
     font-style: italic !important;
     font-weight: 600 !important;
@@ -71,7 +75,7 @@
     color: #4C6257;
   }
   .level-3 {
-    padding-left: 48px !important;
+    padding: 4px 0 4px 48px !important;
   }
   .level-3 a {
     color: rgba(var(--color-foreground), 0.75) !important;

@@ -5,6 +5,7 @@
       "blocks": {
         "item_zabzeK": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify:\/\/shop_images\/Zyklus_slider_unten_9566118d-d98e-44dc-89c5-1369d8edbe0d.jpg",
             "img2": "shopify:\/\/shop_images\/Slider_mitte.jpg",

@@ -124,6 +124,12 @@
   letter-spacing: -0.64px;
 }
 
+.facet-filters__sort option[value="title-ascending"],
+.facet-filters__sort option[value="title-descending"],
+.facet-filters__sort option[value="created-ascending"] {
+  display: none;
+}
+
 .facet-filters__sort + .icon-caret {
   right: 16px;
 }

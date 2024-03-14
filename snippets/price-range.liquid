@@ -2,11 +2,12 @@
 <script src="{{ 'custom-price-range.js' | asset_url }}" defer="defer"></script>
 
 <c-price-range class="card-price-range">
-    {%- if uses_comma_decimals -%}
+    {% comment %} {%- if uses_comma_decimals -%}
         {% assign maxValue = filter.range_max | money_without_currency | replace: '.', '' | replace: ',', '.' %}
     {%- else -%}
         {% assign maxValue = filter.range_max | money_without_currency | replace: ',', '' %}
-    {% endif %}
+    {% endif %} {% endcomment %}
+    {% assign maxValue = filter.range_max | money_without_currency  | floor | plus: 1 %}
     <div class="price-content" data-max="{{ maxValue }}">
         <div>
             <span class="symbol">{{ symbol }}</span>

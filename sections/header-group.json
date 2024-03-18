@@ -153,6 +153,12 @@
             "img": "shopify:\/\/shop_images\/Megamenu-Babyzeit-Stoffwindeln.jpg",
             "url": "shopify:\/\/pages\/stoffwindeln"
           }
+        },
+        "mobile_menu_x8LVG3": {
+          "type": "mobile-menu",
+          "settings": {
+            "mobile_menu": "mobile-main-menu"
+          }
         }
       },
       "block_order": [
@@ -168,7 +174,8 @@
         "image_JaBDqg",
         "image_V4yF97",
         "image_DLbAqM",
-        "image_zDcERJ"
+        "image_zDcERJ",
+        "mobile_menu_x8LVG3"
       ],
       "settings": {
         "logo_position": "top-center",

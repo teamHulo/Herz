@@ -2705,3 +2705,9 @@ header-menu .mega-menu summary svg {
   font-style: normal;
   text-transform: uppercase;
 }
+
+.rte ul,
+.rte ol {
+    list-style-position: outside;
+    padding-left: 3rem;
+}

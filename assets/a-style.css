@@ -2489,7 +2489,7 @@ variant-radios fieldset {
 .header__menu-item {
   padding: 0;
 }
-.header__menu-item span {
+.header__menu-item span, .header__menu-item > a {
   color: #545248 !important;
   text-align: center !important;
   font-family: Work Sans !important;

@@ -255,7 +255,7 @@
       }
     },
     "404": {
-      "title": "Seite nicht gefunden",
+      "title": "Seite nicht gefunden oder leider hat es davon gerade keine Produkte an Lager.",
       "subtext": "404"
     }
   },

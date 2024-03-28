@@ -22,9 +22,21 @@
             "img2": "shopify:\/\/shop_images\/Slider_mitte.png",
             "img3": "shopify:\/\/shop_images\/Slider_oben.png",
             "title": "Draussen spielen",
-            "text": "<p>In ihrer unbändigen Freude am Draussensein finden Kinder eine unendliche Quelle der Inspiration und des Glücks. Und du findest bei uns ein schöne Auswahl an auserlesenen Artikel, um das Leben draussen und die Natur zu entdecken und zu feiern.<\/p>",
+            "text": "<p>In ihrer unbändigen Freude am Draussensein finden Kinder eine unendliche Quelle der Inspiration und des Glücks. Und du findest bei uns ein schöne Auswahl an auserlesenen Artikel, um das Leben draussen und die Natur mit deinem Kind zu entdecken und zu feiern.<\/p>",
             "url": "shopify:\/\/collections\/draussen-spielen",
             "btn_name": "Jetzt entdecken"
+          }
+        },
+        "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Infobild-Barfuss-Schuhe.jpg",
+            "img2": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
+            "img3": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
+            "title": "Barfuss-Schuhe",
+            "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Möchtest du wissen, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind?<\/p>",
+            "url": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
+            "btn_name": "Mehr zum Thema erfahren"
           }
         },
         "item_WxFtCe": {
@@ -61,18 +73,6 @@
             "text": "<p>Du bist schwanger? Wir haben alles was du für dich und dein Neugeborenes brauchst. Ob praktische Still- und Umstandsmode, natürliche Pflegeprodukte oder nachhaltige Dinge für die Erstausstattung.<\/p>",
             "url": "shopify:\/\/pages\/erstausstattung",
             "btn_name": "Jetzt entdecken"
-          }
-        },
-        "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify:\/\/shop_images\/Infobild-Barfuss-Schuhe.jpg",
-            "img2": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
-            "img3": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
-            "title": "Barfuss-Schuhe",
-            "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Möchtest du wissen, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind?<\/p>",
-            "url": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
-            "btn_name": "Mehr zum Thema erfahren"
           }
         },
         "beb1387a-20df-4238-a01b-69c08fe7ba72": {
@@ -130,10 +130,10 @@
       "block_order": [
         "item_c8wF6m",
         "item_wxaVcg",
+        "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_WxFtCe",
         "item_Jc9eFD",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
-        "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "67bececa-9c31-424d-a18a-4a49adda00b5",

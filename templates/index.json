@@ -5,6 +5,7 @@
       "blocks": {
         "item_c8wF6m": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify:\/\/shop_images\/Jahreszeiten.jpg",
             "img2": "shopify:\/\/shop_images\/Grapat.jpg",

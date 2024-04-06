@@ -7,7 +7,6 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Herzlich Willkommen bei ❤️ an ❤️",
             "link": ""
@@ -15,6 +14,7 @@
         },
         "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "🌷 FROHE OSTERN 🌷",
             "link": ""

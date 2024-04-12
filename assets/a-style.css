@@ -2710,3 +2710,8 @@ header-menu .mega-menu summary svg {
     list-style-position: outside;
     padding-left: 3rem;
 }
+
+.global-media-settings {
+  height: 100%;
+  width: auto;
+}

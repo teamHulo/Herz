@@ -2711,7 +2711,7 @@ header-menu .mega-menu summary svg {
     padding-left: 3rem;
 }
 
-.global-media-settings {
+.product-media-modal__content .global-media-settings {
   height: 100vh !important;
   width: auto !important;
 }

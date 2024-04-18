@@ -17,6 +17,7 @@
         },
         "item_c8wF6m": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify:\/\/shop_images\/Bild_oben.jpg",
             "img2": "shopify:\/\/shop_images\/Bild_mitte.jpg",

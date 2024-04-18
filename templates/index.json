@@ -7,13 +7,13 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Jahreszeiten.jpg",
-            "img2": "shopify:\/\/shop_images\/Grapat.jpg",
-            "img3": "shopify:\/\/shop_images\/Bijde_Hansje_Slider.jpg",
+            "img1": "shopify:\/\/shop_images\/Bild_unten.jpg",
+            "img2": "shopify:\/\/shop_images\/Bild_mitte.jpg",
+            "img3": "shopify:\/\/shop_images\/Bild_oben.jpg",
             "title": "Ostergeschenk mit Herz & Verstand",
-            "text": "<p>Wir legen Wert auf Spielsachen, die langlebig sind und das freie Spiel fördern. Diese lassen deinem Kind viel Raum für eigene Ideen und Fantasie. Schaut euch unsere tolle Auswahl an Geschenken an, die euren Kleinen über das Osterfest hinaus noch lange Freude bereiten.<\/p>",
-            "url": "shopify:\/\/collections\/nachhaltige-spielsachen",
-            "btn_name": "Geschenkideen entdecken"
+            "text": "<p>Anlässlich der Stoffwindelwoche schenken wir dir <strong>10% Rabatt <\/strong>auf alles in der Kategorie Wickeln Du sparst auf Stoffwindeln, Windelfrei- und Trockenwerden-Produkte und auf alles Zubehör. <\/p>",
+            "url": "shopify:\/\/collections\/wickeln",
+            "btn_name": "Stoffwindelwoche 2024"
           }
         },
         "item_wxaVcg": {

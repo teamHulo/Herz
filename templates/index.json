@@ -3,6 +3,19 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "item_c8wF6m": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Bild_oben.jpg",
+            "img2": "shopify:\/\/shop_images\/Bild_mitte.jpg",
+            "img3": "shopify:\/\/shop_images\/Bild_unten.jpg",
+            "title": "Stoffwindelwoche: Wir sind dabei!",
+            "text": "<p>Anlässlich der diesjährigen Stoffwindelwoche schenken wir dir <strong>10% Rabatt <\/strong>auf alles in der <strong>Kategorie Wickeln. <\/strong>Du sparst auf Stoffwindeln, Windelfrei- und Trockenwerden-Produkte und vieles Zubehör. Die Aktion dauert bis 28.4.2024.<\/p>",
+            "url": "shopify:\/\/collections\/wickeln",
+            "btn_name": "Jetzt profitieren"
+          }
+        },
         "item_wxaVcg": {
           "type": "item",
           "settings": {
@@ -13,19 +26,6 @@
             "text": "<p>In ihrer unbändigen Freude am Draussensein finden Kinder eine unendliche Quelle der Inspiration und des Glücks. Und du findest bei uns ein schöne Auswahl an auserlesenen Artikel, um das Leben draussen und die Natur mit deinem Kind zu entdecken und zu feiern.<\/p>",
             "url": "shopify:\/\/collections\/draussen-spielen",
             "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_c8wF6m": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify:\/\/shop_images\/Bild_oben.jpg",
-            "img2": "shopify:\/\/shop_images\/Bild_mitte.jpg",
-            "img3": "shopify:\/\/shop_images\/Bild_unten.jpg",
-            "title": "Stoffwindelwoche: Wir sind dabei!",
-            "text": "<p>Anlässlich der diesjährigen Stoffwindelwoche schenken wir dir <strong>10% Rabatt <\/strong>auf alles in der <strong>Kategorie Wickeln<\/strong> Du sparst auf Stoffwindeln, Windelfrei- und Trockenwerden-Produkte und vieles Zubehör. Die Aktion dauert bis 28.4.2024.<\/p>",
-            "url": "shopify:\/\/collections\/wickeln",
-            "btn_name": "Jetzt profitieren"
           }
         },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
@@ -129,8 +129,8 @@
         }
       },
       "block_order": [
-        "item_wxaVcg",
         "item_c8wF6m",
+        "item_wxaVcg",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_WxFtCe",
         "item_Jc9eFD",

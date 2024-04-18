@@ -3,19 +3,6 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "item_c8wF6m": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify:\/\/shop_images\/Bild_unten.jpg",
-            "img2": "shopify:\/\/shop_images\/Bild_mitte.jpg",
-            "img3": "shopify:\/\/shop_images\/Bild_oben.jpg",
-            "title": "Stoffwindelwoche: Wir sind dabei!",
-            "text": "<p>Anlässlich der Stoffwindelwoche schenken wir dir <strong>10% Rabatt <\/strong>auf alles in der Kategorie Wickeln Du sparst auf Stoffwindeln, Windelfrei- und Trockenwerden-Produkte und auf alles Zubehör. <\/p>",
-            "url": "shopify:\/\/collections\/wickeln",
-            "btn_name": "Stoffwindelwoche 2024"
-          }
-        },
         "item_wxaVcg": {
           "type": "item",
           "settings": {
@@ -26,6 +13,18 @@
             "text": "<p>In ihrer unbändigen Freude am Draussensein finden Kinder eine unendliche Quelle der Inspiration und des Glücks. Und du findest bei uns ein schöne Auswahl an auserlesenen Artikel, um das Leben draussen und die Natur mit deinem Kind zu entdecken und zu feiern.<\/p>",
             "url": "shopify:\/\/collections\/draussen-spielen",
             "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_c8wF6m": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Bild_unten.jpg",
+            "img2": "shopify:\/\/shop_images\/Bild_mitte.jpg",
+            "img3": "shopify:\/\/shop_images\/Bild_oben.jpg",
+            "title": "Stoffwindelwoche: Wir sind dabei!",
+            "text": "<p>Anlässlich der Stoffwindelwoche schenken wir dir <strong>10% Rabatt <\/strong>auf alles in der Kategorie Wickeln Du sparst auf Stoffwindeln, Windelfrei- und Trockenwerden-Produkte und auf alles Zubehör. <\/p>",
+            "url": "shopify:\/\/collections\/wickeln",
+            "btn_name": "Stoffwindelwoche 2024"
           }
         },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
@@ -129,8 +128,8 @@
         }
       },
       "block_order": [
-        "item_c8wF6m",
         "item_wxaVcg",
+        "item_c8wF6m",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_WxFtCe",
         "item_Jc9eFD",

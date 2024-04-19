@@ -17,13 +17,12 @@
         },
         "item_c8wF6m": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img1": "shopify:\/\/shop_images\/Bild_oben.jpg",
             "img2": "shopify:\/\/shop_images\/Bild_mitte.jpg",
             "img3": "shopify:\/\/shop_images\/Bild_unten.jpg",
             "title": "Stoffwindelwoche: Wir sind dabei!",
-            "text": "<p>Wir feiern die Stoffwindelwoche mit einem Geschenk für dich! Du erhältst <strong>10% Rabatt <\/strong>auf alles in der <strong>Kategorie Wickeln. <\/strong>Du sparst auf Stoffwindeln, Windelfrei- und Trockenwerden-Produkte und vieles Zubehör. Die Aktion dauert bis 28.4.2024.<\/p>",
+            "text": "<p>Wir feiern die Stoffwindelwoche mit einem Geschenk für dich! Du erhältst <strong>10% Rabatt <\/strong>auf alles in der <strong>Kategorie Wickeln. <\/strong>Du sparst auf Stoffwindeln, Windelfrei- & Trockenwerden-Produkte und alles Zubehör. Die Aktion dauert bis 28.4.2024.<\/p>",
             "url": "shopify:\/\/collections\/wickeln",
             "btn_name": "Jetzt profitieren"
           }

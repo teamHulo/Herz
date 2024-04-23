@@ -3,6 +3,12 @@
         padding-top: {{ section.settings.padding_top }}px;
         padding-bottom: {{ section.settings.padding_bottom }}px;
     }
+    .section-dazu-collection {
+      position: relative;
+    }
+    .swiper-button-next::after, .swiper-button-prev::after {
+      color: #00281d;
+    }
 </style>
 {% assign dazuCollectionTag = null %}
 {% for tag in product.tags %}
@@ -24,6 +30,8 @@
         {% endfor %}
       </div>
     </div>
+    <div class="swiper-button-next" style="display: block;"></div>
+    <div class="swiper-button-prev" style="display: block;"></div>
   </div>
 {% endif %}
 

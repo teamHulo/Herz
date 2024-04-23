@@ -212,6 +212,10 @@ $(() => {
     slidesPerView: 4.5,
     slidesPerGroup: 1,
     spaceBetween: 30,
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
     breakpoints: {
       100: {
         slidesPerView: 1.5,

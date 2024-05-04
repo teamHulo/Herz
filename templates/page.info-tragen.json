@@ -319,13 +319,13 @@
         "76fc5bc7-fa04-4e26-b5c9-7356990f3127": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Petit_Lulu_Wickelunterlage_Hippos2_46142_2.jpg"
+            "img": "shopify:\/\/shop_images\/infobild-tragen-sommer-papa.jpg"
           }
         },
         "73eba713-8692-420c-87fe-5dddb984fb69": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Doodush_Wetbag_Sweet-Dreams.jpg"
+            "img": "shopify:\/\/shop_images\/Infobild-Tragen-Sommer_8168da87-f1df-43d2-abb0-d1ed85818498.jpg"
           }
         }
       },
@@ -339,42 +339,64 @@
         "max_width": 870
       }
     },
-    "image_with_text_nHmTVQ": {
-      "type": "image-with-text",
+    "rich_text_wAw7J6": {
+      "type": "rich-text",
       "blocks": {
-        "text_cj3gCA": {
+        "text_74dkjf": {
           "type": "text",
           "settings": {
-            "text": "<h3>Stoffwindeln Waschen<\/h3><p>Um Chemie am Po des Kindes zu vermeiden, empfehlen wir ein ökologisches Waschmittel. <a href=\"\/products\/ulrichnatuerlich-windelwaschmittel\" target=\"_blank\" title=\"Windelwaschmittel ACTIFRESH\">Windelwaschmittel von Ulrich Natürlich<\/a> ist ideal, denn es wurde speziell für Stoffwindeln entwickelt und enthält alles, was es dafür braucht. Aber auch die <a href=\"\/products\/bluu\" target=\"_blank\" title=\"Waschstreifen\">bluu Waschstreifen<\/a> eignen sich für Stoffwindeln.<\/p>",
-            "text_style": "body"
+            "text": "<h2>Tragen bei Kälte<\/h2><p><strong>Auch wenn das Baby dick eingepackt ist: es bewegt sich kaum selber und kühlt schnell aus. Trägst du es, profitiert es von deiner Körper- & Bewegungswärme. <\/strong><\/p><ul><li>Je weniger Kleidungsschichten zwischen euch sind, desto besser funktioniert der Wärmeaustausch. Daher empfehlen wir insbesondere bei kleinen Babys lediglich Wohnungskleidung (bei sehr kaltem Wetter in mehreren leichten Schichten, die isolierende Luftpolster ergeben) und darüber eine <a href=\"\/collections\/umstands-tragejacken-1\" target=\"_blank\" title=\"Tragejacken\">Tragejacke<\/a> zu tragen. Die Wärme wird so am besten gehalten. <\/li><li>Grössere Kinder können gut eingepackt über der Jacke getragen werden. Herkömmliche Schneeanzüge eignen sich dafür aber nicht, da die Luftpolster zusammengedrückt werden und so nicht mehr wärmen. Besser ist ein <a href=\"\/collections\/overalls\" target=\"_blank\" title=\"Overalls\">Overall aus Wollwalk<\/a>.<\/li><li>Schütze exponierte Stellen wie Kopf, Hals, Beine und Füsse besonders gut. Bei Herz an Herz findest du dafür viele nützliche Accessoires: <a href=\"\/collections\/stulpen-pulswarmer\" target=\"_blank\" title=\"Stulpen & Pulswärmer\">Stulpen<\/a> oder <a href=\"\/collections\/fusslinge\" target=\"_blank\" title=\"Füsslinge\">Füsslinge<\/a> können je nach Wärmebedarf an\/ausgezogen werden ohne dass das Baby aus der Tragehilfe genommen werden muss. Eine <a href=\"\/collections\/mutzen-stirnbander\" target=\"_blank\" title=\"Mützen & Stirnbänder\">Schlupfmütze<\/a> sitzt gut am Babykopf und schützt gleichzeitig den Halsbereich, so dass kein Schal benötigt wird. Ideal beim Rückentragen, da sie nicht verrutscht. Ein <a href=\"\/collections\/schals-loops\" target=\"_blank\" title=\"Schals & Loops\">Schlauchschal oder Dickey<\/a> schützt den Hals und kann angezogen werden ohne zu binden, was praktisch ist und dafür sorgt, dass der Schal nicht verloren geht.<\/li><\/ul>"
           }
         },
-        "button_K9x983": {
+        "button_pecKfV": {
           "type": "button",
           "settings": {
-            "button_label": "Pflege & Waschmittel",
-            "button_link": "shopify:\/\/collections\/pflege-waschmittel",
-            "button_style_secondary": false
+            "button_label": "Noch mehr Sommer, Sonne, Kind",
+            "button_link": "shopify:\/\/pages\/sommer-sonne-kind",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "text_cj3gCA",
-        "button_K9x983"
+        "text_74dkjf",
+        "button_pecKfV"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Bluu_Waschmittel_Nachhaltig_ohne_Duft2_44904_2.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
+        "desktop_content_position": "center",
+        "content_alignment": "left",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "section_custom_image_iwqmW7": {
+      "type": "section-custom-image",
+      "blocks": {
+        "image_E86HJT": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Warme_Kopie.jpg"
+          }
+        },
+        "image_wjezTt": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Papa.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_E86HJT",
+        "image_wjezTt"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "max_width": 870
       }
     }
   },
@@ -392,6 +414,7 @@
     "multicolumn_fbRHVf",
     "de7f5108-2c92-404d-8671-8437b9ae096a",
     "66cf2c2d-098b-49ab-93be-9ca360db9db4",
-    "image_with_text_nHmTVQ"
+    "rich_text_wAw7J6",
+    "section_custom_image_iwqmW7"
   ]
 }

@@ -133,31 +133,31 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_9jmtCV": {
+    "image_with_text_Ybbnah": {
       "type": "image-with-text",
       "blocks": {
-        "text_A6XH4U": {
+        "text_aedBNG": {
           "type": "text",
           "settings": {
-            "text": "<h2>Erkältungen & Fieber<\/h2><h4>Wie begleite ich mein Kind wenn es krank ist?<\/h4><p>Wenn kleine Kinder erkältet sind, fiebern und husten, ist das für Eltern oft schlimm mitanzusehen. Doch bei Fieber gleich zu Fieberzäpfchen und bei jeder Erkältung zu Algifor greifen? Hier erfährst du, warum du deinem Kind damit langfristig mehr schadest als hilfst - und welche sanften Möglichkeiten die Naturheilkunde zu bieten hat.<\/p>",
+            "text": "<h2>Sommer, Sonne, Kind<\/h2><h4>So überstehst du heisse Tage mit deinem Kind<\/h4><p>Wenn es so richtig heiss ist, kann das Leben ganz schön streng sein. So schön es an der Sonne ist, so herausfordernd ist sie manchmal, wenn man mit Baby oder Kind draussen ist. Was zieht das Kind am besten an? Ist Tragen auch sinnvoll, wenn es so heiss ist? Welche Sonnencreme ist die beste für mein Kind? Und was gibt es sonst noch alles zu beachten? Hier erfährst du es.<\/p>",
             "text_style": "body"
           }
         },
-        "button_AfGDxn": {
+        "button_DpQCWC": {
           "type": "button",
           "settings": {
-            "button_label": "Erkältungen & Fieber",
-            "button_link": "shopify:\/\/pages\/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
+            "button_label": "Sommer, Sonne, Kind",
+            "button_link": "shopify:\/\/pages\/sommer-sonne-kind",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "text_A6XH4U",
-        "button_AfGDxn"
+        "text_aedBNG",
+        "button_DpQCWC"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/info-erkaeltung-kind_Klein.jpg",
+        "image": "shopify:\/\/shop_images\/infobild-sommersonnekind.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -196,6 +196,82 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Infobild-Barfuss-Schuhe.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_GpFBQw": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_nrkinf": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Das 1x1 des Tragens<\/h2><h4>Babys wollen getragen werden.<\/h4><p>Körperkontakt ist ein zentrales Grundbedürfnisse des Babys. In deiner Nähe kann es sich entspannen, fühlt sich wohl und sicher. Dein Baby am Körper zu tragen erfüllt sein Bedürfnis, ist praktisch und hat ausserdem unzählige Vorteile für seine Entwicklung. Hier erfährst du alles über die Hintergründe und bekommst praktische Tipps rund ums Tragen.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_E8rttf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Barfuss-Schuhe für Kinder",
+            "button_link": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_nrkinf",
+        "button_E8rttf"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Barfuss-Schuhe.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_9jmtCV": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_A6XH4U": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Erkältungen & Fieber<\/h2><h4>Wie begleite ich mein Kind wenn es krank ist?<\/h4><p>Wenn kleine Kinder erkältet sind, fiebern und husten, ist das für Eltern oft schlimm mitanzusehen. Doch bei Fieber gleich zu Fieberzäpfchen und bei jeder Erkältung zu Algifor greifen? Hier erfährst du, warum du deinem Kind damit langfristig mehr schadest als hilfst - und welche sanften Möglichkeiten die Naturheilkunde zu bieten hat.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_AfGDxn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Erkältungen & Fieber",
+            "button_link": "shopify:\/\/pages\/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_A6XH4U",
+        "button_AfGDxn"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/info-erkaeltung-kind_Klein.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -310,44 +386,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/infobild-kinderkleider-guide.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_Ybbnah": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_aedBNG": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Sommer, Sonne, Kind<\/h2><h4>So überstehst du heisse Tage mit deinem Kind<\/h4><p>Wenn es so richtig heiss ist, kann das Leben ganz schön streng sein. So schön es an der Sonne ist, so herausfordernd ist sie manchmal, wenn man mit Baby oder Kind draussen ist. Was zieht das Kind am besten an? Ist Tragen auch sinnvoll, wenn es so heiss ist? Welche Sonnencreme ist die beste für mein Kind? Und was gibt es sonst noch alles zu beachten? Hier erfährst du es.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_DpQCWC": {
-          "type": "button",
-          "settings": {
-            "button_label": "Sommer, Sonne, Kind",
-            "button_link": "shopify:\/\/pages\/sommer-sonne-kind",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_aedBNG",
-        "button_DpQCWC"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-sommersonnekind.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -520,12 +558,13 @@
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "image_with_text_egtY7C",
     "image_with_text_aaPfHF",
-    "image_with_text_9jmtCV",
+    "image_with_text_Ybbnah",
     "image_with_text_3QLkBQ",
+    "image_with_text_GpFBQw",
+    "image_with_text_9jmtCV",
     "image_with_text_dXeC47",
     "image_with_text_Xbnawt",
     "image_with_text_AmNqdA",
-    "image_with_text_Ybbnah",
     "image_with_text_DCJwbf",
     "image_with_text_krnqdd",
     "image_with_text_Nm3mGq",

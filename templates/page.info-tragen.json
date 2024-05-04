@@ -73,33 +73,16 @@
     "image_with_text_xXzFEt": {
       "type": "image-with-text",
       "blocks": {
-        "heading_y4gDJV": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
         "text_FfhVDd": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Am Körper getragen erholt sich dein Baby wunderbar von den vielen Reizen des Alltags. Es findet leichter seine Balance und weint viel weniger. Ausserdem schläft ein entspanntes Baby besser.<\/p>",
             "text_style": "body"
-          }
-        },
-        "button_8Ygd3W": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "heading_y4gDJV",
-        "text_FfhVDd",
-        "button_8Ygd3W"
+        "text_FfhVDd"
       ],
       "settings": {
         "height": "adapt",

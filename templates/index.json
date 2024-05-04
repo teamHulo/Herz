@@ -3,19 +3,6 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "item_c8wF6m": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify:\/\/shop_images\/Bild_oben.jpg",
-            "img2": "shopify:\/\/shop_images\/Bild_mitte.jpg",
-            "img3": "shopify:\/\/shop_images\/Bild_unten.jpg",
-            "title": "Stoffwindelwoche: Wir sind dabei!",
-            "text": "<p>Wir feiern die Stoffwindelwoche mit einem Geschenk für dich! Du erhältst <strong>10% Rabatt <\/strong>auf alles in der <strong>Kategorie Wickeln. <\/strong>Du sparst auf Stoffwindeln, Windelfrei- & Trockenwerden-Produkte und alles Zubehör. Die Aktion dauert bis 28.4.2024.<\/p>",
-            "url": "shopify:\/\/collections\/wickeln",
-            "btn_name": "Jetzt profitieren"
-          }
-        },
         "item_wxaVcg": {
           "type": "item",
           "settings": {
@@ -76,6 +63,19 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_c8wF6m": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Bild_oben.jpg",
+            "img2": "shopify:\/\/shop_images\/Bild_mitte.jpg",
+            "img3": "shopify:\/\/shop_images\/Bild_unten.jpg",
+            "title": "Stoffwindelwoche: Wir sind dabei!",
+            "text": "<p>Wir feiern die Stoffwindelwoche mit einem Geschenk für dich! Du erhältst <strong>10% Rabatt <\/strong>auf alles in der <strong>Kategorie Wickeln. <\/strong>Du sparst auf Stoffwindeln, Windelfrei- & Trockenwerden-Produkte und alles Zubehör. Die Aktion dauert bis 28.4.2024.<\/p>",
+            "url": "shopify:\/\/collections\/wickeln",
+            "btn_name": "Jetzt profitieren"
+          }
+        },
         "beb1387a-20df-4238-a01b-69c08fe7ba72": {
           "type": "item",
           "disabled": true,
@@ -129,12 +129,12 @@
         }
       },
       "block_order": [
-        "item_c8wF6m",
         "item_wxaVcg",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_WxFtCe",
         "item_Jc9eFD",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
+        "item_c8wF6m",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "67bececa-9c31-424d-a18a-4a49adda00b5",

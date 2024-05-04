@@ -104,11 +104,22 @@
         },
         "image_tBBQUU": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "menu_handle": "Babyzeit",
             "new_tab": true,
             "img": "shopify:\/\/shop_images\/Megamenu-Babyzeit-Stillmode.jpg",
             "url": "shopify:\/\/collections\/umstands-stillmode"
+          }
+        },
+        "image_VpEWKh": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "menu_handle": "Babyzeit",
+            "new_tab": true,
+            "img": "shopify:\/\/shop_images\/Megamenu-Tragen.jpg",
+            "url": "shopify:\/\/pages\/das-1x1-des-tragens"
           }
         },
         "image_zNM6qx": {
@@ -181,6 +192,7 @@
         "image_dzPfPt",
         "image_KKjjhF",
         "image_tBBQUU",
+        "image_VpEWKh",
         "image_zNM6qx",
         "image_me6bbX",
         "image_JaBDqg",

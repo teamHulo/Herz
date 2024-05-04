@@ -250,10 +250,10 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Infobild-Tragen-Sling.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "Ring Sling",
+            "text": "<p>Ein Sling ist ein kürzeres Tuch, das durch zwei Ringe gefädelt und über einer Schulter getragen wird. Im Sling können Neugeborene genauso gut wie Dreijährige ganz unkompliziert getragen werden. Da die Belastung  einseitig ist, eignet sich der Ring Sling besonders gut für kurze Einsätze zuhause, beim Einkaufen, auf dem Spielplatz (und nicht für stundenlange Wanderungen).<\/p>",
+            "link_label": "Zu den Ring Slings",
+            "link": "shopify:\/\/collections\/ring-slings"
           }
         }
       },

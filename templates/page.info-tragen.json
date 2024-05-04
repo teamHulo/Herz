@@ -76,7 +76,7 @@
         "text_FfhVDd": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Tragen reduziert Stress<\/strong><\/p><p>Ein Baby ist nicht für unsere laute, hektische Welt voller Eindrücke gemacht. Im Lauf des Tages sammeln sich viele Reize (=Stress) an. Am Körper getragen kann das Baby Reize viel besser verarbeiten, als wenn es alleine liegt; zudem erholt sich das Baby beim Tragen von bereits angesammeltem Stress. Es findet leichter seine Balance und weint viel weniger. Bei häufig getragenen Babys kommt es selten zu den stressbedingten abendlichen Schreistunden. Ausserdem schläft ein entspanntes Baby nachts besser.<\/p>",
+            "text": "<p><strong>Tragen reduziert Stress<\/strong><\/p><p>Ein Baby ist nicht für unsere laute, hektische Welt voller Eindrücke gemacht. Im Lauf des Tages sammeln sich viele Reize (=Stress) an. Am Körper getragen kann das Baby Reize viel besser verarbeiten, als wenn es alleine liegt; zudem erholt sich das Baby beim Tragen von bereits angesammeltem Stress. Es findet leichter seine Balance und weint viel weniger. Bei häufig getragenen Babys kommt es seltener zu den stressbedingten abendlichen Schreistunden. Ausserdem schläft ein entspanntes Baby nachts besser.<\/p>",
             "text_style": "body"
           }
         }
@@ -241,9 +241,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Infobild-Tragen-Familie.jpg",
             "title": "Tragehilfe",
-            "text": "<p>Die Tragehilfe kommt mit etwas weniger Stoff aus als das Tragetuch. Es gibt sie mit Bändeln oder mit Schnallen. Wir haben nur Tragehilfen im Sortiment, die sich flexibel an den Körper des Kindes anpassen lassen und so eine optimale Entwicklung ermöglichen. Die Tragehilfe ermöglicht ein ganz einfaches Rückentragen.<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Die Tragehilfe kommt mit etwas weniger Stoff aus als das Tragetuch. Es gibt sie mit Bändeln oder mit Schnallen. Wir haben nur Tragehilfen im Sortiment, die aus Tragetuchstoff gefertigt sind, sich ganz flexibel an den Körper des Kindes anpassen lassen und so eine optimale Entwicklung ermöglichen. Mit der Tragehilfe kannst du dein Kind vorne und auf dem Rücken tragen. Wähle eine  passende Grösse.<\/p>",
+            "link_label": "Zu den Tragehilfen",
+            "link": "shopify:\/\/collections\/tragehilfen"
           }
         },
         "column_6RNb9T": {

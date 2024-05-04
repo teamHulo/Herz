@@ -84,11 +84,22 @@
         },
         "image_dzPfPt": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "menu_handle": "Kindermode",
             "new_tab": true,
             "img": "shopify:\/\/shop_images\/Megamenu-Babyzeit-Schlafsack.jpg",
             "url": "shopify:\/\/collections\/schlafsacke"
+          }
+        },
+        "image_KKjjhF": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "menu_handle": "Kindermode",
+            "new_tab": true,
+            "img": "shopify:\/\/shop_images\/Megamenu-Sommer-Sonne-Kind.jpg",
+            "url": "shopify:\/\/pages\/sommer-sonne-kind"
           }
         },
         "image_tBBQUU": {
@@ -168,6 +179,7 @@
         "image_YEdWz7",
         "image_Fajgcw",
         "image_dzPfPt",
+        "image_KKjjhF",
         "image_tBBQUU",
         "image_zNM6qx",
         "image_me6bbX",

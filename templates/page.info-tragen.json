@@ -207,7 +207,7 @@
         "text_qaaktk": {
           "type": "text",
           "settings": {
-            "text": "<h2>Womit tragen?<\/h2><p>Die Auswahl an Tragetüchern und Tragehilfen ist gross. Mittlerweile gibt es sehr viele wirklich gute Tragehilfen auf dem Markt. Doch nicht jede Trageweise ist in jeder Situation gleich gut geeignet. In einer Trageberatung findest du gemeinsam mit einer Beraterin heraus, was am besten zu deiner Familiensituation passt und wie du die Tragehilfe bequem und sicher verwendest. Bei uns im Laden in Winterthur geben wir dir gern einen Überblick über die verschiedenen Trageweisen und deren Vor- und Nachteile.<\/p>"
+            "text": "<h2>Womit tragen?<\/h2><p>Die Auswahl an Tragetüchern und Tragehilfen ist gross. Mittlerweile gibt es sehr viele wirklich gute Tragehilfen auf dem Markt. Doch nicht jede Trageweise ist in jeder Situation gleich gut geeignet. In einer <a href=\"https:\/\/www.herzanherz.ch\/trageberatung\/\" target=\"_blank\" title=\"Link zur Herz an Herz Trageberatung\">Trageberatung<\/a> findest du gemeinsam mit einer Beraterin heraus, was am besten zu deiner Familiensituation passt und wie du die Tragehilfe bequem und sicher verwendest. Bei uns im Laden in Winterthur geben wir dir gern einen Überblick über die verschiedenen Trageweisen und deren Vor- und Nachteile.<\/p>"
           }
         }
       },
@@ -351,8 +351,8 @@
         "button_pecKfV": {
           "type": "button",
           "settings": {
-            "button_label": "Noch mehr Sommer, Sonne, Kind",
-            "button_link": "shopify:\/\/pages\/sommer-sonne-kind",
+            "button_label": "Warm durch Herbst & Winter",
+            "button_link": "shopify:\/\/pages\/warm-durch-herbst-winter",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",

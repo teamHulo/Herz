@@ -76,7 +76,7 @@
         "text_FfhVDd": {
           "type": "text",
           "settings": {
-            "text": "<p>Ein Baby ist nicht für unsere laute, hektische Welt voller Eindrücke gemacht. Im Lauf des Tages sammeln sich viele Reize (=Stress) an. Am Körper getragen kann das Baby Reize viel besser verarbeiten, als wenn es alleine liegt; zudem erholt sich das Baby beim Tragen von bereits angesammeltem Stress. Es findet leichter seine Balance und weint viel weniger. Bei häufig getragenen Babys kommt es selten zu den stressbedingten abendlichen Schreistunden. Ausserdem schläft ein entspanntes Baby nachts besser.<\/p>",
+            "text": "<p><strong>Tragen reduziert Stress<\/strong><\/p><p>Ein Baby ist nicht für unsere laute, hektische Welt voller Eindrücke gemacht. Im Lauf des Tages sammeln sich viele Reize (=Stress) an. Am Körper getragen kann das Baby Reize viel besser verarbeiten, als wenn es alleine liegt; zudem erholt sich das Baby beim Tragen von bereits angesammeltem Stress. Es findet leichter seine Balance und weint viel weniger. Bei häufig getragenen Babys kommt es selten zu den stressbedingten abendlichen Schreistunden. Ausserdem schläft ein entspanntes Baby nachts besser.<\/p>",
             "text_style": "body"
           }
         }
@@ -170,6 +170,35 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "image_with_text_jFr99M": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_w9Vkzn": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Unsere Beratungen & Kurse<\/strong><\/p><p>In der <a href=\"https:\/\/www.herzanherz.ch\/trageberatung\/\" target=\"_blank\" title=\"Link zu Herz an Herz Winterthur Trageberatung\">Trageberatung<\/a> zeigt dir eine ausgebildete Trageberaterin, wie du dein Kind gesund und sicher im Tuch oder der Tragehilfe trägst. Ihr wählt eine passende Tragehilfe aus und übt gemeinsam, bis du dich sicher fühlst. In unseren regelmässigen <a href=\"https:\/\/www.herzanherz.ch\/tragekafi\/\" target=\"_blank\" title=\"Link zum Herz an Herz Tragekafi\">Tragekafis<\/a> kannst du dich mit anderen Eltern austauschen und deine Fragen einer anwesenden Trageberaterin stellen. Es finden auch immer wieder Workshops oder Infoveranstaltungen rund ums Tragen statt. Alle Angebote findest du in unserer <a href=\"https:\/\/www.herzanherz.ch\/kurse\/\" target=\"_blank\" title=\"Link zur Herz an Herz Kursagenda\">Agenda<\/a>.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_w9Vkzn"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Tragen-Ruecken-Bubble.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_P3NfKX": {
@@ -492,6 +521,7 @@
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
     "image_with_text_bctMJ4",
     "rich_text_kDeifr",
+    "image_with_text_jFr99M",
     "rich_text_P3NfKX",
     "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",

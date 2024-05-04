@@ -1,0 +1,399 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "16a27f16-b5b6-4838-b516-46c85c826eb0": {
+      "type": "section-about-text",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "logo": "shopify:\/\/shop_images\/Group.png",
+        "title": "Stoffwindel-Guide",
+        "text": "",
+        "max_width": 1050
+      }
+    },
+    "01bd0c23-c272-4bfe-9a96-88558e4ef1f1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Wickeln mit Stoff?<\/h4><p>Du möchtest für die Gesundheit deines Kindes und die der Umwelt einen Beitrag leisten? Du willst keine Chemie am Babyfüdli? Du willst Abfall und Geld sparen? Dann bist du beim Thema Stoffwindeln genau richtig.<\/p><p>Hier erfährst du, was die Vorteile von Stoffwindeln sind, welche Systeme es gibt und welches Zubehör ganz nützlich ist.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Wickeln.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e8baebdb-259f-4344-ad11-8a7c98b9fdb0": {
+      "type": "rich-text",
+      "blocks": {
+        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Was sind Stoffwindeln?<\/h2><p>Stoffwindeln sind die coolen Cousins der klassischen Wegwerfwindeln. Statt Plastik und Chemie setzen sie auf weiche und nachhaltige Stoffe, die sanft zur zarten Babyhaut sind. Stoffwindeln sind nicht mehr altmodisch und unpraktisch. Sie können genauso schnell angelegt und einfach benutzt werden wie Wegwerfwindeln. Nur wandern sie danach nicht auf den Müll, sondern in die Waschmaschine. Sie sind farbenfroh und vielfältig im Angebot. Eine echte Alternative zu Pampers und Co.<\/p><p><\/p><h2>Warum Stoffwindeln?<\/h2><h4>Nachhaltigkeit<\/h4><ul><li>Etwa 5000 Wegwerfwindeln braucht ein Kind, bis es trocken wird. 5000 Windeln, die aus knappen Ressourcen (Erdöl) hergestellt werden und nach wenigen Stunden gebraucht im Müll landen - eine enorme Belastung für die Umwelt.<\/li><li>Stoffwindeln bestehen zu einem Grossteil aus nachwachsenden Rohstoffen wie Bio-Baumwolle, Wolle oder Hanf.<\/li><li>Die Herstellung und Verpackung von Wegwerfwindeln verbraucht Unmengen von Wasser. Sogar wenn Stoffwindeln alle 2 Tage gewaschen werden, ist der Wasserverbrauch 6x geringer.<\/li><\/ul><p><\/p><h4>Gesundheit & Körpergefühl<\/h4><ul><li>Jede Plastikwindel bringt eine frische Ladung Chemie ans Babyfüdli - wunde Popos und Windelausschläge sind häufig die Folge. Das Windelklima in einer Stoffwindel ist zudem viel besser, denn sie ist atmungsaktiv und sanft zur Babyhaut.<\/li><li>Stoffwindel-Kinder sind oft früher trocken, denn sie spüren was bei der Ausscheidung passiert und stören sich an der nassen Windel. (Pampers können fast 12 Stunden mitsamt den Ausscheidungen am Kind gelassen werden und fühlen sich immer noch trocken an.)<\/li><\/ul><h4>Geldbeutel<\/h4><ul><li>Wegwerfwindeln müssen ständig nachgekauft werden. Bei 5000 Windeln geht das ins Geld! Bei Stoffwindeln hingegen fallen nach der einmaligen Anschaffung keine Kosten mehr an und sie können für mehrere Kinder benutzt werden.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "6b097b85-0abe-47cb-8728-a6b07bd3d882": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Entdecke unsere Windelsysteme<\/h2><p>Es gibt (ganz vereinfacht gesagt) zwei verschiedene Arten, mit Stoff zu wickeln: Entweder verwendest du eine All-in-one Komplettwindel, die aus einem Stück besteht, in einem \"Arbeitsschritt\" angezogen werden kann und komplett in die Wäsche wandert, wenn sie nass oder schmutzig wird. Oder du kombinierst eine wasserdichte Überhose mit einer saugenden Einlage. Dann wechselst du nur die Einlage und kannst die Überhose mehrmals verwenden. Eine etwas speziellere Form des Überhose-Einlage-Systems ist das \"All-in-three\" System. Diese Windel besteht aus einer Aussenwindel aus Stoff, einer wasserdichten Wanne (Innenwindel) und einer schmalen Einlage.<\/p><p>Du möchtest das alles genauer verstehen? Dann besuche eine Stoffwindel-Info bei uns im Laden oder buche eine <a href=\"https:\/\/www.herzanherz.ch\/stoffwindelberatung\/\" target=\"_blank\" title=\"Stoffwindelberatung bei Herz an Herz\">Stoffwindelberatung<\/a>. Dort erfährst du alles im Detail und die Beraterin kann dir für deine ganz individuelle Situation Tipps geben und gemeinsam mit dir ein passendes System finden.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>All-in-one \/ Pocket<\/h3><p>Die All-in-one ist eine Komplettwindel, die ganz ähnlich wie eine Wegwerfwindel funktioniert. Dieses unkomplizierte System eignet sich gut zum Einsteigen ins Wickeln mit Stoff - auch Kitas oder Grosseltern kommen damit gut zurecht.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "All-in-one",
+            "button_link": "shopify:\/\/collections\/all-in-one",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1",
+        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutscheine_Stoffwindeln_Smart_Bottom_Even_afterjpeg_62069_2.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b3fa52d2-f2d9-4105-abf3-5171c37af62b": {
+      "type": "image-with-text",
+      "blocks": {
+        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>All-in-three<\/h3><p>Sie besteht aus Bio-Baumwoll-Aussenwindel, Innenwindel und Einlage. Beim Wickeln wechselt man nur die Einlage und wenn nötig die Innenwindel. Dadurch hat man ein System, das wenig Wäsche macht. Zudem kommt viel Luft an die Haut und es gibt nicht so ein dickes \"Windelfüdli\" wie bei anderen Systemen.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1213e182-6420-4dc6-b2ba-8a8ad1072c57": {
+          "type": "button",
+          "settings": {
+            "button_label": "All-in-three",
+            "button_link": "shopify:\/\/collections\/all-in-three",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98",
+        "1213e182-6420-4dc6-b2ba-8a8ad1072c57"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Bio_Culla_Di_Teby_jellyfish2_53200_2_53203_2.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e0647214-9936-4525-a517-be4c05c8b5c3": {
+      "type": "image-with-text",
+      "blocks": {
+        "b12b4506-8983-44eb-b9db-3fcbb5c56894": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Überhosen<\/h3><p>Die wasserdichten Überhosen aus <a href=\"\/collections\/uberhosen\" target=\"_blank\" title=\"Überhosen\">PUL<\/a> oder aus <a href=\"\/collections\/wolluberhosen\" target=\"_blank\" title=\"Wollüberhosen\">Wolle<\/a> können entweder mit einer Höschenwindel oder mit einer Einlage \/ Prefold kombiniert werden. Die Überhosen müssen nicht jedesmal gewaschen werden, daher reichen davon oft 5-6 Stück. Du kannst einfach die Einlage wechseln. So ist dieses System relativ günstig.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "ac69770f-93af-4ffa-8278-7abd004dc300": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Überhosen",
+            "button_link": "shopify:\/\/collections\/uberhosen",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "b12b4506-8983-44eb-b9db-3fcbb5c56894",
+        "ac69770f-93af-4ffa-8278-7abd004dc300"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Doodush_Ueberhose_Botanic_Garden_Otulacz_OS_2_59464_2.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9f2d927d-daf8-4fcf-aceb-a840a11d7b82": {
+      "type": "image-with-text",
+      "blocks": {
+        "5c670314-e4f2-497c-a210-812f13bbf66b": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Einlagen \/ Prefolds<\/h3><p>Prefolds sind sehr saugstarke Einlagen für die Überhosen. Sie werden gefaltet und in die Überhose gelegt. Werden die Einlagen nass oder schmutzig, wechselst du sie einfach aus. Prefolds aus Bio-Baumwolle oder Bambus saugen sehr schnell, wobei Einlagen mit Hanf viel Nässe speichern können.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "fbbbd352-9a4f-49a2-be70-e82c0f9155bd": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Einlagen & Prefolds",
+            "button_link": "shopify:\/\/collections\/prefolds-einlagen",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "5c670314-e4f2-497c-a210-812f13bbf66b",
+        "fbbbd352-9a4f-49a2-be70-e82c0f9155bd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/culla-di-teby-6pack-einlagen-bambus-culla-di-teby-prefolds-einlagen-stoffwindeln-304-21903-2.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_ntarbL": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_PcbFjU": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Höschenwindel<\/h3><p>Bei der Höschenwindel ist die Saugkraft gut um den ganzen Po verteilt und die Windel eignet sich so bestens für die Nacht oder für längere Wickelabstände. Sie muss mit einer wasserdichten Überhose kombiniert werden.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_iFrfwh": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Überhosen",
+            "button_link": "shopify:\/\/collections\/uberhosen",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_PcbFjU",
+        "button_iFrfwh"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Windelzauberland_stoffwickeln_stoffwindel_baumwolle_flanell_bio_deutschland_hoeschenwindel_onesize_baby_newborn_neugeborene_snaps_feathers-of-happiness.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "de7f5108-2c92-404d-8671-8437b9ae096a": {
+      "type": "rich-text",
+      "blocks": {
+        "e27274ae-5ee3-4d54-9e4d-130cb04651b7": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Nützliches Zubehör<\/h2><h4>Wetbags<\/h4><p>In den <a href=\"\/collections\/wetbags\" target=\"_blank\" title=\"Wetbags\">Wetbags<\/a> bewahrst du nasse und schmutzige Stoffwindeln auf bis sie gewaschen werden. Die grösseren Grössen sind perfekt für zuhause und die kleineren eignen sich für den Transport unterwegs in der Wickeltasche. Denn Nässe und Geruch bleiben zuverlässig drinnen.<\/p><p>Ein praktisches Accessoire in vielen bunten Designs, die Spass machen!<\/p><h4>Wickelunterlage<\/h4><p>Mit einer waschbaren <a href=\"\/collections\/wickelunterlagen\" target=\"_blank\" title=\"Wickelunterlagen\">Wickelunterlage<\/a> wickelst du dein Kind überall hygienisch und sauber. Sie lässt sich gut falten oder rollen und passt damit bestens in deine Wickeltasche. Die wasserdichte bzw. wasserabweisende Aussenschicht fängt einen \"Unfall\" auf und dank dem kuscheligen Futter liegt dein Baby überall bequem.<\/p><h4>Waschbare Feuchttücher<\/h4><p>Diese wiederverwendbaren <a href=\"\/collections\/waschlappen-feuchttucher\" target=\"_blank\" title=\"Waschlappen & Feuchttücher\">Feuchttücher aus Stoff<\/a> sind nicht nur für Stoffwindel-Fans eine tolle Sache! Damit reduzierst du den Abfall der Wegwerf-Feuchttücher, sparst Geld und kommst ganz ohne Chemie oder Parfüm aus.<\/p><p>Die Tücher werden einfach mit Wasser und gegebenenfalls etwas Kokosöl verwendet.<\/p>"
+          }
+        },
+        "button_KiBndE": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zum Stoffwindelzubehör",
+            "button_link": "shopify:\/\/collections\/stoffwindelzubehor",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "e27274ae-5ee3-4d54-9e4d-130cb04651b7",
+        "button_KiBndE"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "66cf2c2d-098b-49ab-93be-9ca360db9db4": {
+      "type": "section-custom-image",
+      "blocks": {
+        "76fc5bc7-fa04-4e26-b5c9-7356990f3127": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Petit_Lulu_Wickelunterlage_Hippos2_46142_2.jpg"
+          }
+        },
+        "73eba713-8692-420c-87fe-5dddb984fb69": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Doodush_Wetbag_Sweet-Dreams.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "76fc5bc7-fa04-4e26-b5c9-7356990f3127",
+        "73eba713-8692-420c-87fe-5dddb984fb69"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "max_width": 870
+      }
+    },
+    "image_with_text_nHmTVQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_cj3gCA": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Stoffwindeln Waschen<\/h3><p>Um Chemie am Po des Kindes zu vermeiden, empfehlen wir ein ökologisches Waschmittel. <a href=\"\/products\/ulrichnatuerlich-windelwaschmittel\" target=\"_blank\" title=\"Windelwaschmittel ACTIFRESH\">Windelwaschmittel von Ulrich Natürlich<\/a> ist ideal, denn es wurde speziell für Stoffwindeln entwickelt und enthält alles, was es dafür braucht. Aber auch die <a href=\"\/products\/bluu\" target=\"_blank\" title=\"Waschstreifen\">bluu Waschstreifen<\/a> eignen sich für Stoffwindeln.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_K9x983": {
+          "type": "button",
+          "settings": {
+            "button_label": "Pflege & Waschmittel",
+            "button_link": "shopify:\/\/collections\/pflege-waschmittel",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_cj3gCA",
+        "button_K9x983"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Bluu_Waschmittel_Nachhaltig_ohne_Duft2_44904_2.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16a27f16-b5b6-4838-b516-46c85c826eb0",
+    "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
+    "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
+    "6b097b85-0abe-47cb-8728-a6b07bd3d882",
+    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
+    "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
+    "e0647214-9936-4525-a517-be4c05c8b5c3",
+    "9f2d927d-daf8-4fcf-aceb-a840a11d7b82",
+    "image_with_text_ntarbL",
+    "de7f5108-2c92-404d-8671-8437b9ae096a",
+    "66cf2c2d-098b-49ab-93be-9ca360db9db4",
+    "image_with_text_nHmTVQ"
+  ]
+}

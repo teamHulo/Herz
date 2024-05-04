@@ -270,201 +270,11 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>All-in-one \/ Pocket<\/h3><p>Die All-in-one ist eine Komplettwindel, die ganz ähnlich wie eine Wegwerfwindel funktioniert. Dieses unkomplizierte System eignet sich gut zum Einsteigen ins Wickeln mit Stoff - auch Kitas oder Grosseltern kommen damit gut zurecht.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "All-in-one",
-            "button_link": "shopify:\/\/collections\/all-in-one",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1",
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutscheine_Stoffwindeln_Smart_Bottom_Even_afterjpeg_62069_2.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "b3fa52d2-f2d9-4105-abf3-5171c37af62b": {
-      "type": "image-with-text",
-      "blocks": {
-        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>All-in-three<\/h3><p>Sie besteht aus Bio-Baumwoll-Aussenwindel, Innenwindel und Einlage. Beim Wickeln wechselt man nur die Einlage und wenn nötig die Innenwindel. Dadurch hat man ein System, das wenig Wäsche macht. Zudem kommt viel Luft an die Haut und es gibt nicht so ein dickes \"Windelfüdli\" wie bei anderen Systemen.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1213e182-6420-4dc6-b2ba-8a8ad1072c57": {
-          "type": "button",
-          "settings": {
-            "button_label": "All-in-three",
-            "button_link": "shopify:\/\/collections\/all-in-three",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "b1e16a22-d92a-4fef-8e59-67a00b4f1d98",
-        "1213e182-6420-4dc6-b2ba-8a8ad1072c57"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Bio_Culla_Di_Teby_jellyfish2_53200_2_53203_2.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e0647214-9936-4525-a517-be4c05c8b5c3": {
-      "type": "image-with-text",
-      "blocks": {
-        "b12b4506-8983-44eb-b9db-3fcbb5c56894": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Überhosen<\/h3><p>Die wasserdichten Überhosen aus <a href=\"\/collections\/uberhosen\" target=\"_blank\" title=\"Überhosen\">PUL<\/a> oder aus <a href=\"\/collections\/wolluberhosen\" target=\"_blank\" title=\"Wollüberhosen\">Wolle<\/a> können entweder mit einer Höschenwindel oder mit einer Einlage \/ Prefold kombiniert werden. Die Überhosen müssen nicht jedesmal gewaschen werden, daher reichen davon oft 5-6 Stück. Du kannst einfach die Einlage wechseln. So ist dieses System relativ günstig.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "ac69770f-93af-4ffa-8278-7abd004dc300": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zu den Überhosen",
-            "button_link": "shopify:\/\/collections\/uberhosen",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "b12b4506-8983-44eb-b9db-3fcbb5c56894",
-        "ac69770f-93af-4ffa-8278-7abd004dc300"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Stoffwindel_Doodush_Ueberhose_Botanic_Garden_Otulacz_OS_2_59464_2.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "9f2d927d-daf8-4fcf-aceb-a840a11d7b82": {
-      "type": "image-with-text",
-      "blocks": {
-        "5c670314-e4f2-497c-a210-812f13bbf66b": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Einlagen \/ Prefolds<\/h3><p>Prefolds sind sehr saugstarke Einlagen für die Überhosen. Sie werden gefaltet und in die Überhose gelegt. Werden die Einlagen nass oder schmutzig, wechselst du sie einfach aus. Prefolds aus Bio-Baumwolle oder Bambus saugen sehr schnell, wobei Einlagen mit Hanf viel Nässe speichern können.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "fbbbd352-9a4f-49a2-be70-e82c0f9155bd": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zu den Einlagen & Prefolds",
-            "button_link": "shopify:\/\/collections\/prefolds-einlagen",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "5c670314-e4f2-497c-a210-812f13bbf66b",
-        "fbbbd352-9a4f-49a2-be70-e82c0f9155bd"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/culla-di-teby-6pack-einlagen-bambus-culla-di-teby-prefolds-einlagen-stoffwindeln-304-21903-2.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_ntarbL": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_PcbFjU": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Höschenwindel<\/h3><p>Bei der Höschenwindel ist die Saugkraft gut um den ganzen Po verteilt und die Windel eignet sich so bestens für die Nacht oder für längere Wickelabstände. Sie muss mit einer wasserdichten Überhose kombiniert werden.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_iFrfwh": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zu den Überhosen",
-            "button_link": "shopify:\/\/collections\/uberhosen",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_PcbFjU",
-        "button_iFrfwh"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Windelzauberland_stoffwickeln_stoffwindel_baumwolle_flanell_bio_deutschland_hoeschenwindel_onesize_baby_newborn_neugeborene_snaps_feathers-of-happiness.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -475,14 +285,14 @@
         "e27274ae-5ee3-4d54-9e4d-130cb04651b7": {
           "type": "text",
           "settings": {
-            "text": "<h2>Nützliches Zubehör<\/h2><h4>Wetbags<\/h4><p>In den <a href=\"\/collections\/wetbags\" target=\"_blank\" title=\"Wetbags\">Wetbags<\/a> bewahrst du nasse und schmutzige Stoffwindeln auf bis sie gewaschen werden. Die grösseren Grössen sind perfekt für zuhause und die kleineren eignen sich für den Transport unterwegs in der Wickeltasche. Denn Nässe und Geruch bleiben zuverlässig drinnen.<\/p><p>Ein praktisches Accessoire in vielen bunten Designs, die Spass machen!<\/p><h4>Wickelunterlage<\/h4><p>Mit einer waschbaren <a href=\"\/collections\/wickelunterlagen\" target=\"_blank\" title=\"Wickelunterlagen\">Wickelunterlage<\/a> wickelst du dein Kind überall hygienisch und sauber. Sie lässt sich gut falten oder rollen und passt damit bestens in deine Wickeltasche. Die wasserdichte bzw. wasserabweisende Aussenschicht fängt einen \"Unfall\" auf und dank dem kuscheligen Futter liegt dein Baby überall bequem.<\/p><h4>Waschbare Feuchttücher<\/h4><p>Diese wiederverwendbaren <a href=\"\/collections\/waschlappen-feuchttucher\" target=\"_blank\" title=\"Waschlappen & Feuchttücher\">Feuchttücher aus Stoff<\/a> sind nicht nur für Stoffwindel-Fans eine tolle Sache! Damit reduzierst du den Abfall der Wegwerf-Feuchttücher, sparst Geld und kommst ganz ohne Chemie oder Parfüm aus.<\/p><p>Die Tücher werden einfach mit Wasser und gegebenenfalls etwas Kokosöl verwendet.<\/p>"
+            "text": "<h2>Tragen bei Hitze<\/h2><p><strong>Dein Körper ist auch im Sommer der beste Platz fürs Baby. Überhitzen kann es nicht, denn es wird durch deinen Körper gekühlt.<\/strong><\/p><ul><li>Wie immer beim Tragen des Babys gilt auch im Sommer, dass so wenig Schichten wie möglich zwischen dir und dem Baby sind, damit der Wärmeaustausch gut funktioniert und du die Körperwärme des Babys regulieren kannst. Wenn du schwitzt ist das übrigens kein Problem, denn beim Schwitzen entsteht Verdunstungskälte, die dein Baby kühlt.<\/li><li>Bevorzuge eine einlagige, luftige Bindeweise, leichte Tücher und Materialien wie Leinen, Bambus und Hanf. Oder trage in der Tragehilfe, denn diese ist etwas luftiger als ein Tragetuch. Im Schwimmbad oder am Strand bewährt sich ein Wasser-Sling.<\/li><li>Das Tragetuch oder die Tragehilfe ersetzen eine Kleidungsschicht. Wähle luftige, atmungsaktive Kleidung. Passende Tipps findest du in dieser Broschüre. Du kannst dein Kind auch nackt bzw. nur in der Windel tragen (aber nicht alle Kinder mögen das).<\/li><li>Wenn es euch zu heiss wird, macht eine Pause. Meidet die Mittagssonne, haltet euch möglichst im Schatten auf und sorgt für guten Sonnenschutz des Kindes. Unser liebster Sonnenhut fürs Tragen ist der Feuerwehrhut von Pickapooh mit breiter Krempe, die rundum schützt und Bindebändel für guten Halt auch beim Rückentragen.<\/li><li>Ziehe deinem Kind lange, luftige Hosen und ein langärmliges Shirt an. Materialien wie Bambus, Hanf und Musselin sind im Sommer angenehm kühl.<\/li><\/ul>"
           }
         },
         "button_KiBndE": {
           "type": "button",
           "settings": {
-            "button_label": "Zum Stoffwindelzubehör",
-            "button_link": "shopify:\/\/collections\/stoffwindelzubehor",
+            "button_label": "Zu den Sommer-Tipps",
+            "button_link": "shopify:\/\/pages\/sommer-sonne-kind",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -580,11 +390,6 @@
     "image_with_text_jFr99M",
     "rich_text_P3NfKX",
     "multicolumn_fbRHVf",
-    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
-    "b3fa52d2-f2d9-4105-abf3-5171c37af62b",
-    "e0647214-9936-4525-a517-be4c05c8b5c3",
-    "9f2d927d-daf8-4fcf-aceb-a840a11d7b82",
-    "image_with_text_ntarbL",
     "de7f5108-2c92-404d-8671-8437b9ae096a",
     "66cf2c2d-098b-49ab-93be-9ca360db9db4",
     "image_with_text_nHmTVQ"

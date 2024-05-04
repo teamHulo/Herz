@@ -76,6 +76,19 @@
             "btn_name": "Jetzt profitieren"
           }
         },
+        "item_bXAUbb": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Bild_oben.jpg",
+            "img2": "shopify:\/\/shop_images\/Bild_mitte.jpg",
+            "img3": "shopify:\/\/shop_images\/Bild_unten.jpg",
+            "title": "Tragen: Wir sind dabei!",
+            "text": "<p>Wir feiern die <em>European Babywearing Week<\/em> und schenken dir bis am Sonntag 12. Mai <strong>10% Rabatt <\/strong>auf alles in der <strong>Kategorie Tragen<\/strong>. Du fragst dich, was es mit dem Tragen auf sich hat? Auf unserer Wissensseite erfährst du es.<\/p>",
+            "url": "shopify:\/\/collections\/wickeln",
+            "btn_name": "Jetzt profitieren"
+          }
+        },
         "beb1387a-20df-4238-a01b-69c08fe7ba72": {
           "type": "item",
           "disabled": true,
@@ -135,6 +148,7 @@
         "item_Jc9eFD",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_c8wF6m",
+        "item_bXAUbb",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "67bececa-9c31-424d-a18a-4a49adda00b5",

@@ -54,7 +54,7 @@
         "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
           "type": "text",
           "settings": {
-            "text": "<h2>Was sind Stoffwindeln?<\/h2><p>Stoffwindeln sind die coolen Cousins der klassischen Wegwerfwindeln. Statt Plastik und Chemie setzen sie auf weiche und nachhaltige Stoffe, die sanft zur zarten Babyhaut sind. Stoffwindeln sind nicht mehr altmodisch und unpraktisch. Sie können genauso schnell angelegt und einfach benutzt werden wie Wegwerfwindeln. Nur wandern sie danach nicht auf den Müll, sondern in die Waschmaschine. Sie sind farbenfroh und vielfältig im Angebot. Eine echte Alternative zu Pampers und Co.<\/p><p><\/p><h2>Warum Stoffwindeln?<\/h2><h4>Nachhaltigkeit<\/h4><ul><li>Etwa 5000 Wegwerfwindeln braucht ein Kind, bis es trocken wird. 5000 Windeln, die aus knappen Ressourcen (Erdöl) hergestellt werden und nach wenigen Stunden gebraucht im Müll landen - eine enorme Belastung für die Umwelt.<\/li><li>Stoffwindeln bestehen zu einem Grossteil aus nachwachsenden Rohstoffen wie Bio-Baumwolle, Wolle oder Hanf.<\/li><li>Die Herstellung und Verpackung von Wegwerfwindeln verbraucht Unmengen von Wasser. Sogar wenn Stoffwindeln alle 2 Tage gewaschen werden, ist der Wasserverbrauch 6x geringer.<\/li><\/ul><p><\/p><h4>Gesundheit & Körpergefühl<\/h4><ul><li>Jede Plastikwindel bringt eine frische Ladung Chemie ans Babyfüdli - wunde Popos und Windelausschläge sind häufig die Folge. Das Windelklima in einer Stoffwindel ist zudem viel besser, denn sie ist atmungsaktiv und sanft zur Babyhaut.<\/li><li>Stoffwindel-Kinder sind oft früher trocken, denn sie spüren was bei der Ausscheidung passiert und stören sich an der nassen Windel. (Pampers können fast 12 Stunden mitsamt den Ausscheidungen am Kind gelassen werden und fühlen sich immer noch trocken an.)<\/li><\/ul><h4>Geldbeutel<\/h4><ul><li>Wegwerfwindeln müssen ständig nachgekauft werden. Bei 5000 Windeln geht das ins Geld! Bei Stoffwindeln hingegen fallen nach der einmaligen Anschaffung keine Kosten mehr an und sie können für mehrere Kinder benutzt werden.<\/li><\/ul>"
+            "text": "<h2>Instinkte aus der Steinzeit<\/h2><p><strong>Getragen zu werden ist für ein Baby überlebenswichtig.<\/strong> Die Instinkte deines Babys stammen aus der Steinzeit. Damals zogen Menschen von Ort zu Ort, schliefen am Lagerfeuer und überall lauerten wilde Tiere. Der einzig sichere Platz für ein Baby war dicht am Körper eines Erwachsenen. Nur da konnte es sicher sein, immer mitgenommen zu werden. Nur da musste es keine Angst haben zu erfrieren oder zu überhitzen. Nur da konnte es ganz entspannt einschlafen und seine Bedürfnisse ohne viel Aufwand mitteilen.<\/p><p><strong>Darum weinen viele Babys sobald sie hingelegt werden.<\/strong> Ihr Überlebensinstinkt setzt ein, sie geraten in einen ungesunden Stresszustand und sehnen sich nach deiner sicheren Nähe. <\/p><p>Jahrhunderte und Jahrtausende lang wurden Babys in allen Kulturen der Welt am Körper getragen. Auch in unseren Breitengraden. Der Kinderwagen - so hilfreich er zwischendurch sein mag - wurde erst Mitte des 19. Jahrhunderts erfunden und entspricht so gar nicht unserer Natur. Denn Körperkontakt ist - auch heute noch - überlebenswichtig für ein Baby.<\/p>"
           }
         }
       },
@@ -68,6 +68,51 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "image_with_text_xXzFEt": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_y4gDJV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_FfhVDd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_8Ygd3W": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_y4gDJV",
+        "text_FfhVDd",
+        "button_8Ygd3W"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "6b097b85-0abe-47cb-8728-a6b07bd3d882": {
@@ -386,6 +431,7 @@
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
+    "image_with_text_xXzFEt",
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
     "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
     "b3fa52d2-f2d9-4105-abf3-5171c37af62b",

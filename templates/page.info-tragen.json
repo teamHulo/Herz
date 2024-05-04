@@ -76,7 +76,7 @@
         "text_FfhVDd": {
           "type": "text",
           "settings": {
-            "text": "<p>Am Körper getragen erholt sich dein Baby wunderbar von den vielen Reizen des Alltags. Es findet leichter seine Balance und weint viel weniger. Ausserdem schläft ein entspanntes Baby besser.<\/p>",
+            "text": "<p>Ein Baby ist nicht für unsere laute, hektische Welt voller Eindrücke gemacht. Im Lauf des Tages sammeln sich viele Reize (=Stress) an. Am Körper getragen kann das Baby Reize viel besser verarbeiten, als wenn es alleine liegt; zudem erholt sich das Baby beim Tragen von bereits angesammeltem Stress. Es findet leichter seine Balance und weint viel weniger. Bei häufig getragenen Babys kommt es selten zu den stressbedingten abendlichen Schreistunden. Ausserdem schläft ein entspanntes Baby nachts besser.<\/p>",
             "text_style": "body"
           }
         }
@@ -85,13 +85,14 @@
         "text_FfhVDd"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Tragen-Info-Bubble.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "",
+        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,

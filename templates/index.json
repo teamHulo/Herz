@@ -370,6 +370,7 @@
         "item_wD89en": {
           "type": "item",
           "settings": {
+            "img": "shopify:\/\/shop_images\/Section-Slider_Sommer-Sonne-Kind-Wickeln.jpg",
             "title": "Wickeln bei Hitze",
             "text": "<p>Stoffwindeln haben viele Vorteile und ein grosser Vorteil im Sommer ist die optimale Regulation der Temperatur im Innern. Sie werden nicht so schnell warm oder schwitzig und sie sind luftdurchlässiger als Wegwerfwindeln.<\/p>",
             "url": "shopify:\/\/collections\/stoffwindeln",

@@ -188,8 +188,52 @@
             "url": "shopify:\/\/collections\/schlafen",
             "btn_name": "Alles für den Babyschlaf"
           }
+        }
+      },
+      "block_order": [
+        "item_JkwHwM",
+        "item_yrPzyC",
+        "item_bPf7kc"
+      ],
+      "settings": {
+        "name": "UNSERE EMPFEHLUNGEN",
+        "title": "Mit Baby unterwegs im Sommer"
+      }
+    },
+    "section_our_hW8Uw7": {
+      "type": "section-our",
+      "blocks": {
+        "item_YWtWKB": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Slider-Bild-Erstausstattung-Wolle-Seide-Babykleider.jpg",
+            "title": "Wolle-Seide Kleidung",
+            "text": "<p>Wir empfehlen Kleidung aus Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.<\/p>",
+            "url": "shopify:\/\/collections\/wolle-seide-produkte",
+            "btn_name": "Wolle-Seide Produkte"
+          }
         },
-        "ddbc2566-4cd1-45cc-82ba-724076b2eb6d": {
+        "item_d3thnR": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Slider-Bild-Erstausstattung-Stillen-Stillkissen.jpg",
+            "title": "Stillkissen & Co",
+            "text": "<p>Fürs Stillen brauchst du Ruhe, Entspannung und Körperkontakt mit dem Baby. Ein <a href=\"\/products\/bettmaus-stillkissen-gross\" target=\"_blank\" title=\"Stillkissen gross mit Bio-Dinkelspreu\">Stillkissen<\/a> sorgt für eine gemütliche Stillzeit. Für einfaches und diskretes Stillen auch unterwegs lohnt es sich, in passende <a href=\"\/collections\/umstands-stillmode\" target=\"_blank\" title=\"Umstands- & Stillmode\">Still-Mode<\/a> zu investieren.<\/p>",
+            "url": "shopify:\/\/collections\/stillen",
+            "btn_name": "Produkte rund ums Stillen"
+          }
+        },
+        "item_MRqUzR": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Slider-Bild-Erstausstattung-Baby-Schlafsack.jpg",
+            "title": "Für guten Babyschlaf",
+            "text": "<p>Der Schlafplatz des Babys sollte kühl sein. Damit das Baby trotzdem warm hat, empfehlen wir flexible Schichten aus Wolle oder Wolle-Seide. Dazu gehört insbesondere ein passender <a href=\"\/collections\/schlafsacke\" target=\"_blank\" title=\"Schlafsäcke\">Schlafsack<\/a> und nach Bedarf eine warme <a href=\"\/collections\/babydecken\" target=\"_blank\" title=\"Babydecken\">Wolldecke<\/a>.<\/p>",
+            "url": "shopify:\/\/collections\/schlafen",
+            "btn_name": "Alles für den Babyschlaf"
+          }
+        },
+        "item_8PeDTn": {
           "type": "item",
           "disabled": true,
           "settings": {
@@ -200,7 +244,7 @@
             "btn_name": "Geschenke entdecken"
           }
         },
-        "44ff8293-3505-462f-9c87-f9c28c332b83": {
+        "item_DL76rn": {
           "type": "item",
           "disabled": true,
           "settings": {
@@ -211,7 +255,7 @@
             "btn_name": "Mitbringsel finden"
           }
         },
-        "52dfc1bb-e625-41fa-861f-c29664072780": {
+        "item_RDJDVL": {
           "type": "item",
           "disabled": true,
           "settings": {
@@ -222,7 +266,7 @@
             "btn_name": "Alles fürs freie Spiel"
           }
         },
-        "a20d7289-674c-4546-a4f6-6102c2ab22c9": {
+        "item_jXDWYz": {
           "type": "item",
           "disabled": true,
           "settings": {
@@ -233,7 +277,7 @@
             "btn_name": "Inspirieren lassen"
           }
         },
-        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8": {
+        "item_dK9gcB": {
           "type": "item",
           "disabled": true,
           "settings": {
@@ -244,7 +288,7 @@
             "btn_name": "Wichtel einladen"
           }
         },
-        "be814ee1-dadc-46d9-a79e-6128f77f64d7": {
+        "item_kfnk9a": {
           "type": "item",
           "disabled": true,
           "settings": {
@@ -255,7 +299,7 @@
             "btn_name": "Paarzeit verbringen"
           }
         },
-        "b7e797f2-1b5f-4151-a871-182489f8f988": {
+        "item_ENeina": {
           "type": "item",
           "disabled": true,
           "settings": {
@@ -268,17 +312,18 @@
         }
       },
       "block_order": [
-        "item_JkwHwM",
-        "item_yrPzyC",
-        "item_bPf7kc",
-        "ddbc2566-4cd1-45cc-82ba-724076b2eb6d",
-        "44ff8293-3505-462f-9c87-f9c28c332b83",
-        "52dfc1bb-e625-41fa-861f-c29664072780",
-        "a20d7289-674c-4546-a4f6-6102c2ab22c9",
-        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8",
-        "be814ee1-dadc-46d9-a79e-6128f77f64d7",
-        "b7e797f2-1b5f-4151-a871-182489f8f988"
+        "item_YWtWKB",
+        "item_d3thnR",
+        "item_MRqUzR",
+        "item_8PeDTn",
+        "item_DL76rn",
+        "item_RDJDVL",
+        "item_jXDWYz",
+        "item_dK9gcB",
+        "item_kfnk9a",
+        "item_ENeina"
       ],
+      "disabled": true,
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Babys Erstausstattung"
@@ -302,13 +347,13 @@
     "section_slider_ennB3g": {
       "type": "section-slider",
       "blocks": {
-        "item_qtgAht": {
+        "item_xCEKRK": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Section-Slider_Feste-Rituale_Jahreszeiten.jpg",
-            "title": "Jahreszeiten mit Kindern erleben",
-            "text": "<p>Die Jahreszeiten zuhause sichtbar zu machen ist ein schöner Weg, um Kindern zu helfen, sich im Jahr zu orientieren. Es ist eine tolle Aktivität, gemeinsam den Jahreszeitentisch zu dekorieren mit Steckfiguren, Karten, Kerzen und Fundstücken aus der Natur.<\/p>",
-            "url": "shopify:\/\/collections\/jahreszeiten",
+            "img": "shopify:\/\/shop_images\/Section-Slider_Feste-Rituale_Kalender-Planer.jpg",
+            "title": "Kalender & Wochenplaner",
+            "text": "<p>Zeit ist für Kinder etwas sehr Abstraktes. Ermögliche ihnen, Zeit kindgerecht und alltagsnah zu Begreifen, ihren Verlauf nachzuvollziehen und so auf spielerische Weise Ordnung, Struktur und Verlässlichkeit in den Alltag zu bringen.<\/p>",
+            "url": "shopify:\/\/collections\/kalender-wochenplaner",
             "btn_name": "Jetzt entdecken"
           }
         },
@@ -322,21 +367,21 @@
             "btn_name": "Jetzt entdecken"
           }
         },
-        "item_xCEKRK": {
+        "item_qtgAht": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Section-Slider_Feste-Rituale_Kalender-Planer.jpg",
-            "title": "Kalender & Wochenplaner",
-            "text": "<p>Zeit ist für Kinder etwas sehr Abstraktes. Ermögliche ihnen, Zeit kindgerecht und alltagsnah zu Begreifen, ihren Verlauf nachzuvollziehen und so auf spielerische Weise Ordnung, Struktur und Verlässlichkeit in den Alltag zu bringen.<\/p>",
-            "url": "shopify:\/\/collections\/kalender-wochenplaner",
+            "img": "shopify:\/\/shop_images\/Section-Slider_Feste-Rituale_Jahreszeiten.jpg",
+            "title": "Jahreszeiten mit Kindern erleben",
+            "text": "<p>Die Jahreszeiten zuhause sichtbar zu machen ist ein schöner Weg, um Kindern zu helfen, sich im Jahr zu orientieren. Es ist eine tolle Aktivität, gemeinsam den Jahreszeitentisch zu dekorieren mit Steckfiguren, Karten, Kerzen und Fundstücken aus der Natur.<\/p>",
+            "url": "shopify:\/\/collections\/jahreszeiten",
             "btn_name": "Jetzt entdecken"
           }
         }
       },
       "block_order": [
-        "item_qtgAht",
+        "item_xCEKRK",
         "item_4WCR8B",
-        "item_xCEKRK"
+        "item_qtgAht"
       ],
       "settings": {
       }
@@ -454,6 +499,12 @@
             "article": "news\/lorem-ipsum-dolor-sit-amet-consectetur-mauris-nisi-justo"
           }
         },
+        "article_kTeKgz": {
+          "type": "article",
+          "settings": {
+            "article": ""
+          }
+        },
         "14846c52-4041-4370-9399-ba4592d3f4ae": {
           "type": "article",
           "settings": {
@@ -465,6 +516,7 @@
         "51d92569-a148-4073-8870-43b954beb646",
         "8841ccf8-b43a-498c-ac79-5c2f4daf6a48",
         "9b334d10-0974-47d1-82e6-eff83fc39c2c",
+        "article_kTeKgz",
         "14846c52-4041-4370-9399-ba4592d3f4ae"
       ],
       "disabled": true,
@@ -537,82 +589,12 @@
         "tel": "+41 (0)76 325 84 84",
         "btn_url": "https:\/\/www.herzanherz.ch\/laden\/%C3%B6ffnungszeiten-anfahrt\/"
       }
-    },
-    "36e0d3e3-5bd7-406a-a6e0-7b82cebec1e4": {
-      "type": "section-with-text-btn",
-      "disabled": true,
-      "settings": {
-        "title": "Tragejacken für Herbst & Winter",
-        "text": "<p>Beim Tragen profitiert dein Baby direkt von deiner Körperwärme. Damit ihr auch bei kühlerem Wetter gut angezogen seid, gibt es Tragejacken- und Pullis, die den Wärmeaustausch optimal unterstützen.<\/p>",
-        "url": "shopify:\/\/pages\/tragen-im-herbst-und-winter",
-        "btn_name": "Mehr zum Thema erfahren"
-      }
-    },
-    "26c8d3c8-7ce7-4af3-9637-22df869f6e7b": {
-      "type": "section-full-image",
-      "disabled": true,
-      "settings": {
-        "img": "shopify:\/\/shop_images\/mamalila_OJSpro-gr_stineogjarlen_2_1_1.png"
-      }
-    },
-    "32304844-b226-476a-b89c-c9bad2a32f6b": {
-      "type": "section-slider",
-      "blocks": {
-        "02065589-9646-4f28-9c02-75fe8ca54b3b": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Warme.jpg",
-            "title": "Warme Umstands-& Tragejacken",
-            "text": "<p>Für richtig kalte Tage bist du mit einer sportlichen, funktionalen Winterjacke oder einem schicken Wollmantel gut gerüstet. Die Jacke kannst du auch ohne Baby verwenden.<\/p>",
-            "url": "shopify:\/\/collections\/warme-umstands-tragejacken",
-            "btn_name": "Jetzt einkaufen"
-          }
-        },
-        "e676cca9-7ed7-4238-9fc1-bf237e460203": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Ganzjahr.jpg",
-            "title": "Tragejacken fürs ganze Jahr",
-            "text": "<p>Du möchtest eine Umstands- & Tragejacke, die du das ganze Jahr über verwenden kannst? Dann wähle eine Softshelljacke oder einen leichten Mantel.<\/p>",
-            "url": "shopify:\/\/collections\/umstands-tragejacken-furs-ganze-jahr",
-            "btn_name": "Jetzt einkaufen"
-          }
-        },
-        "99614f5f-712b-45d9-b81c-35dc9b17ed70": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Mood3_1.png",
-            "title": "Tragejacken für Männer",
-            "text": "<p>Auch Väter sollen ihr Baby warm und kuschlig tragen dürfen. Wähle zwischen Hoodies, Softshell-Jacken oder Wintermänteln für Männer.<\/p>",
-            "url": "shopify:\/\/collections\/tragejacken-fur-mannertragejacken-fur-manner",
-            "btn_name": "Jetzt einkaufen"
-          }
-        },
-        "2129a232-6fc7-482c-89ad-94e0d89cc98b": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Leichte.jpg",
-            "title": "Leichte Umstands-\u2028& Tragejacken",
-            "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.<\/p>",
-            "url": "shopify:\/\/collections\/leichte-umstands-tragejacken",
-            "btn_name": "Jetzt einkaufen"
-          }
-        }
-      },
-      "block_order": [
-        "02065589-9646-4f28-9c02-75fe8ca54b3b",
-        "e676cca9-7ed7-4238-9fc1-bf237e460203",
-        "99614f5f-712b-45d9-b81c-35dc9b17ed70",
-        "2129a232-6fc7-482c-89ad-94e0d89cc98b"
-      ],
-      "disabled": true,
-      "settings": {
-      }
     }
   },
   "order": [
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee",
     "eb12502c-a978-4a64-8794-299bf7d22d27",
+    "section_our_hW8Uw7",
     "section_with_text_btn_ECAitC",
     "section_full_image_EqfEhU",
     "section_slider_ennB3g",
@@ -620,9 +602,6 @@
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba",
     "9c9bf7b0-233a-4e77-bba3-785994bab770",
     "87ca8f06-a903-47e5-8e13-7b5d55ff9427",
-    "2ce312ca-1035-4cd3-a33b-f7ea71672691",
-    "36e0d3e3-5bd7-406a-a6e0-7b82cebec1e4",
-    "26c8d3c8-7ce7-4af3-9637-22df869f6e7b",
-    "32304844-b226-476a-b89c-c9bad2a32f6b"
+    "2ce312ca-1035-4cd3-a33b-f7ea71672691"
   ]
 }

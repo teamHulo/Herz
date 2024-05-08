@@ -5,8 +5,16 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_9kMrpi": {
+          "type": "announcement",
+          "settings": {
+            "text": "Babywearing Week: Bis am 12. Mai gibts Rabatt auf alles in der Kategorie Tragen!",
+            "link": "shopify:\/\/collections\/tragen"
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Herzlich Willkommen bei ❤️ an ❤️",
             "link": ""
@@ -21,6 +29,7 @@
         }
       },
       "block_order": [
+        "announcement_9kMrpi",
         "announcement-bar-0",
         "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c"
       ],
@@ -94,7 +103,6 @@
         },
         "image_KKjjhF": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "menu_handle": "Kindermode",
             "new_tab": true,
@@ -114,7 +122,6 @@
         },
         "image_VpEWKh": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "menu_handle": "Babyzeit",
             "new_tab": true,

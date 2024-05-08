@@ -341,45 +341,14 @@
     "section_full_image_EqfEhU": {
       "type": "section-full-image",
       "settings": {
-        "img": "shopify:\/\/shop_images\/Section-Full-Image_Grimms-Feste-Rituale.jpg"
+        "img": "shopify:\/\/shop_images\/Section-Full-Image_Cloby-Sommer-Sonne-Kind.jpg"
       }
     },
     "section_slider_ennB3g": {
       "type": "section-slider",
       "blocks": {
-        "item_xCEKRK": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Section-Slider_Feste-Rituale_Kalender-Planer.jpg",
-            "title": "Kalender & Wochenplaner",
-            "text": "<p>Zeit ist für Kinder etwas sehr Abstraktes. Ermögliche ihnen, Zeit kindgerecht und alltagsnah zu Begreifen, ihren Verlauf nachzuvollziehen und so auf spielerische Weise Ordnung, Struktur und Verlässlichkeit in den Alltag zu bringen.<\/p>",
-            "url": "shopify:\/\/collections\/kalender-wochenplaner",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_4WCR8B": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Section-Slider_Feste-Rituale_Geburtstagsring.jpg",
-            "title": "Unvergessliche Geburtstage",
-            "text": "<p>Schaffe ein besonderes Geburtstags-Ritual! Wir haben alles, was du dazu brauchst: Festtagsring, passende Steckfiguren und Kerzen, Geburtstagskrone und nachhaltige Dekoration aus Holz. Für unvergessliche Feste und ein Stück Familientradition.<\/p>",
-            "url": "shopify:\/\/collections\/feste-geburtstage",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_qtgAht": {
-          "type": "item",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/Section-Slider_Feste-Rituale_Jahreszeiten.jpg",
-            "title": "Jahreszeiten mit Kindern erleben",
-            "text": "<p>Die Jahreszeiten zuhause sichtbar zu machen ist ein schöner Weg, um Kindern zu helfen, sich im Jahr zu orientieren. Es ist eine tolle Aktivität, gemeinsam den Jahreszeitentisch zu dekorieren mit Steckfiguren, Karten, Kerzen und Fundstücken aus der Natur.<\/p>",
-            "url": "shopify:\/\/collections\/jahreszeiten",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
         "item_g3hRCz": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify:\/\/shop_images\/Section-Slider_Sommer-Sonne-Kind-Kleidung.jpg",
             "title": "Kleidung für heisse Tage",
@@ -387,13 +356,21 @@
             "url": "https:\/\/herzanherz-shop.ch\/collections\/aktuelle-kollektionen-zusammengestellt-aus-marke-und-tag-planung-hw23-24",
             "btn_name": "Aktuelle Kollektionen"
           }
+        },
+        "item_qgKpyG": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Stillen bei Hitze",
+            "text": "<p>Stille oder füttere nach Bedarf und nicht nach der Uhr. Babys die voll gestillt werden löschen ihren Durst mit der Muttermilch und brauchen auch bei grosser Hitze kein zusätzliches Wasser. Stillen in der Öffentlichkeit wird übrigens viel einfacher und angenehmer, wenn du mit passender Still-Kleidung ausgestattet bist: BHs, Tops, Shirts und sommerlich luftige Blusen und Kleider!<\/p>",
+            "url": "shopify:\/\/collections\/umstands-stillmode",
+            "btn_name": "Zur Stillmode"
+          }
         }
       },
       "block_order": [
-        "item_xCEKRK",
-        "item_4WCR8B",
-        "item_qtgAht",
-        "item_g3hRCz"
+        "item_g3hRCz",
+        "item_qgKpyG"
       ],
       "settings": {
       }

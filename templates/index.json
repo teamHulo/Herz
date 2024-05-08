@@ -182,11 +182,11 @@
         "item_bPf7kc": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Slider-Bild-Erstausstattung-Baby-Schlafsack.jpg",
-            "title": "Für guten Babyschlaf",
-            "text": "<p>Der Schlafplatz des Babys sollte kühl sein. Damit das Baby trotzdem warm hat, empfehlen wir flexible Schichten aus Wolle oder Wolle-Seide. Dazu gehört insbesondere ein passender <a href=\"\/collections\/schlafsacke\" target=\"_blank\" title=\"Schlafsäcke\">Schlafsack<\/a> und nach Bedarf eine warme <a href=\"\/collections\/babydecken\" target=\"_blank\" title=\"Babydecken\">Wolldecke<\/a>.<\/p>",
-            "url": "shopify:\/\/collections\/schlafen",
-            "btn_name": "Alles für den Babyschlaf"
+            "img": "shopify:\/\/shop_images\/Slider-Bild-Sommer-Sonnencreme.jpg",
+            "title": "Sonnencreme",
+            "text": "<p>Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Daher haben wir nur Sonnencreme im Sortiment, die wir guten Gewissens empfehlen können. Sie kommen ohne bedenkliche Inhaltsstoffe aus und werden nachhaltig produziert.<\/p>",
+            "url": "shopify:\/\/collections\/sonnencreme",
+            "btn_name": "Sonnencreme"
           }
         }
       },

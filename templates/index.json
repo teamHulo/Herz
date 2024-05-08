@@ -376,12 +376,23 @@
             "url": "shopify:\/\/collections\/jahreszeiten",
             "btn_name": "Jetzt entdecken"
           }
+        },
+        "item_g3hRCz": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Kleidung für heisse Tage",
+            "text": "<p>Im Sommer eignet sich langärmlige, luftige Kleidung am besten. Sie hat einen höheren UV-Schutz als eng anliegende Kleidung. Auch Materialien wie Seide, Bambus, Hanf, Leinen oder Musselin sind angenehm bei Hitze.<\/p>",
+            "url": "https:\/\/herzanherz-shop.ch\/collections\/aktuelle-kollektionen-zusammengestellt-aus-marke-und-tag-planung-hw23-24",
+            "btn_name": "Aktuelle Kollektionen"
+          }
         }
       },
       "block_order": [
         "item_xCEKRK",
         "item_4WCR8B",
-        "item_qtgAht"
+        "item_qtgAht",
+        "item_g3hRCz"
       ],
       "settings": {
       }

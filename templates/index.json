@@ -436,7 +436,6 @@
         "item_JY7qQY",
         "item_RWxmUj"
       ],
-      "disabled": true,
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Am Wasser"
@@ -529,6 +528,7 @@
         "item_DYBGiU",
         "item_PbJV4p"
       ],
+      "disabled": true,
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Barfuss-Kinderschuhe"

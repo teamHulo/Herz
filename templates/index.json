@@ -429,8 +429,53 @@
             "url": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
             "btn_name": "Zur Infoseite"
           }
+        }
+      },
+      "block_order": [
+        "item_CjqJ8J",
+        "item_JY7qQY",
+        "item_RWxmUj"
+      ],
+      "disabled": true,
+      "settings": {
+        "name": "UNSERE EMPFEHLUNGEN",
+        "title": "Am Wasser"
+      }
+    },
+    "section_our_aLKHkd": {
+      "type": "section-our",
+      "blocks": {
+        "item_VrDnVb": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
+            "title": "Erste Schühchen",
+            "text": "<p>Bei Füssen, die sich noch im Wachstum befinden, ist es besonders wichtig, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Babyschuhen berücksichtigt das. Sie sind weich, flexibel und erfüllen alle Kriterien eines Barfuss-Schuhs.<\/p>",
+            "url": "shopify:\/\/collections\/erste-schuhchen",
+            "btn_name": "Babyschuhe entdecken"
+          }
         },
-        "b36b2098-d211-431d-acd0-23649bf238c2": {
+        "item_qcaWnE": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
+            "title": "Barfuss-Übergangs-Schuhe",
+            "text": "<p>Entdecke unsere Auswahl an praktischen Alltagsschuhen für Kinder, die Komfort und natürliche Bewegungsfreiheit bieten. Wir führen klassische Modelle aus Leder, aber auch vegane Modelle. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.<\/p>",
+            "url": "shopify:\/\/collections\/halb-turnschuhe",
+            "btn_name": "Zu den Halb- & Turnschuhen"
+          }
+        },
+        "item_RKNkGi": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Schuhe-Warum.jpg",
+            "title": "Warum Barfuss-Schuhe?",
+            "text": "<p>Anders als herkömmliche Schuhe, die oft stark gepolstert und stützend sind, sind Barfuss-Schuhe darauf ausgelegt, die natürliche Bewegung der Füsse zu fördern und die Füsse so zu trainieren, wie es die Evolution vorgesehen hat. Erfahre hier alles was du zum Thema wissen musst.<\/p>",
+            "url": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
+            "btn_name": "Zur Infoseite"
+          }
+        },
+        "item_z66qYR": {
           "type": "item",
           "disabled": true,
           "settings": {
@@ -441,7 +486,7 @@
             "btn_name": "Zu Disana"
           }
         },
-        "8038429f-adf3-48b3-93d2-f37c76eec66f": {
+        "item_MDJQWT": {
           "type": "item",
           "disabled": true,
           "settings": {
@@ -452,7 +497,7 @@
             "btn_name": "Warme Barfuss-Schuhe"
           }
         },
-        "0f45442c-cec0-47c4-8890-45ecdabc70da": {
+        "item_DYBGiU": {
           "type": "item",
           "disabled": true,
           "settings": {
@@ -463,7 +508,7 @@
             "btn_name": "Mützen & Stirnbänder"
           }
         },
-        "05f71cf6-7b93-47b0-b56f-f77333c12898": {
+        "item_PbJV4p": {
           "type": "item",
           "disabled": true,
           "settings": {
@@ -476,13 +521,13 @@
         }
       },
       "block_order": [
-        "item_CjqJ8J",
-        "item_JY7qQY",
-        "item_RWxmUj",
-        "b36b2098-d211-431d-acd0-23649bf238c2",
-        "8038429f-adf3-48b3-93d2-f37c76eec66f",
-        "0f45442c-cec0-47c4-8890-45ecdabc70da",
-        "05f71cf6-7b93-47b0-b56f-f77333c12898"
+        "item_VrDnVb",
+        "item_qcaWnE",
+        "item_RKNkGi",
+        "item_z66qYR",
+        "item_MDJQWT",
+        "item_DYBGiU",
+        "item_PbJV4p"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
@@ -610,6 +655,7 @@
     "section_full_image_EqfEhU",
     "section_slider_ennB3g",
     "3042eba3-91b9-4a6e-9e08-4e8237a86bf5",
+    "section_our_aLKHkd",
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba",
     "9c9bf7b0-233a-4e77-bba3-785994bab770",
     "87ca8f06-a903-47e5-8e13-7b5d55ff9427",

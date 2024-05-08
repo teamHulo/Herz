@@ -357,6 +357,16 @@
             "btn_name": "Aktuelle Kollektionen"
           }
         },
+        "item_EVEypg": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Section-Slider_Sommer-Sonne-Kind-Schlafen.jpg",
+            "title": "Schlafen bei Hitze",
+            "text": "<p>Im Rahmen der SIDS-Prophylaxe wird ein kühler Schlafplatz empfohlen. Achte daher auf temperaturausgleichende Strampler und beispielsweise einen leichten Sommer-Schlafsack aus Musselin.<\/p>",
+            "url": "shopify:\/\/collections\/schlafsacke",
+            "btn_name": "Schlafsäcke entdecken"
+          }
+        },
         "item_qgKpyG": {
           "type": "item",
           "settings": {
@@ -380,6 +390,7 @@
       },
       "block_order": [
         "item_g3hRCz",
+        "item_EVEypg",
         "item_qgKpyG",
         "item_wD89en"
       ],

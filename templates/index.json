@@ -424,10 +424,10 @@
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Schuhe-Warum.jpg",
-            "title": "Warum Barfuss-Schuhe?",
-            "text": "<p>Anders als herkömmliche Schuhe, die oft stark gepolstert und stützend sind, sind Barfuss-Schuhe darauf ausgelegt, die natürliche Bewegung der Füsse zu fördern und die Füsse so zu trainieren, wie es die Evolution vorgesehen hat. Erfahre hier alles was du zum Thema wissen musst.<\/p>",
-            "url": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
-            "btn_name": "Zur Infoseite"
+            "title": "Wasserspielzeug",
+            "text": "<p>Hast du gewusst, dass Badespielzeug aus Plastik kleine Mikroplatstik-Partikel ins Wasser abgibt? Mit unserem Badespielzeug aus Naturkautschuk oder Silikon lässt sich das vermeiden. Und das Spielen macht genauso viel Spass!<\/p>",
+            "url": "shopify:\/\/collections\/wasser-badespielzeug",
+            "btn_name": "Zum Badespielzeug"
           }
         }
       },

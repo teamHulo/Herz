@@ -359,7 +359,6 @@
         },
         "item_qgKpyG": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Stillen.jpg",
             "title": "Stillen bei Hitze",
@@ -367,11 +366,21 @@
             "url": "shopify:\/\/collections\/umstands-stillmode",
             "btn_name": "Zur Stillmode"
           }
+        },
+        "item_wD89en": {
+          "type": "item",
+          "settings": {
+            "title": "Wickeln bei Hitze",
+            "text": "<p>Stoffwindeln haben viele Vorteile und ein grosser Vorteil im Sommer ist die optimale Regulation der Temperatur im Innern. Sie werden nicht so schnell warm oder schwitzig und sie sind luftdurchlässiger als Wegwerfwindeln.<\/p>",
+            "url": "shopify:\/\/collections\/stoffwindeln",
+            "btn_name": "Stoffwindeln entdecken"
+          }
         }
       },
       "block_order": [
         "item_g3hRCz",
-        "item_qgKpyG"
+        "item_qgKpyG",
+        "item_wD89en"
       ],
       "settings": {
       }

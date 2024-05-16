@@ -14,7 +14,6 @@
         },
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Herzlich Willkommen bei ❤️ an ❤️",
             "link": ""
@@ -33,6 +32,7 @@
         "announcement-bar-0",
         "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
         "show_line_separator": true,

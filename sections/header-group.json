@@ -5,18 +5,18 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_9kMrpi": {
-          "type": "announcement",
-          "settings": {
-            "text": "Babywearing Week: Bis am 12. Mai gibts Rabatt auf alles in der Kategorie Tragen!",
-            "link": "shopify:\/\/collections\/tragen"
-          }
-        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
             "text": "Herzlich Willkommen bei ❤️ an ❤️",
             "link": ""
+          }
+        },
+        "announcement_9kMrpi": {
+          "type": "announcement",
+          "settings": {
+            "text": "Babywearing Week: Bis am 12. Mai gibts Rabatt auf alles in der Kategorie Tragen!",
+            "link": "shopify:\/\/collections\/tragen"
           }
         },
         "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c": {
@@ -28,8 +28,8 @@
         }
       },
       "block_order": [
-        "announcement_9kMrpi",
         "announcement-bar-0",
+        "announcement_9kMrpi",
         "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c"
       ],
       "disabled": true,

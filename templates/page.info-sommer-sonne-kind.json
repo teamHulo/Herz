@@ -61,14 +61,14 @@
         "text_aLkiAA": {
           "type": "text",
           "settings": {
-            "text": "<h4>Kostenloser Infoevent: Baby im Sommer<\/h4><p>Was ziehe ich dem Kind an bei sonnigem Wetter? Soll man schon Sonnencreme verwenden, und wenn ja, welche eignet sich? Darf das Baby ins Tragetuch, wenn es so heiss ist? Und wie sieht es bei Hitze mit dem Babyschlaf aus? Diese und weitere Fragen beantworten wir an unserem kostenlosen Infoevent am 1. Juni 2024 bei uns im Herz an Herz Winterthur.<\/p>",
+            "text": "<h4>Kostenloser Infoevent: Baby im Sommer<\/h4><p>Was ziehe ich dem Kind an bei sonnigem Wetter? Soll man schon Sonnencreme verwenden, und wenn ja, welche eignet sich? Darf das Baby ins Tragetuch, wenn es so heiss ist? Und wie sieht es bei Hitze mit dem Babyschlaf aus? Diese und weitere Fragen beantworten wir an unserem kostenlosen Infoevent am <strong>1. Juni 2024<\/strong> bei uns im Herz an Herz Winterthur.<\/p>",
             "text_style": "body"
           }
         },
         "button_BVdaaY": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Zur Anmeldung",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -81,7 +81,7 @@
       ],
       "settings": {
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",

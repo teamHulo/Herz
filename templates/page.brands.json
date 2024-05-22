@@ -851,6 +851,15 @@
             "url": ""
           }
         },
+        "brand_dpA4ta": {
+          "type": "brand",
+          "settings": {
+            "title": "Period",
+            "text": "<p>Céline litt seit Jahren unter starken Menstruationsbeschwerden und fand auf dem Markt kein Mittel, das ihr helfen konnte. Sie machte sich selbst an die Arbeit und entwickelte neuartige Rezepturen, die bei ihr Wirkung zeigten. Freundinnen ging es genauso. Und Freundinnen von Freundinnen ebenso. So entstand PERIOD.<\/p><p>Der weibliche Zyklus ist ein Wunder der Natur. Deshalb hat er mehr Aufmerksamkeit und einen offeneren Umgang verdient. Period klärt auf, bricht Tabus und arbeitet mit viel Freude daran, die Menstruation in den Mainstream zu bringen.<br\/><br\/><\/p>",
+            "url": "",
+            "logo": "shopify:\/\/shop_images\/Period.png"
+          }
+        },
         "a7a35798-82e6-490b-b393-190f666cefbd": {
           "type": "brand",
           "settings": {
@@ -970,6 +979,7 @@
         "96fd7ffa-ba5d-4d81-b8d8-b7248b442032",
         "58da63e4-dc72-4529-817f-66209cf08b5a",
         "3b9d7077-1f2b-4e80-bfd2-f99062085df0",
+        "brand_dpA4ta",
         "a7a35798-82e6-490b-b393-190f666cefbd",
         "b810120f-4b48-4a68-9405-c0434710bcea",
         "de03a7ff-25aa-4864-b98f-7bae20d92a0a",

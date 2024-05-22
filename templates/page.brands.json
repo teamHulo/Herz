@@ -140,6 +140,15 @@
             "url": ""
           }
         },
+        "brand_AkymrM": {
+          "type": "brand",
+          "settings": {
+            "title": "Cloby",
+            "text": "<p>Cloby steht für qualitativ hochwertige Produkte, hergestellt aus nachhaltigen Materialien und auch nachhaltig in ihrer Verwendung.<\/p><p>Um das Leben unterwegs mit den Kleinen ein wenig zu erleichtern. Egal wie groß oder klein das Abenteuer ist, denn ein Spaziergang um den Block kann bereits eine große Herausforderung sein.<\/p>",
+            "url": "",
+            "logo": "shopify:\/\/shop_images\/Cloby.jpg"
+          }
+        },
         "a5aba5bc-8529-4823-9b13-c4a2a9eb67bf": {
           "type": "brand",
           "settings": {
@@ -227,15 +236,6 @@
             "text": "<p>Droomdeurtjes ist die Marke von Margreet & Sonja, zwei kreativen Frauen, die diese Welt ein bisschen schöner machen wollen. Ihrer Meinung nach verbringen Kinder zu viel Zeit hinter ihren Tablets oder vor dem Fernseher. Es geht viel Fantasie verloren, die sie gerne wieder in den Alltag der Kinder bringen möchten. <\/p><p>Die Traumtür lädt Kinder dazu ein, ihre Fantasie kreativ zu nutzen und einen sicheren Ort zu schaffen, an dem Feen, Wichtel und Drachen zu Besuch kommen und mit ihnen sympathisieren. Indem Kinder Notizen und\/oder Zeichnungen im Briefkasten hinterlassen, lernen sie, ihre Gedanken und Sorgen mitzuteilen. Etwas, das für mehr Interaktion zwischen Kindern und Erwachsenen sorgt und zu einem tieferen Kontakt führen kann. <\/p><p>Was als Idee begann, hat sich zu einem ausgereiften Konzept entwickelt, das auch in den Niederlanden und Belgien einzigartig ist. Von der Türklinke bis zur Corporate Identity haben wird bei Droomdeurtjes alles sehr persönlich und unabhängig gestaltet.<\/p>",
             "url": ""
           }
-        },
-        "brand_AkymrM": {
-          "type": "brand",
-          "settings": {
-            "title": "Cloby",
-            "text": "<p>Cloby steht für qualitativ hochwertige Produkte, hergestellt aus nachhaltigen Materialien und auch nachhaltig in ihrer Verwendung.<\/p><p>Um das Leben unterwegs mit den Kleinen ein wenig zu erleichtern. Egal wie groß oder klein das Abenteuer ist, denn ein Spaziergang um den Block kann bereits eine große Herausforderung sein.<\/p>",
-            "url": "",
-            "logo": "shopify:\/\/shop_images\/Cloby.jpg"
-          }
         }
       },
       "block_order": [
@@ -255,6 +255,7 @@
         "f038536d-33ed-4b4c-b3e8-9bee36a3e280",
         "250a15f5-3be3-4dc8-a19f-758b519734bf",
         "6ce449a0-ebc2-4842-8232-2f3dfb5a8616",
+        "brand_AkymrM",
         "a5aba5bc-8529-4823-9b13-c4a2a9eb67bf",
         "04c3acab-0f14-4da3-8073-3c1ccb0202c2",
         "932d7fc6-feec-4def-8a63-76acdb33a83f",
@@ -265,8 +266,7 @@
         "c5df051b-0844-4ffd-ad29-aeb6ea4d3163",
         "d0b66cd6-d113-439e-a9c9-8198d760918b",
         "914fce0d-c5ce-443e-a2fb-b24d2b5005f4",
-        "21941103-2df5-4a22-9a18-0c92bffd4be9",
-        "brand_AkymrM"
+        "21941103-2df5-4a22-9a18-0c92bffd4be9"
       ],
       "settings": {
         "padding_top": 60,

@@ -80,16 +80,17 @@
         "button_BVdaaY"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/infobild-stillen-sommer2.jpg",
+        "height": "small",
         "desktop_image_width": "small",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 28,
         "padding_bottom": 36
       }
     },

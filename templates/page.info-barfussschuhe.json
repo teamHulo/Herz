@@ -68,8 +68,8 @@
         "button_43W7qz": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Zur Anmeldung",
+            "button_link": "https:\/\/www.herzanherz.ch\/kurse\/glueckliche-kinderfuesse\/",
             "button_style_secondary": false
           }
         }

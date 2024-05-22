@@ -1143,6 +1143,14 @@
             "text": "<p>Wetterpelle fertigt Schlupfsäcke, welche für Kinder in Kinderwagen, Lastenrädern & Fahrradanhängern aller Art konzipiert worden sind.<\/p><p>Die verwendeten Materialien sind von der Wolle, bis hin zum Garn recycelt, nachhaltig & langlebig. Die Wolle, oder auch die \"Higthtechfaser der Natur\" stammt von bedrohten Landschafrassen aus Deutschland, welche durch mutige & innovative Menschen, wie Marco Scheel, wieder eine Bedeutung\/Aufgabe erhalten. Die Schurwolle wird in vielen kleinen Schritten verarbeitet- jedoch ganz bewusst nicht gefärbt! <\/p><p>Wetterpelle produziert aus Überzeugung mit regionalen Partnern aus Rostock, Mecklenburg-Vorpommern & Deutschland.<\/p>",
             "url": ""
           }
+        },
+        "brand_idaBmX": {
+          "type": "brand",
+          "settings": {
+            "title": "Zeazoo",
+            "text": "",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -1164,7 +1172,8 @@
         "d13b9b52-ca5f-4d37-a971-d37f2d8d47c2",
         "6e3b4189-fd4a-4d3f-b51b-4c5fcd73abc5",
         "f545a1d4-ceac-4b0a-956b-08fee18c442b",
-        "ab37ac83-b11b-46cf-a37f-9266b4bcf774"
+        "ab37ac83-b11b-46cf-a37f-9266b4bcf774",
+        "brand_idaBmX"
       ],
       "settings": {
         "padding_top": 60,

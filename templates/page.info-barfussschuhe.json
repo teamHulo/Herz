@@ -48,6 +48,51 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_mzNVCL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_RAfeqp": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_bkxyGb": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Vortrag: Glückliche Kinderfüsse<\/h4><p>Im kompakten Vortrag \"Glückliche Kinderfüsse\" vermittelt Roman Gull spannendes Wissen über die Fussentwicklung, Vor- & Nachteile von Schuhen, wie der passende Schuh und die richtige Grösse gefunden werden und vieles mehr. Roman Gull setzt sich als Barfuss-Coach für gesunde und schmerzfreie Füsse ein, denn er weiss, dass eine gute Fussgesundheit positive Auswirkungen auf die Gesundheit des ganzen Körpers und Geistes haben.<br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_43W7qz": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_RAfeqp",
+        "text_bkxyGb",
+        "button_43W7qz"
+      ],
+      "settings": {
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0": {
       "type": "rich-text",
       "blocks": {
@@ -261,6 +306,7 @@
     "main",
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
+    "image_with_text_mzNVCL",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
     "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",

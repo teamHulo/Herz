@@ -68,8 +68,8 @@
         "button_BVdaaY": {
           "type": "button",
           "settings": {
-            "button_label": "Zur Anmeldung",
-            "button_link": "",
+            "button_label": "Zur Anmeldung (& zum Gewinnspiel)",
+            "button_link": "https:\/\/www.herzanherz.ch\/events-aktionen\/grosses-sommer-gewinnspiel\/",
             "button_style_secondary": false
           }
         }

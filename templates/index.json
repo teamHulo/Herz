@@ -53,6 +53,7 @@
         },
         "item_Jc9eFD": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify:\/\/shop_images\/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
             "img2": "shopify:\/\/shop_images\/info-erkaeltung-kind_Klein.jpg",

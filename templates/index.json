@@ -3,19 +3,6 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "item_bXAUbb": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify:\/\/shop_images\/infobild-tragen-sommer-papa.jpg",
-            "img2": "shopify:\/\/shop_images\/Bildschirmfoto_2024-05-04_um_10.52.25.jpg",
-            "img3": "shopify:\/\/shop_images\/ebw-2024-logo-german_orig.png",
-            "title": "Babywearing Week 2024",
-            "text": "<p>Wir feiern die <em>European Babywearing Week<\/em> und schenken dir bis am Sonntag 12. Mai <strong>10% Rabatt <\/strong>auf alles in der <strong>Kategorie Tragen<\/strong>. Du fragst dich, was es mit dem Tragen auf sich hat? Auf unserer Wissensseite erfährst du es.<\/p>",
-            "url": "shopify:\/\/collections\/tragen",
-            "btn_name": "Jetzt profitieren"
-          }
-        },
         "item_wxaVcg": {
           "type": "item",
           "settings": {
@@ -80,13 +67,13 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Bild_oben.jpg",
-            "img2": "shopify:\/\/shop_images\/Bild_mitte.jpg",
-            "img3": "shopify:\/\/shop_images\/Bild_unten.jpg",
-            "title": "Stoffwindelwoche: Wir sind dabei!",
-            "text": "<p>Wir feiern die Stoffwindelwoche mit einem Geschenk für dich! Du erhältst <strong>10% Rabatt <\/strong>auf alles in der <strong>Kategorie Wickeln. <\/strong>Du sparst auf Stoffwindeln, Windelfrei- & Trockenwerden-Produkte und alles Zubehör. Die Aktion dauert bis 28.4.2024.<\/p>",
-            "url": "shopify:\/\/collections\/wickeln",
-            "btn_name": "Jetzt profitieren"
+            "img1": "shopify:\/\/shop_images\/oben.jpg",
+            "img2": "shopify:\/\/shop_images\/Mitte.jpg",
+            "img3": "shopify:\/\/shop_images\/unten.jpg",
+            "title": "Das brauchst du für den Sommer",
+            "text": "<p>Babys und Kleinkinde reagieren empfindlich auf Sonnenstrahlen. Deshalb ist ein guter UV-Schutz besonders wichtig. UV-Decken für Tragehilfen und Kinderwagen, sowie speziell, dicht gewebte Kleidung schützen optimal. Ein guter Sonnenhut und je nach Bedarf Sonnencreme gehören zum optimalen Sonnenschutz dazu. So kann der Sommer kommen!<\/p>",
+            "url": "shopify:\/\/collections\/fruhling-sommer",
+            "btn_name": "Jetzt entdecken"
           }
         },
         "beb1387a-20df-4238-a01b-69c08fe7ba72": {
@@ -142,7 +129,6 @@
         }
       },
       "block_order": [
-        "item_bXAUbb",
         "item_wxaVcg",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_WxFtCe",

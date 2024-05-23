@@ -15,6 +15,18 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_8xqrhQ": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Unten_2.jpg",
+            "img2": "shopify:\/\/shop_images\/Mitte_2.jpg",
+            "img3": "shopify:\/\/shop_images\/oben_2.jpg",
+            "title": "Kinderbademode: Stilvoll, schützend für spassige Tage",
+            "text": "<p>Wenn ihr mit eurem Kind einen Ausflug zum Strand oder ins Schwimmbad planst, ist die passende Ausrüstung ein Muss. Beim Kauf von Kinderbademode sollte der UV-Schutz eine wichtige Rolle spielen.<\/p>",
+            "url": "shopify:\/\/collections\/uv-bademode",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_wxaVcg": {
           "type": "item",
           "settings": {
@@ -130,6 +142,7 @@
       },
       "block_order": [
         "item_c8wF6m",
+        "item_8xqrhQ",
         "item_wxaVcg",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_WxFtCe",

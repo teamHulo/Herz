@@ -529,7 +529,8 @@
         "best_selling": "Beliebteste",
         "price_ascending": "Niedrigster Preis",
         "price_descending": "Höchster Preis",
-        "date_descending": "New In"
+        "date_descending": "New In",
+        "manual": "Sortieren"
       }
     }
   }

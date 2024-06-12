@@ -2716,11 +2716,3 @@ header-menu .mega-menu summary svg {
   width: auto !important;
 }
 
-@media (max-width: 767px) {
-.top-bar__section-wrapper.top-bar.sm-hide.js-top-bar {
-    display: block !important;
-}
-.top-bar__section-wrapper .block-one--false.block-two--true .top-bar__three {
-grid-column: auto/span 12 !important;
-}
-}

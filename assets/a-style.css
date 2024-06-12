@@ -2715,4 +2715,8 @@ header-menu .mega-menu summary svg {
   height: 100vh !important;
   width: auto !important;
 }
-
+@media screen and (max-width: 568px) {
+ .announcement-bar {
+  display:block !important;
+ }
+}

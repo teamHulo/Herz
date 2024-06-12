@@ -287,8 +287,7 @@
   }
 
   .card-wrapper:hover .media.media--hover-effect>img:first-child:not(:only-child) {
-    opacity: 0;
-    display: none;
+    opacity: 1;
   }
 
   .card-wrapper:hover .media.media--hover-effect>img+img {

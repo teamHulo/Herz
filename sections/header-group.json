@@ -34,7 +34,7 @@
         "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c"
       ],
       "custom_css": [
-        "@media (max-width:768px) {.announcement-bar {display: block !important;}}"
+        "@media (max-width: 768px) {.announcement-bar {display: block !important; }}"
       ],
       "settings": {
         "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
@@ -210,6 +210,9 @@
         "image_DLbAqM",
         "image_zDcERJ",
         "mobile_menu_x8LVG3"
+      ],
+      "custom_css": [
+        "@media (max-width:768px) {.announcement-bar {display: block !important;}}"
       ],
       "settings": {
         "logo_position": "top-center",

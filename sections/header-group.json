@@ -33,6 +33,9 @@
         "announcement_9kMrpi",
         "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c"
       ],
+      "custom_css": [
+        "@media (max-width:768px) {.announcement-bar {display: block !important;}}"
+      ],
       "settings": {
         "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
         "show_line_separator": true,

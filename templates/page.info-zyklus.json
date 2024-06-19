@@ -294,33 +294,24 @@
         "text_7kPkK3": {
           "type": "text",
           "settings": {
-            "text": "<h2>Rouge Drink<\/h2><p>Das perfekte Getränk für deine Menstruations-Zeit! Er enthält natürliche Pflanzenextrakte, Mineralien und Vitamine und ist speziell auf die körperlichen Bedürfnisse während der Periode abgestimmt. Wir sind begeistert. <\/p>",
+            "text": "<h2>Rouge Drink<\/h2><p>Das perfekte Getränk für deine Menstruations-Zeit! Er enthält natürliche Pflanzenextrakte, Mineralien und Vitamine und ist speziell auf die körperlichen Bedürfnisse während der Periode abgestimmt. Wir sind begeistert.<\/p>",
             "text_style": "body"
-          }
-        },
-        "button_cQkkdt": {
-          "type": "button",
-          "settings": {
-            "button_label": "Perioden-Unterwäsche",
-            "button_link": "shopify:\/\/collections\/mensunterwasche",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_3ma4KD",
-        "text_7kPkK3",
-        "button_cQkkdt"
+        "text_7kPkK3"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Infobild-Zyklus-Menspanty.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "inverse",
+        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,

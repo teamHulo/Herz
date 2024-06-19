@@ -85,22 +85,13 @@
         "text_3NKqfe": {
           "type": "text",
           "settings": {
-            "text": "<p>Josianne Hosner zeigt in ihrem Buch, wie du deine vier inneren Jahreszeiten nutzen kannst, um dein Leben selbstbestimmt zu gestalten. Damit du lernst, aus dem Vollen zu schöpfen: Ein volles Herz, ein Leben voller Möglichkeiten und immer die Wahl, voll selber zu entscheiden, was dir guttut. <br\/><br\/>Dieses und weitere Bücher zum weiblichen Zyklus findest du in unserem Shop.<\/p>",
+            "text": "<p>Josianne Hosner zeigt in ihrem Buch, wie du deine vier inneren Jahreszeiten nutzen kannst, um dein Leben selbstbestimmt zu gestalten. Damit du lernst, aus dem Vollen zu schöpfen: Ein volles Herz, ein Leben voller Möglichkeiten und immer die Wahl, voll selber zu entscheiden, was dir guttut. <br\/><br\/>Dieses und weitere Bücher zum weiblichen Zyklus findest du in unserem <a href=\"https:\/\/herzanherz-shop.ch\/collections\/bucher-zum-zyklus\" target=\"_blank\" title=\"https:\/\/herzanherz-shop.ch\/collections\/bucher-zum-zyklus\">-&gt; Onlineshop &lt;-<\/a>.<\/p>",
             "text_style": "body"
-          }
-        },
-        "button_jAEwmn": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "text_3NKqfe",
-        "button_jAEwmn"
+        "text_3NKqfe"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/978-3-9525284-0-2-back-to-the-roots-zyklisch-leben-mit-immenser-freude-diverses-zyklus-198-40850-2.jpg",

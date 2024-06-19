@@ -57,20 +57,35 @@
         "padding_bottom": 36
       }
     },
+    "e8baebdb-259f-4344-ad11-8a7c98b9fdb0": {
+      "type": "rich-text",
+      "blocks": {
+        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Mondzeit - unsere verborgene Superkraft!<\/h2><h4>Du musst NICHT jeden Tag gleich funktionieren.<\/h4><p>Lange Zeit war der weibliche Zyklus etwas, von dem niemand etwas merken sollte. Die \"Tage\" galten als lästig (Kratzbürstigkeit, Übelkeit, Krämpfe und igitt das ganze Blut) und frau wollte sie möglichst rasch hinter sich bringen und wieder \"normal\" und funktionstüchtig sein.<\/p><p>Zum Glück erkennen immer mehr Frauen, dass der weibliche Zyklus sehr viel mehr zu bieten hat. Wir sind zyklische Wesen und müssen nicht jeden Tag gleich sein, gleich fühlen, gleich funktionieren. Immer gleich gibt es nicht. Jede Zyklusphase hat ihre Berechtigung und lässt andere Stärken in uns zum Vorschein kommen, die wir für uns nutzen können.<\/p><h4>Die vier Jahreszeiten<\/h4><ul><li><strong>Frühling:<\/strong> Im inneren Frühling (Phase vor dem Eisprung) blühen wir auf, sind unbeschwert, selbstbewusst, mutig und neugierig. Hier haben wir viele Ideen und sind voller Tatendrang und Energie. Wir sehen die Welt durch die rosarote Brille, alle Probleme scheinen weit weg. Diese Phase ist perfekt, um Neues zu lernen, Kontakte zu knüpfen und Spass zu haben. Und hier dürfen wir auch aufpassen, dass wir uns nicht zu viele Dinge aufhalsen.<\/li><li><strong>Sommer:<\/strong> Im inneren Sommer (Eisprung und danach) sind wir kreativ, gesellig, fühlen uns entspannt, zufrieden und wohl in unserer Haut. Das strahlen wir auch aus und alles läuft wie geschmiert, wir bekommen, was wir uns wünschen, sind besonders empfänglich für Liebe und Zuwendung und haben am meisten Lust auf Sex. Hier kümmern wir uns auch gern um andere.<\/li><li><strong>Herbst:<\/strong> Der innere Herbst (vor der Menstruation) ist unsere no-bullshit-Zeit. Wir sind emphatisch, aber auch kritisch und ehrlich mit uns selbst und der Welt. Hier wissen wir genau, was wir wollen und was nicht - können am leichtesten Entscheidungen treffen. Wir können in dieser Phase auch gut loslassen, ausmisten, aufräumen, alte Gewohnheiten ablegen. Eintönige Routinearbeiten wie z.B. Buchhaltung legen wir am besten in diese Phase. Hier dürfen wir uns besonders gut um uns kümmern und darauf achten, dass die Energie uns nicht ausgeht.<\/li><li><strong>Winter:<\/strong> Im inneren Winter (Menstruation) ziehen wir uns zurück. Hier möchten wir am liebsten viel Zeit für uns, um Pause zu machen, Kräfte zu tanken uns Gutes zu tun. Hier können wir am besten in uns hinein fühlen und reflektieren - vielleicht in einer Meditation oder wir schreiben Tagebuch. Unser Bauchgefühl weist uns den Weg. Wir lassen uns inspirieren und denken über unsere Visionen und Ziele nach.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_with_text_CPUzRM": {
       "type": "image-with-text",
       "blocks": {
-        "heading_MXdwe8": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
         "text_3NKqfe": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Josianne Hosner zeigt in ihrem Buch, wie du deine vier inneren Jahreszeiten nutzen kannst, um dein Leben selbstbestimmt zu gestalten. Damit du lernst, aus dem Vollen zu schöpfen: Ein volles Herz, ein Leben voller Möglichkeiten und immer die Wahl, voll selber zu entscheiden, was dir guttut. <br\/><br\/>Dieses und weitere Bücher zum weiblichen Zyklus findest du in unserem Shop.<\/p>",
             "text_style": "body"
           }
         },
@@ -84,34 +99,28 @@
         }
       },
       "block_order": [
-        "heading_MXdwe8",
         "text_3NKqfe",
         "button_jAEwmn"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/978-3-9525284-0-2-back-to-the-roots-zyklisch-leben-mit-immenser-freude-diverses-zyklus-198-40850-2.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "",
+        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "e8baebdb-259f-4344-ad11-8a7c98b9fdb0": {
+    "rich_text_C943Np": {
       "type": "rich-text",
       "blocks": {
-        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Mondzeit - unsere verborgene Superkraft!<\/h2><h4>Du musst NICHT jeden Tag gleich funktionieren.<\/h4><p>Lange Zeit war der weibliche Zyklus etwas, von dem niemand etwas merken sollte. Die \"Tage\" galten als lästig (Kratzbürstigkeit, Übelkeit, Krämpfe und igitt das ganze Blut) und frau wollte sie möglichst rasch hinter sich bringen und wieder \"normal\" und funktionstüchtig sein.<\/p><p>Zum Glück erkennen immer mehr Frauen, dass der weibliche Zyklus sehr viel mehr zu bieten hat. Wir sind zyklische Wesen und müssen nicht jeden Tag gleich sein, gleich fühlen, gleich funktionieren. Immer gleich gibt es nicht. Jede Zyklusphase hat ihre Berechtigung und lässt andere Stärken in uns zum Vorschein kommen, die wir für uns nutzen können.<\/p><h4>Die vier Jahreszeiten<\/h4><ul><li><strong>Frühling:<\/strong> Im inneren Frühling (Phase vor dem Eisprung) blühen wir auf, sind unbeschwert, selbstbewusst, mutig und neugierig. Hier haben wir viele Ideen und sind voller Tatendrang und Energie. Wir sehen die Welt durch die rosarote Brille, alle Probleme scheinen weit weg. Diese Phase ist perfekt, um Neues zu lernen, Kontakte zu knüpfen und Spass zu haben. Und hier dürfen wir auch aufpassen, dass wir uns nicht zu viele Dinge aufhalsen.<\/li><li><strong>Sommer:<\/strong> Im inneren Sommer (Eisprung und danach) sind wir kreativ, gesellig, fühlen uns entspannt, zufrieden und wohl in unserer Haut. Das strahlen wir auch aus und alles läuft wie geschmiert, wir bekommen, was wir uns wünschen, sind besonders empfänglich für Liebe und Zuwendung und haben am meisten Lust auf Sex. Hier kümmern wir uns auch gern um andere.<\/li><li><strong>Herbst:<\/strong> Der innere Herbst (vor der Menstruation) ist unsere no-bullshit-Zeit. Wir sind emphatisch, aber auch kritisch und ehrlich mit uns selbst und der Welt. Hier wissen wir genau, was wir wollen und was nicht - können am leichtesten Entscheidungen treffen. Wir können in dieser Phase auch gut loslassen, ausmisten, aufräumen, alte Gewohnheiten ablegen. Eintönige Routinearbeiten wie z.B. Buchhaltung legen wir am besten in diese Phase. Hier dürfen wir uns besonders gut um uns kümmern und darauf achten, dass die Energie uns nicht ausgeht.<\/li><li><strong>Winter:<\/strong> Im inneren Winter (Menstruation) ziehen wir uns zurück. Hier möchten wir am liebsten viel Zeit für uns, um Pause zu machen, Kräfte zu tanken uns Gutes zu tun. Hier können wir am besten in uns hinein fühlen und reflektieren - vielleicht in einer Meditation oder wir schreiben Tagebuch. Unser Bauchgefühl weist uns den Weg. Wir lassen uns inspirieren und denken über unsere Visionen und Ziele nach.<\/li><\/ul>"
-          }
-        },
-        "text_mEfifD": {
+        "text_z6Ggnt": {
           "type": "text",
           "settings": {
             "text": "<h2>Darüber reden und das Tabu brechen!<\/h2><h4>Kommen wir ins Reine mit unserem Zyklus.<\/h4><p>Es ist uns eine Herzensangelegenheit, dass wir Frauen endlich ins Reine kommen mit unserem Zyklus. Dass wir selbstbestimmt und schamfrei mit der Menstruation umgehen dürfen. Unseren Körper und unser Frausein nicht nur akzeptieren, sondern auch so richtig geniessen können!<\/p><p>Darum reden wir über den Zyklus. Und es ist uns wichtig, dass auch unsere Kinder unvoreingenommen an das Thema herangeführt werden.<\/p>"
@@ -119,8 +128,7 @@
         }
       },
       "block_order": [
-        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972",
-        "text_mEfifD"
+        "text_z6Ggnt"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -675,8 +683,9 @@
     "main",
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
-    "image_with_text_CPUzRM",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
+    "image_with_text_CPUzRM",
+    "rich_text_C943Np",
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
     "9bd6da64-741f-4778-b102-c414c3587318",
     "d9d26fc9-a25d-4077-9aad-6466edd663a3",

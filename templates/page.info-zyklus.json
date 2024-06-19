@@ -222,6 +222,52 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_CdBnqC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_nDKpB6": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_pKLFfm": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Nachhaltige Hygieneprodukte<\/h2><p>Wusstest du, dass in einer einzigen Packung konventionellen Binden das Plastik von insgesamt 4 Plastiktüten steckt? Nachhaltigkeit geht anders. Stoffbinden und Stoffslipeinlagen können über viele Jahre wiederverwendet werden. Dank atmungsaktiver Bio-Baumwolle vermeiden sie Hitzestau, Schweissbildung und lästige Geruchsbildung.<\/p><p>Auch statt Tampons gibt es nachhaltige Alternativen. Die Pontams Soft-Tampons bestehen nur aus Pflanzenmehl und Wasser. Sie sind weich, trocknen die Vagina nicht aus und können sogar das Wachstum von Bakterien und Pilzen hemmen.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_8pmRLM": {
+          "type": "button",
+          "settings": {
+            "button_label": "Menstassen & Discs",
+            "button_link": "shopify:\/\/collections\/menstassen-tampons-co",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_nDKpB6",
+        "text_pKLFfm",
+        "button_8pmRLM"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Zyklus-Menstasse.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1d8754a4-e8bf-46ea-b6d6-71564cd84808": {
       "type": "rich-text",
       "blocks": {
@@ -666,6 +712,7 @@
     "rich_text_C943Np",
     "d9d26fc9-a25d-4077-9aad-6466edd663a3",
     "image_with_text_mYtACB",
+    "image_with_text_CdBnqC",
     "1d8754a4-e8bf-46ea-b6d6-71564cd84808",
     "1e702735-a8e9-4e16-a1ce-9d5cf6f1e539",
     "1a2579ab-7795-47cb-af85-1fe6d55cc297",

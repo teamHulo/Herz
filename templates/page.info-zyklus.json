@@ -1,0 +1,642 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "16a27f16-b5b6-4838-b516-46c85c826eb0": {
+      "type": "section-about-text",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "logo": "shopify:\/\/shop_images\/Group.png",
+        "title": "Erstausstattung fürs Baby",
+        "text": "",
+        "max_width": 1050
+      }
+    },
+    "01bd0c23-c272-4bfe-9a96-88558e4ef1f1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Was braucht ein Baby wirklich?<\/h4><p>Im Internet kursieren überall Listen, was du so alles anschaffen sollst, wenn du ein Baby erwartest. Vieles davon ist allerdings ziemlich unnötig oder kann warten. Wir zeigen dir, worauf es ankommt, was du wirklich brauchst und was nicht.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e8baebdb-259f-4344-ad11-8a7c98b9fdb0": {
+      "type": "rich-text",
+      "blocks": {
+        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Was braucht dein Steinzeitbaby?<\/h2><p>Hast du dir schon einmal überlegt, für welche Art von Leben die Natur dein Baby vorbereitet hat?<\/p><p>Dein Baby ist gemacht für ein Leben draussen in der freien Natur, für eine Zeit, in der man keine Kinderwagen, Fläschchen oder Nuggis kaufen konnte. Somit ist klar: <strong>Ein Baby braucht die Mama und sonst nichts.<\/strong> Von Natur aus ist die Mama mit allem ausgestattet was das Baby braucht zum Überleben: Schutz, Wärme, Nahrung, Trost und Sicherheit. Die Mama kann mit ihrem Körper sogar die Körpertemperatur des Babys regulieren. <\/p><p>Natürlich leben wir heute nicht mehr in der Steinzeit und müssen das nicht ganz so extrem sehen. Ein kleiner Grundstock an nützlichen Dingen erleichtert den Alltag, das ist klar. Aber ob das Baby zehn perfekt gefaltete Bodys mit dazu passenden Spucktüchern im Schrank liegen hat oder einfach in ein kuschliges Tuch gewickelt wird, ist ihm völlig egal.<\/p><p>Du kannst also ganz <strong>entspannt die Ankunft deines Babys geniessen<\/strong> und es erstmal in Ruhe kennenlernen. Alles was das Baby wirklich braucht hat die Mama bereits direkt bei sich - und der Rest kann später immer noch besorgt werden. Wir zeigen dir, auf welche Dinge du gut verzichten kannst und was in der ersten Zeit mit dem Baby wirklich sinnvoll ist.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "44c01f17-18ce-4124-bc46-25f6a8583cc9": {
+      "type": "rich-text",
+      "blocks": {
+        "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Das kannst du dir sparen<\/h2><ul><li>Kinderzimmer: Das Baby braucht weder Zimmer noch eigenes Bett. Es schläft am liebsten nah bei dir. Der beste und sicherste Schlafplatz ist im Elternbett.<\/li><li>Milchpulver & Babyfläschchen: Bereite dich besser optimal aufs Stillen vor, als für den Fall dass es nicht klappt vorzusorgen. Mit dem richtigen Fachwissen und guter Unterstützung können 98% aller Frauen ihr Baby stillen.<\/li><li>Nuggi: Babys sind zum Nuckeln an der Brust gemacht. Der Nuggi ist ein Brust-Ersatz und greift in die zu Beginn noch empfindliche Stillbeziehung ein. Wenn du stillen willst, verzichte lieber darauf.<\/li><li>Kinderwagen: Ein Kinderwagen ist zwar praktisch, aber der natürliche Platz für ein Kind, das noch nicht läuft, ist am Körper eines Erwachsenen. Dort fühlt es sich wohl und sicher und seine Entwicklung (Reifung von Hüfte & Wirbelsäule, Muskeln & Motorik, Immunsystem, Kreislauf und vieles mehr) wird optimal unterstützt. Daher brauchst du zumindest zu Beginn noch keinen Kinderwagen und kannst auch später einen besorgen. Vielleicht probierst du zuerst ein Occasion-Modell aus, denn nicht alle Babys mögen es, im Kinderwagen zu liegen.<\/li><li>Wickeltisch: Ein Wickeltisch mag praktisch sein; wickeln kannst du aber auch mit einem Tuch oder einer Wickelunterlage auf dem Bett, Sofa oder Boden.<\/li><li>Babywanne: Das Baby kann genauso gut von Geburt an mit dir zusammen in der grossen Badewanne baden. Das entspannt euch beide und ist so viel schöner!<\/li><li>Pflegeprodukte: Cremes, Seifen & Badezusätze braucht es nicht. Das Wundermittel Muttermilch toppt jedes käufliche Produkt und ist vielseitig einsetzbar.<\/li><li>Kuscheltiere: Die können ganz nützlich sein, sobald das Kind beginnt, sich von der Mutter zu lösen. Aber ein kleines Baby braucht noch keinen Mutterersatz.<\/li><\/ul>"
+          }
+        },
+        "8aa4bfdf-a799-463e-a251-3a0ff167620a": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5",
+        "8aa4bfdf-a799-463e-a251-3a0ff167620a"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "9bd6da64-741f-4778-b102-c414c3587318": {
+      "type": "rich-text",
+      "blocks": {
+        "70218380-5e6d-45e8-8037-a035266de833": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Das ist ganz nützlich<\/h2><p><\/p>"
+          }
+        },
+        "33438ce5-47f1-4bc4-811e-9b5c8503c4f7": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "70218380-5e6d-45e8-8037-a035266de833",
+        "33438ce5-47f1-4bc4-811e-9b5c8503c4f7"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "d9d26fc9-a25d-4077-9aad-6466edd663a3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Zum Anziehen<\/h2><p>Wir empfehlen Kleidung aus Wolle oder Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Wolle wärmt zudem auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-heading-1",
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Kleidung.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1d8754a4-e8bf-46ea-b6d6-71564cd84808": {
+      "type": "rich-text",
+      "blocks": {
+        "d7180982-7e4e-4b44-af05-13b28becc12b": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Bodys: <\/strong>4-5 langärmlige Wolle-Seide <a href=\"\/collections\/body-langarm\" target=\"_blank\" title=\"Body langarm\">Bodys<\/a> reichen oft als Grundausrüstung aus.<\/p><p><strong>Hosen:<\/strong> 2 bequeme Wolle-Seide <a href=\"\/collections\/hosen-leggings\" target=\"_blank\" title=\"Hosen & Leggings\">Hosen oder Leggings<\/a>. (Etwas weitere Pumphöschen passen auch gut über Stoffwindelpopos.)<\/p><p><strong>Jäckchen \/ Wollpullover:<\/strong> Ein warmer <a href=\"\/collections\/pullover\" target=\"_blank\" title=\"Pullover\">Pulli<\/a> oder ein leichtes <a href=\"\/collections\/leichte-jacken\" target=\"_blank\" title=\"Leichte Jacken\">Jäckchen<\/a> als Obterteil für drüber wenn es kühler ist<\/p><p><strong>Socken:<\/strong> <a href=\"\/collections\/socken\" target=\"_blank\" title=\"Socken\">Wollsocken<\/a> und für draussen Woll-<a href=\"\/collections\/fusslinge\" target=\"_blank\" title=\"Füsslinge\">Füsslinge<\/a> - am besten Kniehohe, die die Beine gleich mit schützen.<\/p><p><strong>Mütze:<\/strong> Im Sommer ein Sonnenhut mit breiter Krempe, im Winter eine Wollschlupfmütze und in der Übergangszeit eine <a href=\"\/collections\/leichte-mutzen\" target=\"_blank\" title=\"Leichte Mützen\">leichte Wolle-Seide<\/a> Mütze.<\/p>"
+          }
+        },
+        "317b948b-995d-4ef3-9d10-b6b312b8b161": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "d7180982-7e4e-4b44-af05-13b28becc12b",
+        "317b948b-995d-4ef3-9d10-b6b312b8b161"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1e702735-a8e9-4e16-a1ce-9d5cf6f1e539": {
+      "type": "image-with-text",
+      "blocks": {
+        "80887c8f-94a0-494d-a6e0-a1f8c78aacad": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "f66db330-3e7b-4dd3-a3eb-a5cc5761b79c": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Zum Schlafen<\/h2><p>Der Schlafplatz des Babys sollte kühl sein. Damit das Baby trotzdem warm hat, empfehlen wir flexible Schichten aus Wolle oder Wolle-Seide. Dazu gehört insbesondere ein passender Schlafsack.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "084b1f9b-7279-4060-994e-722e018d02b8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Produkte für Babyschlaf",
+            "button_link": "shopify:\/\/collections\/schlafen",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "80887c8f-94a0-494d-a6e0-a1f8c78aacad",
+        "f66db330-3e7b-4dd3-a3eb-a5cc5761b79c",
+        "084b1f9b-7279-4060-994e-722e018d02b8"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Schlafen.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1a2579ab-7795-47cb-af85-1fe6d55cc297": {
+      "type": "rich-text",
+      "blocks": {
+        "aac0544a-10db-4278-8186-ce39f0cee5f4": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Schlafstrampler: <\/strong>1-2 <a href=\"\/collections\/schlafstrampler\" target=\"_blank\" title=\"Schlafstrampler\">Strampler<\/a> aus Wolle-Seide eignen sich bestens als Pyjama für Babys.<\/p><p><strong>Schlafsack:<\/strong> Babys gehören nicht unter dicke Decken, daher ist ein <a href=\"\/collections\/schlafsacke\" target=\"_blank\" title=\"Schlafsäcke\">Schlafsack<\/a> sehr praktisch. Es gibt dünne für den Sommer und schön ausgleichende aus Wolle für die anderen Jahreszeiten.<\/p><p><strong>Dünne Baby-Wolldecke:<\/strong> Für flexible Wärme zuhause oder unterwegs.<\/p><p><strong>Lagerungskissen:<\/strong> Bette damit dein Baby in eine bequeme Position. Viele<br\/>Babys schlafen z.B. in der Seitenlage besser, was dir ruhigere Nächte beschert. Ein <a href=\"\/collections\/still-lagerungskissen\" target=\"_blank\" title=\"Still- & Lagerungskissen\">Lagerungskissen<\/a> ist etwas kleiner als ein Stillkissen und extra für diese Zweck gemacht.<\/p><p><strong>Nachtlicht:<\/strong> Ein gedämpftes gelbes oder rotes Nachtlicht (z.B. Salzkristall oder ähnliches) ist praktisch fürs nächtliche Stillen, denn es macht im Gegensatz zum blauen oder weissen Licht nicht wach - so dass ihr rasch wieder schlaft.<\/p>"
+          }
+        },
+        "6c41a413-3b26-4076-b21a-53bf3df060de": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "aac0544a-10db-4278-8186-ce39f0cee5f4",
+        "6c41a413-3b26-4076-b21a-53bf3df060de"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "41308713-a845-4443-a06a-516e1ccf1929": {
+      "type": "image-with-text",
+      "blocks": {
+        "35a6fcda-0fe5-4c04-93b1-b708f610e40e": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "018f8eea-21ab-4717-8372-21f840ca8e86": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Zum Stillen<\/h2><p>Fürs Stillen brauchst du Ruhe, Entspannung und Körperkontakt mit dem Baby. Weil Stillen oft mit Herausforderungen verbunden ist, ist unsere wichtigste Empfehlung: Informiere dich gut und sorge rechtzeitig für kompetente Begleitung durch eine gut ausgebildete Stillberaterin!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "e29542a9-2fb4-499a-8286-a2f2dcc18efa": {
+          "type": "button",
+          "settings": {
+            "button_label": "Produkte fürs Stillen",
+            "button_link": "shopify:\/\/collections\/stillen",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "35a6fcda-0fe5-4c04-93b1-b708f610e40e",
+        "018f8eea-21ab-4717-8372-21f840ca8e86",
+        "e29542a9-2fb4-499a-8286-a2f2dcc18efa"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Stillen.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e3470e03-a6f3-4812-9928-86beebbcbeb3": {
+      "type": "rich-text",
+      "blocks": {
+        "ea029e96-e071-47ba-8524-8be7cf5b97cf": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Stillkissen:<\/strong> Das <a href=\"\/collections\/still-lagerungskissen\" target=\"_blank\" title=\"Still- & Lagerungskissen\">Stillkissen<\/a> ist schon in der Schwangerschaft hilfreich für eine bequeme Schlafposition. Danach erleichtert es das Stillen.<\/p><p><strong>Stilleinlagen:<\/strong> Weil Muttermilch auch mal ganz unkontrolliert auslaufen kann, brauchst du <a href=\"\/collections\/stilleinlagen\" target=\"_blank\" title=\"Stilleinlagen\">Stilleinlagen<\/a>. Wir empfehlen wegwerfbare Einlagen bis sich die Milchmenge eingependelt hat, danach eignen sich waschbare Einlagen aus Wolle-Seide oder Baumwolle.<\/p><p><strong>Still-Bekleidung:<\/strong> Für einfaches und diskretes Stillen lohnt es sich, in passende Kleidung (<a href=\"\/collections\/still-bhs\" target=\"_blank\" title=\"Still-BHs\">Still-BHs<\/a>, <a href=\"\/collections\/umstands-stilltops\" target=\"_blank\" title=\"Umstands- & Stilltops\">Still-Tops<\/a> und <a href=\"\/collections\/langarm-shirts-pullover\" target=\"_blank\" title=\"Langarm-Shirts & Pullover\">Still-Oberteile<\/a>) zu investieren. Sie lässt sich unkompliziert öffnen, ohne dass du dich entblössen musst.<\/p><p><strong>Spucktücher:<\/strong> <a href=\"\/collections\/nuschis-sabberlatzli\" target=\"_blank\" title=\"Nuschis & Sabberlätzli\">Nuschis<\/a> sind während der ganzen Babyzeit äusserst praktisch. Zu Beginn vor allem wenn die Milch (aus-)läuft oder das Baby spuckt.<\/p>"
+          }
+        },
+        "eed8a4ab-320d-4a79-bf15-c36da0f2d1d9": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "ea029e96-e071-47ba-8524-8be7cf5b97cf",
+        "eed8a4ab-320d-4a79-bf15-c36da0f2d1d9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "4003c411-e1bb-45d9-a716-852e63b472d3": {
+      "type": "image-with-text",
+      "blocks": {
+        "b7a4b135-8364-435e-9eb8-72e32ad145d9": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "3dbc00d4-d9ca-4aee-aceb-2eb5485d8f1d": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Zum Wickeln<\/h2><p>Babys kommen mit einem natürlichen Ausscheidungsbedürfnis auf die Welt. Sie geben Signale, wenn sie mal müssen, denn sie möchten sich und andere nicht beschmutzen. Unterstütze dein Baby dabei, diese Sensibilität für seine Ausscheidung beizubehalten. Abgesehen davon gibt es einige nützliche Produkte rund ums Thema Wickeln.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "bb34656f-d1bb-4771-a6af-7c6050de7a12": {
+          "type": "button",
+          "settings": {
+            "button_label": "Produkte zum Wickeln",
+            "button_link": "shopify:\/\/collections\/wickeln",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "b7a4b135-8364-435e-9eb8-72e32ad145d9",
+        "3dbc00d4-d9ca-4aee-aceb-2eb5485d8f1d",
+        "bb34656f-d1bb-4771-a6af-7c6050de7a12"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Wickeln.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3b451465-449e-483d-bb19-02954c5cdd47": {
+      "type": "rich-text",
+      "blocks": {
+        "5c3a1fd4-2a94-4ae4-be71-2b095981c5d1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Windeln:<\/strong> <a href=\"\/collections\/stoffwindeln\" target=\"_blank\" title=\"Stoffwindeln\">Stoffwindeln<\/a> (du brauchst je nach Waschfrequenz ca. 15-25 Stück) oder möglichst schadstoff-freie <a href=\"\/collections\/oko-windeln\" target=\"_blank\" title=\"Öko-Windeln\">Ökowindeln<\/a> in Neugeborenengrösse. Auch wenn du auf Babys Signale achtest und es für sein Geschäft abhältst, trägt es als Backup dennoch meist Windeln.<\/p><p><strong>Waschtüchlein:<\/strong> Waschbare Tüchlein sind die nachhaltigere Alternative zu wegwerfbaren <a href=\"\/collections\/waschlappen-feuchttucher\" target=\"_blank\" title=\"Waschlappen & Feuchttücher\">Feuchttüchern<\/a>. Du kannst sie die ganze Babyzeit über für alles mögliche verwenden.<\/p><p><strong>Asia-Töpfchen: <\/strong>Du kannst das Baby zwar einfach über dem Klo oder Lavabo abhalten, aber mit einem <a href=\"\/collections\/asia-topfchen\" target=\"_blank\" title=\"Asia-Töpfchen\">Töpfchen<\/a> kannst du auf dem Sofa sitzen und während dem Stillen abhalten oder bequemer warten, wenn es etwas dauert.<\/p><p><strong>Wickelunterlage & Wetbags:<\/strong> Ganz nützlich für das <a href=\"\/collections\/wickeln-unterwegs\" target=\"_blank\" title=\"Wickeln unterwegs\">Wickeln unterwegs<\/a> ist eine waschbare Unterlage sowie <a href=\"\/collections\/wetbags\" target=\"_blank\" title=\"Wetbags\">Wetbags<\/a> für schmutzige\/nasse Kleidung oder Stoffwindeln.<\/p><p><strong>Zweiteiliges Pyjama: <\/strong>Wenn du das Baby nachts abhalten willst oder häufig wickeln musst, ist ein zweiteiliges Pyjama oder ein Schlafsack der unten offen ist ganz praktisch. Schau dich mal bei der <a href=\"\/collections\/windelfrei-bekleidung\" target=\"_blank\" title=\"Windelfrei-Bekleidung\">Windelfrei-Bekleidung<\/a> um.<\/p>"
+          }
+        },
+        "54e5e78e-325b-47dc-b360-a2f25e7e573c": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "5c3a1fd4-2a94-4ae4-be71-2b095981c5d1",
+        "54e5e78e-325b-47dc-b360-a2f25e7e573c"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "0a492d3d-528e-48da-b010-c210886ae5e5": {
+      "type": "image-with-text",
+      "blocks": {
+        "6b338608-3b79-4f3d-9df8-d58ad2ad1f96": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "9c9a2a74-cfc0-4ba5-8974-86da4446a1f9": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Für Unterwegs<\/h2><p>Am wohlsten fühlt sich das Baby jederzeit bei dir - dort entwickelt es sich übrigens auch motorisch am besten. Daher empfehlen wir dir, statt in einen teuren Kinderwagen besser in eine gute Trageausrüstung zu investieren.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "d81a507d-bc88-408a-9a0a-46292e52759b": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zu den Tragehilfen",
+            "button_link": "shopify:\/\/collections\/tragen",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "6b338608-3b79-4f3d-9df8-d58ad2ad1f96",
+        "9c9a2a74-cfc0-4ba5-8974-86da4446a1f9",
+        "d81a507d-bc88-408a-9a0a-46292e52759b"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Unterwegs.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "67bd58e6-6e85-456a-9643-62b3fa48de08": {
+      "type": "rich-text",
+      "blocks": {
+        "b7ba1167-99d9-4391-b70c-89a9c0fd6ee2": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Tragetuch \/ Tragehilfe:<\/strong> Kleine Babys werden gerne eng eingekuschelt im <a href=\"\/collections\/tragetucher\" target=\"_blank\" title=\"Tragetücher\">Tragetuch<\/a> getragen. Auch eine gut sitzende, bequeme <a href=\"\/collections\/tragehilfen\" target=\"_blank\" title=\"Tragehilfen\">Tragehilfe<\/a> ist Gold wert! Probiere sie vor dem Kauf aus oder teste sie am besten auf einem Spaziergang mit deinem Baby, um Fehlkäufe und Frust zu vermeiden. Wir beraten dich gerne!<\/p><p><strong>Tragejacke:<\/strong> Im Herbst, Winter und Frühling lohnt sich die Anschaffung einer <a href=\"\/collections\/umstands-tragejacken\" target=\"_blank\" title=\"Umstands- & Tragejacken\">Tragejacke<\/a>, mit der du das Baby unter deiner Jacke tragen kannst - für optimalen Wärmeaustausch. Achte darauf, dass man damit auch auf dem Rücken tragen kann, idealerweise schon in der Schwangerschaft und sie auch als ganz normale Jacke brauchen kann, so hast du lange Freude dran.<\/p><p><strong>Autoschale: <\/strong>Die brauchst du, falls du ein Auto benutzt. Aufgrund der ungünstigen Haltung sollte dein Baby möglichst wenig Zeit darin verbringen.<\/p>"
+          }
+        },
+        "016eac97-8cfc-4c9d-b351-ea3acda487aa": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "b7ba1167-99d9-4391-b70c-89a9c0fd6ee2",
+        "016eac97-8cfc-4c9d-b351-ea3acda487aa"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1efb840a-c943-4be5-a1a0-7b0bb2dee097": {
+      "type": "image-with-text",
+      "blocks": {
+        "3f34c4ff-6a7d-469c-a9ca-9bb683c01813": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "bbf65985-0f6a-43b9-9e08-8cb7f2b16894": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Für die Babypflege<\/h2><p>Ein Baby wird kaum schmutzig, riecht selten schlecht und wenn es krank ist braucht es vor allem Liebe, Nähe und Begleitung. Ein Grundstock an heilkundlichen Hilfsmitteln ist aussderem hilfreich, wenn du dein Kind sanft begleiten willst.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "f2a263a6-4c58-4c17-a7cd-35c78501e97f": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zur Babypflege",
+            "button_link": "shopify:\/\/collections\/babypflege",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "3f34c4ff-6a7d-469c-a9ca-9bb683c01813",
+        "bbf65985-0f6a-43b9-9e08-8cb7f2b16894",
+        "f2a263a6-4c58-4c17-a7cd-35c78501e97f"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Pflege.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a73feb98-ca8a-45ec-a2e7-70931de32546": {
+      "type": "rich-text",
+      "blocks": {
+        "8add956e-de50-4460-89ee-d3b834815400": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Muttermilch:<\/strong> Zum Waschen, als Badezusatz und zum Eincremen kannst du Muttermilch verwenden. Ansonsten reicht in der Regel Wasser. Wenn du nicht stillst oder gerne <a href=\"\/collections\/pflegeole-balsame\" target=\"_blank\" title=\"Pflegeöle & Balsame\">Pflegeprodukte<\/a> verwenden möchtest, wähle möglichst naturreine, duftlose Pflege wie ein Mandelöl oder eine pflegende Seife ohne Duftstoffe.<\/p><p><strong>Hausapotheke: <\/strong>Natürliche Produkte wie Engelwurzbalsam, Bienenwachswickel, homöopathische Arzneien & Co unterstützen sanft bei Krankheit und regen die Selbstheilung an, was den Aufbau des Immunsystems unterstützt. Bei uns findest du eine kleine Auswahl an nützlichen Mitteln der <a href=\"\/collections\/babygesundheit\" target=\"_blank\" title=\"Babygesundheit\">Kinderheilkunde<\/a>.<\/p>"
+          }
+        },
+        "4c33efb0-17be-4c05-885b-52c91d55a4e8": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "8add956e-de50-4460-89ee-d3b834815400",
+        "4c33efb0-17be-4c05-885b-52c91d55a4e8"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16a27f16-b5b6-4838-b516-46c85c826eb0",
+    "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
+    "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
+    "44c01f17-18ce-4124-bc46-25f6a8583cc9",
+    "9bd6da64-741f-4778-b102-c414c3587318",
+    "d9d26fc9-a25d-4077-9aad-6466edd663a3",
+    "1d8754a4-e8bf-46ea-b6d6-71564cd84808",
+    "1e702735-a8e9-4e16-a1ce-9d5cf6f1e539",
+    "1a2579ab-7795-47cb-af85-1fe6d55cc297",
+    "41308713-a845-4443-a06a-516e1ccf1929",
+    "e3470e03-a6f3-4812-9928-86beebbcbeb3",
+    "4003c411-e1bb-45d9-a716-852e63b472d3",
+    "3b451465-449e-483d-bb19-02954c5cdd47",
+    "0a492d3d-528e-48da-b010-c210886ae5e5",
+    "67bd58e6-6e85-456a-9643-62b3fa48de08",
+    "1efb840a-c943-4be5-a1a0-7b0bb2dee097",
+    "a73feb98-ca8a-45ec-a2e7-70931de32546"
+  ]
+}

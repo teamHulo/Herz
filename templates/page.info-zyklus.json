@@ -43,7 +43,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung.jpg",
+        "image": "shopify:\/\/shop_images\/Infobild-Zyklus.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -63,12 +63,19 @@
         "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
           "type": "text",
           "settings": {
-            "text": "<h2>Was braucht dein Steinzeitbaby?<\/h2><h4>Mondzeit & Monatshygiene<\/h4><p>Wir möchten selbstbestimmt und schamfrei mit unserem Zyklus und der Menstruation umgehen und es ist uns wichtig, dass unsere Kinder unvoreingenommen an das Thema herangeführt werden. <br\/><br\/>Wir Frauen dürfen endlich ins Reine kommen mit unserem Zyklus. Schamfrei und selbstbestimmt mit der Menstruation umgehen. Darüber reden, das Tabu brechen und so ganz in die Selbstakzeptanz und unser gesundheitliches Wohlbefinden als Frau finden.<br\/><br\/>Hast auch du Lust auf mehr Zyklus-Wissen? Ist dir dein weiblicher Zyklus und die immense Kraft, die in ihm steckt, bewusst und nutzt du sie schon für dich? In den kommenden Tagen teilen wir mit dir unser geballtes Wissen, unsere Produkttipps und unsere persönlichen Erfahrungen. <\/p>"
+            "text": "<h2>Mondzeit - unsere verborgene Superkraft!<\/h2><h4>Das Tabu brechen<\/h4><p>Es ist uns eine Herzensangelegenheit, dass wir Frauen endlich ins Reine kommen mit unserem Zyklus. Dass wir selbstbestimmt und schamfrei mit der Menstruation umgehen dürfen. und es ist uns wichtig, dass unsere Kinder unvoreingenommen an das Thema herangeführt werden. <br\/><br\/>Wir Frauen dürfen endlich ins Reine kommen mit unserem Zyklus. Schamfrei und selbstbestimmt mit der Menstruation umgehen. Darüber reden, das Tabu brechen und so ganz in die Selbstakzeptanz und unser gesundheitliches Wohlbefinden als Frau finden.<br\/><br\/>Hast auch du Lust auf mehr Zyklus-Wissen? Ist dir dein weiblicher Zyklus und die immense Kraft, die in ihm steckt, bewusst und nutzt du sie schon für dich? In den kommenden Tagen teilen wir mit dir unser geballtes Wissen, unsere Produkttipps und unsere persönlichen Erfahrungen. <\/p>"
+          }
+        },
+        "text_mEfifD": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Darüber reden und das Tabu brechen!<\/h2><h4>Kommen wir ins Reine mit unserem Zyklus.<\/h4><p>Es ist uns eine Herzensangelegenheit, dass wir Frauen endlich ins Reine kommen mit unserem Zyklus. Dass wir selbstbestimmt und schamfrei mit der Menstruation umgehen dürfen. Unseren Körper und unser Frausein nicht nur akzeptieren, sondern auch so richtig geniessen können!<\/p><p>Darum reden wir über den Zyklus. Und es ist uns wichtig, dass auch unsere Kinder unvoreingenommen an das Thema herangeführt werden.<\/p>"
           }
         }
       },
       "block_order": [
-        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972"
+        "16dc5c7d-ef9f-451a-a8e2-f69d19bff972",
+        "text_mEfifD"
       ],
       "settings": {
         "desktop_content_position": "center",

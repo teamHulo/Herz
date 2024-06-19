@@ -167,6 +167,43 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_mYtACB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KPJmgK": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_CrpzUG": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Perioden-Unterwäsche<\/h2><p>Für maximale Sicherheit und Komfort sind Mens-Pantys eine super Wahl. Sie fassen etwa soviel wie 3 Tampons und fühlen sich trotzdem wie ganz normale Unterhosen an.<\/p><p>Viele Frauen verwenden sie in Komibination mit einer Disc oder Tasse sowie als bequeme Lösung für die Nacht. Sie eignen sich besonders gut für leichtere Tage oder auch als Backup für die freie Menstruation (= das Ablassen des Blutes direkt in die Toilette). Du kannst sie auch zu Beginn deiner Tage nutzen, wenn du noch nicht genau weisst, wann es losgeht. Und natürlich auch jederzeit sonst. Mit Blut oder ohne.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KPJmgK",
+        "text_CrpzUG"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Zyklus-Menstasse.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1d8754a4-e8bf-46ea-b6d6-71564cd84808": {
       "type": "rich-text",
       "blocks": {
@@ -610,6 +647,7 @@
     "image_with_text_CPUzRM",
     "rich_text_C943Np",
     "d9d26fc9-a25d-4077-9aad-6466edd663a3",
+    "image_with_text_mYtACB",
     "1d8754a4-e8bf-46ea-b6d6-71564cd84808",
     "1e702735-a8e9-4e16-a1ce-9d5cf6f1e539",
     "1a2579ab-7795-47cb-af85-1fe6d55cc297",

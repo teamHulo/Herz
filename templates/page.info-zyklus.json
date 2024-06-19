@@ -294,7 +294,7 @@
         "text_7kPkK3": {
           "type": "text",
           "settings": {
-            "text": "<h2>Rouge Drink<\/h2><p>Das perfekte Getränk für deine Menstruations-Zeit! Er enthält natürliche Pflanzenextrakte, Mineralien und Vitamine und ist speziell auf die körperlichen Bedürfnisse während der Periode abgestimmt. Wir sind begeistert.<\/p>",
+            "text": "<h2>Zyklus-Helferlein<\/h2><p>Das perfekte Getränk für deine Menstruations-Zeit! Er enthält natürliche Pflanzenextrakte, Mineralien und Vitamine und ist speziell auf die körperlichen Bedürfnisse während der Periode abgestimmt. Wir sind begeistert.<\/p>",
             "text_style": "body"
           }
         }
@@ -302,6 +302,80 @@
       "block_order": [
         "heading_3ma4KD",
         "text_7kPkK3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Zyklus-Menspanty.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_QP8pPy": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_cBmpxB": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_zJNwcb": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Rouge Drink<\/h2><p>Das perfekte Getränk für deine Menstruations-Zeit! Er enthält natürliche Pflanzenextrakte, Mineralien und Vitamine und ist speziell auf die körperlichen Bedürfnisse während der Periode abgestimmt. Wir sind begeistert.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cBmpxB",
+        "text_zJNwcb"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Zyklus-Menspanty.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_hkmK63": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QVMmJh": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_7GJNXe": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Rouge Drink<\/h2><p>Das perfekte Getränk für deine Menstruations-Zeit! Er enthält natürliche Pflanzenextrakte, Mineralien und Vitamine und ist speziell auf die körperlichen Bedürfnisse während der Periode abgestimmt. Wir sind begeistert.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QVMmJh",
+        "text_7GJNXe"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Infobild-Zyklus-Menspanty.jpg",
@@ -330,6 +404,8 @@
     "image_with_text_mYtACB",
     "image_with_text_CdBnqC",
     "rich_text_i8tUBx",
-    "image_with_text_c8XtPC"
+    "image_with_text_c8XtPC",
+    "image_with_text_QP8pPy",
+    "image_with_text_hkmK63"
   ]
 }

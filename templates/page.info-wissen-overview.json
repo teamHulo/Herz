@@ -459,8 +459,8 @@
         "button_qa64Xb": {
           "type": "button",
           "settings": {
-            "button_label": "Warm durch Herbst & Winter",
-            "button_link": "shopify:\/\/pages\/warm-durch-herbst-winter",
+            "button_label": "Rund um den Zyklus",
+            "button_link": "shopify:\/\/pages\/rund-um-den-zyklus",
             "button_style_secondary": false
           }
         }
@@ -470,7 +470,7 @@
         "button_qa64Xb"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
+        "image": "shopify:\/\/shop_images\/Infobild-Zyklus.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",

@@ -235,7 +235,7 @@
         "text_pKLFfm": {
           "type": "text",
           "settings": {
-            "text": "<h2>Nachhaltige Hygieneprodukte<\/h2><p>Wusstest du, dass in einer einzigen Packung mit konventionellen Binden das Plastik von insgesamt 4 Plastiktüten steckt? Nachhaltigkeit geht anders. Stoffbinden und Stoffslipeinlagen können über viele Jahre wiederverwendet werden. Dank atmungsaktiver Bio-Baumwolle vermeiden sie Hitzestau, Schweissbildung und lästige Geruchsbildung.<\/p><p>Auch für Tampons gibt es nachhaltigere und gesündere Alternativen. Die Pontams Soft-Tampons bestehen nur aus Pflanzenmehl und Wasser. Sie sind weich, trocknen die Vagina nicht aus und können sogar das Wachstum von Bakterien und Pilzen hemmen.<\/p>",
+            "text": "<h2>Nachhaltige Hygieneprodukte<\/h2><p>Wusstest du, dass in einer einzigen Packung mit konventionellen Binden das Plastik von insgesamt 4 Plastiktüten steckt? Nachhaltigkeit geht anders. Stoffbinden und Stoffslipeinlagen können über viele Jahre wiederverwendet werden. Dank atmungsaktiver Bio-Baumwolle vermeiden sie Hitzestau, Schweissbildung und lästige Geruchsbildung.<\/p><p>Auch für Tampons gibt es nachhaltigere und gesündere Alternativen. Die <a href=\"\/products\/soft-tampons-pontams\" target=\"_blank\" title=\"Soft-Tampons PONTAMS\">Pontams Soft-Tampons<\/a> bestehen nur aus Pflanzenmehl und Wasser. Sie sind weich, trocknen die Vagina nicht aus und können sogar das Wachstum von Bakterien und Pilzen hemmen.<\/p>",
             "text_style": "body"
           }
         },

@@ -297,11 +297,20 @@
             "text": "<h2>Zyklus-Helferlein<\/h2><p><strong>Rouge Drink:<\/strong> Das perfekte Getränk für deine Menstruations-Zeit! Er enthält natürliche Pflanzenextrakte, Mineralien und Vitamine und ist speziell auf die körperlichen Bedürfnisse während der Periode abgestimmt. Wir sind begeistert.<\/p><p><strong>Kruut Zyklus<\/strong>: Wildkräuterauszug aus duftenden Frauenkräuter: Lavendel, Hanfblätter, Frauenmantel und Gänsefingerkraut. Selfcare für Entspannung und Erdung.<\/p><p><strong>Period Öle:<\/strong> CBD-Mundtropfen oder Massageöle unterstützen dich mit ihrer natürlichen Kraft! Entspannend bei Krämpfen, Unruhe und PMS.<\/p><p><strong>Yoni Bliss:<\/strong> Wenn deine Yoni extra Pflege braucht, dann schwören wir auf den Yoni Bliss. Der Kräuterbalsam ist eine Umarmung aus der Natur und unterstützt liebevoll unser Wohlbefinden.<\/p>",
             "text_style": "body"
           }
+        },
+        "button_T4HFxN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zyklus Wohlbefinden",
+            "button_link": "shopify:\/\/collections\/zyklus-wohlbefinden",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "heading_3ma4KD",
-        "text_7kPkK3"
+        "text_7kPkK3",
+        "button_T4HFxN"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Zyklus_Mentruation_Rouge_Drink1_58204_2.jpg",

@@ -146,11 +146,20 @@
             "text": "<h2>Menstassen & Discs<\/h2><p>Tassen und Discs sind praktische, günstige, nachhaltige, komfortablere und gesündere Alternative zu Binden oder Tampons. Du produzierst keinen Müll, sparst Geld und kannst sie bis zu 12 Stunden am Stück tragen. Sie bewahren das Gleichgewicht in deiner Vaginalflora, trocknen nichts aus, können auch beim Schwimmen getragen werden und manche Frauen haben sogar weniger Mens-Schmerzen.<br\/><br\/>Es braucht anfangs vielleicht etwas Umgewöhnung und Übung - aber schon bald willst du nie mehr ohne!<\/p>",
             "text_style": "body"
           }
+        },
+        "button_gXQibJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Menstassen & Discs",
+            "button_link": "shopify:\/\/collections\/menstassen-tampons-co",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-heading-1",
-        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1"
+        "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1",
+        "button_gXQibJ"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Infobild-Zyklus-Menstasse.jpg",

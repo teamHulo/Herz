@@ -192,11 +192,20 @@
             "text": "<h2>Perioden-Unterwäsche<\/h2><p>Für maximale Sicherheit und Komfort sind Mens-Pantys eine super Wahl. Sie fassen etwa soviel wie 3 Tampons und fühlen sich trotzdem wie ganz normale Unterhosen an.<\/p><p>Viele Frauen verwenden sie in Komibination mit einer Disc oder Tasse sowie als bequeme Lösung für die Nacht. Sie eignen sich besonders gut für leichtere Tage oder auch als Backup für die freie Menstruation (= das Ablassen des Blutes direkt in die Toilette). Du kannst sie auch zu Beginn deiner Tage nutzen, wenn du noch nicht genau weisst, wann es losgeht. Und natürlich auch jederzeit sonst. Mit Blut oder ohne.<\/p>",
             "text_style": "body"
           }
+        },
+        "button_AQDPFC": {
+          "type": "button",
+          "settings": {
+            "button_label": "Perioden-Unterwäsche",
+            "button_link": "shopify:\/\/collections\/mensunterwasche",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "heading_KPJmgK",
-        "text_CrpzUG"
+        "text_CrpzUG",
+        "button_AQDPFC"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Infobild-Zyklus-Menspanty.jpg",

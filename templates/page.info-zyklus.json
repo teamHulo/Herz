@@ -259,6 +259,28 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_i8tUBx": {
+      "type": "rich-text",
+      "blocks": {
+        "text_RJnpBq": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Hallo Wohlgefühl!<\/h2><p>Je nach Zyklusphase und Hormonspiegel brauchen unser Körper und unsere Seele unterschiedliches, um sich wohlzufühlen. Im inneren Frühling verlassen wir gerne mal unsere Komfortzone, blühen auf und schreiten mutig durchs Leben. Im inneren Sommer fühlen wir uns wohl in unserer Haut und sind empfänglich für viiiiel Liebe und Zuwendung. Den inneren Herbst nutzen wir gerne als persönliche Qualitätskontrolle und eine geradlinige Struktur kann uns helfen. Im inneren Winter kommt dann unser wohlverdienter Rückzug. Wir brauchen eine Pause und Entschleunigung in unserem durchgetakteten Alltag. Auch die \"richtige\" Ernährung für jede Zyklusphase kann uns in unserem Wohlbefinden helfen. <br\/><br\/>Daneben gibt es noch ein paar unglaublich praktische \"Helferlein\", die wir im Team ausgiebig getestet haben und nicht mehr missen möchten:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_RJnpBq"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_with_text_c8XtPC": {
       "type": "image-with-text",
       "blocks": {
@@ -316,6 +338,7 @@
     "d9d26fc9-a25d-4077-9aad-6466edd663a3",
     "image_with_text_mYtACB",
     "image_with_text_CdBnqC",
+    "rich_text_i8tUBx",
     "image_with_text_c8XtPC"
   ]
 }

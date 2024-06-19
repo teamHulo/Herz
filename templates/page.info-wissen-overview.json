@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -437,6 +446,44 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_74aqmp": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_X6dDYE": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Rund um den Zyklus<\/h2><h4>Mondzeit & Monatshygiene<\/h4><p>Menstruation ist so viel mehr als nur Blut! Ist dir die Kraft des weiblichen Zyklus bewusst und nutzt du sie schon für dich? Wir teilen unser Wissen, unsere Empfehlungen und Tipps - so dass du dich rundum wohlfühlst als Frau an und mit deinen Tagen.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_qa64Xb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Warm durch Herbst & Winter",
+            "button_link": "shopify:\/\/pages\/warm-durch-herbst-winter",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_X6dDYE",
+        "button_qa64Xb"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_krnqdd": {
       "type": "image-with-text",
       "blocks": {
@@ -566,6 +613,7 @@
     "image_with_text_Xbnawt",
     "image_with_text_AmNqdA",
     "image_with_text_DCJwbf",
+    "image_with_text_74aqmp",
     "image_with_text_krnqdd",
     "image_with_text_Nm3mGq",
     "image_with_text_NKbETw"

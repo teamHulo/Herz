@@ -62,6 +62,7 @@
         },
         "item_qzDzgM": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify:\/\/shop_images\/Slider_unten.jpg",
             "img2": "shopify:\/\/shop_images\/Slider_Mitte_4111c781-df4f-4db5-a9a9-607fdf065162.jpg",

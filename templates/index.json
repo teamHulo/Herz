@@ -12,6 +12,18 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "item_qzDzgM": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Slider_oben.jpg",
+            "img2": "shopify:\/\/shop_images\/Slider_Mitte_4111c781-df4f-4db5-a9a9-607fdf065162.jpg",
+            "img3": "shopify:\/\/shop_images\/Slider_unten.jpg",
+            "title": "Spielzeug für Herz und Verstand",
+            "text": "<p>Träumst du von Spielzeug, das nicht nur deinem Kind Freude bereitet, sondern auch unsere Welt ein Stückchen besser macht? Unsere nachhaltigen Spielsachen sind die perfekte Wahl für bewusste Eltern, die ihren Kindern etwas wirklich Wertvolles bieten möchten. Im \"Plasticfree July\" schenken wir dir 10% auf nachhaltige Spielsachen - mit dem Code Spiel24.<\/p>",
+            "url": "shopify:\/\/collections\/nachhaltige-spielsachen",
+            "btn_name": "Jetzt profitieren"
+          }
+        },
         "item_c8wF6m": {
           "type": "item",
           "settings": {
@@ -58,19 +70,6 @@
             "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Möchtest du wissen, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind?<\/p>",
             "url": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
             "btn_name": "Mehr zum Thema erfahren"
-          }
-        },
-        "item_qzDzgM": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify:\/\/shop_images\/Slider_oben.jpg",
-            "img2": "shopify:\/\/shop_images\/Slider_Mitte_4111c781-df4f-4db5-a9a9-607fdf065162.jpg",
-            "img3": "shopify:\/\/shop_images\/Slider_unten.jpg",
-            "title": "Spielzeug für Herz und Verstand",
-            "text": "<p>Träumst du von Spielzeug, das nicht nur deinem Kind Freude bereitet, sondern auch unsere Welt ein Stückchen besser macht? Unsere nachhaltigen Spielsachen sind die perfekte Wahl für bewusste Eltern, die ihren Kindern etwas wirklich Wertvolles bieten möchten. <\/p>",
-            "url": "shopify:\/\/collections\/nachhaltige-spielsachen",
-            "btn_name": "Jetzt profitieren"
           }
         },
         "item_WxFtCe": {
@@ -163,11 +162,11 @@
         }
       },
       "block_order": [
+        "item_qzDzgM",
         "item_c8wF6m",
         "item_8xqrhQ",
         "item_wxaVcg",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
-        "item_qzDzgM",
         "item_WxFtCe",
         "item_Jc9eFD",
         "24910c9d-15a9-4196-9b65-cc074f34c723",

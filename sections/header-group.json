@@ -14,19 +14,18 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_9kMrpi": {
+          "type": "announcement",
+          "settings": {
+            "text": "☀️ Jetzt: Grosser Sommer Sale! ☀️",
+            "link": "shopify:\/\/collections\/sale"
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
             "text": "Herzlich Willkommen bei ❤️ an ❤️",
             "link": ""
-          }
-        },
-        "announcement_9kMrpi": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "☀️ Jetzt: Grosser Sommer Sale! ☀️",
-            "link": "shopify:\/\/collections\/sale"
           }
         },
         "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c": {
@@ -38,8 +37,8 @@
         }
       },
       "block_order": [
-        "announcement-bar-0",
         "announcement_9kMrpi",
+        "announcement-bar-0",
         "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c"
       ],
       "custom_css": [

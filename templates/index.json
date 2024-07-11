@@ -14,6 +14,19 @@
       "blocks": {
         "item_qzDzgM": {
           "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Prozent.png",
+            "img2": "shopify:\/\/shop_images\/Sommersale2024.jpg",
+            "img3": "shopify:\/\/shop_images\/Prozent.png",
+            "title": "Grosser Sommer SALE",
+            "text": "<p>Der Sommer steht endlich vor der Tür und in unserem Sommer Sale werfen wir für dich unsere Preise über Bord. <\/p><p>Deck dich ein für dein Sommerabenteuer: UV-Bademode, luftige Kindermode aus Naturmaterialien, Barfuss-Sandalen, Umstands- und Stillmode sowie viele Sommer-Accessoires!<\/p>",
+            "url": "shopify:\/\/collections\/sale",
+            "btn_name": "Jetzt profitieren"
+          }
+        },
+        "item_PhaUJj": {
+          "type": "item",
           "settings": {
             "img1": "shopify:\/\/shop_images\/Slider_oben.jpg",
             "img2": "shopify:\/\/shop_images\/Slider_Mitte_4111c781-df4f-4db5-a9a9-607fdf065162.jpg",
@@ -163,6 +176,7 @@
       },
       "block_order": [
         "item_qzDzgM",
+        "item_PhaUJj",
         "item_c8wF6m",
         "item_8xqrhQ",
         "item_wxaVcg",

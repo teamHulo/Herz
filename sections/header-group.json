@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_9kMrpi": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "☀️ 11. bis 14. Juli 2024: Grosser Sommer Sale! ☀️",
             "link": "shopify:\/\/collections\/sale"

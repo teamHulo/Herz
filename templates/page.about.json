@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -71,22 +80,6 @@
             "text": "Trageberaterin, Babyschlaf-Coach, Yogalehrerin und Mama"
           }
         },
-        "f9b40a2c-1360-42a4-8cac-7c832ce47bfd": {
-          "type": "person",
-          "settings": {
-            "ava": "shopify:\/\/shop_images\/Sabina.png",
-            "name": "Sabina",
-            "text": "Beraterin für Stoffwindeln & Windelfrei, Mama"
-          }
-        },
-        "d0618dc8-417f-43a1-8ed9-10cda937af57": {
-          "type": "person",
-          "settings": {
-            "ava": "shopify:\/\/shop_images\/Lina.png",
-            "name": "Lina",
-            "text": "Trageberaterin, Babyschlaf-Coach, Yogalehrerin und Mama"
-          }
-        },
         "7fdb0f6f-9e64-4aa6-afd7-1ddcf1b8c8a2": {
           "type": "person",
           "settings": {
@@ -111,8 +104,6 @@
         "a7e72277-935e-463c-97b3-335ba595dda4",
         "c23d39f7-f33f-45a0-b2e4-29b81b08d713",
         "4fa9c249-ea07-48d2-aa2a-530bfde3ace2",
-        "f9b40a2c-1360-42a4-8cac-7c832ce47bfd",
-        "d0618dc8-417f-43a1-8ed9-10cda937af57",
         "7fdb0f6f-9e64-4aa6-afd7-1ddcf1b8c8a2",
         "be9ada2e-bc4e-467d-849d-55cf5a58c64e"
       ],

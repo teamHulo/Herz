@@ -395,13 +395,24 @@
             "url": "shopify:\/\/collections\/festtagsring-zubehor",
             "btn_name": "Geburtstagsring entdecken"
           }
+        },
+        "item_R3wwin": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Geschenke-Geburt-Gutschein.jpg",
+            "title": "Gutschein",
+            "text": "<p>Die Familie soll lieber selber auswählen? Dann verschenke ganz einfach einen Herz an Herz Geschenkgutschein. Er kann im Laden oder Onlineshop eingelöst werden und ist auch für alle unsere Beratungen gültig.<\/p>",
+            "url": "shopify:\/\/collections\/gutscheine",
+            "btn_name": "Gutschein kaufen"
+          }
         }
       },
       "block_order": [
         "item_g3hRCz",
         "item_EVEypg",
         "item_qgKpyG",
-        "item_wD89en"
+        "item_wD89en",
+        "item_R3wwin"
       ],
       "settings": {
       }

@@ -369,7 +369,7 @@
         "item_EVEypg": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Section-Slider_Sommer-Sonne-Kind-Schlafen.jpg",
+            "img": "shopify:\/\/shop_images\/Infobild-Tragen-Elastisches-Tuch.jpg",
             "title": "Trageberatung",
             "text": "<p>Gerade, wenn man zum ersten Mal Eltern wird, wird man mit vielen Fragen konfrontiert - und oft mit ebensovielen Meinungen. Wir von Herz an Herz zeigen jungen Eltern, wie der natürliche Umgang mit dem Baby das Leben erleichtern kann. Verschenke eine Beratung bei unseren Fachfrauen.<\/p>",
             "url": "https:\/\/www.herzanherz.ch\/beratungen\/",
@@ -380,10 +380,10 @@
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Stillen.jpg",
-            "title": "Stillen bei Hitze",
-            "text": "<p>Stille oder füttere nach Bedarf und nicht nach der Uhr. Babys die voll gestillt werden löschen ihren Durst mit der Muttermilch und brauchen auch bei grosser Hitze kein zusätzliches Wasser. Stillen in der Öffentlichkeit wird übrigens viel einfacher und angenehmer, wenn du mit passender Still-Kleidung ausgestattet bist: BHs, Tops, Shirts und sommerlich luftige Blusen und Kleider!<\/p>",
-            "url": "shopify:\/\/collections\/umstands-stillmode",
-            "btn_name": "Zur Stillmode"
+            "title": "Erstausstattung",
+            "text": "<p>Möchtest du etwas für die Erstausstattung verschenken, dann wähle etwas, das über längere Zeit Freude macht, mit dem Baby mitwächst und nebenbei noch extra Komfort bietet wie unsere Kleidung aus Wolle oder Seide; sie hält die Temperatur konstant, ist antibakteriell und muss selten gewaschen werden.<\/p>",
+            "url": "shopify:\/\/pages\/erstausstattung",
+            "btn_name": "Was gehört zur Erstausstattung?"
           }
         },
         "item_wD89en": {

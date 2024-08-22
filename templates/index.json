@@ -359,7 +359,7 @@
         "item_g3hRCz": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Section-Slider_Sommer-Sonne-Kind-Kleidung.jpg",
+            "img": "shopify:\/\/shop_images\/Infobild-Geschenke-Geburt-Wochenbettkorb.jpg",
             "title": "Wochenbettkorb",
             "text": "<p>In der Zeit nach der Geburt ist für Mama und Baby schonen angesagt. Der Körper muss sich erholen, die Beziehung zum Baby darf sich entfalten, der neue Alltag sich sanft einpendeln. Verschenke einen Korb voller nährender Produkte für diese erste Zeit mit dem Baby.<\/p>",
             "url": "shopify:\/\/collections\/geschenke-fur-den-wochenbettkorb",
@@ -370,10 +370,10 @@
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/Section-Slider_Sommer-Sonne-Kind-Schlafen.jpg",
-            "title": "Schlafen bei Hitze",
-            "text": "<p>Im Rahmen der SIDS-Prophylaxe wird ein kühler Schlafplatz empfohlen. Achte daher auf temperaturausgleichende Strampler und beispielsweise einen leichten Sommer-Schlafsack aus Musselin.<\/p>",
-            "url": "shopify:\/\/collections\/schlafsacke",
-            "btn_name": "Schlafsäcke entdecken"
+            "title": "Trageberatung",
+            "text": "<p>Gerade, wenn man zum ersten Mal Eltern wird, wird man mit vielen Fragen konfrontiert - und oft mit ebensovielen Meinungen. Wir von Herz an Herz zeigen jungen Eltern, wie der natürliche Umgang mit dem Baby das Leben erleichtern kann.<\/p>",
+            "url": "https:\/\/www.herzanherz.ch\/beratungen\/",
+            "btn_name": "Unsere Beratungen"
           }
         },
         "item_qgKpyG": {

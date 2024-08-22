@@ -341,16 +341,16 @@
     "section_with_text_btn_ECAitC": {
       "type": "section-with-text-btn",
       "settings": {
-        "title": "Sommer, Sonne, Kind",
-        "text": "<p>So schön es an der Sonne ist, so herausfordernd ist sie manchmal, wenn man mit Baby oder Kind draussen ist. Was zieht das Kind am besten an? Ist Tragen auch sinnvoll, wenn es so heiss ist? Welche Sonnencreme ist die beste für mein Kind? Und was gibt es sonst noch alles zu beachten? Hier erfährst du es.<\/p>",
-        "url": "shopify:\/\/pages\/sommer-sonne-kind",
-        "btn_name": "Mehr zum Thema erfahren"
+        "title": "Geschenke zur Geburt",
+        "text": "<p>Du bist auf der Suche nach einem passenden Geschenk für frischgebackene junge Familien? Wir zeigen dir, worauf es ankommt und haben unsere besten Ideen für dich zusammengestellt.<br\/><br\/><\/p>",
+        "url": "shopify:\/\/pages\/geschenke-zur-geburt",
+        "btn_name": "Zu den Geschenkideen"
       }
     },
     "section_full_image_EqfEhU": {
       "type": "section-full-image",
       "settings": {
-        "img": "shopify:\/\/shop_images\/Section-Full-Image_Cloby-Sommer-Sonne-Kind.jpg"
+        "img": "shopify:\/\/shop_images\/Section-Full-Image_Geschenke-Geburt.jpg"
       }
     },
     "section_slider_ennB3g": {

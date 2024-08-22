@@ -360,10 +360,10 @@
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/Section-Slider_Sommer-Sonne-Kind-Kleidung.jpg",
-            "title": "Kleidung für heisse Tage",
-            "text": "<p>Im Sommer eignet sich langärmlige, luftige Kleidung am besten. Sie hat einen höheren UV-Schutz als eng anliegende Kleidung. Auch Materialien wie Seide, Bambus, Hanf, Leinen oder Musselin sind angenehm bei Hitze.<\/p>",
-            "url": "https:\/\/herzanherz-shop.ch\/collections\/aktuelle-kollektionen-zusammengestellt-aus-marke-und-tag-planung-hw23-24",
-            "btn_name": "Aktuelle Kollektionen"
+            "title": "Wochenbettkorb",
+            "text": "<p>In der Zeit nach der Geburt ist für Mama und Baby schonen angesagt. Der Körper muss sich erholen, die Beziehung zum Baby darf sich entfalten, der neue Alltag sich sanft einpendeln. Verschenke einen Korb voller nährender Produkte für diese erste Zeit mit dem Baby.<\/p>",
+            "url": "shopify:\/\/collections\/geschenke-fur-den-wochenbettkorb",
+            "btn_name": "Wochenbettkorb füllen"
           }
         },
         "item_EVEypg": {

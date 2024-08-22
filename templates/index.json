@@ -178,6 +178,16 @@
             "btn_name": "UV-Decken & -Kleidung"
           }
         },
+        "item_67Wce3": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Sommer-Manymonths-Hempies-Hanf.jpg",
+            "title": "Hanf-Kleidung",
+            "text": "<p>Hanf ist von Natur aus UV-beständig, atmungsaktiv und schnell trocknend. Hanf fühlt sich in der Hitze kühl an, aber bei kaltem Wetter erwärmt sich die in den Fasern eingeschlossene Luft vom Körper und macht ihn natürlich warm.<\/p>",
+            "url": "shopify:\/\/collections\/manymonths-fruhling-sommer",
+            "btn_name": "Zur Kollektion"
+          }
+        },
         "item_yrPzyC": {
           "type": "item",
           "settings": {
@@ -190,6 +200,7 @@
         },
         "item_bPf7kc": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify:\/\/shop_images\/Slider-Bild-Sommer-Sonnencreme.jpg",
             "title": "Sonnencreme",
@@ -201,6 +212,7 @@
       },
       "block_order": [
         "item_JkwHwM",
+        "item_67Wce3",
         "item_yrPzyC",
         "item_bPf7kc"
       ],

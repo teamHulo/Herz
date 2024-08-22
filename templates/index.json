@@ -342,7 +342,7 @@
       "type": "section-with-text-btn",
       "settings": {
         "title": "Geschenke zur Geburt",
-        "text": "<p>Du bist auf der Suche nach einem passenden Geschenk für frischgebackene junge Familien? Wir zeigen dir, worauf es ankommt und haben unsere besten Ideen für dich zusammengestellt.<br\/><br\/><\/p>",
+        "text": "<p>Du bist auf der Suche nach einem passenden Geschenk für frischgebackene junge Familien? Wir zeigen dir, worauf es ankommt und haben unsere besten Ideen für dich zusammengestellt.<\/p>",
         "url": "shopify:\/\/pages\/geschenke-zur-geburt",
         "btn_name": "Zu den Geschenkideen"
       }

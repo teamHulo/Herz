@@ -142,82 +142,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_Ybbnah": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_aedBNG": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Sommer, Sonne, Kind<\/h2><h4>So überstehst du heisse Tage mit deinem Kind<\/h4><p>Wenn es so richtig heiss ist, kann das Leben ganz schön streng sein. So schön es an der Sonne ist, so herausfordernd ist sie manchmal, wenn man mit Baby oder Kind draussen ist. Was zieht das Kind am besten an? Ist Tragen auch sinnvoll, wenn es so heiss ist? Welche Sonnencreme ist die beste für mein Kind? Und was gibt es sonst noch alles zu beachten? Hier erfährst du es.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_DpQCWC": {
-          "type": "button",
-          "settings": {
-            "button_label": "Sommer, Sonne, Kind",
-            "button_link": "shopify:\/\/pages\/sommer-sonne-kind",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_aedBNG",
-        "button_DpQCWC"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-sommersonnekind.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_3QLkBQ": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_keFNbV": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Barfuss-Schuhe für Kinder<\/h2><h4>Alles was du über Barfuss-Schuhe wissen musst<\/h4><p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Hier verraten wir dir, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind und wie du die richtige Grösse für dein Kind ermittelst.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_rhg37c": {
-          "type": "button",
-          "settings": {
-            "button_label": "Barfuss-Schuhe für Kinder",
-            "button_link": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_keFNbV",
-        "button_rhg37c"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Barfuss-Schuhe.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_GpFBQw": {
       "type": "image-with-text",
       "blocks": {
@@ -294,82 +218,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_dXeC47": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_bN9K4P": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Stoffwindel-Guide<\/h2><h4>Wickeln mit Stoff?<\/h4><p>Du möchtest für die Gesundheit deines Kindes und die der Umwelt einen Beitrag leisten? Du willst keine Chemie am Babyfüdli? Du willst Abfall und Geld sparen? Dann bist du beim Thema Stoffwindeln genau richtig.<\/p><p>Hier erfährst du, was die Vorteile von Stoffwindeln sind, welche Systeme es gibt und welches Zubehör ganz nützlich ist.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_f3dCLL": {
-          "type": "button",
-          "settings": {
-            "button_label": "Stoffwindel-Guide",
-            "button_link": "shopify:\/\/pages\/stoffwindeln",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_bN9K4P",
-        "button_f3dCLL"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Wickeln.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_Xbnawt": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_9KwUti": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Jahreszeiten, Feste & Rituale in der Familie<\/h2><h4>Kinder durch das Jahr begleiten<\/h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Geburtstage und andere Feste für dein Kind unvergesslich gestalten und die Jahreszeit zuhause sichtbar machen kannst (und warum das eine gute Idee ist) erfährst du auf dieser Seite.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_K9Vxbn": {
-          "type": "button",
-          "settings": {
-            "button_label": "Jahreszeiten, Feste & Rituale in der Familie",
-            "button_link": "shopify:\/\/pages\/jahreszeiten-feste-rituale-in-der-familie",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_9KwUti",
-        "button_K9Vxbn"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-grimms-feste-rituale.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_AmNqdA": {
       "type": "image-with-text",
       "blocks": {
@@ -433,6 +281,120 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_3QLkBQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_keFNbV": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Barfuss-Schuhe für Kinder<\/h2><h4>Alles was du über Barfuss-Schuhe wissen musst<\/h4><p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Hier verraten wir dir, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind und wie du die richtige Grösse für dein Kind ermittelst.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_rhg37c": {
+          "type": "button",
+          "settings": {
+            "button_label": "Barfuss-Schuhe für Kinder",
+            "button_link": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_keFNbV",
+        "button_rhg37c"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Barfuss-Schuhe.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_dXeC47": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_bN9K4P": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Stoffwindel-Guide<\/h2><h4>Wickeln mit Stoff?<\/h4><p>Du möchtest für die Gesundheit deines Kindes und die der Umwelt einen Beitrag leisten? Du willst keine Chemie am Babyfüdli? Du willst Abfall und Geld sparen? Dann bist du beim Thema Stoffwindeln genau richtig.<\/p><p>Hier erfährst du, was die Vorteile von Stoffwindeln sind, welche Systeme es gibt und welches Zubehör ganz nützlich ist.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_f3dCLL": {
+          "type": "button",
+          "settings": {
+            "button_label": "Stoffwindel-Guide",
+            "button_link": "shopify:\/\/pages\/stoffwindeln",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_bN9K4P",
+        "button_f3dCLL"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Wickeln.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_Xbnawt": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_9KwUti": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Jahreszeiten, Feste & Rituale in der Familie<\/h2><h4>Kinder durch das Jahr begleiten<\/h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Geburtstage und andere Feste für dein Kind unvergesslich gestalten und die Jahreszeit zuhause sichtbar machen kannst (und warum das eine gute Idee ist) erfährst du auf dieser Seite.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_K9Vxbn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Jahreszeiten, Feste & Rituale in der Familie",
+            "button_link": "shopify:\/\/pages\/jahreszeiten-feste-rituale-in-der-familie",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_9KwUti",
+        "button_K9Vxbn"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/infobild-grimms-feste-rituale.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -597,6 +559,44 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_Ybbnah": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_aedBNG": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Sommer, Sonne, Kind<\/h2><h4>So überstehst du heisse Tage mit deinem Kind<\/h4><p>Wenn es so richtig heiss ist, kann das Leben ganz schön streng sein. So schön es an der Sonne ist, so herausfordernd ist sie manchmal, wenn man mit Baby oder Kind draussen ist. Was zieht das Kind am besten an? Ist Tragen auch sinnvoll, wenn es so heiss ist? Welche Sonnencreme ist die beste für mein Kind? Und was gibt es sonst noch alles zu beachten? Hier erfährst du es.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_DpQCWC": {
+          "type": "button",
+          "settings": {
+            "button_label": "Sommer, Sonne, Kind",
+            "button_link": "shopify:\/\/pages\/sommer-sonne-kind",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_aedBNG",
+        "button_DpQCWC"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/infobild-sommersonnekind.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -605,17 +605,17 @@
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "image_with_text_egtY7C",
     "image_with_text_aaPfHF",
-    "image_with_text_Ybbnah",
-    "image_with_text_3QLkBQ",
     "image_with_text_GpFBQw",
     "image_with_text_9jmtCV",
-    "image_with_text_dXeC47",
-    "image_with_text_Xbnawt",
     "image_with_text_AmNqdA",
     "image_with_text_DCJwbf",
+    "image_with_text_3QLkBQ",
+    "image_with_text_dXeC47",
+    "image_with_text_Xbnawt",
     "image_with_text_74aqmp",
     "image_with_text_krnqdd",
     "image_with_text_Nm3mGq",
-    "image_with_text_NKbETw"
+    "image_with_text_NKbETw",
+    "image_with_text_Ybbnah"
   ]
 }

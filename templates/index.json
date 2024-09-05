@@ -75,12 +75,12 @@
         "item_iFhkhf": {
           "type": "item",
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Slider_unten.png",
-            "img2": "shopify:\/\/shop_images\/Slider_mitte.png",
-            "img3": "shopify:\/\/shop_images\/Slider_oben.png",
-            "title": "Draussen spielen",
-            "text": "<p>In ihrer unbändigen Freude am Draussensein finden Kinder eine unendliche Quelle der Inspiration und des Glücks. Und du findest bei uns ein schöne Auswahl an auserlesenen Artikel, um das Leben draussen und die Natur mit deinem Kind zu entdecken und zu feiern.<\/p>",
-            "url": "shopify:\/\/collections\/draussen-spielen",
+            "img1": "shopify:\/\/shop_images\/Unten_62fe7837-ab7d-4186-abe7-d24fe1882d94.jpg",
+            "img2": "shopify:\/\/shop_images\/Mitte_f4f95883-ada7-403a-9744-69ec349dfce6.jpg",
+            "img3": "shopify:\/\/shop_images\/Oben_aa596a20-f8b7-42a2-9e2d-700a0d18ba2f.jpg",
+            "title": "Geschenk zur Geburt",
+            "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.<\/p>",
+            "url": "shopify:\/\/pages\/geschenke-zur-geburt",
             "btn_name": "Jetzt entdecken"
           }
         },

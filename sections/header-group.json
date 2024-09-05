@@ -115,6 +115,7 @@
         },
         "image_KKjjhF": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "menu_handle": "Kindermode",
             "new_tab": true,

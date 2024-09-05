@@ -87,6 +87,7 @@
         },
         "item_c8wF6m": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify:\/\/shop_images\/oben.jpg",
             "img2": "shopify:\/\/shop_images\/Mitte.jpg",

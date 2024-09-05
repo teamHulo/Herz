@@ -180,31 +180,31 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_9jmtCV": {
+    "image_with_text_krnqdd": {
       "type": "image-with-text",
       "blocks": {
-        "text_A6XH4U": {
+        "text_8apHJX": {
           "type": "text",
           "settings": {
-            "text": "<h2>Erkältungen & Fieber<\/h2><h4>Wie begleite ich mein Kind wenn es krank ist?<\/h4><p>Wenn kleine Kinder erkältet sind, fiebern und husten, ist das für Eltern oft schlimm mitanzusehen. Doch bei Fieber gleich zu Fieberzäpfchen und bei jeder Erkältung zu Algifor greifen? Hier erfährst du, warum du deinem Kind damit langfristig mehr schadest als hilfst - und welche sanften Möglichkeiten die Naturheilkunde zu bieten hat.<\/p>",
+            "text": "<h2>Tragejacken<\/h2><h4>Mit Baby unterwegs im Herbst & Winter<\/h4><p>Gerade wenn es kühl ist, profitiert das Baby besonders vom Tragen. Warum das so ist und welche Kleidung sich zum Tragen eignet (und welche nicht), erfährst du hier. Wir stellen dir auch verschiedene Tragejacken vor, sodass du die richtige für dich findest. Papa trägt? Auch für ihn haben wir die passende Jacke.<\/p>",
             "text_style": "body"
           }
         },
-        "button_AfGDxn": {
+        "button_MF8iDB": {
           "type": "button",
           "settings": {
-            "button_label": "Erkältungen & Fieber",
-            "button_link": "shopify:\/\/pages\/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
+            "button_label": "Tragen im Herbst & Winter",
+            "button_link": "shopify:\/\/pages\/tragen-im-herbst-und-winter",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "text_A6XH4U",
-        "button_AfGDxn"
+        "text_8apHJX",
+        "button_MF8iDB"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/info-erkaeltung-kind_Klein.jpg",
+        "image": "shopify:\/\/shop_images\/Infobild-Tragenimwinter.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -446,31 +446,31 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_krnqdd": {
+    "image_with_text_9jmtCV": {
       "type": "image-with-text",
       "blocks": {
-        "text_8apHJX": {
+        "text_A6XH4U": {
           "type": "text",
           "settings": {
-            "text": "<h2>Tragejacken<\/h2><h4>Mit Baby unterwegs im Herbst & Winter<\/h4><p>Gerade wenn es kühl ist, profitiert das Baby besonders vom Tragen. Warum das so ist und welche Kleidung sich zum Tragen eignet (und welche nicht), erfährst du hier. Wir stellen dir auch verschiedene Tragejacken vor, sodass du die richtige für dich findest. Papa trägt? Auch für ihn haben wir die passende Jacke.<\/p>",
+            "text": "<h2>Erkältungen & Fieber<\/h2><h4>Wie begleite ich mein Kind wenn es krank ist?<\/h4><p>Wenn kleine Kinder erkältet sind, fiebern und husten, ist das für Eltern oft schlimm mitanzusehen. Doch bei Fieber gleich zu Fieberzäpfchen und bei jeder Erkältung zu Algifor greifen? Hier erfährst du, warum du deinem Kind damit langfristig mehr schadest als hilfst - und welche sanften Möglichkeiten die Naturheilkunde zu bieten hat.<\/p>",
             "text_style": "body"
           }
         },
-        "button_MF8iDB": {
+        "button_AfGDxn": {
           "type": "button",
           "settings": {
-            "button_label": "Tragen im Herbst & Winter",
-            "button_link": "shopify:\/\/pages\/tragen-im-herbst-und-winter",
+            "button_label": "Erkältungen & Fieber",
+            "button_link": "shopify:\/\/pages\/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "text_8apHJX",
-        "button_MF8iDB"
+        "text_A6XH4U",
+        "button_AfGDxn"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Tragenimwinter.jpg",
+        "image": "shopify:\/\/shop_images\/info-erkaeltung-kind_Klein.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -606,14 +606,14 @@
     "image_with_text_egtY7C",
     "image_with_text_aaPfHF",
     "image_with_text_GpFBQw",
-    "image_with_text_9jmtCV",
+    "image_with_text_krnqdd",
     "image_with_text_AmNqdA",
     "image_with_text_DCJwbf",
     "image_with_text_3QLkBQ",
     "image_with_text_dXeC47",
     "image_with_text_Xbnawt",
     "image_with_text_74aqmp",
-    "image_with_text_krnqdd",
+    "image_with_text_9jmtCV",
     "image_with_text_Nm3mGq",
     "image_with_text_NKbETw",
     "image_with_text_Ybbnah"

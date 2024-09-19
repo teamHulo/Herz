@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -61,7 +70,7 @@
         "text_bkxyGb": {
           "type": "text",
           "settings": {
-            "text": "<h4>Vortrag: Glückliche Kinderfüsse<\/h4><p>Im kompakten Vortrag \"Glückliche Kinderfüsse\" vermittelt Roman Gull spannendes Wissen über die Fussentwicklung, Vor- & Nachteile von Schuhen, wie der passende Schuh und die richtige Grösse gefunden werden und vieles mehr. Roman Gull setzt sich als Barfuss-Coach für gesunde und schmerzfreie Füsse ein, denn er weiss, dass eine gute Fussgesundheit positive Auswirkungen auf die Gesundheit des ganzen Körpers und Geistes hat. Am <strong>8. Juni 2024<\/strong> von 14-16 Uhr bei Herz an Herz.<br\/><\/p>",
+            "text": "<h4>Vortrag: Glückliche Kinderfüsse<\/h4><p>Im kompakten Vortrag \"Glückliche Kinderfüsse\" vermittelt Roman Gull spannendes Wissen über die Fussentwicklung, Vor- & Nachteile von Schuhen, wie der passende Schuh und die richtige Grösse gefunden werden und vieles mehr. Roman Gull setzt sich als Barfuss-Coach für gesunde und schmerzfreie Füsse ein, denn er weiss, dass eine gute Fussgesundheit positive Auswirkungen auf die Gesundheit des ganzen Körpers und Geistes hat. <strong>Am Samstag, 23. November 2024 von 14-16 Uhr <\/strong>bei Herz an Herz.<br\/><\/p>",
             "text_style": "body"
           }
         },

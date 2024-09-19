@@ -12,18 +12,6 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "item_iFhkhf": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify:\/\/shop_images\/Unten_62fe7837-ab7d-4186-abe7-d24fe1882d94.jpg",
-            "img2": "shopify:\/\/shop_images\/Mitte_f4f95883-ada7-403a-9744-69ec349dfce6.jpg",
-            "img3": "shopify:\/\/shop_images\/Oben_2c8039ca-d1bf-419a-a6bb-0a308b0be11d.jpg",
-            "title": "Geschenke zur Geburt",
-            "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.<\/p>",
-            "url": "shopify:\/\/pages\/geschenke-zur-geburt",
-            "btn_name": "Unsere Geschenktipps"
-          }
-        },
         "beb1387a-20df-4238-a01b-69c08fe7ba72": {
           "type": "item",
           "settings": {
@@ -34,6 +22,18 @@
             "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.<\/p>",
             "url": "shopify:\/\/pages\/warm-durch-herbst-winter",
             "btn_name": "Unsere Tipps"
+          }
+        },
+        "item_iFhkhf": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Unten_62fe7837-ab7d-4186-abe7-d24fe1882d94.jpg",
+            "img2": "shopify:\/\/shop_images\/Mitte_f4f95883-ada7-403a-9744-69ec349dfce6.jpg",
+            "img3": "shopify:\/\/shop_images\/Oben_2c8039ca-d1bf-419a-a6bb-0a308b0be11d.jpg",
+            "title": "Geschenke zur Geburt",
+            "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.<\/p>",
+            "url": "shopify:\/\/pages\/geschenke-zur-geburt",
+            "btn_name": "Unsere Geschenktipps"
           }
         },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
@@ -164,8 +164,8 @@
         }
       },
       "block_order": [
-        "item_iFhkhf",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
+        "item_iFhkhf",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_WxFtCe",
         "24910c9d-15a9-4196-9b65-cc074f34c723",

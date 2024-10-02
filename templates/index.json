@@ -15,60 +15,60 @@
         "beb1387a-20df-4238-a01b-69c08fe7ba72": {
           "type": "item",
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
-            "img2": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
-            "img3": "shopify:\/\/shop_images\/Infobild-Handschuhe.jpg",
+            "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
+            "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
+            "img3": "shopify://shop_images/Infobild-Handschuhe.jpg",
             "title": "Warm durch Herbst & Winter",
-            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.<\/p>",
-            "url": "shopify:\/\/pages\/warm-durch-herbst-winter",
+            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.</p>",
+            "url": "shopify://pages/warm-durch-herbst-winter",
             "btn_name": "Unsere Tipps"
           }
         },
         "item_iFhkhf": {
           "type": "item",
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Unten_62fe7837-ab7d-4186-abe7-d24fe1882d94.jpg",
-            "img2": "shopify:\/\/shop_images\/Mitte_f4f95883-ada7-403a-9744-69ec349dfce6.jpg",
-            "img3": "shopify:\/\/shop_images\/Oben_2c8039ca-d1bf-419a-a6bb-0a308b0be11d.jpg",
+            "img1": "shopify://shop_images/Unten_62fe7837-ab7d-4186-abe7-d24fe1882d94.jpg",
+            "img2": "shopify://shop_images/Mitte_f4f95883-ada7-403a-9744-69ec349dfce6.jpg",
+            "img3": "shopify://shop_images/Oben_2c8039ca-d1bf-419a-a6bb-0a308b0be11d.jpg",
             "title": "Geschenke zur Geburt",
-            "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.<\/p>",
-            "url": "shopify:\/\/pages\/geschenke-zur-geburt",
+            "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.</p>",
+            "url": "shopify://pages/geschenke-zur-geburt",
             "btn_name": "Unsere Geschenktipps"
           }
         },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
           "type": "item",
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Infobild-Barfuss-Schuhe.jpg",
-            "img2": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
-            "img3": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
+            "img1": "shopify://shop_images/Infobild-Barfuss-Schuhe.jpg",
+            "img2": "shopify://shop_images/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
+            "img3": "shopify://shop_images/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
             "title": "Barfuss-Schuhe",
-            "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Möchtest du wissen, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind?<\/p>",
-            "url": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
+            "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Möchtest du wissen, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind?</p>",
+            "url": "shopify://pages/barfuss-schuhe-fur-kinder",
             "btn_name": "Mehr zum Thema erfahren"
           }
         },
         "item_WxFtCe": {
           "type": "item",
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Paarzeit-Kartenset-Paare-Sofasafari-2_66294_2.jpg",
-            "img2": "shopify:\/\/shop_images\/Couple_e8c016d3-0863-49ac-9ddc-d83c7b70e5fb.jpg",
-            "img3": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_sweetvalentine_63229_2.jpg",
+            "img1": "shopify://shop_images/Winterthur_Babyladen_Gutschein_Paarzeit-Kartenset-Paare-Sofasafari-2_66294_2.jpg",
+            "img2": "shopify://shop_images/Couple_e8c016d3-0863-49ac-9ddc-d83c7b70e5fb.jpg",
+            "img3": "shopify://shop_images/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_sweetvalentine_63229_2.jpg",
             "title": "Für mehr Zweisamkeit",
-            "text": "<p>Das Leben mit kleinen Kindern kann ganz schön hektisch sein. Da ist es umso wichtiger, sich bewusst Zeit für die Partnerschaft zu nehmen. Die klimaneutral gefertigten Paarzeit Produkte schenken euch wunderbare Momente tiefer Verbundenheit. Für mehr Liebe & Achtsamkeit im Familienalltag.<\/p>",
-            "url": "shopify:\/\/collections\/partnerschaft",
+            "text": "<p>Das Leben mit kleinen Kindern kann ganz schön hektisch sein. Da ist es umso wichtiger, sich bewusst Zeit für die Partnerschaft zu nehmen. Die klimaneutral gefertigten Paarzeit Produkte schenken euch wunderbare Momente tiefer Verbundenheit. Für mehr Liebe & Achtsamkeit im Familienalltag.</p>",
+            "url": "shopify://collections/partnerschaft",
             "btn_name": "LIEBEvolle Produkte entdecken"
           }
         },
         "24910c9d-15a9-4196-9b65-cc074f34c723": {
           "type": "item",
           "settings": {
-            "img1": "shopify:\/\/shop_images\/image-left.png",
-            "img2": "shopify:\/\/shop_images\/Main_image.png",
-            "img3": "shopify:\/\/shop_images\/image-rigt.png",
+            "img1": "shopify://shop_images/image-left.png",
+            "img2": "shopify://shop_images/Main_image.png",
+            "img3": "shopify://shop_images/image-rigt.png",
             "title": "Schwangerschaft & Geburt",
-            "text": "<p>Du bist schwanger? Wir haben alles was du für dich und dein Neugeborenes brauchst. Ob praktische Still- und Umstandsmode, natürliche Pflegeprodukte oder nachhaltige Dinge für die Erstausstattung.<\/p>",
-            "url": "shopify:\/\/pages\/erstausstattung",
+            "text": "<p>Du bist schwanger? Wir haben alles was du für dich und dein Neugeborenes brauchst. Ob praktische Still- und Umstandsmode, natürliche Pflegeprodukte oder nachhaltige Dinge für die Erstausstattung.</p>",
+            "url": "shopify://pages/erstausstattung",
             "btn_name": "Jetzt entdecken"
           }
         },
@@ -76,12 +76,12 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Slider_unten.png",
-            "img2": "shopify:\/\/shop_images\/Slider_mitte.png",
-            "img3": "shopify:\/\/shop_images\/Slider_oben.png",
+            "img1": "shopify://shop_images/Slider_unten.png",
+            "img2": "shopify://shop_images/Slider_mitte.png",
+            "img3": "shopify://shop_images/Slider_oben.png",
             "title": "Draussen spielen",
-            "text": "<p>In ihrer unbändigen Freude am Draussensein finden Kinder eine unendliche Quelle der Inspiration und des Glücks. Und du findest bei uns ein schöne Auswahl an auserlesenen Artikel, um das Leben draussen und die Natur mit deinem Kind zu entdecken und zu feiern.<\/p>",
-            "url": "shopify:\/\/collections\/draussen-spielen",
+            "text": "<p>In ihrer unbändigen Freude am Draussensein finden Kinder eine unendliche Quelle der Inspiration und des Glücks. Und du findest bei uns ein schöne Auswahl an auserlesenen Artikel, um das Leben draussen und die Natur mit deinem Kind zu entdecken und zu feiern.</p>",
+            "url": "shopify://collections/draussen-spielen",
             "btn_name": "Jetzt entdecken"
           }
         },
@@ -89,12 +89,12 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify:\/\/shop_images\/oben.jpg",
-            "img2": "shopify:\/\/shop_images\/Mitte.jpg",
-            "img3": "shopify:\/\/shop_images\/unten.jpg",
+            "img1": "shopify://shop_images/oben.jpg",
+            "img2": "shopify://shop_images/Mitte.jpg",
+            "img3": "shopify://shop_images/unten.jpg",
             "title": "Das brauchst du für den Sommer",
-            "text": "<p>Babys und Kleinkinder reagieren empfindlich auf Sonnenstrahlen. Deshalb ist ein guter Schutz besonders wichtig. UV-Decken für Tragehilfen und Kinderwagen, sowie spezielle, dicht gewebte Kleidung schützen optimal. Für in und am Wasser modische UV-Bademode. Ein guter Sonnenhut und je nach Bedarf Sonnencreme gehören zum optimalen Sonnenschutz dazu. So kann der Sommer kommen!<\/p>",
-            "url": "shopify:\/\/collections\/fruhling-sommer",
+            "text": "<p>Babys und Kleinkinder reagieren empfindlich auf Sonnenstrahlen. Deshalb ist ein guter Schutz besonders wichtig. UV-Decken für Tragehilfen und Kinderwagen, sowie spezielle, dicht gewebte Kleidung schützen optimal. Für in und am Wasser modische UV-Bademode. Ein guter Sonnenhut und je nach Bedarf Sonnencreme gehören zum optimalen Sonnenschutz dazu. So kann der Sommer kommen!</p>",
+            "url": "shopify://collections/fruhling-sommer",
             "btn_name": "Jetzt entdecken"
           }
         },
@@ -102,12 +102,12 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify:\/\/shop_images\/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
-            "img2": "shopify:\/\/shop_images\/info-erkaeltung-kind_Klein.jpg",
-            "img3": "shopify:\/\/shop_images\/infobild-mama-baby-nackt_Kopie.jpg",
+            "img1": "shopify://shop_images/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
+            "img2": "shopify://shop_images/info-erkaeltung-kind_Klein.jpg",
+            "img3": "shopify://shop_images/infobild-mama-baby-nackt_Kopie.jpg",
             "title": "Erkältungen natürlich begleiten",
-            "text": "<p>Wenn kleine Kinder erkältet sind, ist das für uns Eltern oft schlimm mitanzusehen. Die Naturheilkunde bietet sanfte Möglichkeiten dein Kind bei einer Erkältung zu unterstützen. Wir haben für euch unsere besten Tipps zusammengestellt.<\/p>",
-            "url": "https:\/\/herzanherz-shop.ch\/pages\/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
+            "text": "<p>Wenn kleine Kinder erkältet sind, ist das für uns Eltern oft schlimm mitanzusehen. Die Naturheilkunde bietet sanfte Möglichkeiten dein Kind bei einer Erkältung zu unterstützen. Wir haben für euch unsere besten Tipps zusammengestellt.</p>",
+            "url": "https://herzanherz-shop.ch/pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
             "btn_name": "Mehr erfahren"
           }
         },
@@ -115,12 +115,12 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Start-Silder-Advent1.jpg",
-            "img2": "shopify:\/\/shop_images\/Start-Silder-Advent2_b327cc0d-dbd7-4f3d-ac8a-3f700a78ac0e.jpg",
-            "img3": "shopify:\/\/shop_images\/Start-Silder-Advent3.jpg",
+            "img1": "shopify://shop_images/Start-Silder-Advent1.jpg",
+            "img2": "shopify://shop_images/Start-Silder-Advent2_b327cc0d-dbd7-4f3d-ac8a-3f700a78ac0e.jpg",
+            "img3": "shopify://shop_images/Start-Silder-Advent3.jpg",
             "title": "Advent mit Kindern gestalten",
-            "text": "<p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.<\/p>",
-            "url": "shopify:\/\/pages\/themenseite",
+            "text": "<p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.</p>",
+            "url": "shopify://pages/themenseite",
             "btn_name": "Mehr zum Thema"
           }
         },
@@ -128,11 +128,11 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_nutcracker.webp",
-            "img2": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
+            "img1": "shopify://shop_images/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_nutcracker.webp",
+            "img2": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
             "title": "Geschenke für leuchtende Kinderaugen",
-            "text": "<p>Weihnachten steht wieder vor der Tür, und damit die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.<\/p>",
-            "url": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
+            "text": "<p>Weihnachten steht wieder vor der Tür, und damit die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.</p>",
+            "url": "shopify://pages/weihnachtsgeschenke-guide",
             "btn_name": "Zum Geschenke-Guide"
           }
         },
@@ -140,12 +140,12 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Warme_Kopie.jpg",
-            "img2": "shopify:\/\/shop_images\/Winter-Sale.jpg",
-            "img3": "shopify:\/\/shop_images\/Winter-Sale-Prozent.png",
+            "img1": "shopify://shop_images/Collection-Umstands-Tragejacken-Warme_Kopie.jpg",
+            "img2": "shopify://shop_images/Winter-Sale.jpg",
+            "img3": "shopify://shop_images/Winter-Sale-Prozent.png",
             "title": "WINTER SALE zum Jahresauftakt",
-            "text": "<p>Um das 2024 gebührend einzuläuten, startet ab sofort unser grosser Winter Sale! Gerade rechtzeitig, denn es wird nochmals eisig kalt. Tauche ein in eine Welt voller hochwertiger und funktionaler Winterprodukte für Babys und Kinder und spare 30% auf tolle Winter-Klassiker.<\/p>",
-            "url": "https:\/\/herzanherz-shop.ch\/collections\/wintersale-24",
+            "text": "<p>Um das 2024 gebührend einzuläuten, startet ab sofort unser grosser Winter Sale! Gerade rechtzeitig, denn es wird nochmals eisig kalt. Tauche ein in eine Welt voller hochwertiger und funktionaler Winterprodukte für Babys und Kinder und spare 30% auf tolle Winter-Klassiker.</p>",
+            "url": "https://herzanherz-shop.ch/collections/wintersale-24",
             "btn_name": "Zum Winter Sale"
           }
         },
@@ -153,12 +153,12 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify:\/\/shop_images\/Unten_2.jpg",
-            "img2": "shopify:\/\/shop_images\/Mitte_2.jpg",
-            "img3": "shopify:\/\/shop_images\/oben_2.jpg",
+            "img1": "shopify://shop_images/Unten_2.jpg",
+            "img2": "shopify://shop_images/Mitte_2.jpg",
+            "img3": "shopify://shop_images/oben_2.jpg",
             "title": "Startklar fürs Wasser",
-            "text": "<p>Wenn du mit deinem Kind einen Ausflug ins Schwimmbad oder zum Strand planst, ist die passende Ausrüstung ein Muss. Unsere Bademode ist nicht nur praktisch, sondern schützt auch gut und sieht stilvoll aus.<\/p>",
-            "url": "shopify:\/\/collections\/uv-bademode",
+            "text": "<p>Wenn du mit deinem Kind einen Ausflug ins Schwimmbad oder zum Strand planst, ist die passende Ausrüstung ein Muss. Unsere Bademode ist nicht nur praktisch, sondern schützt auch gut und sieht stilvoll aus.</p>",
+            "url": "shopify://collections/uv-bademode",
             "btn_name": "Gleich entdecken"
           }
         }
@@ -186,30 +186,30 @@
         "item_JkwHwM": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Slider-Bild-Sommer-Cloby-Tragen.jpg",
+            "img": "shopify://shop_images/Slider-Bild-Sommer-Cloby-Tragen.jpg",
             "title": "UV-Decke & Kleidung",
-            "text": "<p>Babys und Kleinkinder reagieren empfindlich auf Sonnenstrahlen. Darum ist ein guter UV-Schutz für sie besonders wichtig. UV-Decken für Tragehilfe und Kinderwagen sowie spezielle, dicht gewebte Kleidung schützen optimal.<\/p>",
-            "url": "shopify:\/\/collections\/uv-stampler-tucher",
+            "text": "<p>Babys und Kleinkinder reagieren empfindlich auf Sonnenstrahlen. Darum ist ein guter UV-Schutz für sie besonders wichtig. UV-Decken für Tragehilfe und Kinderwagen sowie spezielle, dicht gewebte Kleidung schützen optimal.</p>",
+            "url": "shopify://collections/uv-stampler-tucher",
             "btn_name": "UV-Decken & -Kleidung"
           }
         },
         "item_67Wce3": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Sommer-Manymonths-Hempies-Hanf.jpg",
+            "img": "shopify://shop_images/Infobild-Sommer-Manymonths-Hempies-Hanf.jpg",
             "title": "Hanf-Kleidung",
-            "text": "<p>Hanf ist von Natur aus UV-beständig, atmungsaktiv und schnell trocknend. Hanf fühlt sich in der Hitze kühl an, aber bei kaltem Wetter erwärmt sich die in den Fasern eingeschlossene Luft vom Körper und macht ihn natürlich warm.<\/p>",
-            "url": "shopify:\/\/collections\/manymonths-fruhling-sommer",
+            "text": "<p>Hanf ist von Natur aus UV-beständig, atmungsaktiv und schnell trocknend. Hanf fühlt sich in der Hitze kühl an, aber bei kaltem Wetter erwärmt sich die in den Fasern eingeschlossene Luft vom Körper und macht ihn natürlich warm.</p>",
+            "url": "shopify://collections/manymonths-fruhling-sommer",
             "btn_name": "Zur Kollektion"
           }
         },
         "item_yrPzyC": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Slider-Bild-Sommer-Sonnenhut.jpg",
+            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnenhut.jpg",
             "title": "Sonnenhüte",
-            "text": "<p>Ein guter Sonnenhut ist im Sommer das A und O. Ein Hut mit Nackenschutz oder sogar mit breiter Rundumkrempe wie beim beliebten <a href=\"\/products\/sonnenhut-feuerwehr\" target=\"_blank\" title=\"Sonnenhut FEUERWEHR\">Feuerwehrhut von Pickapooh<\/a> schützt gut beim Spielen und beim Tragen.<\/p>",
-            "url": "shopify:\/\/collections\/sonnenhute",
+            "text": "<p>Ein guter Sonnenhut ist im Sommer das A und O. Ein Hut mit Nackenschutz oder sogar mit breiter Rundumkrempe wie beim beliebten <a href=\"/products/sonnenhut-feuerwehr\" target=\"_blank\" title=\"Sonnenhut FEUERWEHR\">Feuerwehrhut von Pickapooh</a> schützt gut beim Spielen und beim Tragen.</p>",
+            "url": "shopify://collections/sonnenhute",
             "btn_name": "Sonnenhüte"
           }
         },
@@ -217,10 +217,10 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/Slider-Bild-Sommer-Sonnencreme.jpg",
+            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnencreme.jpg",
             "title": "Sonnencreme",
-            "text": "<p>Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Daher haben wir nur Sonnencreme im Sortiment, die wir guten Gewissens empfehlen können. Sie kommen ohne bedenkliche Inhaltsstoffe aus und werden nachhaltig produziert.<\/p>",
-            "url": "shopify:\/\/collections\/sonnencreme",
+            "text": "<p>Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Daher haben wir nur Sonnencreme im Sortiment, die wir guten Gewissens empfehlen können. Sie kommen ohne bedenkliche Inhaltsstoffe aus und werden nachhaltig produziert.</p>",
+            "url": "shopify://collections/sonnencreme",
             "btn_name": "Sonnencreme"
           }
         }
@@ -231,6 +231,7 @@
         "item_yrPzyC",
         "item_bPf7kc"
       ],
+      "disabled": true,
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Alles für entspannte Spätsommertage"
@@ -242,30 +243,30 @@
         "item_YWtWKB": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Slider-Bild-Erstausstattung-Wolle-Seide-Babykleider.jpg",
+            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Wolle-Seide-Babykleider.jpg",
             "title": "Wolle-Seide Kleidung",
-            "text": "<p>Wir empfehlen Kleidung aus Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.<\/p>",
-            "url": "shopify:\/\/collections\/wolle-seide-produkte",
+            "text": "<p>Wir empfehlen Kleidung aus Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.</p>",
+            "url": "shopify://collections/wolle-seide-produkte",
             "btn_name": "Wolle-Seide Produkte"
           }
         },
         "item_d3thnR": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Slider-Bild-Erstausstattung-Stillen-Stillkissen.jpg",
+            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Stillen-Stillkissen.jpg",
             "title": "Stillkissen & Co",
-            "text": "<p>Fürs Stillen brauchst du Ruhe, Entspannung und Körperkontakt mit dem Baby. Ein <a href=\"\/products\/bettmaus-stillkissen-gross\" target=\"_blank\" title=\"Stillkissen gross mit Bio-Dinkelspreu\">Stillkissen<\/a> sorgt für eine gemütliche Stillzeit. Für einfaches und diskretes Stillen auch unterwegs lohnt es sich, in passende <a href=\"\/collections\/umstands-stillmode\" target=\"_blank\" title=\"Umstands- & Stillmode\">Still-Mode<\/a> zu investieren.<\/p>",
-            "url": "shopify:\/\/collections\/stillen",
+            "text": "<p>Fürs Stillen brauchst du Ruhe, Entspannung und Körperkontakt mit dem Baby. Ein <a href=\"/products/bettmaus-stillkissen-gross\" target=\"_blank\" title=\"Stillkissen gross mit Bio-Dinkelspreu\">Stillkissen</a> sorgt für eine gemütliche Stillzeit. Für einfaches und diskretes Stillen auch unterwegs lohnt es sich, in passende <a href=\"/collections/umstands-stillmode\" target=\"_blank\" title=\"Umstands- & Stillmode\">Still-Mode</a> zu investieren.</p>",
+            "url": "shopify://collections/stillen",
             "btn_name": "Produkte rund ums Stillen"
           }
         },
         "item_MRqUzR": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Slider-Bild-Erstausstattung-Baby-Schlafsack.jpg",
+            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Baby-Schlafsack.jpg",
             "title": "Für guten Babyschlaf",
-            "text": "<p>Der Schlafplatz des Babys sollte kühl sein. Damit das Baby trotzdem warm hat, empfehlen wir flexible Schichten aus Wolle oder Wolle-Seide. Dazu gehört insbesondere ein passender <a href=\"\/collections\/schlafsacke\" target=\"_blank\" title=\"Schlafsäcke\">Schlafsack<\/a> und nach Bedarf eine warme <a href=\"\/collections\/babydecken\" target=\"_blank\" title=\"Babydecken\">Wolldecke<\/a>.<\/p>",
-            "url": "shopify:\/\/collections\/schlafen",
+            "text": "<p>Der Schlafplatz des Babys sollte kühl sein. Damit das Baby trotzdem warm hat, empfehlen wir flexible Schichten aus Wolle oder Wolle-Seide. Dazu gehört insbesondere ein passender <a href=\"/collections/schlafsacke\" target=\"_blank\" title=\"Schlafsäcke\">Schlafsack</a> und nach Bedarf eine warme <a href=\"/collections/babydecken\" target=\"_blank\" title=\"Babydecken\">Wolldecke</a>.</p>",
+            "url": "shopify://collections/schlafen",
             "btn_name": "Alles für den Babyschlaf"
           }
         },
@@ -273,10 +274,10 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
+            "img": "shopify://shop_images/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
             "title": "Etwas Schönes für euer Zuhause",
-            "text": "<p>Ein Kletterdreieck, eine Schaukel oder ein Lern- und Spielturm sind Geschenke, die über viele Jahre Freude machen. Wenn sich mehrere Schenkende daran beteiligen, wird es ein sinnvolles Gemeinschaftsgeschenk.<\/p>",
-            "url": "shopify:\/\/collections\/furs-kinderzimmer",
+            "text": "<p>Ein Kletterdreieck, eine Schaukel oder ein Lern- und Spielturm sind Geschenke, die über viele Jahre Freude machen. Wenn sich mehrere Schenkende daran beteiligen, wird es ein sinnvolles Gemeinschaftsgeschenk.</p>",
+            "url": "shopify://collections/furs-kinderzimmer",
             "btn_name": "Geschenke entdecken"
           }
         },
@@ -284,10 +285,10 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Fridahild-Haarschmuck-Kinder-Haargummi-Haarschmuck-Stoff-1.webp",
+            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Fridahild-Haarschmuck-Kinder-Haargummi-Haarschmuck-Stoff-1.webp",
             "title": "Hübsche Mitbringsel",
-            "text": "<p>Es muss nicht immer etwas Grosses sein. Kleine, ausgewählte Mitbringsel machen genauso viel Freude! Wie wäre es mit wunderhübschen, handgemachten Spängeli? Einem hochwertigen Holzkreisel? Oder etwa einer Wundernuss?<\/p>",
-            "url": "shopify:\/\/collections\/mitbringsel",
+            "text": "<p>Es muss nicht immer etwas Grosses sein. Kleine, ausgewählte Mitbringsel machen genauso viel Freude! Wie wäre es mit wunderhübschen, handgemachten Spängeli? Einem hochwertigen Holzkreisel? Oder etwa einer Wundernuss?</p>",
+            "url": "shopify://collections/mitbringsel",
             "btn_name": "Mitbringsel finden"
           }
         },
@@ -295,10 +296,10 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
+            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
             "title": "Weltenbau und stundenlanges freies Spiel",
-            "text": "<p>Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie. Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.<\/p>",
-            "url": "shopify:\/\/collections\/freies-spiel",
+            "text": "<p>Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie. Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.</p>",
+            "url": "shopify://collections/freies-spiel",
             "btn_name": "Alles fürs freie Spiel"
           }
         },
@@ -306,10 +307,10 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
+            "img": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
             "title": "Weihnachtsgeschenke Guide",
-            "text": "<p>Bei uns findest du eine Auswahl an sinnvollen Weihnachtsgeschenken. Lass dich inspirieren!<\/p>",
-            "url": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
+            "text": "<p>Bei uns findest du eine Auswahl an sinnvollen Weihnachtsgeschenken. Lass dich inspirieren!</p>",
+            "url": "shopify://pages/weihnachtsgeschenke-guide",
             "btn_name": "Inspirieren lassen"
           }
         },
@@ -317,10 +318,10 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Advent-Wichteltuer.jpg",
+            "img": "shopify://shop_images/Infobild-Advent-Wichteltuer.jpg",
             "title": "Wichteltürchen",
-            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!<\/p>",
-            "url": "shopify:\/\/collections\/wichtelzauber",
+            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!</p>",
+            "url": "shopify://collections/wichtelzauber",
             "btn_name": "Wichtel einladen"
           }
         },
@@ -328,10 +329,10 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
+            "img": "shopify://shop_images/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
             "title": "Adventskalender für Paare",
-            "text": "<p>Der Paarzeit Adventskalender ist eine wunderschöne Idee für etwas bewusste Zweisamkeit im Advent. Mit inspirierenden, lustigen, nachdenklichen, romantischen Anregungen für eure Partnerschaft.<\/p>",
-            "url": "shopify:\/\/collections\/paarzeit",
+            "text": "<p>Der Paarzeit Adventskalender ist eine wunderschöne Idee für etwas bewusste Zweisamkeit im Advent. Mit inspirierenden, lustigen, nachdenklichen, romantischen Anregungen für eure Partnerschaft.</p>",
+            "url": "shopify://collections/paarzeit",
             "btn_name": "Paarzeit verbringen"
           }
         },
@@ -339,10 +340,10 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Advent-Kalender.jpg",
+            "img": "shopify://shop_images/Infobild-Advent-Kalender.jpg",
             "title": "Adventskalender für Kinder",
-            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente? Oder einem Türchen-Kalender ohne Zahlen?<\/p>",
-            "url": "shopify:\/\/collections\/adventskalender",
+            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente? Oder einem Türchen-Kalender ohne Zahlen?</p>",
+            "url": "shopify://collections/adventskalender",
             "btn_name": "Adventskalender"
           }
         }
@@ -369,15 +370,15 @@
       "type": "section-with-text-btn",
       "settings": {
         "title": "Geschenke zur Geburt",
-        "text": "<p>Du bist auf der Suche nach einem passenden Geschenk für frischgebackene junge Familien? Wir zeigen dir, worauf es ankommt und haben unsere besten Ideen für dich zusammengestellt.<\/p>",
-        "url": "shopify:\/\/pages\/geschenke-zur-geburt",
+        "text": "<p>Du bist auf der Suche nach einem passenden Geschenk für frischgebackene junge Familien? Wir zeigen dir, worauf es ankommt und haben unsere besten Ideen für dich zusammengestellt.</p>",
+        "url": "shopify://pages/geschenke-zur-geburt",
         "btn_name": "Zu den Geschenkideen"
       }
     },
     "section_full_image_EqfEhU": {
       "type": "section-full-image",
       "settings": {
-        "img": "shopify:\/\/shop_images\/Section-Full-Image_Geschenke-Geburt.jpg"
+        "img": "shopify://shop_images/Section-Full-Image_Geschenke-Geburt.jpg"
       }
     },
     "section_slider_ennB3g": {
@@ -386,50 +387,50 @@
         "item_g3hRCz": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Geschenke-Geburt-Wochenbettkorb.jpg",
+            "img": "shopify://shop_images/Infobild-Geschenke-Geburt-Wochenbettkorb.jpg",
             "title": "Wochenbettkorb",
-            "text": "<p>In der Zeit nach der Geburt ist für Mama und Baby schonen angesagt. Der Körper muss sich erholen, die Beziehung zum Baby darf sich entfalten, der neue Alltag sich sanft einpendeln. Verschenke einen Korb voller nährender Produkte für diese erste Zeit mit dem Baby.<\/p>",
-            "url": "shopify:\/\/collections\/geschenke-fur-den-wochenbettkorb",
+            "text": "<p>In der Zeit nach der Geburt ist für Mama und Baby schonen angesagt. Der Körper muss sich erholen, die Beziehung zum Baby darf sich entfalten, der neue Alltag sich sanft einpendeln. Verschenke einen Korb voller nährender Produkte für diese erste Zeit mit dem Baby.</p>",
+            "url": "shopify://collections/geschenke-fur-den-wochenbettkorb",
             "btn_name": "Wochenbettkorb füllen"
           }
         },
         "item_EVEypg": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Tragen-Elastisches-Tuch.jpg",
+            "img": "shopify://shop_images/Infobild-Tragen-Elastisches-Tuch.jpg",
             "title": "Trageberatung",
-            "text": "<p>Gerade, wenn man zum ersten Mal Eltern wird, wird man mit vielen Fragen konfrontiert - und oft mit ebensovielen Meinungen. Wir von Herz an Herz zeigen jungen Eltern, wie der natürliche Umgang mit dem Baby das Leben erleichtern kann. Verschenke eine Beratung bei unseren Fachfrauen.<\/p>",
-            "url": "https:\/\/www.herzanherz.ch\/beratungen\/",
+            "text": "<p>Gerade, wenn man zum ersten Mal Eltern wird, wird man mit vielen Fragen konfrontiert - und oft mit ebensovielen Meinungen. Wir von Herz an Herz zeigen jungen Eltern, wie der natürliche Umgang mit dem Baby das Leben erleichtern kann. Verschenke eine Beratung bei unseren Fachfrauen.</p>",
+            "url": "https://www.herzanherz.ch/beratungen/",
             "btn_name": "Unsere Beratungen"
           }
         },
         "item_qgKpyG": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Schlafen.jpg",
+            "img": "shopify://shop_images/Infobild-Erstausstattung-Schlafen.jpg",
             "title": "Erstausstattung",
-            "text": "<p>Möchtest du etwas für die Erstausstattung verschenken, dann wähle etwas, das über längere Zeit Freude macht, mit dem Baby mitwächst und nebenbei noch extra Komfort bietet wie unsere Kleidung aus Wolle oder Seide; sie hält die Temperatur konstant, ist antibakteriell und muss selten gewaschen werden.<\/p>",
-            "url": "shopify:\/\/pages\/erstausstattung",
+            "text": "<p>Möchtest du etwas für die Erstausstattung verschenken, dann wähle etwas, das über längere Zeit Freude macht, mit dem Baby mitwächst und nebenbei noch extra Komfort bietet wie unsere Kleidung aus Wolle oder Seide; sie hält die Temperatur konstant, ist antibakteriell und muss selten gewaschen werden.</p>",
+            "url": "shopify://pages/erstausstattung",
             "btn_name": "Was gehört zur Erstausstattung?"
           }
         },
         "item_wD89en": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Section-Slider_Feste-Rituale_Geburtstagsring.jpg",
+            "img": "shopify://shop_images/Section-Slider_Feste-Rituale_Geburtstagsring.jpg",
             "title": "Geburtstagsring",
-            "text": "<p>Feste und Rituale in der Familie sind etwas wunderschönes. Mit einem Geburtstagsring legst du den Grundstein für eine schöne und ebenso nachhaltige Geburtstags-Tradition, denn er kann jedes Jahr wieder verwendet und neu geschmückt werden.<\/p>",
-            "url": "shopify:\/\/collections\/festtagsring-zubehor",
+            "text": "<p>Feste und Rituale in der Familie sind etwas wunderschönes. Mit einem Geburtstagsring legst du den Grundstein für eine schöne und ebenso nachhaltige Geburtstags-Tradition, denn er kann jedes Jahr wieder verwendet und neu geschmückt werden.</p>",
+            "url": "shopify://collections/festtagsring-zubehor",
             "btn_name": "Geburtstagsring entdecken"
           }
         },
         "item_R3wwin": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Geschenke-Geburt-Gutschein.jpg",
+            "img": "shopify://shop_images/Infobild-Geschenke-Geburt-Gutschein.jpg",
             "title": "Gutschein",
-            "text": "<p>Die Familie soll lieber selber auswählen? Dann verschenke ganz einfach einen Herz an Herz Geschenkgutschein. Er kann im Laden oder Onlineshop eingelöst werden und ist auch für alle unsere Beratungen gültig.<\/p>",
-            "url": "shopify:\/\/collections\/gutscheine",
+            "text": "<p>Die Familie soll lieber selber auswählen? Dann verschenke ganz einfach einen Herz an Herz Geschenkgutschein. Er kann im Laden oder Onlineshop eingelöst werden und ist auch für alle unsere Beratungen gültig.</p>",
+            "url": "shopify://collections/gutscheine",
             "btn_name": "Gutschein kaufen"
           }
         }
@@ -450,30 +451,30 @@
         "item_CjqJ8J": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Slider-Bild-Wasser-UV-Bademode.jpg",
+            "img": "shopify://shop_images/Slider-Bild-Wasser-UV-Bademode.jpg",
             "title": "UV- & Bademode",
-            "text": "<p>Guter UV-Schutz ist gerade am Wasser wichtig. Daher findest du bei uns UV-Mode und dazu passende Wasserschuhe. Und kennst du schon die praktischen Badewindeln aus Stoff?<\/p>",
-            "url": "shopify:\/\/collections\/uv-bademode",
+            "text": "<p>Guter UV-Schutz ist gerade am Wasser wichtig. Daher findest du bei uns UV-Mode und dazu passende Wasserschuhe. Und kennst du schon die praktischen Badewindeln aus Stoff?</p>",
+            "url": "shopify://collections/uv-bademode",
             "btn_name": "Bademode & Badewindeln"
           }
         },
         "item_JY7qQY": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Slider-Bild-Wasser-Poncho.jpg",
+            "img": "shopify://shop_images/Slider-Bild-Wasser-Poncho.jpg",
             "title": "UV-Ponchos",
-            "text": "<p>Ein tolles Accessoire für Badi, Strand, Garten (und natürlich auch fürs Hallenbad) ist dieser praktische UV-Poncho aus kuschlig weichem Bambus-Baumwoll-Gemisch. Er schützt das Kind beim Spielen vor der Sonne und hält nach dem Baden kuschlig warm.<\/p>",
-            "url": "shopify:\/\/products\/uv-poncho",
+            "text": "<p>Ein tolles Accessoire für Badi, Strand, Garten (und natürlich auch fürs Hallenbad) ist dieser praktische UV-Poncho aus kuschlig weichem Bambus-Baumwoll-Gemisch. Er schützt das Kind beim Spielen vor der Sonne und hält nach dem Baden kuschlig warm.</p>",
+            "url": "shopify://products/uv-poncho",
             "btn_name": "UV-Ponchos"
           }
         },
         "item_RWxmUj": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Slider-Bild-Wasser-Wasserspielzeug.jpg",
+            "img": "shopify://shop_images/Slider-Bild-Wasser-Wasserspielzeug.jpg",
             "title": "Wasserspielzeug",
-            "text": "<p>Hast du gewusst, dass Badespielzeug aus Plastik kleine Mikroplatstik-Partikel ins Wasser abgibt? Mit unserem Badespielzeug aus Naturkautschuk oder Silikon lässt sich das vermeiden. Und das Spielen macht genauso viel Spass!<\/p>",
-            "url": "shopify:\/\/collections\/wasser-badespielzeug",
+            "text": "<p>Hast du gewusst, dass Badespielzeug aus Plastik kleine Mikroplatstik-Partikel ins Wasser abgibt? Mit unserem Badespielzeug aus Naturkautschuk oder Silikon lässt sich das vermeiden. Und das Spielen macht genauso viel Spass!</p>",
+            "url": "shopify://collections/wasser-badespielzeug",
             "btn_name": "Zum Badespielzeug"
           }
         }
@@ -495,30 +496,30 @@
         "item_VrDnVb": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
+            "img": "shopify://shop_images/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
             "title": "Erste Schühchen",
-            "text": "<p>Bei Füssen, die sich noch im Wachstum befinden, ist es besonders wichtig, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Babyschuhen berücksichtigt das. Sie sind weich, flexibel und erfüllen alle Kriterien eines Barfuss-Schuhs.<\/p>",
-            "url": "shopify:\/\/collections\/erste-schuhchen",
+            "text": "<p>Bei Füssen, die sich noch im Wachstum befinden, ist es besonders wichtig, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Babyschuhen berücksichtigt das. Sie sind weich, flexibel und erfüllen alle Kriterien eines Barfuss-Schuhs.</p>",
+            "url": "shopify://collections/erste-schuhchen",
             "btn_name": "Babyschuhe entdecken"
           }
         },
         "item_qcaWnE": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
+            "img": "shopify://shop_images/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
             "title": "Barfuss-Übergangs-Schuhe",
-            "text": "<p>Entdecke unsere Auswahl an praktischen Alltagsschuhen für Kinder, die Komfort und natürliche Bewegungsfreiheit bieten. Wir führen klassische Modelle aus Leder, aber auch vegane Modelle. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.<\/p>",
-            "url": "shopify:\/\/collections\/halb-turnschuhe",
+            "text": "<p>Entdecke unsere Auswahl an praktischen Alltagsschuhen für Kinder, die Komfort und natürliche Bewegungsfreiheit bieten. Wir führen klassische Modelle aus Leder, aber auch vegane Modelle. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
+            "url": "shopify://collections/halb-turnschuhe",
             "btn_name": "Zu den Halb- & Turnschuhen"
           }
         },
         "item_RKNkGi": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Slider-Bild-Barfuss-Schuhe-Warum.jpg",
+            "img": "shopify://shop_images/Slider-Bild-Barfuss-Schuhe-Warum.jpg",
             "title": "Warum Barfuss-Schuhe?",
-            "text": "<p>Anders als herkömmliche Schuhe, die oft stark gepolstert und stützend sind, sind Barfuss-Schuhe darauf ausgelegt, die natürliche Bewegung der Füsse zu fördern und die Füsse so zu trainieren, wie es die Evolution vorgesehen hat. Erfahre hier alles was du zum Thema wissen musst.<\/p>",
-            "url": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
+            "text": "<p>Anders als herkömmliche Schuhe, die oft stark gepolstert und stützend sind, sind Barfuss-Schuhe darauf ausgelegt, die natürliche Bewegung der Füsse zu fördern und die Füsse so zu trainieren, wie es die Evolution vorgesehen hat. Erfahre hier alles was du zum Thema wissen musst.</p>",
+            "url": "shopify://pages/barfuss-schuhe-fur-kinder",
             "btn_name": "Zur Infoseite"
           }
         },
@@ -526,10 +527,10 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
+            "img": "shopify://shop_images/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
             "title": "Wollkleidung von Disana",
-            "text": "<p>Disana ist DIE Marke, wenn es um funktionale Wollkleidung geht. Wolle passt sich schwankenden Temperaturen perfekt an und hält die Körpertemperatur konstant. Das Kind fühlt sich bei jedem Wetter genau richtig warm.<\/p>",
-            "url": "shopify:\/\/collections\/disana-herbst-winter",
+            "text": "<p>Disana ist DIE Marke, wenn es um funktionale Wollkleidung geht. Wolle passt sich schwankenden Temperaturen perfekt an und hält die Körpertemperatur konstant. Das Kind fühlt sich bei jedem Wetter genau richtig warm.</p>",
+            "url": "shopify://collections/disana-herbst-winter",
             "btn_name": "Zu Disana"
           }
         },
@@ -537,10 +538,10 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-ErsteSchuhe.jpg",
+            "img": "shopify://shop_images/Infobild-ErsteSchuhe.jpg",
             "title": "Warme Barfuss-Schuhe",
-            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.<\/p>",
-            "url": "shopify:\/\/collections\/warme-schuhe",
+            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.</p>",
+            "url": "shopify://collections/warme-schuhe",
             "btn_name": "Warme Barfuss-Schuhe"
           }
         },
@@ -548,10 +549,10 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/Collection-Kindermode-Muetzen.jpg",
+            "img": "shopify://shop_images/Collection-Kindermode-Muetzen.jpg",
             "title": "Mützen",
-            "text": "<p>Über den Kopf geht viel Wärme verloren. Eine Mütze ist bei kühlem Wetter daher sehr wichtig. Mützen aus Wolle halten die Temperatur angenehm warm. Neu eingetroffen sind auch die beliebten Schlupfmützen von ManyMonths.<\/p>",
-            "url": "shopify:\/\/collections\/mutzen-stirnbander",
+            "text": "<p>Über den Kopf geht viel Wärme verloren. Eine Mütze ist bei kühlem Wetter daher sehr wichtig. Mützen aus Wolle halten die Temperatur angenehm warm. Neu eingetroffen sind auch die beliebten Schlupfmützen von ManyMonths.</p>",
+            "url": "shopify://collections/mutzen-stirnbander",
             "btn_name": "Mützen & Stirnbänder"
           }
         },
@@ -559,10 +560,10 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/Collection-Kindermode-Strumphosen-socken.jpg",
+            "img": "shopify://shop_images/Collection-Kindermode-Strumphosen-socken.jpg",
             "title": "Strumpfhosen & Socken aus Wolle",
-            "text": "<p>Wenn es draussen kalt ist, eignen sich als erste Kleidungsschicht Strumpfhosen aus Wolle super! Und an die Füsse Wollsocken: Sie geben warm und verhindern Schweissfüsse.<\/p>",
-            "url": "shopify:\/\/collections\/strumpfhosen-stulpen-socken",
+            "text": "<p>Wenn es draussen kalt ist, eignen sich als erste Kleidungsschicht Strumpfhosen aus Wolle super! Und an die Füsse Wollsocken: Sie geben warm und verhindern Schweissfüsse.</p>",
+            "url": "shopify://collections/strumpfhosen-stulpen-socken",
             "btn_name": "Strumpfis & Co"
           }
         }
@@ -587,19 +588,19 @@
         "51d92569-a148-4073-8870-43b954beb646": {
           "type": "article",
           "settings": {
-            "article": "news\/lorem-ipsum-dolor-sit-amet-consectetur-mauris-nisi-justo"
+            "article": "news/lorem-ipsum-dolor-sit-amet-consectetur-mauris-nisi-justo"
           }
         },
         "8841ccf8-b43a-498c-ac79-5c2f4daf6a48": {
           "type": "article",
           "settings": {
-            "article": "news\/lorem-ipsum-dolor-sit-amet-consectetur-mauris-nisi-justo"
+            "article": "news/lorem-ipsum-dolor-sit-amet-consectetur-mauris-nisi-justo"
           }
         },
         "9b334d10-0974-47d1-82e6-eff83fc39c2c": {
           "type": "article",
           "settings": {
-            "article": "news\/lorem-ipsum-dolor-sit-amet-consectetur-mauris-nisi-justo"
+            "article": "news/lorem-ipsum-dolor-sit-amet-consectetur-mauris-nisi-justo"
           }
         },
         "article_kTeKgz": {
@@ -611,7 +612,7 @@
         "14846c52-4041-4370-9399-ba4592d3f4ae": {
           "type": "article",
           "settings": {
-            "article": "news\/lorem-ipsum-dolor-sit-amet-consectetur-mauris-nisi-justo"
+            "article": "news/lorem-ipsum-dolor-sit-amet-consectetur-mauris-nisi-justo"
           }
         }
       },
@@ -628,7 +629,7 @@
         "text_color": "#00281d",
         "name": "Blog",
         "btn_text": "Go to our blog",
-        "btn_url": "shopify:\/\/blogs\/news"
+        "btn_url": "shopify://blogs/news"
       }
     },
     "9c9bf7b0-233a-4e77-bba3-785994bab770": {
@@ -637,25 +638,25 @@
         "9b58f64f-ffba-4c57-bda0-068ecad80d39": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/icon.png",
+            "img": "shopify://shop_images/icon.png",
             "title": "Nachhaltig",
-            "text": "<p>Wir legen grossen Wert auf Nachhaltigkeit. Unsere Produkte sind langlebig und umweltfreundlich, damit du nicht nur das Beste für dein Baby, sondern auch für die Umwelt wählst.<\/p>"
+            "text": "<p>Wir legen grossen Wert auf Nachhaltigkeit. Unsere Produkte sind langlebig und umweltfreundlich, damit du nicht nur das Beste für dein Baby, sondern auch für die Umwelt wählst.</p>"
           }
         },
         "ceeb4f44-cb89-4599-beb6-04e7a4658e41": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/icon_2.png",
+            "img": "shopify://shop_images/icon_2.png",
             "title": "Artgerecht",
-            "text": "<p>Unser Fokus liegt auf einem liebevollen, bedürfnisorientierten Umgang mit Kindern. Unsere Produkte und Beratungen fördern die natürliche Entwicklung deines Kindes.<\/p>"
+            "text": "<p>Unser Fokus liegt auf einem liebevollen, bedürfnisorientierten Umgang mit Kindern. Unsere Produkte und Beratungen fördern die natürliche Entwicklung deines Kindes.</p>"
           }
         },
         "3bf6ba22-b7eb-40dc-b069-d5133591fbc0": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/icon_1.png",
+            "img": "shopify://shop_images/icon_1.png",
             "title": "Lokal",
-            "text": "<p>Wir bevorzugen lokale Produzenten. Damit unterstützen wir nicht nur die Gemeinschaft, sondern bieten bestmögliche Qualität und verhindern unnötige Transportemissionen.<\/p>"
+            "text": "<p>Wir bevorzugen lokale Produzenten. Damit unterstützen wir nicht nur die Gemeinschaft, sondern bieten bestmögliche Qualität und verhindern unnötige Transportemissionen.</p>"
           }
         }
       },
@@ -666,8 +667,8 @@
       ],
       "settings": {
         "title": "Über uns",
-        "text": "<p>Herz an Herz. Das ist mehr als nur ein Geschäft - es ist eine Herzensangelegenheit. Unser Ziel ist es, mehr Natürlichkeit in die Themen Schwangerschaft, Geburt und das Leben mit Baby zurückzubringen. Unser <a href=\"\/pages\/about\" title=\"Über uns\">Team<\/a> besteht aus engagierten Fachfrauen, die sich mit Leidenschaft für dich und dein Baby einsetzen. Unser Herz schlägt im Einklang mit deinem, und wir sind hier, um dich auf deiner Reise durch Schwangerschaft, Geburt und das Leben mit deinem Baby zu begleiten.<\/p>",
-        "url": "shopify:\/\/pages\/philosophie",
+        "text": "<p>Herz an Herz. Das ist mehr als nur ein Geschäft - es ist eine Herzensangelegenheit. Unser Ziel ist es, mehr Natürlichkeit in die Themen Schwangerschaft, Geburt und das Leben mit Baby zurückzubringen. Unser <a href=\"/pages/about\" title=\"Über uns\">Team</a> besteht aus engagierten Fachfrauen, die sich mit Leidenschaft für dich und dein Baby einsetzen. Unser Herz schlägt im Einklang mit deinem, und wir sind hier, um dich auf deiner Reise durch Schwangerschaft, Geburt und das Leben mit deinem Baby zu begleiten.</p>",
+        "url": "shopify://pages/philosophie",
         "btn_name": "Mehr zu unserer Philosophie"
       }
     },
@@ -677,7 +678,7 @@
       "settings": {
         "bg": "#a25c3f",
         "text_color": "#faf8f3",
-        "icon": "shopify:\/\/shop_images\/mail-surprise.svg",
+        "icon": "shopify://shop_images/mail-surprise.svg",
         "title": "Erhalte 10% Gutschein",
         "text": "Melde dich zu unserem Newsletter"
       }
@@ -685,12 +686,12 @@
     "2ce312ca-1035-4cd3-a33b-f7ea71672691": {
       "type": "section-banner-location",
       "settings": {
-        "img": "shopify:\/\/shop_images\/image_92.jpg",
+        "img": "shopify://shop_images/image_92.jpg",
         "title": "Besuche unseren Laden in Winterthur",
         "text": "Bei uns im schweizweit grössten Laden für nachhaltige Babyprodukte findest du auf über 250m2 Fläche alles was du für eine bewusste Elternschaft brauchst. Wir bieten erstklassige Beratung, ein entspanntes Einkaufserlebnis und eine kinderfreundliche Atmosphäre.",
         "address": "Paulstrasse 5, 8400 Winterthur",
         "tel": "+41 (0)76 325 84 84",
-        "btn_url": "https:\/\/www.herzanherz.ch\/laden\/%C3%B6ffnungszeiten-anfahrt\/"
+        "btn_url": "https://www.herzanherz.ch/laden/%C3%B6ffnungszeiten-anfahrt/"
       }
     }
   },

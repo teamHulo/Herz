@@ -231,6 +231,7 @@
         "item_yrPzyC",
         "item_bPf7kc"
       ],
+      "disabled": true,
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Alles für entspannte Spätsommertage"
@@ -359,7 +360,6 @@
         "item_kfnk9a",
         "item_ENeina"
       ],
-      "disabled": true,
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Babys Erstausstattung"

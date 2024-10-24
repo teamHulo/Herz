@@ -502,39 +502,8 @@
             "btn_name": "Warme Barfuss-Schuhe"
           }
         },
-        "item_VrDnVb": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
-            "title": "Erste Schühchen",
-            "text": "<p>Bei Füssen, die sich noch im Wachstum befinden, ist es besonders wichtig, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Babyschuhen berücksichtigt das. Sie sind weich, flexibel und erfüllen alle Kriterien eines Barfuss-Schuhs.</p>",
-            "url": "shopify://collections/erste-schuhchen",
-            "btn_name": "Babyschuhe entdecken"
-          }
-        },
-        "item_RKNkGi": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Barfuss-Schuhe-Warum.jpg",
-            "title": "Warum Barfuss-Schuhe?",
-            "text": "<p>Anders als herkömmliche Schuhe, die oft stark gepolstert und stützend sind, sind Barfuss-Schuhe darauf ausgelegt, die natürliche Bewegung der Füsse zu fördern und die Füsse so zu trainieren, wie es die Evolution vorgesehen hat. Erfahre hier alles was du zum Thema wissen musst.</p>",
-            "url": "shopify://pages/barfuss-schuhe-fur-kinder",
-            "btn_name": "Zur Infoseite"
-          }
-        },
-        "item_qcaWnE": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
-            "title": "Barfuss-Übergangs-Schuhe",
-            "text": "<p>Entdecke unsere Auswahl an praktischen Alltagsschuhen für Kinder, die Komfort und natürliche Bewegungsfreiheit bieten. Wir führen klassische Modelle aus Leder, aber auch vegane Modelle. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
-            "url": "shopify://collections/halb-turnschuhe",
-            "btn_name": "Zu den Halb- & Turnschuhen"
-          }
-        },
         "item_z66qYR": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
             "title": "Wollkleidung von Disana",
@@ -545,7 +514,6 @@
         },
         "item_DYBGiU": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Collection-Kindermode-Muetzen.jpg",
             "title": "Mützen",
@@ -556,7 +524,6 @@
         },
         "item_PbJV4p": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Collection-Kindermode-Strumphosen-socken.jpg",
             "title": "Strumpfhosen & Socken aus Wolle",
@@ -564,16 +531,49 @@
             "url": "shopify://collections/strumpfhosen-stulpen-socken",
             "btn_name": "Strumpfis & Co"
           }
+        },
+        "item_VrDnVb": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
+            "title": "Erste Schühchen",
+            "text": "<p>Bei Füssen, die sich noch im Wachstum befinden, ist es besonders wichtig, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Babyschuhen berücksichtigt das. Sie sind weich, flexibel und erfüllen alle Kriterien eines Barfuss-Schuhs.</p>",
+            "url": "shopify://collections/erste-schuhchen",
+            "btn_name": "Babyschuhe entdecken"
+          }
+        },
+        "item_RKNkGi": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Barfuss-Schuhe-Warum.jpg",
+            "title": "Warum Barfuss-Schuhe?",
+            "text": "<p>Anders als herkömmliche Schuhe, die oft stark gepolstert und stützend sind, sind Barfuss-Schuhe darauf ausgelegt, die natürliche Bewegung der Füsse zu fördern und die Füsse so zu trainieren, wie es die Evolution vorgesehen hat. Erfahre hier alles was du zum Thema wissen musst.</p>",
+            "url": "shopify://pages/barfuss-schuhe-fur-kinder",
+            "btn_name": "Zur Infoseite"
+          }
+        },
+        "item_qcaWnE": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
+            "title": "Barfuss-Übergangs-Schuhe",
+            "text": "<p>Entdecke unsere Auswahl an praktischen Alltagsschuhen für Kinder, die Komfort und natürliche Bewegungsfreiheit bieten. Wir führen klassische Modelle aus Leder, aber auch vegane Modelle. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
+            "url": "shopify://collections/halb-turnschuhe",
+            "btn_name": "Zu den Halb- & Turnschuhen"
+          }
         }
       },
       "block_order": [
         "item_MDJQWT",
-        "item_VrDnVb",
-        "item_RKNkGi",
-        "item_qcaWnE",
         "item_z66qYR",
         "item_DYBGiU",
-        "item_PbJV4p"
+        "item_PbJV4p",
+        "item_VrDnVb",
+        "item_RKNkGi",
+        "item_qcaWnE"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",

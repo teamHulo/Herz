@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
@@ -492,6 +492,16 @@
     "section_our_aLKHkd": {
       "type": "section-our",
       "blocks": {
+        "item_MDJQWT": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-ErsteSchuhe.jpg",
+            "title": "Warme Barfuss-Schuhe",
+            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.</p>",
+            "url": "shopify://collections/warme-schuhe",
+            "btn_name": "Warme Barfuss-Schuhe"
+          }
+        },
         "item_VrDnVb": {
           "type": "item",
           "settings": {
@@ -500,16 +510,6 @@
             "text": "<p>Bei Füssen, die sich noch im Wachstum befinden, ist es besonders wichtig, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Babyschuhen berücksichtigt das. Sie sind weich, flexibel und erfüllen alle Kriterien eines Barfuss-Schuhs.</p>",
             "url": "shopify://collections/erste-schuhchen",
             "btn_name": "Babyschuhe entdecken"
-          }
-        },
-        "item_qcaWnE": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
-            "title": "Barfuss-Übergangs-Schuhe",
-            "text": "<p>Entdecke unsere Auswahl an praktischen Alltagsschuhen für Kinder, die Komfort und natürliche Bewegungsfreiheit bieten. Wir führen klassische Modelle aus Leder, aber auch vegane Modelle. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
-            "url": "shopify://collections/halb-turnschuhe",
-            "btn_name": "Zu den Halb- & Turnschuhen"
           }
         },
         "item_RKNkGi": {
@@ -522,6 +522,16 @@
             "btn_name": "Zur Infoseite"
           }
         },
+        "item_qcaWnE": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
+            "title": "Barfuss-Übergangs-Schuhe",
+            "text": "<p>Entdecke unsere Auswahl an praktischen Alltagsschuhen für Kinder, die Komfort und natürliche Bewegungsfreiheit bieten. Wir führen klassische Modelle aus Leder, aber auch vegane Modelle. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
+            "url": "shopify://collections/halb-turnschuhe",
+            "btn_name": "Zu den Halb- & Turnschuhen"
+          }
+        },
         "item_z66qYR": {
           "type": "item",
           "disabled": true,
@@ -531,17 +541,6 @@
             "text": "<p>Disana ist DIE Marke, wenn es um funktionale Wollkleidung geht. Wolle passt sich schwankenden Temperaturen perfekt an und hält die Körpertemperatur konstant. Das Kind fühlt sich bei jedem Wetter genau richtig warm.</p>",
             "url": "shopify://collections/disana-herbst-winter",
             "btn_name": "Zu Disana"
-          }
-        },
-        "item_MDJQWT": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Infobild-ErsteSchuhe.jpg",
-            "title": "Warme Barfuss-Schuhe",
-            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.</p>",
-            "url": "shopify://collections/warme-schuhe",
-            "btn_name": "Warme Barfuss-Schuhe"
           }
         },
         "item_DYBGiU": {
@@ -568,11 +567,11 @@
         }
       },
       "block_order": [
-        "item_VrDnVb",
-        "item_qcaWnE",
-        "item_RKNkGi",
-        "item_z66qYR",
         "item_MDJQWT",
+        "item_VrDnVb",
+        "item_RKNkGi",
+        "item_qcaWnE",
+        "item_z66qYR",
         "item_DYBGiU",
         "item_PbJV4p"
       ],

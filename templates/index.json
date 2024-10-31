@@ -392,16 +392,6 @@
     "section_slider_ennB3g": {
       "type": "section-slider",
       "blocks": {
-        "item_wD89en": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Tragejacken2.jpg",
-            "title": "Tragejacken fürs ganze Jahr",
-            "text": "<p>Du möchtest eine Umstands- & Tragejacke, die du das ganze Jahr über verwenden kannst? Dann wähle eine Softshelljacke oder einen leichten Mantel.</p>",
-            "url": "shopify://collections/tragejacken-furs-ganze-jahr",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
         "item_R3wwin": {
           "type": "item",
           "settings": {
@@ -412,22 +402,32 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_wD89en": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Tragejacken2.jpg",
+            "title": "Tragejacken fürs ganze Jahr",
+            "text": "<p>Du möchtest eine Umstands- & Tragejacke, die du das ganze Jahr über verwenden kannst? Dann wähle eine Softshelljacke oder einen leichten Mantel.</p>",
+            "url": "shopify://collections/tragejacken-furs-ganze-jahr",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_qgKpyG": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/Infobild-Erstausstattung-Schlafen.jpg",
-            "title": "Erstausstattung",
-            "text": "<p>Möchtest du etwas für die Erstausstattung verschenken, dann wähle etwas, das über längere Zeit Freude macht, mit dem Baby mitwächst und nebenbei noch extra Komfort bietet wie unsere Kleidung aus Wolle oder Seide; sie hält die Temperatur konstant, ist antibakteriell und muss selten gewaschen werden.</p>",
-            "url": "shopify://pages/erstausstattung",
-            "btn_name": "Was gehört zur Erstausstattung?"
+            "img": "shopify://shop_images/Infobild-Tragejacke-Papa.jpg",
+            "title": "Tragejacken für Männer",
+            "text": "<p>Auch Väter sollen ihr Baby warm und kuschlig tragen dürfen. Wähle zwischen Hoodies, Softshell-Jacken oder Wintermänteln für Männer.</p>",
+            "url": "shopify://collections/tragejacken-fur-mannertragejacken-fur-manner",
+            "btn_name": "Jetzt entdecken"
           }
         },
         "item_EVEypg": {
           "type": "item",
           "settings": {
             "img": "shopify://shop_images/Infobild-Tragen-Elastisches-Tuch.jpg",
-            "title": "Trageberatung",
-            "text": "<p>Gerade, wenn man zum ersten Mal Eltern wird, wird man mit vielen Fragen konfrontiert - und oft mit ebensovielen Meinungen. Wir von Herz an Herz zeigen jungen Eltern, wie der natürliche Umgang mit dem Baby das Leben erleichtern kann. Verschenke eine Beratung bei unseren Fachfrauen.</p>",
+            "title": "Leichte Umstands- und Tragejacken",
+            "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.</p>",
             "url": "https://www.herzanherz.ch/beratungen/",
             "btn_name": "Unsere Beratungen"
           }
@@ -444,8 +444,8 @@
         }
       },
       "block_order": [
-        "item_wD89en",
         "item_R3wwin",
+        "item_wD89en",
         "item_qgKpyG",
         "item_EVEypg",
         "item_g3hRCz"

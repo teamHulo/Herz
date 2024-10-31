@@ -425,21 +425,11 @@
         "item_EVEypg": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/Infobild-Tragen-Elastisches-Tuch.jpg",
+            "img": "shopify://shop_images/Section-Slider_Tragen-Hoodie.jpg",
             "title": "Leichte Umstands- und Tragejacken",
             "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.</p>",
-            "url": "https://www.herzanherz.ch/beratungen/",
-            "btn_name": "Unsere Beratungen"
-          }
-        },
-        "item_g3hRCz": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Geschenke-Geburt-Wochenbettkorb.jpg",
-            "title": "Wochenbettkorb",
-            "text": "<p>In der Zeit nach der Geburt ist für Mama und Baby schonen angesagt. Der Körper muss sich erholen, die Beziehung zum Baby darf sich entfalten, der neue Alltag sich sanft einpendeln. Verschenke einen Korb voller nährender Produkte für diese erste Zeit mit dem Baby.</p>",
-            "url": "shopify://collections/geschenke-fur-den-wochenbettkorb",
-            "btn_name": "Wochenbettkorb füllen"
+            "url": "shopify://collections/leichte-umstands-tragejacken",
+            "btn_name": "Jetzt entdecken"
           }
         }
       },
@@ -447,8 +437,7 @@
         "item_R3wwin",
         "item_wD89en",
         "item_qgKpyG",
-        "item_EVEypg",
-        "item_g3hRCz"
+        "item_EVEypg"
       ],
       "settings": {
       }

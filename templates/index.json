@@ -386,7 +386,7 @@
     "section_full_image_EqfEhU": {
       "type": "section-full-image",
       "settings": {
-        "img": "shopify://shop_images/Section-Full-Image_Geschenke-Geburt.jpg"
+        "img": "shopify://shop_images/Section-Full-Image_Mamalila-Tragejacke.jpg"
       }
     },
     "section_slider_ennB3g": {
@@ -395,11 +395,11 @@
         "item_R3wwin": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/Infobild-Geschenke-Geburt-Gutschein.jpg",
-            "title": "Gutschein",
-            "text": "<p>Die Familie soll lieber selber auswählen? Dann verschenke ganz einfach einen Herz an Herz Geschenkgutschein. Er kann im Laden oder Onlineshop eingelöst werden und ist auch für alle unsere Beratungen gültig.</p>",
-            "url": "shopify://collections/gutscheine",
-            "btn_name": "Gutschein kaufen"
+            "img": "shopify://shop_images/Infobild-Tragejacken5.jpg",
+            "title": "Warme Umstands- und Tragejacken",
+            "text": "<p>Für richtig kalte Tage bist du mit einer sportlichen, funktionalen Winterjacke oder einem schicken Wollmantel gut gerüstet. Die Jacke kannst du auch ohne Baby verwenden.</p>",
+            "url": "shopify://collections/warme-umstands-tragejacken",
+            "btn_name": "Jetzt entdecken"
           }
         },
         "item_wD89en": {

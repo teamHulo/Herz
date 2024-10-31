@@ -377,10 +377,10 @@
     "section_with_text_btn_ECAitC": {
       "type": "section-with-text-btn",
       "settings": {
-        "title": "Geschenke zur Geburt",
-        "text": "<p>Du bist auf der Suche nach einem passenden Geschenk für frischgebackene junge Familien? Wir zeigen dir, worauf es ankommt und haben unsere besten Ideen für dich zusammengestellt.</p>",
-        "url": "shopify://pages/geschenke-zur-geburt",
-        "btn_name": "Zu den Geschenkideen"
+        "title": "Tragen im Herbst & Winter",
+        "text": "<p>Beim Tragen profitiert dein Baby direkt von deiner Körperwärme. Damit ihr auch bei kühlerem Wetter gut angezogen seid, gibt es Tragejacken und -pullis, die den Wärmeaustausch optimal unterstützen.</p>",
+        "url": "shopify://pages/tragen-im-herbst-und-winter",
+        "btn_name": "Mehr zum Thema erfahren"
       }
     },
     "section_full_image_EqfEhU": {
@@ -392,34 +392,14 @@
     "section_slider_ennB3g": {
       "type": "section-slider",
       "blocks": {
-        "item_g3hRCz": {
+        "item_R3wwin": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/Infobild-Geschenke-Geburt-Wochenbettkorb.jpg",
-            "title": "Wochenbettkorb",
-            "text": "<p>In der Zeit nach der Geburt ist für Mama und Baby schonen angesagt. Der Körper muss sich erholen, die Beziehung zum Baby darf sich entfalten, der neue Alltag sich sanft einpendeln. Verschenke einen Korb voller nährender Produkte für diese erste Zeit mit dem Baby.</p>",
-            "url": "shopify://collections/geschenke-fur-den-wochenbettkorb",
-            "btn_name": "Wochenbettkorb füllen"
-          }
-        },
-        "item_EVEypg": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Tragen-Elastisches-Tuch.jpg",
-            "title": "Trageberatung",
-            "text": "<p>Gerade, wenn man zum ersten Mal Eltern wird, wird man mit vielen Fragen konfrontiert - und oft mit ebensovielen Meinungen. Wir von Herz an Herz zeigen jungen Eltern, wie der natürliche Umgang mit dem Baby das Leben erleichtern kann. Verschenke eine Beratung bei unseren Fachfrauen.</p>",
-            "url": "https://www.herzanherz.ch/beratungen/",
-            "btn_name": "Unsere Beratungen"
-          }
-        },
-        "item_qgKpyG": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Erstausstattung-Schlafen.jpg",
-            "title": "Erstausstattung",
-            "text": "<p>Möchtest du etwas für die Erstausstattung verschenken, dann wähle etwas, das über längere Zeit Freude macht, mit dem Baby mitwächst und nebenbei noch extra Komfort bietet wie unsere Kleidung aus Wolle oder Seide; sie hält die Temperatur konstant, ist antibakteriell und muss selten gewaschen werden.</p>",
-            "url": "shopify://pages/erstausstattung",
-            "btn_name": "Was gehört zur Erstausstattung?"
+            "img": "shopify://shop_images/Infobild-Geschenke-Geburt-Gutschein.jpg",
+            "title": "Gutschein",
+            "text": "<p>Die Familie soll lieber selber auswählen? Dann verschenke ganz einfach einen Herz an Herz Geschenkgutschein. Er kann im Laden oder Onlineshop eingelöst werden und ist auch für alle unsere Beratungen gültig.</p>",
+            "url": "shopify://collections/gutscheine",
+            "btn_name": "Gutschein kaufen"
           }
         },
         "item_wD89en": {
@@ -432,23 +412,43 @@
             "btn_name": "Geburtstagsring entdecken"
           }
         },
-        "item_R3wwin": {
+        "item_qgKpyG": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/Infobild-Geschenke-Geburt-Gutschein.jpg",
-            "title": "Gutschein",
-            "text": "<p>Die Familie soll lieber selber auswählen? Dann verschenke ganz einfach einen Herz an Herz Geschenkgutschein. Er kann im Laden oder Onlineshop eingelöst werden und ist auch für alle unsere Beratungen gültig.</p>",
-            "url": "shopify://collections/gutscheine",
-            "btn_name": "Gutschein kaufen"
+            "img": "shopify://shop_images/Infobild-Erstausstattung-Schlafen.jpg",
+            "title": "Erstausstattung",
+            "text": "<p>Möchtest du etwas für die Erstausstattung verschenken, dann wähle etwas, das über längere Zeit Freude macht, mit dem Baby mitwächst und nebenbei noch extra Komfort bietet wie unsere Kleidung aus Wolle oder Seide; sie hält die Temperatur konstant, ist antibakteriell und muss selten gewaschen werden.</p>",
+            "url": "shopify://pages/erstausstattung",
+            "btn_name": "Was gehört zur Erstausstattung?"
+          }
+        },
+        "item_EVEypg": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Tragen-Elastisches-Tuch.jpg",
+            "title": "Trageberatung",
+            "text": "<p>Gerade, wenn man zum ersten Mal Eltern wird, wird man mit vielen Fragen konfrontiert - und oft mit ebensovielen Meinungen. Wir von Herz an Herz zeigen jungen Eltern, wie der natürliche Umgang mit dem Baby das Leben erleichtern kann. Verschenke eine Beratung bei unseren Fachfrauen.</p>",
+            "url": "https://www.herzanherz.ch/beratungen/",
+            "btn_name": "Unsere Beratungen"
+          }
+        },
+        "item_g3hRCz": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Geschenke-Geburt-Wochenbettkorb.jpg",
+            "title": "Wochenbettkorb",
+            "text": "<p>In der Zeit nach der Geburt ist für Mama und Baby schonen angesagt. Der Körper muss sich erholen, die Beziehung zum Baby darf sich entfalten, der neue Alltag sich sanft einpendeln. Verschenke einen Korb voller nährender Produkte für diese erste Zeit mit dem Baby.</p>",
+            "url": "shopify://collections/geschenke-fur-den-wochenbettkorb",
+            "btn_name": "Wochenbettkorb füllen"
           }
         }
       },
       "block_order": [
-        "item_g3hRCz",
-        "item_EVEypg",
-        "item_qgKpyG",
+        "item_R3wwin",
         "item_wD89en",
-        "item_R3wwin"
+        "item_qgKpyG",
+        "item_EVEypg",
+        "item_g3hRCz"
       ],
       "settings": {
       }

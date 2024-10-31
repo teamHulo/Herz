@@ -315,16 +315,6 @@
             "btn_name": "Paarzeit verbringen"
           }
         },
-        "item_dK9gcB": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Advent-Wichteltuer.jpg",
-            "title": "Wichteltürchen",
-            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!</p>",
-            "url": "shopify://collections/wichtelzauber",
-            "btn_name": "Wichtel einladen"
-          }
-        },
         "item_pdmF6i": {
           "type": "item",
           "settings": {
@@ -333,16 +323,6 @@
             "text": "<p>Feste & Rituale sind für Kinder wichtig für die Orientierung im Jahr. Um die Zeit bis Weihnachten sichtbar zu machen, könnt ihr eine Adventsspirale verwenden. Viele weitere Ideen findest du auf unserer Wissensseite dazu.</p>",
             "url": "shopify://pages/themenseite",
             "btn_name": "Adventsrituale"
-          }
-        },
-        "item_ENeina": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Advent-Kalender.jpg",
-            "title": "Adventskalender für Kinder",
-            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente? Oder einem Türchen-Kalender ohne Zahlen?</p>",
-            "url": "shopify://collections/adventskalender",
-            "btn_name": "Adventskalender"
           }
         },
         "item_jXDWYz": {
@@ -354,6 +334,26 @@
             "url": "shopify://pages/weihnachtsgeschenke-guide",
             "btn_name": "Inspirieren lassen"
           }
+        },
+        "item_dK9gcB": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Advent-Wichteltuer.jpg",
+            "title": "Wichteltürchen",
+            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!</p>",
+            "url": "shopify://collections/wichtelzauber",
+            "btn_name": "Wichtel einladen"
+          }
+        },
+        "item_ENeina": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Advent-Kalender.jpg",
+            "title": "Adventskalender für Kinder",
+            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente? Oder einem Türchen-Kalender ohne Zahlen?</p>",
+            "url": "shopify://collections/adventskalender",
+            "btn_name": "Adventskalender"
+          }
         }
       },
       "block_order": [
@@ -364,10 +364,10 @@
         "item_DL76rn",
         "item_RDJDVL",
         "item_kfnk9a",
-        "item_dK9gcB",
         "item_pdmF6i",
-        "item_ENeina",
-        "item_jXDWYz"
+        "item_jXDWYz",
+        "item_dK9gcB",
+        "item_ENeina"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",

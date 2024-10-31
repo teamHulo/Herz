@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -13,7 +22,7 @@
       "settings": {
         "padding_top": 60,
         "padding_bottom": 60,
-        "logo": "shopify:\/\/shop_images\/Group.png",
+        "logo": "shopify://shop_images/Group.png",
         "title": "Weihnachtsgeschenke-Guide",
         "text": "",
         "max_width": 1050
@@ -25,7 +34,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h4>Geschenke, die Freude machen<\/h4><p>Weihnachten steht wieder vor der Tür, und damit die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.<\/p><p>Du findest hier:<\/p><ul><li>Tolles für euer Zuhause<\/li><li>Geschenke für stundenlanges freies Spiel<\/li><li>Lern- und Motorikspielsachen<\/li><li>Hübsche Kleinigkeiten<\/li><\/ul>",
+            "text": "<h4>Geschenke, die Freude machen</h4><p>Weihnachten steht wieder vor der Tür, und damit die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.</p><p>Du findest hier:</p><ul><li>Tolles für euer Zuhause</li><li>Geschenke für stundenlanges freies Spiel</li><li>Lern- und Motorikspielsachen</li><li>Hübsche Kleinigkeiten</li></ul>",
             "text_style": "body"
           }
         }
@@ -34,7 +43,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
+        "image": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -54,7 +63,7 @@
         "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
           "type": "text",
           "settings": {
-            "text": "<h2>Schenken mit Herz<\/h2><p>Wir sind davon überzeugt, dass richtig gute Geschenke auch das Herz und den Verstand ansprechen sollten. Im besten Fall bestehen sie aus Naturmaterialien, schonen die Umwelt, sind unbedenklich für die Gesundheit, fördern die Entwicklung der Kinder, regen die Fantasie an und machen natürlich jede Menge Spass.<\/p><p>Genau diese Art von Geschenken findest du bei uns. Wir präsentieren dir eine kleine, feine Auswahl an besonderen Geschenkideen. Bestimmt sind auch für deine kleinen Lieblinge tolle Ideen dabei.<\/p><p>Unser umfangreiches Sortiment steht online oder in unserem Laden für dich bereit. Wir freuen uns auf deinen Besuch.<\/p>"
+            "text": "<h2>Schenken mit Herz</h2><p>Wir sind davon überzeugt, dass richtig gute Geschenke auch das Herz und den Verstand ansprechen sollten. Im besten Fall bestehen sie aus Naturmaterialien, schonen die Umwelt, sind unbedenklich für die Gesundheit, fördern die Entwicklung der Kinder, regen die Fantasie an und machen natürlich jede Menge Spass.</p><p>Genau diese Art von Geschenken findest du bei uns. Wir präsentieren dir eine kleine, feine Auswahl an besonderen Geschenkideen. Bestimmt sind auch für deine kleinen Lieblinge tolle Ideen dabei.</p><p>Unser umfangreiches Sortiment steht online oder in unserem Laden für dich bereit. Wir freuen uns auf deinen Besuch.</p>"
           }
         }
       },
@@ -76,7 +85,7 @@
         "1bfb9937-fb74-4a42-90b6-2a09d3ac6ba5": {
           "type": "text",
           "settings": {
-            "text": "<h2>Tolles für euer Zuhause<\/h2><p>Darf es etwas Grösseres sein? Ein Geschenk, das über viele Jahre Freude bereitet und an dem sich vielleicht gleich mehrere Leute aus der Verwandtschaft beteiligen können? Ein Gemeinschaftsgeschenk hat viele Vorteile, denn schenken ist zwar toll, aber eine riesige \"Gschänklifluet\" überfordert viele Kinder. Oft ist es auch für Schenkende schwierig, das passende Geschenk zu wählen und sie sind froh, sich an etwas Sinnvollem beteiligen zu können.<\/p>"
+            "text": "<h2>Tolles für euer Zuhause</h2><p>Darf es etwas Grösseres sein? Ein Geschenk, das über viele Jahre Freude bereitet und an dem sich vielleicht gleich mehrere Leute aus der Verwandtschaft beteiligen können? Ein Gemeinschaftsgeschenk hat viele Vorteile, denn schenken ist zwar toll, aber eine riesige \"Gschänklifluet\" überfordert viele Kinder. Oft ist es auch für Schenkende schwierig, das passende Geschenk zu wählen und sie sind froh, sich an etwas Sinnvollem beteiligen zu können.</p>"
           }
         },
         "8aa4bfdf-a799-463e-a251-3a0ff167620a": {
@@ -110,31 +119,31 @@
         "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Swings.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Swings.jpg",
             "title": "Babyschaukeln Swings & Dreams",
-            "text": "<p>Diese coole Babyschaukel aus Stoff & Holz kannst du überall aufhängen wo du sie brauchst. Um Spass zu haben oder dein Baby kurz hinein zu setzten wenn es mal nicht auf den Boden kann. Auch grössere Kinder bis ca. 3 Jahre können darin schaukeln. Bis zu 25 kg Gewicht hält die robuste Schaukel aus. So bleibt die Schaukel über viele Jahre hinweg ein beliebtes Spielgerät bei Gross & Klein.<\/p>",
+            "text": "<p>Diese coole Babyschaukel aus Stoff & Holz kannst du überall aufhängen wo du sie brauchst. Um Spass zu haben oder dein Baby kurz hinein zu setzten wenn es mal nicht auf den Boden kann. Auch grössere Kinder bis ca. 3 Jahre können darin schaukeln. Bis zu 25 kg Gewicht hält die robuste Schaukel aus. So bleibt die Schaukel über viele Jahre hinweg ein beliebtes Spielgerät bei Gross & Klein.</p>",
             "link_label": "Schaukeln entdecken",
-            "link": "shopify:\/\/collections\/hangematten-schaukeln"
+            "link": "shopify://collections/hangematten-schaukeln"
           }
         },
         "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-ette.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-ette.jpg",
             "title": "Das modifizierbare Pikler Dreieck",
-            "text": "<p>Das Pikler Dreieck, das mehr kann: Dank einem simplen, aber genialen Mechanismus kann es modifiziert werden und viele verschiedene Formen annehmen. Zum Beispiel die M-Form, eine Brücke, ein Haus und vieles mehr. Für noch mehr Lernerfahrungen, noch mehr Spass, noch mehr Spiel! Es ermöglicht den Kindern, ihre Beweglichkeit und die motorischen Fähigkeiten zu schulen. Dank der wandelbaren Form wird es nie langweilig und dein Kind darf immer wieder neue Herausforderungen meistern. <\/p>",
+            "text": "<p>Das Pikler Dreieck, das mehr kann: Dank einem simplen, aber genialen Mechanismus kann es modifiziert werden und viele verschiedene Formen annehmen. Zum Beispiel die M-Form, eine Brücke, ein Haus und vieles mehr. Für noch mehr Lernerfahrungen, noch mehr Spass, noch mehr Spiel! Es ermöglicht den Kindern, ihre Beweglichkeit und die motorischen Fähigkeiten zu schulen. Dank der wandelbaren Form wird es nie langweilig und dein Kind darf immer wieder neue Herausforderungen meistern. </p>",
             "link_label": "Zum Kletterdreieck",
-            "link": "shopify:\/\/products\/ette-tete-kletterdreieck"
+            "link": "shopify://products/ette-tete-kletterdreieck"
           }
         },
         "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-leea.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-leea.jpg",
             "title": "Der Montessori-Spielturm par excellence",
-            "text": "<p>Dieser Learning Tower ist ein wahrer Alleskönner! Er kann als klassischer Lernturm eingesetzt werden, so dass schon die Kleinsten im Haushalt auf Augenhöhe zusehen und mitmachen können. Doch der Leea Tower kann noch viel mehr: Mit wenigen Handgriffen wird er vom Turm zum Tisch, zum Kindersitz, zur Magnet- und Kreidewand oder gar zur Rutsche.<\/p><p>Damit dein Kind all seine Fähigkeiten entwickeln, die Welt entdecken, die Motorik schulen, die Selbständigkeit entfalten, kreativ werden und seinen Wissensdurst stillen kann.<\/p>",
+            "text": "<p>Dieser Learning Tower ist ein wahrer Alleskönner! Er kann als klassischer Lernturm eingesetzt werden, so dass schon die Kleinsten im Haushalt auf Augenhöhe zusehen und mitmachen können. Doch der Leea Tower kann noch viel mehr: Mit wenigen Handgriffen wird er vom Turm zum Tisch, zum Kindersitz, zur Magnet- und Kreidewand oder gar zur Rutsche.</p><p>Damit dein Kind all seine Fähigkeiten entwickeln, die Welt entdecken, die Motorik schulen, die Selbständigkeit entfalten, kreativ werden und seinen Wissensdurst stillen kann.</p>",
             "link_label": "Zum Leea Tower",
-            "link": "shopify:\/\/collections\/learning-tower"
+            "link": "shopify://collections/learning-tower"
           }
         }
       },
@@ -166,21 +175,21 @@
         "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Brett.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Brett.jpg",
             "title": "Ein Brett für die ganze Familie",
-            "text": "<p>Das Balance Board ist kreatives Spielobjekt und vielseitiges Fitnessgerät in einem. Es regt an zu Spiel und Bewegung, fördert Körperbewusstsein und ist der perfekte Begleiter einer aktiven Lebensweise - und das für die ganze Familie!<\/p><p>Die Fantasie der Kinder kennt keine Grenzen. Deswegen gibt es für die Kleinen keine Gebrauchshinweise. Die Kinder balancieren im Stehen, kniend oder liegend. Dann verwandeln sie das Brett in eine Rutsche, eine Brücke oder sogar in ein Piratenschiff.<\/p>",
+            "text": "<p>Das Balance Board ist kreatives Spielobjekt und vielseitiges Fitnessgerät in einem. Es regt an zu Spiel und Bewegung, fördert Körperbewusstsein und ist der perfekte Begleiter einer aktiven Lebensweise - und das für die ganze Familie!</p><p>Die Fantasie der Kinder kennt keine Grenzen. Deswegen gibt es für die Kleinen keine Gebrauchshinweise. Die Kinder balancieren im Stehen, kniend oder liegend. Dann verwandeln sie das Brett in eine Rutsche, eine Brücke oder sogar in ein Piratenschiff.</p>",
             "link_label": "Das Brett entdecken",
-            "link": "shopify:\/\/products\/tictoys-das-brett"
+            "link": "shopify://products/tictoys-das-brett"
           }
         },
         "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-hoerbert.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-hoerbert.jpg",
             "title": "Der nachhaltige MP3 Player",
-            "text": "<p>Der hörbert ist ein robuster, nachhaltig produzierter Kinder-MP3-Player aus Holz. Über die bunten Knöpfe können schon die Kleinsten ganz selbständig Musik oder Hörspiele in bester Qualität geniessen. Der hörbert kann vieles: Mit Bluetooth, Aufzeichnungs-Funktion, Mikrofon, Sleep Timer und der Möglichkeit Internetradio abzuspielen bleiben keine Wünsche offen. Und das alles ohne teure Folgekosten wie Abonnements oder Lizenzen. Auf Wunsch kann der Hörbert mit dem Namen des Kindes graviert werden. <\/p>",
+            "text": "<p>Der hörbert ist ein robuster, nachhaltig produzierter Kinder-MP3-Player aus Holz. Über die bunten Knöpfe können schon die Kleinsten ganz selbständig Musik oder Hörspiele in bester Qualität geniessen. Der hörbert kann vieles: Mit Bluetooth, Aufzeichnungs-Funktion, Mikrofon, Sleep Timer und der Möglichkeit Internetradio abzuspielen bleiben keine Wünsche offen. Und das alles ohne teure Folgekosten wie Abonnements oder Lizenzen. Auf Wunsch kann der Hörbert mit dem Namen des Kindes graviert werden. </p>",
             "link_label": "Zum hörbert",
-            "link": "shopify:\/\/products\/hoerbert-mp3player"
+            "link": "shopify://products/hoerbert-mp3player"
           }
         }
       },
@@ -211,7 +220,7 @@
         "c8bf8728-5f09-4287-ad05-cc01788e7fed": {
           "type": "text",
           "settings": {
-            "text": "<h2>Geschenke für stundenlanges freies Spiel<\/h2><p>Freies Spiel ist von grosser Bedeutung für eine ganzheitliche Entwicklung von Kindern. Es fördert Kreativität, soziale Fähigkeiten und motorische Fertigkeiten, während es gleichzeitig die Vorstellungskraft und emotionale Intelligenz stärkt. Dieses unstrukturierte Spiel ermöglicht es Kindern, ihre Individualität zu entfalten und die Welt auf spielerische Weise zu erkunden.<\/p><p>Bei uns findest du Elemente aus verschiedenen naturbelassenen Materialien wie Holz, Kork oder Seide. Das ermöglicht den Kindern vielfältige haptische Erfahrungen und fördert eine tiefe Verbindung zur Natur. Gleichzeitig stellen wir so sicher, dass die Kinder nicht mit Weichmachern und anderen problematischen Chemikalien in Plastikspielzeug in Berührung kommen und auch Umwelt und Ressourcen geschont werden.<\/p>"
+            "text": "<h2>Geschenke für stundenlanges freies Spiel</h2><p>Freies Spiel ist von grosser Bedeutung für eine ganzheitliche Entwicklung von Kindern. Es fördert Kreativität, soziale Fähigkeiten und motorische Fertigkeiten, während es gleichzeitig die Vorstellungskraft und emotionale Intelligenz stärkt. Dieses unstrukturierte Spiel ermöglicht es Kindern, ihre Individualität zu entfalten und die Welt auf spielerische Weise zu erkunden.</p><p>Bei uns findest du Elemente aus verschiedenen naturbelassenen Materialien wie Holz, Kork oder Seide. Das ermöglicht den Kindern vielfältige haptische Erfahrungen und fördert eine tiefe Verbindung zur Natur. Gleichzeitig stellen wir so sicher, dass die Kinder nicht mit Weichmachern und anderen problematischen Chemikalien in Plastikspielzeug in Berührung kommen und auch Umwelt und Ressourcen geschont werden.</p>"
           }
         },
         "0bfecf33-598e-4e3c-86a3-89a08449e8e1": {
@@ -245,31 +254,31 @@
         "6b8f268a-b229-42e7-9937-e4a3652a704e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Grapat.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Grapat.jpg",
             "title": "Weltenbau mit den Holzspielsets von Grapat",
-            "text": "<p>Eine “Handvoll” Magie schenkt euch die wundervolle Marke Grapat. Diese bunten und vielfältigen Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie.<\/p><p>Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden. <\/p>",
+            "text": "<p>Eine “Handvoll” Magie schenkt euch die wundervolle Marke Grapat. Diese bunten und vielfältigen Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie.</p><p>Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden. </p>",
             "link_label": "Zu Grapat",
-            "link": "https:\/\/herzanherz-shop.ch\/collections\/all?gf_463293=Grapat"
+            "link": "https://herzanherz-shop.ch/collections/all?gf_463293=Grapat"
           }
         },
         "4aea8ba4-937d-41f4-9e40-372ec7434fad": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Grimms.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Grimms.jpg",
             "title": "Der Klassiker: Grimms Regenbogen",
-            "text": "<p>Der bunte, nachhaltig produzierte Regenbogen ist Grimms Markenzeichen und der Klassiker schlechthin, der in keinem Kinderzimmer fehlen darf. Mit diesem einfachen, schlichten Holzspielzeug sind der Fantasie keine Grenzen gesetzt. Ob Krabbelkind oder Schulkind, es finden sich immer neue, spannende Verwendungsmöglichkeiten.<\/p>",
+            "text": "<p>Der bunte, nachhaltig produzierte Regenbogen ist Grimms Markenzeichen und der Klassiker schlechthin, der in keinem Kinderzimmer fehlen darf. Mit diesem einfachen, schlichten Holzspielzeug sind der Fantasie keine Grenzen gesetzt. Ob Krabbelkind oder Schulkind, es finden sich immer neue, spannende Verwendungsmöglichkeiten.</p>",
             "link_label": "Zum Regenbogen",
-            "link": "shopify:\/\/products\/grimms-regenbogen"
+            "link": "shopify://products/grimms-regenbogen"
           }
         },
         "88aa3b98-c224-4b7c-9456-2eb5548dc0f1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Nanchen.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Nanchen.jpg",
             "title": "Eine ganz besondere Puppe",
-            "text": "<p>Puppen regen zum Nachspielen von selber erlebten Ereignissen an und bieten die Möglichkeit für vielfältige Rollenspiele. Im Gegensatz zu herkömmlichen Puppen sind unsere Waldorfpuppen aus natürlichen Materialen gemacht. Sie sind weich und nehmen die Körperwärme des Kindes an, das macht sie zu ganz besonders geliebten Begleitern. Die Gesichter geben keine Laune vor. So kann sich die Puppe sich mit dem Kind freuen oder mit dem Kind traurig sein, je nachdem welche Gefühle das Kind in dem Moment empfindet.<\/p>",
+            "text": "<p>Puppen regen zum Nachspielen von selber erlebten Ereignissen an und bieten die Möglichkeit für vielfältige Rollenspiele. Im Gegensatz zu herkömmlichen Puppen sind unsere Waldorfpuppen aus natürlichen Materialen gemacht. Sie sind weich und nehmen die Körperwärme des Kindes an, das macht sie zu ganz besonders geliebten Begleitern. Die Gesichter geben keine Laune vor. So kann sich die Puppe sich mit dem Kind freuen oder mit dem Kind traurig sein, je nachdem welche Gefühle das Kind in dem Moment empfindet.</p>",
             "link_label": "Zu den Puppen",
-            "link": "shopify:\/\/collections\/puppen-puppenzubehor"
+            "link": "shopify://collections/puppen-puppenzubehor"
           }
         }
       },
@@ -301,7 +310,7 @@
         "9541f096-bbc4-46d0-90ae-6fa51e048ac4": {
           "type": "text",
           "settings": {
-            "text": "<h2>Lern- & Motorikspielsachen<\/h2><p>Lern- und Motorikspielsachen bieten Kindern zahlreiche Vorteile. Sie fördern die kognitive Entwicklung, indem sie das Denken, die Problemlösungsfähigkeiten und die Hand-Auge-Koordination verbessern. Die Spielsachen regen die Neugier an und ermöglichen es Kindern, ihre kognitiven Fähigkeiten auf spielerische Weise zu erweitern.<\/p><p>Ausserdem unterstützen Lern- und Motorikspielsachen die physische Entwicklung, indem sie Feinmotorik und grobmotorische Fähigkeiten fördern. Sie helfen Kindern, ihre Muskulatur zu stärken und ihre Beweglichkeit zu verbessern.<\/p>"
+            "text": "<h2>Lern- & Motorikspielsachen</h2><p>Lern- und Motorikspielsachen bieten Kindern zahlreiche Vorteile. Sie fördern die kognitive Entwicklung, indem sie das Denken, die Problemlösungsfähigkeiten und die Hand-Auge-Koordination verbessern. Die Spielsachen regen die Neugier an und ermöglichen es Kindern, ihre kognitiven Fähigkeiten auf spielerische Weise zu erweitern.</p><p>Ausserdem unterstützen Lern- und Motorikspielsachen die physische Entwicklung, indem sie Feinmotorik und grobmotorische Fähigkeiten fördern. Sie helfen Kindern, ihre Muskulatur zu stärken und ihre Beweglichkeit zu verbessern.</p>"
           }
         },
         "0d68558f-155c-4133-a2cc-0e33915a4a0d": {
@@ -342,7 +351,7 @@
         "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h3>Klassisch schlicht: Wooden Story<\/h3><p>Die hochwertigen Holzspielzeuge stammen aus einem Familienbetrieb in den polnischen Beskiden. Die wunderschönen Farben aus natürlichen Pigmenten und der authentische Duft nach Holz und Bienenwachs machen diese klassischen Holzspielzeuge einzigartig.<\/p>",
+            "text": "<h3>Klassisch schlicht: Wooden Story</h3><p>Die hochwertigen Holzspielzeuge stammen aus einem Familienbetrieb in den polnischen Beskiden. Die wunderschönen Farben aus natürlichen Pigmenten und der authentische Duft nach Holz und Bienenwachs machen diese klassischen Holzspielzeuge einzigartig.</p>",
             "text_style": "body"
           }
         },
@@ -350,7 +359,7 @@
           "type": "button",
           "settings": {
             "button_label": "Wooden Story entdecken",
-            "button_link": "https:\/\/herzanherz-shop.ch\/collections\/all?gf_463293=Wooden+Story",
+            "button_link": "https://herzanherz-shop.ch/collections/all?gf_463293=Wooden+Story",
             "button_style_secondary": false
           }
         }
@@ -361,7 +370,7 @@
         "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Woodenstory.jpg",
+        "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Woodenstory.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -381,7 +390,7 @@
         "ec02349a-235e-4be1-ba07-88c22e4fac9a": {
           "type": "text",
           "settings": {
-            "text": "<h2>Hübsche Kleinigkeiten<\/h2><p>Entdecke eine Auswahl hübscher Geschenkideen. Es muss nicht immer etwas Grosses sein. Auch ganz nett ist ein kleines Mitbringsel fürs Baby, etwas zum Malen oder Kneten, ein besonderes Kleidungsstück oder etwas Praktisches für den Alltag.<\/p><p>Unsere Geschenk-Auswahl ist nicht nur hübsch, sondern auch immer nachhaltig und sinnvoll. Wo immer möglich wählen wir lokale Produzenten und kleine Unternehmen, die mit unseren Werten übereinstimmen. Verantwortungsbewusstes Schenken macht einfach noch viel mehr Freude!<\/p>"
+            "text": "<h2>Hübsche Kleinigkeiten</h2><p>Entdecke eine Auswahl hübscher Geschenkideen. Es muss nicht immer etwas Grosses sein. Auch ganz nett ist ein kleines Mitbringsel fürs Baby, etwas zum Malen oder Kneten, ein besonderes Kleidungsstück oder etwas Praktisches für den Alltag.</p><p>Unsere Geschenk-Auswahl ist nicht nur hübsch, sondern auch immer nachhaltig und sinnvoll. Wo immer möglich wählen wir lokale Produzenten und kleine Unternehmen, die mit unseren Werten übereinstimmen. Verantwortungsbewusstes Schenken macht einfach noch viel mehr Freude!</p>"
           }
         },
         "3aa39ad8-93a9-4450-9ae1-f1542d7c63a4": {
@@ -415,41 +424,41 @@
         "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Greiflinge.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Greiflinge.jpg",
             "title": "",
-            "text": "<h4>Greiflinge, Beissringe und Kuschelspielzeug<\/h4><p>Liebevolle Geschenke, die das erste Weihnachtsfest eines Babys besonders zauberhaft machen. Sie schenken Trost und Freude gleichermassen. Sie regen die Sinne an und helfen, die Greif- und Koordinationsfähigkeiten zu entwickeln und verschaffen ganz nebenbei noch Linderung beim Zahnen.<\/p>",
+            "text": "<h4>Greiflinge, Beissringe und Kuschelspielzeug</h4><p>Liebevolle Geschenke, die das erste Weihnachtsfest eines Babys besonders zauberhaft machen. Sie schenken Trost und Freude gleichermassen. Sie regen die Sinne an und helfen, die Greif- und Koordinationsfähigkeiten zu entwickeln und verschaffen ganz nebenbei noch Linderung beim Zahnen.</p>",
             "link_label": "Zum Babyspielzeug",
-            "link": "shopify:\/\/collections\/greiflinge-beissringe-rasseln"
+            "link": "shopify://collections/greiflinge-beissringe-rasseln"
           }
         },
         "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Kindermode.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Kindermode.jpg",
             "title": "",
-            "text": "<h4>Hübsche Bio-Kindermode<\/h4><p>Soll es zu Weihnachten mal ein richtig schönes, hochwertiges Kleidungsstück sein? Ein besonders hübsches Body oder Shirt mit süssem Print oder in der Lieblingsfarbe? Unsere Baumwoll-Kinderkleider sind alle in höchster Bio-Qualität und mit Fokus auf Nachhaltigkeit produziert. Und die Wollkleider punkten mit höchster Funktionalität.<\/p>",
+            "text": "<h4>Hochwertige Kinderkleider</h4><p>Soll es zu Weihnachten mal ein richtig schönes, hochwertiges Kleidungsstück sein? Ein wollig warmes Body, ein hübscher Strickpulli oder eine robuste Outdoorjacke? Unsere Wollkleider sind alle in höchster Qualität und mit Fokus auf Nachhaltigkeit produziert. Und die Wollkleider punkten mit höchster Funktionalität.</p>",
             "link_label": "Zur Kindermode",
-            "link": "shopify:\/\/collections\/aktuelle-kollektionen-zusammengestellt-aus-marke-und-tag-planung-hw23-24"
+            "link": "shopify://collections/aktuelle-kollektionen-zusammengestellt-aus-marke-und-tag-planung-hw23-24"
           }
         },
         "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Badespielzeug.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Badespielzeug.jpg",
             "title": "",
-            "text": "<h4>Badespielzeug<\/h4><p>Planschen in der Badewanne macht immer Spass! Wenn dabei kein Mikroplastik im Badewasser landet, umso besser! Unsere Badespielsachen aus Holz oder Naturkautschuk sorgen für umweltfreundlichen Badespass.<\/p>",
+            "text": "<h4>Badespielzeug</h4><p>Planschen in der Badewanne macht immer Spass! Wenn dabei kein Mikroplastik im Badewasser landet, umso besser! Unsere Badespielsachen aus Holz oder Naturkautschuk sorgen für umweltfreundlichen Badespass.</p>",
             "link_label": "Zum Badespielzeug",
-            "link": "shopify:\/\/collections\/wasser-badespielzeug"
+            "link": "shopify://collections/wasser-badespielzeug"
           }
         },
         "40fd1100-8b0e-462f-b178-330cd5080e6f": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Malen.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Malen.jpg",
             "title": "",
-            "text": "<h4>Malen & Kneten<\/h4><p>Hier wird Kreativität und Spass vereint. In der Gestaltung entfalten die Kleinen ihre Fantasie und verbessern ihre feinmotorischen Fähigkeiten. Es ist ein interaktives Geschenk, das stundenlange Unterhaltung bietet und gleichzeitig die sensorische Entwicklung fördert.<\/p>",
+            "text": "<h4>Malen & Kneten</h4><p>Hier wird Kreativität und Spass vereint. In der Gestaltung entfalten die Kleinen ihre Fantasie und verbessern ihre feinmotorischen Fähigkeiten. Es ist ein interaktives Geschenk, das stundenlange Unterhaltung bietet und gleichzeitig die sensorische Entwicklung fördert.</p>",
             "link_label": "Zu Malen & Kneten",
-            "link": "shopify:\/\/collections\/malen-kneten-basteln"
+            "link": "shopify://collections/malen-kneten-basteln"
           }
         }
       },
@@ -482,41 +491,41 @@
         "faa2de86-616b-4c22-b173-d4df1af8cdcd": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Kinderbueechli.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Kinderbueechli.jpg",
             "title": "",
-            "text": "<h4>Kinderbüechli<\/h4><p>Was gibt es gerade im Winter schöneres, als mit lieben Menschen zusammen zu kuscheln und gemeinsam ein Bilderbuch anzuschauen? Bei uns findest du eine kleine, aber sorgfältige Auswahl an hübschen und sinnvollen Kinderbüchern.<\/p>",
+            "text": "<h4>Kinderbüechli</h4><p>Was gibt es gerade im Winter schöneres, als mit lieben Menschen zusammen zu kuscheln und gemeinsam ein Bilderbuch anzuschauen? Bei uns findest du eine kleine, aber sorgfältige Auswahl an hübschen und sinnvollen Kinderbüchern.</p>",
             "link_label": "Zu den Kinderbüchern",
-            "link": "shopify:\/\/collections\/kinderbucher"
+            "link": "shopify://collections/kinderbucher"
           }
         },
         "97eeaa4e-9cc8-487f-ba92-06973187a51f": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Spieluhren.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Spieluhren.jpg",
             "title": "",
-            "text": "<h4>Spieluhren und Nachtlichter<\/h4><p>Sie sind nicht nur praktisch, sondern auch liebevolle Begleiter für ruhige und friedliche Nächte. Die sanfte Melodie einer Spieluhr oder das behagliche, gedämpfte Nachtlicht schafft eine beruhigende Atmosphäre, die den Schlafraum in ein magisches Märchenland verwandelt. <\/p>",
+            "text": "<h4>Spieluhren und Nachtlichter</h4><p>Sie sind nicht nur praktisch, sondern auch liebevolle Begleiter für ruhige und friedliche Nächte. Die sanfte Melodie einer Spieluhr oder das behagliche, gedämpfte Nachtlicht schafft eine beruhigende Atmosphäre, die den Schlafraum in ein magisches Märchenland verwandelt. </p>",
             "link_label": "Zu den Spieluhren & Nachtlichtern",
-            "link": "shopify:\/\/collections\/spieluhren-nachtlichter"
+            "link": "shopify://collections/spieluhren-nachtlichter"
           }
         },
         "286436d8-9f8e-4f7b-89d4-3c9cb30fe2e4": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Baby-Teller.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Baby-Teller.jpg",
             "title": "",
-            "text": "<h4>Baby-Teller<\/h4><p>Babyteller sind clevere Geschenke: Mit separaten Fächern, kinderfreundlichen Designs und haftender Unterseite wird die Essenszeit für Kleinkinder stressfrei und unterhaltsam. So fördern sie die Selbstständigkeit beim Essen und erleichtern den Alltag junger Familien.<\/p>",
+            "text": "<h4>Baby-Teller</h4><p>Babyteller sind clevere Geschenke: Mit separaten Fächern, kinderfreundlichen Designs und haftender Unterseite wird die Essenszeit für Kleinkinder stressfrei und unterhaltsam. So fördern sie die Selbstständigkeit beim Essen und erleichtern den Alltag junger Familien.</p>",
             "link_label": "Zum Baby-Geschirr",
-            "link": "shopify:\/\/collections\/geschirr-zubehor"
+            "link": "shopify://collections/geschirr-zubehor"
           }
         },
         "1f43e78a-a657-4d01-b89f-ea79f5d6ee40": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Geschenk-Babydecken.jpg",
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Babydecken.jpg",
             "title": "",
-            "text": "<h4>Babydecken<\/h4><p>Natürlicher Wohlfühlkomfort! Hochwertige Bio-Baumwolle oder kuschelige Wolle hüllen das Baby weich ein. Unsere Decken sind sanft zur Haut des Babys und erst noch nachhaltig hergestellt. Ob unterwegs im Kinderwagen oder für kuschelige Momente zuhause - eine Babydecke schenkt Wärme und Geborgenheit.<\/p>",
+            "text": "<h4>Babydecken</h4><p>Natürlicher Wohlfühlkomfort! Hochwertige Bio-Baumwolle oder kuschelige Wolle hüllen das Baby weich ein. Unsere Decken sind sanft zur Haut des Babys und erst noch nachhaltig hergestellt. Ob unterwegs im Kinderwagen oder für kuschelige Momente zuhause - eine Babydecke schenkt Wärme und Geborgenheit.</p>",
             "link_label": "Zu den Babydecken",
-            "link": "shopify:\/\/collections\/babydecken"
+            "link": "shopify://collections/babydecken"
           }
         }
       },

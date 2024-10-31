@@ -24,16 +24,16 @@
             "btn_name": "Unsere Tipps"
           }
         },
-        "item_iFhkhf": {
+        "8fc6288d-372e-45df-a8da-4a794678a4f4": {
           "type": "item",
           "settings": {
-            "img1": "shopify://shop_images/Unten_62fe7837-ab7d-4186-abe7-d24fe1882d94.jpg",
-            "img2": "shopify://shop_images/Mitte_f4f95883-ada7-403a-9744-69ec349dfce6.jpg",
-            "img3": "shopify://shop_images/Oben_2c8039ca-d1bf-419a-a6bb-0a308b0be11d.jpg",
-            "title": "Geschenke zur Geburt",
-            "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.</p>",
-            "url": "shopify://pages/geschenke-zur-geburt",
-            "btn_name": "Unsere Geschenktipps"
+            "img1": "shopify://shop_images/Start-Silder-Advent1.jpg",
+            "img2": "shopify://shop_images/Start-Silder-Advent2_b327cc0d-dbd7-4f3d-ac8a-3f700a78ac0e.jpg",
+            "img3": "shopify://shop_images/Start-Silder-Advent3.jpg",
+            "title": "Advent mit Kindern gestalten",
+            "text": "<p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.</p>",
+            "url": "shopify://pages/themenseite",
+            "btn_name": "Mehr zum Thema"
           }
         },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
@@ -46,6 +46,18 @@
             "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Möchtest du wissen, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind?</p>",
             "url": "shopify://pages/barfuss-schuhe-fur-kinder",
             "btn_name": "Mehr zum Thema erfahren"
+          }
+        },
+        "item_iFhkhf": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Unten_62fe7837-ab7d-4186-abe7-d24fe1882d94.jpg",
+            "img2": "shopify://shop_images/Mitte_f4f95883-ada7-403a-9744-69ec349dfce6.jpg",
+            "img3": "shopify://shop_images/Oben_2c8039ca-d1bf-419a-a6bb-0a308b0be11d.jpg",
+            "title": "Geschenke zur Geburt",
+            "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.</p>",
+            "url": "shopify://pages/geschenke-zur-geburt",
+            "btn_name": "Unsere Geschenktipps"
           }
         },
         "item_WxFtCe": {
@@ -111,19 +123,6 @@
             "btn_name": "Mehr erfahren"
           }
         },
-        "8fc6288d-372e-45df-a8da-4a794678a4f4": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Start-Silder-Advent1.jpg",
-            "img2": "shopify://shop_images/Start-Silder-Advent2_b327cc0d-dbd7-4f3d-ac8a-3f700a78ac0e.jpg",
-            "img3": "shopify://shop_images/Start-Silder-Advent3.jpg",
-            "title": "Advent mit Kindern gestalten",
-            "text": "<p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.</p>",
-            "url": "shopify://pages/themenseite",
-            "btn_name": "Mehr zum Thema"
-          }
-        },
         "67bececa-9c31-424d-a18a-4a49adda00b5": {
           "type": "item",
           "disabled": true,
@@ -165,14 +164,14 @@
       },
       "block_order": [
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
-        "item_iFhkhf",
+        "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
+        "item_iFhkhf",
         "item_WxFtCe",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_wxaVcg",
         "item_c8wF6m",
         "item_Jc9eFD",
-        "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "67bececa-9c31-424d-a18a-4a49adda00b5",
         "bda35f88-36c5-4661-a703-9f1ce55cd109",
         "item_8xqrhQ"
@@ -235,176 +234,6 @@
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Alles für entspannte Spätsommertage"
-      }
-    },
-    "section_our_aLKHkd": {
-      "type": "section-our",
-      "blocks": {
-        "item_MDJQWT": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-ErsteSchuhe.jpg",
-            "title": "Warme Barfuss-Schuhe",
-            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.</p>",
-            "url": "shopify://collections/warme-schuhe",
-            "btn_name": "Warme Barfuss-Schuhe"
-          }
-        },
-        "item_z66qYR": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
-            "title": "Wollkleidung von Disana",
-            "text": "<p>Disana ist DIE Marke, wenn es um funktionale Wollkleidung geht. Wolle passt sich schwankenden Temperaturen perfekt an und hält die Körpertemperatur konstant. Das Kind fühlt sich bei jedem Wetter genau richtig warm.</p>",
-            "url": "shopify://collections/disana-herbst-winter",
-            "btn_name": "Zu Disana"
-          }
-        },
-        "item_DYBGiU": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Collection-Kindermode-Muetzen.jpg",
-            "title": "Mützen",
-            "text": "<p>Über den Kopf geht viel Wärme verloren. Eine Mütze ist bei kühlem Wetter daher sehr wichtig. Mützen aus Wolle halten die Temperatur angenehm warm. Neu eingetroffen sind auch die beliebten Schlupfmützen von ManyMonths.</p>",
-            "url": "shopify://collections/mutzen-stirnbander",
-            "btn_name": "Mützen & Stirnbänder"
-          }
-        },
-        "item_PbJV4p": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Collection-Kindermode-Strumphosen-socken.jpg",
-            "title": "Strumpfhosen & Socken aus Wolle",
-            "text": "<p>Wenn es draussen kalt ist, eignen sich als erste Kleidungsschicht Strumpfhosen aus Wolle super! Und an die Füsse Wollsocken: Sie geben warm und verhindern Schweissfüsse.</p>",
-            "url": "shopify://collections/strumpfhosen-stulpen-socken",
-            "btn_name": "Strumpfis & Co"
-          }
-        },
-        "item_VrDnVb": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
-            "title": "Erste Schühchen",
-            "text": "<p>Bei Füssen, die sich noch im Wachstum befinden, ist es besonders wichtig, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Babyschuhen berücksichtigt das. Sie sind weich, flexibel und erfüllen alle Kriterien eines Barfuss-Schuhs.</p>",
-            "url": "shopify://collections/erste-schuhchen",
-            "btn_name": "Babyschuhe entdecken"
-          }
-        },
-        "item_RKNkGi": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Barfuss-Schuhe-Warum.jpg",
-            "title": "Warum Barfuss-Schuhe?",
-            "text": "<p>Anders als herkömmliche Schuhe, die oft stark gepolstert und stützend sind, sind Barfuss-Schuhe darauf ausgelegt, die natürliche Bewegung der Füsse zu fördern und die Füsse so zu trainieren, wie es die Evolution vorgesehen hat. Erfahre hier alles was du zum Thema wissen musst.</p>",
-            "url": "shopify://pages/barfuss-schuhe-fur-kinder",
-            "btn_name": "Zur Infoseite"
-          }
-        },
-        "item_qcaWnE": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
-            "title": "Barfuss-Übergangs-Schuhe",
-            "text": "<p>Entdecke unsere Auswahl an praktischen Alltagsschuhen für Kinder, die Komfort und natürliche Bewegungsfreiheit bieten. Wir führen klassische Modelle aus Leder, aber auch vegane Modelle. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
-            "url": "shopify://collections/halb-turnschuhe",
-            "btn_name": "Zu den Halb- & Turnschuhen"
-          }
-        }
-      },
-      "block_order": [
-        "item_MDJQWT",
-        "item_z66qYR",
-        "item_DYBGiU",
-        "item_PbJV4p",
-        "item_VrDnVb",
-        "item_RKNkGi",
-        "item_qcaWnE"
-      ],
-      "settings": {
-        "name": "UNSERE EMPFEHLUNGEN",
-        "title": "Wollig warm durch den Winter"
-      }
-    },
-    "section_with_text_btn_ECAitC": {
-      "type": "section-with-text-btn",
-      "settings": {
-        "title": "Geschenke zur Geburt",
-        "text": "<p>Du bist auf der Suche nach einem passenden Geschenk für frischgebackene junge Familien? Wir zeigen dir, worauf es ankommt und haben unsere besten Ideen für dich zusammengestellt.</p>",
-        "url": "shopify://pages/geschenke-zur-geburt",
-        "btn_name": "Zu den Geschenkideen"
-      }
-    },
-    "section_full_image_EqfEhU": {
-      "type": "section-full-image",
-      "settings": {
-        "img": "shopify://shop_images/Section-Full-Image_Geschenke-Geburt.jpg"
-      }
-    },
-    "section_slider_ennB3g": {
-      "type": "section-slider",
-      "blocks": {
-        "item_g3hRCz": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Geschenke-Geburt-Wochenbettkorb.jpg",
-            "title": "Wochenbettkorb",
-            "text": "<p>In der Zeit nach der Geburt ist für Mama und Baby schonen angesagt. Der Körper muss sich erholen, die Beziehung zum Baby darf sich entfalten, der neue Alltag sich sanft einpendeln. Verschenke einen Korb voller nährender Produkte für diese erste Zeit mit dem Baby.</p>",
-            "url": "shopify://collections/geschenke-fur-den-wochenbettkorb",
-            "btn_name": "Wochenbettkorb füllen"
-          }
-        },
-        "item_EVEypg": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Tragen-Elastisches-Tuch.jpg",
-            "title": "Trageberatung",
-            "text": "<p>Gerade, wenn man zum ersten Mal Eltern wird, wird man mit vielen Fragen konfrontiert - und oft mit ebensovielen Meinungen. Wir von Herz an Herz zeigen jungen Eltern, wie der natürliche Umgang mit dem Baby das Leben erleichtern kann. Verschenke eine Beratung bei unseren Fachfrauen.</p>",
-            "url": "https://www.herzanherz.ch/beratungen/",
-            "btn_name": "Unsere Beratungen"
-          }
-        },
-        "item_qgKpyG": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Erstausstattung-Schlafen.jpg",
-            "title": "Erstausstattung",
-            "text": "<p>Möchtest du etwas für die Erstausstattung verschenken, dann wähle etwas, das über längere Zeit Freude macht, mit dem Baby mitwächst und nebenbei noch extra Komfort bietet wie unsere Kleidung aus Wolle oder Seide; sie hält die Temperatur konstant, ist antibakteriell und muss selten gewaschen werden.</p>",
-            "url": "shopify://pages/erstausstattung",
-            "btn_name": "Was gehört zur Erstausstattung?"
-          }
-        },
-        "item_wD89en": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Section-Slider_Feste-Rituale_Geburtstagsring.jpg",
-            "title": "Geburtstagsring",
-            "text": "<p>Feste und Rituale in der Familie sind etwas wunderschönes. Mit einem Geburtstagsring legst du den Grundstein für eine schöne und ebenso nachhaltige Geburtstags-Tradition, denn er kann jedes Jahr wieder verwendet und neu geschmückt werden.</p>",
-            "url": "shopify://collections/festtagsring-zubehor",
-            "btn_name": "Geburtstagsring entdecken"
-          }
-        },
-        "item_R3wwin": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Geschenke-Geburt-Gutschein.jpg",
-            "title": "Gutschein",
-            "text": "<p>Die Familie soll lieber selber auswählen? Dann verschenke ganz einfach einen Herz an Herz Geschenkgutschein. Er kann im Laden oder Onlineshop eingelöst werden und ist auch für alle unsere Beratungen gültig.</p>",
-            "url": "shopify://collections/gutscheine",
-            "btn_name": "Gutschein kaufen"
-          }
-        }
-      },
-      "block_order": [
-        "item_g3hRCz",
-        "item_EVEypg",
-        "item_qgKpyG",
-        "item_wD89en",
-        "item_R3wwin"
-      ],
-      "settings": {
       }
     },
     "section_our_hW8Uw7": {
@@ -543,6 +372,176 @@
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Advent, Advent,..."
+      }
+    },
+    "section_with_text_btn_ECAitC": {
+      "type": "section-with-text-btn",
+      "settings": {
+        "title": "Geschenke zur Geburt",
+        "text": "<p>Du bist auf der Suche nach einem passenden Geschenk für frischgebackene junge Familien? Wir zeigen dir, worauf es ankommt und haben unsere besten Ideen für dich zusammengestellt.</p>",
+        "url": "shopify://pages/geschenke-zur-geburt",
+        "btn_name": "Zu den Geschenkideen"
+      }
+    },
+    "section_full_image_EqfEhU": {
+      "type": "section-full-image",
+      "settings": {
+        "img": "shopify://shop_images/Section-Full-Image_Geschenke-Geburt.jpg"
+      }
+    },
+    "section_slider_ennB3g": {
+      "type": "section-slider",
+      "blocks": {
+        "item_g3hRCz": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Geschenke-Geburt-Wochenbettkorb.jpg",
+            "title": "Wochenbettkorb",
+            "text": "<p>In der Zeit nach der Geburt ist für Mama und Baby schonen angesagt. Der Körper muss sich erholen, die Beziehung zum Baby darf sich entfalten, der neue Alltag sich sanft einpendeln. Verschenke einen Korb voller nährender Produkte für diese erste Zeit mit dem Baby.</p>",
+            "url": "shopify://collections/geschenke-fur-den-wochenbettkorb",
+            "btn_name": "Wochenbettkorb füllen"
+          }
+        },
+        "item_EVEypg": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Tragen-Elastisches-Tuch.jpg",
+            "title": "Trageberatung",
+            "text": "<p>Gerade, wenn man zum ersten Mal Eltern wird, wird man mit vielen Fragen konfrontiert - und oft mit ebensovielen Meinungen. Wir von Herz an Herz zeigen jungen Eltern, wie der natürliche Umgang mit dem Baby das Leben erleichtern kann. Verschenke eine Beratung bei unseren Fachfrauen.</p>",
+            "url": "https://www.herzanherz.ch/beratungen/",
+            "btn_name": "Unsere Beratungen"
+          }
+        },
+        "item_qgKpyG": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Erstausstattung-Schlafen.jpg",
+            "title": "Erstausstattung",
+            "text": "<p>Möchtest du etwas für die Erstausstattung verschenken, dann wähle etwas, das über längere Zeit Freude macht, mit dem Baby mitwächst und nebenbei noch extra Komfort bietet wie unsere Kleidung aus Wolle oder Seide; sie hält die Temperatur konstant, ist antibakteriell und muss selten gewaschen werden.</p>",
+            "url": "shopify://pages/erstausstattung",
+            "btn_name": "Was gehört zur Erstausstattung?"
+          }
+        },
+        "item_wD89en": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Section-Slider_Feste-Rituale_Geburtstagsring.jpg",
+            "title": "Geburtstagsring",
+            "text": "<p>Feste und Rituale in der Familie sind etwas wunderschönes. Mit einem Geburtstagsring legst du den Grundstein für eine schöne und ebenso nachhaltige Geburtstags-Tradition, denn er kann jedes Jahr wieder verwendet und neu geschmückt werden.</p>",
+            "url": "shopify://collections/festtagsring-zubehor",
+            "btn_name": "Geburtstagsring entdecken"
+          }
+        },
+        "item_R3wwin": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Geschenke-Geburt-Gutschein.jpg",
+            "title": "Gutschein",
+            "text": "<p>Die Familie soll lieber selber auswählen? Dann verschenke ganz einfach einen Herz an Herz Geschenkgutschein. Er kann im Laden oder Onlineshop eingelöst werden und ist auch für alle unsere Beratungen gültig.</p>",
+            "url": "shopify://collections/gutscheine",
+            "btn_name": "Gutschein kaufen"
+          }
+        }
+      },
+      "block_order": [
+        "item_g3hRCz",
+        "item_EVEypg",
+        "item_qgKpyG",
+        "item_wD89en",
+        "item_R3wwin"
+      ],
+      "settings": {
+      }
+    },
+    "section_our_aLKHkd": {
+      "type": "section-our",
+      "blocks": {
+        "item_MDJQWT": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-ErsteSchuhe.jpg",
+            "title": "Warme Barfuss-Schuhe",
+            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.</p>",
+            "url": "shopify://collections/warme-schuhe",
+            "btn_name": "Warme Barfuss-Schuhe"
+          }
+        },
+        "item_z66qYR": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
+            "title": "Wollkleidung von Disana",
+            "text": "<p>Disana ist DIE Marke, wenn es um funktionale Wollkleidung geht. Wolle passt sich schwankenden Temperaturen perfekt an und hält die Körpertemperatur konstant. Das Kind fühlt sich bei jedem Wetter genau richtig warm.</p>",
+            "url": "shopify://collections/disana-herbst-winter",
+            "btn_name": "Zu Disana"
+          }
+        },
+        "item_DYBGiU": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Collection-Kindermode-Muetzen.jpg",
+            "title": "Mützen",
+            "text": "<p>Über den Kopf geht viel Wärme verloren. Eine Mütze ist bei kühlem Wetter daher sehr wichtig. Mützen aus Wolle halten die Temperatur angenehm warm. Neu eingetroffen sind auch die beliebten Schlupfmützen von ManyMonths.</p>",
+            "url": "shopify://collections/mutzen-stirnbander",
+            "btn_name": "Mützen & Stirnbänder"
+          }
+        },
+        "item_PbJV4p": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Collection-Kindermode-Strumphosen-socken.jpg",
+            "title": "Strumpfhosen & Socken aus Wolle",
+            "text": "<p>Wenn es draussen kalt ist, eignen sich als erste Kleidungsschicht Strumpfhosen aus Wolle super! Und an die Füsse Wollsocken: Sie geben warm und verhindern Schweissfüsse.</p>",
+            "url": "shopify://collections/strumpfhosen-stulpen-socken",
+            "btn_name": "Strumpfis & Co"
+          }
+        },
+        "item_VrDnVb": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
+            "title": "Erste Schühchen",
+            "text": "<p>Bei Füssen, die sich noch im Wachstum befinden, ist es besonders wichtig, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Babyschuhen berücksichtigt das. Sie sind weich, flexibel und erfüllen alle Kriterien eines Barfuss-Schuhs.</p>",
+            "url": "shopify://collections/erste-schuhchen",
+            "btn_name": "Babyschuhe entdecken"
+          }
+        },
+        "item_RKNkGi": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Barfuss-Schuhe-Warum.jpg",
+            "title": "Warum Barfuss-Schuhe?",
+            "text": "<p>Anders als herkömmliche Schuhe, die oft stark gepolstert und stützend sind, sind Barfuss-Schuhe darauf ausgelegt, die natürliche Bewegung der Füsse zu fördern und die Füsse so zu trainieren, wie es die Evolution vorgesehen hat. Erfahre hier alles was du zum Thema wissen musst.</p>",
+            "url": "shopify://pages/barfuss-schuhe-fur-kinder",
+            "btn_name": "Zur Infoseite"
+          }
+        },
+        "item_qcaWnE": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
+            "title": "Barfuss-Übergangs-Schuhe",
+            "text": "<p>Entdecke unsere Auswahl an praktischen Alltagsschuhen für Kinder, die Komfort und natürliche Bewegungsfreiheit bieten. Wir führen klassische Modelle aus Leder, aber auch vegane Modelle. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
+            "url": "shopify://collections/halb-turnschuhe",
+            "btn_name": "Zu den Halb- & Turnschuhen"
+          }
+        }
+      },
+      "block_order": [
+        "item_MDJQWT",
+        "item_z66qYR",
+        "item_DYBGiU",
+        "item_PbJV4p",
+        "item_VrDnVb",
+        "item_RKNkGi",
+        "item_qcaWnE"
+      ],
+      "settings": {
+        "name": "UNSERE EMPFEHLUNGEN",
+        "title": "Wollig warm durch den Winter"
       }
     },
     "3042eba3-91b9-4a6e-9e08-4e8237a86bf5": {
@@ -706,11 +705,11 @@
   "order": [
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee",
     "eb12502c-a978-4a64-8794-299bf7d22d27",
-    "section_our_aLKHkd",
+    "section_our_hW8Uw7",
     "section_with_text_btn_ECAitC",
     "section_full_image_EqfEhU",
     "section_slider_ennB3g",
-    "section_our_hW8Uw7",
+    "section_our_aLKHkd",
     "3042eba3-91b9-4a6e-9e08-4e8237a86bf5",
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba",
     "9c9bf7b0-233a-4e77-bba3-785994bab770",

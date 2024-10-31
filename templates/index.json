@@ -392,6 +392,16 @@
     "section_slider_ennB3g": {
       "type": "section-slider",
       "blocks": {
+        "item_wD89en": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Tragejacke-Softshell2.jpg",
+            "title": "Tragejacken fürs ganze Jahr",
+            "text": "<p>Du möchtest eine Umstands- & Tragejacke, die du das ganze Jahr über verwenden kannst? Dann wähle eine Softshelljacke oder einen leichten Mantel.</p>",
+            "url": "shopify://collections/festtagsring-zubehor",
+            "btn_name": "Geburtstagsring entdecken"
+          }
+        },
         "item_R3wwin": {
           "type": "item",
           "settings": {
@@ -400,16 +410,6 @@
             "text": "<p>Für richtig kalte Tage bist du mit einer sportlichen, funktionalen Winterjacke oder einem schicken Wollmantel gut gerüstet. Die Jacke kannst du auch ohne Baby verwenden.</p>",
             "url": "shopify://collections/warme-umstands-tragejacken",
             "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_wD89en": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Section-Slider_Feste-Rituale_Geburtstagsring.jpg",
-            "title": "Geburtstagsring",
-            "text": "<p>Feste und Rituale in der Familie sind etwas wunderschönes. Mit einem Geburtstagsring legst du den Grundstein für eine schöne und ebenso nachhaltige Geburtstags-Tradition, denn er kann jedes Jahr wieder verwendet und neu geschmückt werden.</p>",
-            "url": "shopify://collections/festtagsring-zubehor",
-            "btn_name": "Geburtstagsring entdecken"
           }
         },
         "item_qgKpyG": {
@@ -444,8 +444,8 @@
         }
       },
       "block_order": [
-        "item_R3wwin",
         "item_wD89en",
+        "item_R3wwin",
         "item_qgKpyG",
         "item_EVEypg",
         "item_g3hRCz"

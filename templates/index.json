@@ -412,6 +412,7 @@
       "blocks": {
         "item_YWtWKB": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Wolle-Seide-Babykleider.jpg",
             "title": "Wolle-Seide Kleidung",
@@ -422,6 +423,7 @@
         },
         "item_d3thnR": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Stillen-Stillkissen.jpg",
             "title": "Stillkissen & Co",
@@ -432,6 +434,7 @@
         },
         "item_MRqUzR": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Baby-Schlafsack.jpg",
             "title": "Für guten Babyschlaf",
@@ -473,31 +476,8 @@
             "btn_name": "Alles fürs freie Spiel"
           }
         },
-        "item_jXDWYz": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
-            "title": "Weihnachtsgeschenke Guide",
-            "text": "<p>Bei uns findest du eine Auswahl an sinnvollen Weihnachtsgeschenken. Lass dich inspirieren!</p>",
-            "url": "shopify://pages/weihnachtsgeschenke-guide",
-            "btn_name": "Inspirieren lassen"
-          }
-        },
-        "item_dK9gcB": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Advent-Wichteltuer.jpg",
-            "title": "Wichteltürchen",
-            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!</p>",
-            "url": "shopify://collections/wichtelzauber",
-            "btn_name": "Wichtel einladen"
-          }
-        },
         "item_kfnk9a": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
             "title": "Adventskalender für Paare",
@@ -506,9 +486,28 @@
             "btn_name": "Paarzeit verbringen"
           }
         },
+        "item_dK9gcB": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Advent-Wichteltuer.jpg",
+            "title": "Wichteltürchen",
+            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!</p>",
+            "url": "shopify://collections/wichtelzauber",
+            "btn_name": "Wichtel einladen"
+          }
+        },
+        "item_jXDWYz": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
+            "title": "Weihnachtsgeschenke Guide",
+            "text": "<p>Bei uns findest du eine Auswahl an sinnvollen Weihnachtsgeschenken. Lass dich inspirieren!</p>",
+            "url": "shopify://pages/weihnachtsgeschenke-guide",
+            "btn_name": "Inspirieren lassen"
+          }
+        },
         "item_ENeina": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Infobild-Advent-Kalender.jpg",
             "title": "Adventskalender für Kinder",
@@ -525,14 +524,14 @@
         "item_8PeDTn",
         "item_DL76rn",
         "item_RDJDVL",
-        "item_jXDWYz",
-        "item_dK9gcB",
         "item_kfnk9a",
+        "item_dK9gcB",
+        "item_jXDWYz",
         "item_ENeina"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
-        "title": "Babys Erstausstattung"
+        "title": "Advent, Advent,..."
       }
     },
     "3042eba3-91b9-4a6e-9e08-4e8237a86bf5": {

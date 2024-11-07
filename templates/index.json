@@ -24,6 +24,16 @@
             "btn_name": "Zur Herbstaktion"
           }
         },
+        "item_BTwrFz": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "",
+            "url": "",
+            "btn_name": "LEarn more"
+          }
+        },
         "beb1387a-20df-4238-a01b-69c08fe7ba72": {
           "type": "item",
           "settings": {
@@ -163,6 +173,7 @@
       },
       "block_order": [
         "bda35f88-36c5-4661-a703-9f1ce55cd109",
+        "item_BTwrFz",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",

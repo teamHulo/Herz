@@ -123,6 +123,15 @@
             "btn_name": "Mehr erfahren"
           }
         },
+        "item_4z4JwX": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "text": "",
+            "url": "",
+            "btn_name": "LEarn more"
+          }
+        },
         "67bececa-9c31-424d-a18a-4a49adda00b5": {
           "type": "item",
           "disabled": true,
@@ -139,13 +148,13 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify://shop_images/Collection-Umstands-Tragejacken-Warme_Kopie.jpg",
-            "img2": "shopify://shop_images/Winter-Sale.jpg",
-            "img3": "shopify://shop_images/Winter-Sale-Prozent.png",
+            "img1": "shopify://shop_images/Bild_unten_83489e6a-6606-48f1-ac42-ab7118e70232.jpg",
+            "img2": "shopify://shop_images/Bild_mitte_ad19766a-4d5c-4744-8657-26e82f1dcf24.jpg",
+            "img3": "shopify://shop_images/Bild_oben_63f7f519-51a6-482b-ae43-65623db43743.jpg",
             "title": "WINTER SALE zum Jahresauftakt",
-            "text": "<p>Um das 2024 gebührend einzuläuten, startet ab sofort unser grosser Winter Sale! Gerade rechtzeitig, denn es wird nochmals eisig kalt. Tauche ein in eine Welt voller hochwertiger und funktionaler Winterprodukte für Babys und Kinder und spare 30% auf tolle Winter-Klassiker.</p>",
+            "text": "<p>Brr, es wird kalt. Da kommt unsere Herbstaktion genau richtig. Tauche ein in eine Welt voller hochwertiger und funktionaler Winterprodukte für Babys und Kinder und spare 20% auf tolle Winter-Klassiker.</p>",
             "url": "https://herzanherz-shop.ch/collections/wintersale-24",
-            "btn_name": "Zum Winter Sale"
+            "btn_name": "Zur Herbstaktion"
           }
         },
         "item_8xqrhQ": {
@@ -172,12 +181,12 @@
         "item_wxaVcg",
         "item_c8wF6m",
         "item_Jc9eFD",
+        "item_4z4JwX",
         "67bececa-9c31-424d-a18a-4a49adda00b5",
         "bda35f88-36c5-4661-a703-9f1ce55cd109",
         "item_8xqrhQ"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "eb12502c-a978-4a64-8794-299bf7d22d27": {
       "type": "section-our",
@@ -439,8 +448,7 @@
         "item_qgKpyG",
         "item_EVEypg"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "section_our_aLKHkd": {
       "type": "section-our",

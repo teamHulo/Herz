@@ -26,6 +26,7 @@
         },
         "bda35f88-36c5-4661-a703-9f1ce55cd109": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Bild_unten_83489e6a-6606-48f1-ac42-ab7118e70232.jpg",
             "img2": "shopify://shop_images/Bild_mitte_088401f7-ff2f-4851-8862-8c39fc01b0d1.jpg",

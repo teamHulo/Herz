@@ -12,18 +12,6 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "beb1387a-20df-4238-a01b-69c08fe7ba72": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
-            "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
-            "img3": "shopify://shop_images/Infobild-Handschuhe.jpg",
-            "title": "Warm durch Herbst & Winter",
-            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.</p>",
-            "url": "shopify://pages/warm-durch-herbst-winter",
-            "btn_name": "Unsere Tipps"
-          }
-        },
         "bda35f88-36c5-4661-a703-9f1ce55cd109": {
           "type": "item",
           "settings": {
@@ -34,6 +22,18 @@
             "text": "<p>Brr, es wird kalt. Da kommt unsere Herbstaktion genau richtig. Tauche ein in eine Welt voller hochwertiger und funktionaler Winterprodukte für Babys und Kinder und spare 20% auf tolle Winter-Klassiker.</p>",
             "url": "shopify://collections/aktuelle-kollektionen-zusammengestellt-aus-marke-und-tag-planung-hw23-24",
             "btn_name": "Zur Herbstaktion"
+          }
+        },
+        "beb1387a-20df-4238-a01b-69c08fe7ba72": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
+            "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
+            "img3": "shopify://shop_images/Infobild-Handschuhe.jpg",
+            "title": "Warm durch Herbst & Winter",
+            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.</p>",
+            "url": "shopify://pages/warm-durch-herbst-winter",
+            "btn_name": "Unsere Tipps"
           }
         },
         "8fc6288d-372e-45df-a8da-4a794678a4f4": {
@@ -162,8 +162,8 @@
         }
       },
       "block_order": [
-        "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "bda35f88-36c5-4661-a703-9f1ce55cd109",
+        "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_iFhkhf",

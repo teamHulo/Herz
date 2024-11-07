@@ -24,6 +24,18 @@
             "btn_name": "Unsere Tipps"
           }
         },
+        "bda35f88-36c5-4661-a703-9f1ce55cd109": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Bild_unten_83489e6a-6606-48f1-ac42-ab7118e70232.jpg",
+            "img2": "shopify://shop_images/Bild_mitte_088401f7-ff2f-4851-8862-8c39fc01b0d1.jpg",
+            "img3": "shopify://shop_images/Bild_oben_63f7f519-51a6-482b-ae43-65623db43743.jpg",
+            "title": "Grosse Herbstaktion 🍁",
+            "text": "<p>Brr, es wird kalt. Da kommt unsere Herbstaktion genau richtig. Tauche ein in eine Welt voller hochwertiger und funktionaler Winterprodukte für Babys und Kinder und spare 20% auf tolle Winter-Klassiker.</p>",
+            "url": "https://herzanherz-shop.ch/collections/wintersale-24",
+            "btn_name": "Zur Herbstaktion"
+          }
+        },
         "8fc6288d-372e-45df-a8da-4a794678a4f4": {
           "type": "item",
           "settings": {
@@ -84,18 +96,6 @@
             "btn_name": "Jetzt entdecken"
           }
         },
-        "bda35f88-36c5-4661-a703-9f1ce55cd109": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Bild_unten_83489e6a-6606-48f1-ac42-ab7118e70232.jpg",
-            "img2": "shopify://shop_images/Bild_mitte_088401f7-ff2f-4851-8862-8c39fc01b0d1.jpg",
-            "img3": "shopify://shop_images/Bild_oben_63f7f519-51a6-482b-ae43-65623db43743.jpg",
-            "title": "Grosse Herbstaktion 🍁",
-            "text": "<p>Brr, es wird kalt. Da kommt unsere Herbstaktion genau richtig. Tauche ein in eine Welt voller hochwertiger und funktionaler Winterprodukte für Babys und Kinder und spare 20% auf tolle Winter-Klassiker.</p>",
-            "url": "https://herzanherz-shop.ch/collections/wintersale-24",
-            "btn_name": "Zur Herbstaktion"
-          }
-        },
         "item_wxaVcg": {
           "type": "item",
           "disabled": true,
@@ -135,15 +135,6 @@
             "btn_name": "Mehr erfahren"
           }
         },
-        "item_4z4JwX": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "text": "",
-            "url": "",
-            "btn_name": "LEarn more"
-          }
-        },
         "67bececa-9c31-424d-a18a-4a49adda00b5": {
           "type": "item",
           "disabled": true,
@@ -172,16 +163,15 @@
       },
       "block_order": [
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
+        "bda35f88-36c5-4661-a703-9f1ce55cd109",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_iFhkhf",
         "item_WxFtCe",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
-        "bda35f88-36c5-4661-a703-9f1ce55cd109",
         "item_wxaVcg",
         "item_c8wF6m",
         "item_Jc9eFD",
-        "item_4z4JwX",
         "67bececa-9c31-424d-a18a-4a49adda00b5",
         "item_8xqrhQ"
       ],

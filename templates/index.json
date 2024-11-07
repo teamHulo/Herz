@@ -26,14 +26,13 @@
         },
         "bda35f88-36c5-4661-a703-9f1ce55cd109": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Winter-Sale-Prozent.png",
             "img2": "shopify://shop_images/Bild_mitte_1c7fea13-b5c9-404c-a2e4-f97232025753.jpg",
             "img3": "shopify://shop_images/Bild_oben_63f7f519-51a6-482b-ae43-65623db43743.jpg",
             "title": "Grosse Herbstaktion 🍁",
             "text": "<p>Brr, es wird kalt. Da kommt unsere Herbstaktion genau richtig. Tauche ein in eine Welt voller hochwertiger und funktionaler Winterprodukte für Babys und Kinder und spare 20% auf tolle Winter-Klassiker.</p>",
-            "url": "https://herzanherz-shop.ch/collections/wintersale-24",
+            "url": "shopify://collections/kindermode",
             "btn_name": "Zur Herbstaktion"
           }
         },

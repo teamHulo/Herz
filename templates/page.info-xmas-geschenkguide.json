@@ -140,10 +140,10 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-leea.jpg",
-            "title": "Der Montessori-Spielturm par excellence",
-            "text": "<p>Dieser Learning Tower ist ein wahrer Alleskönner! Er kann als klassischer Lernturm eingesetzt werden, so dass schon die Kleinsten im Haushalt auf Augenhöhe zusehen und mitmachen können. Doch der Leea Tower kann noch viel mehr: Mit wenigen Handgriffen wird er vom Turm zum Tisch, zum Kindersitz, zur Magnet- und Kreidewand oder gar zur Rutsche.</p><p>Damit dein Kind all seine Fähigkeiten entwickeln, die Welt entdecken, die Motorik schulen, die Selbständigkeit entfalten, kreativ werden und seinen Wissensdurst stillen kann.</p>",
-            "link_label": "Zum Leea Tower",
-            "link": "shopify://collections/learning-tower"
+            "title": "Step'n'sit Learning Tower",
+            "text": "<p>Dieser Learning Tower kann als klassischer Lernturm eingesetzt werden, so dass schon die Kleinsten im Haushalt auf Augenhöhe zusehen und mitmachen können. Damit sie all ihre Fähigkeiten entwickeln, die Welt entdecken, die Motorik schulen, die Selbständigkeit entfalten, kreativ werden und seinen Wissensdurst stillen können.</p><p>Das Spezielle daran: Mit wenigen Handgriffen wird der Tower vom Turm zum Tisch umgebaut und kann so noch lange nach der Learning Tower-Zeit weiterverwendet werden.</p>",
+            "link_label": "Zum Step'n'sit",
+            "link": "shopify://products/ette-tete-learningtower-stepnsit"
           }
         }
       },

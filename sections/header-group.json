@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -18,8 +18,8 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "☀️ 11. bis 14. Juli 2024: Grosser Sommer Sale! ☀️",
-            "link": "shopify:\/\/collections\/sale"
+            "text": "🎁 Jubiläumswochenende: 20% auf das gesamte Sortiment! 🎁",
+            "link": ""
           }
         },
         "announcement-bar-0": {
@@ -33,7 +33,7 @@
           "type": "announcement",
           "settings": {
             "text": "Besuche unseren Laden in Winterthur",
-            "link": "https:\/\/herzanherz.ch"
+            "link": "https://herzanherz.ch"
           }
         }
       },
@@ -42,9 +42,7 @@
         "announcement-bar-0",
         "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
         "show_line_separator": true,
@@ -63,8 +61,8 @@
           "settings": {
             "menu_handle": "Schwangerschaft & Geburt",
             "new_tab": true,
-            "img": "shopify:\/\/shop_images\/Megamenu-Erstausstattung_e540f791-3e32-4edb-b915-b40d86f7f36c.jpg",
-            "url": "shopify:\/\/pages\/erstausstattung"
+            "img": "shopify://shop_images/Megamenu-Erstausstattung_e540f791-3e32-4edb-b915-b40d86f7f36c.jpg",
+            "url": "shopify://pages/erstausstattung"
           }
         },
         "image_g9BcHj": {
@@ -72,8 +70,8 @@
           "settings": {
             "menu_handle": "Schwangerschaft & Geburt",
             "new_tab": true,
-            "img": "shopify:\/\/shop_images\/Megamenu-Geburtsvorbereitung_b926e675-0302-4c1a-887d-1013cf48efd8.jpg",
-            "url": "https:\/\/www.herzanherz.ch\/kurse\/dein-weg-zur-nat%C3%BCrlichen-geburt\/"
+            "img": "shopify://shop_images/Megamenu-Geburtsvorbereitung_b926e675-0302-4c1a-887d-1013cf48efd8.jpg",
+            "url": "https://www.herzanherz.ch/kurse/dein-weg-zur-nat%C3%BCrlichen-geburt/"
           }
         },
         "image_DWX8nW": {
@@ -81,8 +79,8 @@
           "settings": {
             "menu_handle": "Geschenke",
             "new_tab": true,
-            "img": "shopify:\/\/shop_images\/Megamenu-Geschenke-zur-Geburt_9378d095-3441-4026-a577-411401f779d3.jpg",
-            "url": "shopify:\/\/pages\/geschenke-zur-geburt"
+            "img": "shopify://shop_images/Megamenu-Geschenke-zur-Geburt_9378d095-3441-4026-a577-411401f779d3.jpg",
+            "url": "shopify://pages/geschenke-zur-geburt"
           }
         },
         "image_YEdWz7": {
@@ -90,7 +88,7 @@
           "settings": {
             "menu_handle": "Geschenke",
             "new_tab": false,
-            "img": "shopify:\/\/shop_images\/Megamenu-Geschenkgutschein.jpg",
+            "img": "shopify://shop_images/Megamenu-Geschenkgutschein.jpg",
             "url": ""
           }
         },
@@ -99,8 +97,8 @@
           "settings": {
             "menu_handle": "Barfuss-Schuhe",
             "new_tab": true,
-            "img": "shopify:\/\/shop_images\/Megamenu-Warum-Barfuss-Schuhe.jpg",
-            "url": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder"
+            "img": "shopify://shop_images/Megamenu-Warum-Barfuss-Schuhe.jpg",
+            "url": "shopify://pages/barfuss-schuhe-fur-kinder"
           }
         },
         "image_dzPfPt": {
@@ -108,8 +106,8 @@
           "settings": {
             "menu_handle": "Kindermode",
             "new_tab": true,
-            "img": "shopify:\/\/shop_images\/Megamenu-Babyzeit-Schlafsack.jpg",
-            "url": "shopify:\/\/collections\/schlafsacke"
+            "img": "shopify://shop_images/Megamenu-Babyzeit-Schlafsack.jpg",
+            "url": "shopify://collections/schlafsacke"
           }
         },
         "image_KKjjhF": {
@@ -118,8 +116,8 @@
           "settings": {
             "menu_handle": "Kindermode",
             "new_tab": true,
-            "img": "shopify:\/\/shop_images\/Megamenu-Sommer-Sonne-Kind.jpg",
-            "url": "shopify:\/\/pages\/sommer-sonne-kind"
+            "img": "shopify://shop_images/Megamenu-Sommer-Sonne-Kind.jpg",
+            "url": "shopify://pages/sommer-sonne-kind"
           }
         },
         "image_tBBQUU": {
@@ -128,8 +126,8 @@
           "settings": {
             "menu_handle": "Babyzeit",
             "new_tab": true,
-            "img": "shopify:\/\/shop_images\/Megamenu-Babyzeit-Stillmode.jpg",
-            "url": "shopify:\/\/collections\/umstands-stillmode"
+            "img": "shopify://shop_images/Megamenu-Babyzeit-Stillmode.jpg",
+            "url": "shopify://collections/umstands-stillmode"
           }
         },
         "image_VpEWKh": {
@@ -137,8 +135,8 @@
           "settings": {
             "menu_handle": "Babyzeit",
             "new_tab": true,
-            "img": "shopify:\/\/shop_images\/Megamenu-Tragen.jpg",
-            "url": "shopify:\/\/pages\/das-1x1-des-tragens"
+            "img": "shopify://shop_images/Megamenu-Tragen.jpg",
+            "url": "shopify://pages/das-1x1-des-tragens"
           }
         },
         "image_zNM6qx": {
@@ -146,8 +144,8 @@
           "settings": {
             "menu_handle": "Kindermode",
             "new_tab": true,
-            "img": "shopify:\/\/shop_images\/Megamenu-Wolle-Seide.jpg",
-            "url": "shopify:\/\/collections\/wolle-seide-produkte"
+            "img": "shopify://shop_images/Megamenu-Wolle-Seide.jpg",
+            "url": "shopify://collections/wolle-seide-produkte"
           }
         },
         "image_me6bbX": {
@@ -155,8 +153,8 @@
           "settings": {
             "menu_handle": "Familienalltag",
             "new_tab": true,
-            "img": "shopify:\/\/shop_images\/Megamenu-Geburtstagsring.jpg",
-            "url": "shopify:\/\/collections\/feste-rituale"
+            "img": "shopify://shop_images/Megamenu-Geburtstagsring.jpg",
+            "url": "shopify://collections/feste-rituale"
           }
         },
         "image_JaBDqg": {
@@ -164,8 +162,8 @@
           "settings": {
             "menu_handle": "Familienalltag",
             "new_tab": true,
-            "img": "shopify:\/\/shop_images\/Megamenu-Lernturm.jpg",
-            "url": "shopify:\/\/collections\/learning-tower"
+            "img": "shopify://shop_images/Megamenu-Lernturm.jpg",
+            "url": "shopify://collections/learning-tower"
           }
         },
         "image_V4yF97": {
@@ -173,8 +171,8 @@
           "settings": {
             "menu_handle": "Frausein",
             "new_tab": true,
-            "img": "shopify:\/\/shop_images\/Megamenu-Mensunterwasche.jpg",
-            "url": "shopify:\/\/collections\/mensunterwasche"
+            "img": "shopify://shop_images/Megamenu-Mensunterwasche.jpg",
+            "url": "shopify://collections/mensunterwasche"
           }
         },
         "image_DLbAqM": {
@@ -182,8 +180,8 @@
           "settings": {
             "menu_handle": "Frausein",
             "new_tab": true,
-            "img": "shopify:\/\/shop_images\/Megamenu-Paarzeit.jpg",
-            "url": "shopify:\/\/collections\/paarzeit"
+            "img": "shopify://shop_images/Megamenu-Paarzeit.jpg",
+            "url": "shopify://collections/paarzeit"
           }
         },
         "image_zDcERJ": {
@@ -191,8 +189,8 @@
           "settings": {
             "menu_handle": "Babyzeit",
             "new_tab": true,
-            "img": "shopify:\/\/shop_images\/Megamenu-Babyzeit-Stoffwindeln.jpg",
-            "url": "shopify:\/\/pages\/stoffwindeln"
+            "img": "shopify://shop_images/Megamenu-Babyzeit-Stoffwindeln.jpg",
+            "url": "shopify://pages/stoffwindeln"
           }
         },
         "mobile_menu_x8LVG3": {
@@ -220,9 +218,7 @@
         "image_zDcERJ",
         "mobile_menu_x8LVG3"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "logo_position": "top-center",
         "menu": "main-menu",

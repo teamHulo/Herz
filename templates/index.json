@@ -14,6 +14,7 @@
       "blocks": {
         "item_mhNpmp": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Bubble-Bild-unten_a93a6ff0-cbed-4ea7-928f-bfb9386b38ea.png",
             "img2": "shopify://shop_images/Jubilaeum-Bild-Mitte.jpg",

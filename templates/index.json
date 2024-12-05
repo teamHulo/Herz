@@ -12,18 +12,6 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "beb1387a-20df-4238-a01b-69c08fe7ba72": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
-            "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
-            "img3": "shopify://shop_images/Infobild-Handschuhe.jpg",
-            "title": "Warm durch Herbst & Winter",
-            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.</p>",
-            "url": "shopify://pages/warm-durch-herbst-winter",
-            "btn_name": "Unsere Tipps"
-          }
-        },
         "8fc6288d-372e-45df-a8da-4a794678a4f4": {
           "type": "item",
           "settings": {
@@ -34,6 +22,29 @@
             "text": "<p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.</p>",
             "url": "shopify://pages/themenseite",
             "btn_name": "Mehr zum Thema"
+          }
+        },
+        "67bececa-9c31-424d-a18a-4a49adda00b5": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_nutcracker.webp",
+            "img2": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
+            "title": "Geschenke für leuchtende Kinderaugen",
+            "text": "<p>Weihnachten steht wieder vor der Tür, und damit die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.</p>",
+            "url": "shopify://pages/weihnachtsgeschenke-guide",
+            "btn_name": "Zum Geschenke-Guide"
+          }
+        },
+        "beb1387a-20df-4238-a01b-69c08fe7ba72": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
+            "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
+            "img3": "shopify://shop_images/Infobild-Handschuhe.jpg",
+            "title": "Warm durch Herbst & Winter",
+            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.</p>",
+            "url": "shopify://pages/warm-durch-herbst-winter",
+            "btn_name": "Unsere Tipps"
           }
         },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
@@ -123,18 +134,6 @@
             "btn_name": "Mehr erfahren"
           }
         },
-        "67bececa-9c31-424d-a18a-4a49adda00b5": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_nutcracker.webp",
-            "img2": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
-            "title": "Geschenke für leuchtende Kinderaugen",
-            "text": "<p>Weihnachten steht wieder vor der Tür, und damit die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.</p>",
-            "url": "shopify://pages/weihnachtsgeschenke-guide",
-            "btn_name": "Zum Geschenke-Guide"
-          }
-        },
         "item_8xqrhQ": {
           "type": "item",
           "disabled": true,
@@ -150,8 +149,9 @@
         }
       },
       "block_order": [
-        "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
+        "67bececa-9c31-424d-a18a-4a49adda00b5",
+        "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_iFhkhf",
         "item_WxFtCe",
@@ -159,7 +159,6 @@
         "item_wxaVcg",
         "item_c8wF6m",
         "item_Jc9eFD",
-        "67bececa-9c31-424d-a18a-4a49adda00b5",
         "item_8xqrhQ"
       ],
       "settings": {}

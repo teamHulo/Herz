@@ -146,6 +146,18 @@
             "url": "shopify://collections/uv-bademode",
             "btn_name": "Gleich entdecken"
           }
+        },
+        "item_mhNpmp": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Bubble-Bild-unten.png",
+            "img2": "shopify://shop_images/Jubilaeum-Bild-Mitte.jpg",
+            "img3": "shopify://shop_images/Jubilaeum-Bild-Oben.jpg",
+            "title": "20% auf alles am Jubiläumswochenende",
+            "text": "<p>Herz an Herz wird 8 Jahre alt. Das feiern wir mit einer grossen Jubiläumsaktion. Vom 6. bis 8. Dezember 2024 schenken wir dir 20% auf unser gesamtes Sortiment.</p>",
+            "url": "",
+            "btn_name": ""
+          }
         }
       },
       "block_order": [
@@ -159,7 +171,8 @@
         "item_wxaVcg",
         "item_c8wF6m",
         "item_Jc9eFD",
-        "item_8xqrhQ"
+        "item_8xqrhQ",
+        "item_mhNpmp"
       ],
       "settings": {}
     },

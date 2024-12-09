@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_9kMrpi": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "🎁 Jubiläumswochenende: 20% auf das gesamte Sortiment! 🎁",
             "link": ""

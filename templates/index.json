@@ -14,7 +14,6 @@
       "blocks": {
         "item_mhNpmp": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Bild_unten_01f58891-db48-4bee-b506-e69a47f0e7fb.jpg",
             "img2": "shopify://shop_images/Bild_oben_b6faa5b0-c0dd-409a-8d6c-a950f5540b38.jpg",

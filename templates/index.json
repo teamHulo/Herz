@@ -16,12 +16,12 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify://shop_images/Bubble-Bild-unten_a93a6ff0-cbed-4ea7-928f-bfb9386b38ea.png",
-            "img2": "shopify://shop_images/Jubilaeum-Bild-Mitte.jpg",
-            "img3": "shopify://shop_images/Jubilaeum-Bild-Oben.jpg",
-            "title": "Jubiläums-Wochenende: 20% auf alles!",
-            "text": "<p>Herz an Herz wird 8 Jahre alt. Das feiern wir mit einer grossen Jubiläumsaktion. Vom 6. bis 8. Dezember 2024 schenken wir dir 20% auf unser gesamtes Sortiment.</p>",
-            "url": "",
+            "img1": "shopify://shop_images/Bild_unten_01f58891-db48-4bee-b506-e69a47f0e7fb.jpg",
+            "img2": "shopify://shop_images/Bild_mitte_01a1fd87-9850-49ce-8d60-f88366140fa7.jpg",
+            "img3": "shopify://shop_images/Bild_oben_b6faa5b0-c0dd-409a-8d6c-a950f5540b38.jpg",
+            "title": "Wir räumen auf. Du räumst ab.",
+            "text": "<p>Bevor wir unser neues Zuhause beziehen, räumen wir unser Lager wieder mal so richtig auf - und du hast die Gelegenheit, davon zu profitieren! Entdecke unschlagbare Angebote. </p>",
+            "url": "shopify://collections/sale",
             "btn_name": ""
           }
         },

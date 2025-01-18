@@ -250,7 +250,6 @@
         },
         "item_d3thnR": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Stillen-Stillkissen.jpg",
             "title": "Stillkissen & Co",
@@ -326,6 +325,7 @@
         },
         "item_jXDWYz": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
             "title": "Weihnachtsgeschenke Guide",
@@ -336,6 +336,7 @@
         },
         "item_dK9gcB": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Infobild-Advent-Wichteltuer.jpg",
             "title": "Wichteltürchen",
@@ -346,6 +347,7 @@
         },
         "item_ENeina": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Infobild-Advent-Kalender.jpg",
             "title": "Adventskalender für Kinder",

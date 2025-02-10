@@ -107,6 +107,30 @@
         "label": "Wer sind wir"
       }
     },
+    "section_our_team_hD37Cb": {
+      "type": "section-our-team",
+      "blocks": {
+        "person_ke4xf3": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify://shop_images/Team_Jea.png",
+            "name": "Jeannine",
+            "text": "Trageberaterin, Babyschlaf-Coach, Mama"
+          }
+        }
+      },
+      "block_order": [
+        "person_ke4xf3"
+      ],
+      "settings": {
+        "bg": "",
+        "text_color": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "title": "",
+        "label": ""
+      }
+    },
     "6742f22c-cbaa-4b6a-aaaf-980509b003a2": {
       "type": "rich-text",
       "blocks": {
@@ -269,6 +293,7 @@
     "main",
     "e4f9ed82-6d67-41da-8751-1d3f0a0233f0",
     "591cf3fa-c46a-4347-90c3-10ffaa7815f1",
+    "section_our_team_hD37Cb",
     "6742f22c-cbaa-4b6a-aaaf-980509b003a2",
     "cf5c7238-26a2-4d23-84da-58742fa5239e",
     "e85f1518-7e1b-4e45-a379-09ca75c69fce"

@@ -35,7 +35,7 @@
         "0d00a222-aa0c-4c8b-aa88-5bfe8def0963": {
           "type": "person",
           "settings": {
-            "ava": "shopify://shop_images/Anita.png",
+            "ava": "shopify://shop_images/Team_Anita.png",
             "name": "Anita",
             "text": "Gründerin, Geschäftsführerin, Coach für Geburtsvorbereitung, Trageberaterin, Babyschlaf-Coach und Mama"
           }
@@ -43,41 +43,41 @@
         "c8394d23-9764-4513-aa47-49c63d237f3e": {
           "type": "person",
           "settings": {
-            "ava": "shopify://shop_images/Selina.png",
+            "ava": "shopify://shop_images/Team_Selina.png",
             "name": "Selina",
             "text": "Gründerin, Geschäftsführerin, Trageberaterin, Stoffwindelberaterin, Babyschlaf-Coach und Mama"
-          }
-        },
-        "d76f6589-f9e4-4a95-ba25-6b155594ccba": {
-          "type": "person",
-          "settings": {
-            "ava": "shopify://shop_images/Jeannine.png",
-            "name": "Jeannine",
-            "text": "Trageberaterin, Babyschlaf-Coach und Mama"
           }
         },
         "a7e72277-935e-463c-97b3-335ba595dda4": {
           "type": "person",
           "settings": {
-            "ava": "shopify://shop_images/Marjana.png",
+            "ava": "shopify://shop_images/Team_Marjana.png",
             "name": "Marjana",
-            "text": "artgerecht Coach, Trageberaterin, Beraterin für Stoffwindeln, Windelfrei & Babygeleitete Beikost, Mama"
+            "text": "Geschäftsführerin, artgerecht Coach, Trageberaterin, Beraterin für Stoffwindeln, Windelfrei & Babygeleitete Beikost, Mama"
           }
         },
-        "c23d39f7-f33f-45a0-b2e4-29b81b08d713": {
+        "d76f6589-f9e4-4a95-ba25-6b155594ccba": {
           "type": "person",
           "settings": {
-            "ava": "shopify://shop_images/Meli.png",
-            "name": "Meli",
-            "text": "Trageberaterin und Mama"
+            "ava": "shopify://shop_images/Team_Jea.png",
+            "name": "Jeannine",
+            "text": "Trageberaterin, Babyschlaf-Coach und Mama"
           }
         },
-        "4fa9c249-ea07-48d2-aa2a-530bfde3ace2": {
+        "be9ada2e-bc4e-467d-849d-55cf5a58c64e": {
           "type": "person",
           "settings": {
-            "ava": "shopify://shop_images/Carla.png",
-            "name": "Carla",
-            "text": "Trageberaterin, Babyschlaf-Coach, Yogalehrerin und Mama"
+            "ava": "shopify://shop_images/Team_Zoe.png",
+            "name": "Zoé",
+            "text": "Pflegefachfrau, Babyzeichen-Kursleiterin und Mama"
+          }
+        },
+        "person_jYyLrR": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify://shop_images/Team_Salome.png",
+            "name": "Salome",
+            "text": ""
           }
         },
         "7fdb0f6f-9e64-4aa6-afd7-1ddcf1b8c8a2": {
@@ -87,25 +87,16 @@
             "name": "Lorena",
             "text": "Teammitglied und Mama"
           }
-        },
-        "be9ada2e-bc4e-467d-849d-55cf5a58c64e": {
-          "type": "person",
-          "settings": {
-            "ava": "shopify://shop_images/Zoe.png",
-            "name": "Zoé",
-            "text": "Pflegefachfrau, Babyzeichen-Kursleiterin und Mama"
-          }
         }
       },
       "block_order": [
         "0d00a222-aa0c-4c8b-aa88-5bfe8def0963",
         "c8394d23-9764-4513-aa47-49c63d237f3e",
-        "d76f6589-f9e4-4a95-ba25-6b155594ccba",
         "a7e72277-935e-463c-97b3-335ba595dda4",
-        "c23d39f7-f33f-45a0-b2e4-29b81b08d713",
-        "4fa9c249-ea07-48d2-aa2a-530bfde3ace2",
-        "7fdb0f6f-9e64-4aa6-afd7-1ddcf1b8c8a2",
-        "be9ada2e-bc4e-467d-849d-55cf5a58c64e"
+        "d76f6589-f9e4-4a95-ba25-6b155594ccba",
+        "be9ada2e-bc4e-467d-849d-55cf5a58c64e",
+        "person_jYyLrR",
+        "7fdb0f6f-9e64-4aa6-afd7-1ddcf1b8c8a2"
       ],
       "settings": {
         "bg": "#a25c3f",

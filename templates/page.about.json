@@ -55,48 +55,12 @@
             "name": "Marjana",
             "text": "Geschäftsführerin, artgerecht Coach, Trageberaterin, Beraterin für Stoffwindeln, Windelfrei & Babygeleitete Beikost, Mama"
           }
-        },
-        "d76f6589-f9e4-4a95-ba25-6b155594ccba": {
-          "type": "person",
-          "settings": {
-            "ava": "shopify://shop_images/Team_Jea.png",
-            "name": "Jeannine",
-            "text": "Trageberaterin, Babyschlaf-Coach und Mama"
-          }
-        },
-        "be9ada2e-bc4e-467d-849d-55cf5a58c64e": {
-          "type": "person",
-          "settings": {
-            "ava": "shopify://shop_images/Team_Zoe.png",
-            "name": "Zoé",
-            "text": "Pflegefachfrau, Babyzeichen-Kursleiterin und Mama"
-          }
-        },
-        "person_jYyLrR": {
-          "type": "person",
-          "settings": {
-            "ava": "shopify://shop_images/Team_Salome.png",
-            "name": "Salome",
-            "text": "Babyzeichen-Kursleiterin und Mama"
-          }
-        },
-        "7fdb0f6f-9e64-4aa6-afd7-1ddcf1b8c8a2": {
-          "type": "person",
-          "settings": {
-            "ava": "shopify://shop_images/Lorena.png",
-            "name": "Lorena",
-            "text": "Teammitglied und Mama"
-          }
         }
       },
       "block_order": [
         "0d00a222-aa0c-4c8b-aa88-5bfe8def0963",
         "c8394d23-9764-4513-aa47-49c63d237f3e",
-        "a7e72277-935e-463c-97b3-335ba595dda4",
-        "d76f6589-f9e4-4a95-ba25-6b155594ccba",
-        "be9ada2e-bc4e-467d-849d-55cf5a58c64e",
-        "person_jYyLrR",
-        "7fdb0f6f-9e64-4aa6-afd7-1ddcf1b8c8a2"
+        "a7e72277-935e-463c-97b3-335ba595dda4"
       ],
       "settings": {
         "bg": "#a25c3f",
@@ -117,13 +81,40 @@
             "name": "Jeannine",
             "text": "Trageberaterin, Babyschlaf-Coach, Mama"
           }
+        },
+        "person_wU94Ua": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify://shop_images/Team_Zoe.png",
+            "name": "Zoé",
+            "text": "Pflegefachfrau, Babyzeichen-Kursleiterin und Mama"
+          }
+        },
+        "person_YD9J4b": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify://shop_images/Team_Salome.png",
+            "name": "Salome",
+            "text": "Babyzeichen-Kursleiterin, Mama"
+          }
+        },
+        "person_r7Twez": {
+          "type": "person",
+          "settings": {
+            "ava": "shopify://shop_images/Lorena.png",
+            "name": "Lorena",
+            "text": "Teammitglied, Mama"
+          }
         }
       },
       "block_order": [
-        "person_ke4xf3"
+        "person_ke4xf3",
+        "person_wU94Ua",
+        "person_YD9J4b",
+        "person_r7Twez"
       ],
       "settings": {
-        "bg": "",
+        "bg": "#a25c3f",
         "text_color": "",
         "padding_top": 60,
         "padding_bottom": 60,

@@ -12,55 +12,6 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "8fc6288d-372e-45df-a8da-4a794678a4f4": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Start-Silder-Advent1.jpg",
-            "img2": "shopify://shop_images/Start-Silder-Advent2_b327cc0d-dbd7-4f3d-ac8a-3f700a78ac0e.jpg",
-            "img3": "shopify://shop_images/Start-Silder-Advent3.jpg",
-            "title": "Advent mit Kindern gestalten",
-            "text": "<p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.</p>",
-            "url": "shopify://pages/themenseite",
-            "btn_name": "Mehr zum Thema"
-          }
-        },
-        "67bececa-9c31-424d-a18a-4a49adda00b5": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_nutcracker.webp",
-            "img2": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
-            "title": "Geschenke für leuchtende Kinderaugen",
-            "text": "<p>Weihnachten steht wieder vor der Tür, und damit die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.</p>",
-            "url": "shopify://pages/weihnachtsgeschenke-guide",
-            "btn_name": "Zum Geschenke-Guide"
-          }
-        },
-        "item_Jc9eFD": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
-            "img2": "shopify://shop_images/info-erkaeltung-kind_Klein.jpg",
-            "img3": "shopify://shop_images/infobild-mama-baby-nackt_Kopie.jpg",
-            "title": "Erkältungen natürlich begleiten",
-            "text": "<p>Wenn kleine Kinder erkältet sind, ist das für uns Eltern oft schlimm mitanzusehen. Die Naturheilkunde bietet sanfte Möglichkeiten dein Kind bei einer Erkältung zu unterstützen. Wir haben für euch unsere besten Tipps zusammengestellt.</p>",
-            "url": "https://herzanherz-shop.ch/pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
-            "btn_name": "Mehr erfahren"
-          }
-        },
-        "beb1387a-20df-4238-a01b-69c08fe7ba72": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
-            "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
-            "img3": "shopify://shop_images/Infobild-Handschuhe.jpg",
-            "title": "Warm durch Herbst & Winter",
-            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.</p>",
-            "url": "shopify://pages/warm-durch-herbst-winter",
-            "btn_name": "Unsere Tipps"
-          }
-        },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
           "type": "item",
           "settings": {
@@ -73,28 +24,28 @@
             "btn_name": "Mehr zum Thema erfahren"
           }
         },
-        "item_iFhkhf": {
+        "item_c8wF6m": {
           "type": "item",
           "settings": {
-            "img1": "shopify://shop_images/Unten_62fe7837-ab7d-4186-abe7-d24fe1882d94.jpg",
-            "img2": "shopify://shop_images/Mitte_f4f95883-ada7-403a-9744-69ec349dfce6.jpg",
-            "img3": "shopify://shop_images/Oben_2c8039ca-d1bf-419a-a6bb-0a308b0be11d.jpg",
-            "title": "Geschenke zur Geburt",
-            "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.</p>",
-            "url": "shopify://pages/geschenke-zur-geburt",
-            "btn_name": "Unsere Geschenktipps"
+            "img1": "shopify://shop_images/oben.jpg",
+            "img2": "shopify://shop_images/Mitte.jpg",
+            "img3": "shopify://shop_images/unten.jpg",
+            "title": "Das brauchst du für den Sommer",
+            "text": "<p>Babys und Kleinkinder reagieren empfindlich auf Sonnenstrahlen. Deshalb ist ein guter Schutz besonders wichtig. UV-Decken für Tragehilfen und Kinderwagen, sowie spezielle, dicht gewebte Kleidung schützen optimal. Für in und am Wasser modische UV-Bademode. Ein guter Sonnenhut und je nach Bedarf Sonnencreme gehören zum optimalen Sonnenschutz dazu. So kann der Sommer kommen!</p>",
+            "url": "shopify://collections/fruhling-sommer",
+            "btn_name": "Jetzt entdecken"
           }
         },
-        "item_WxFtCe": {
+        "item_wxaVcg": {
           "type": "item",
           "settings": {
-            "img1": "shopify://shop_images/Winterthur_Babyladen_Gutschein_Paarzeit-Kartenset-Paare-Sofasafari-2_66294_2.jpg",
-            "img2": "shopify://shop_images/Couple_e8c016d3-0863-49ac-9ddc-d83c7b70e5fb.jpg",
-            "img3": "shopify://shop_images/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_sweetvalentine_63229_2.jpg",
-            "title": "Für mehr Zweisamkeit",
-            "text": "<p>Das Leben mit kleinen Kindern kann ganz schön hektisch sein. Da ist es umso wichtiger, sich bewusst Zeit für die Partnerschaft zu nehmen. Die klimaneutral gefertigten Paarzeit Produkte schenken euch wunderbare Momente tiefer Verbundenheit. Für mehr Liebe & Achtsamkeit im Familienalltag.</p>",
-            "url": "shopify://collections/partnerschaft",
-            "btn_name": "LIEBEvolle Produkte entdecken"
+            "img1": "shopify://shop_images/Slider_unten.png",
+            "img2": "shopify://shop_images/Slider_mitte.png",
+            "img3": "shopify://shop_images/Slider_oben.png",
+            "title": "Draussen spielen",
+            "text": "<p>In ihrer unbändigen Freude am Draussensein finden Kinder eine unendliche Quelle der Inspiration und des Glücks. Und du findest bei uns ein schöne Auswahl an auserlesenen Artikel, um das Leben draussen und die Natur mit deinem Kind zu entdecken und zu feiern.</p>",
+            "url": "shopify://collections/draussen-spielen",
+            "btn_name": "Jetzt entdecken"
           }
         },
         "24910c9d-15a9-4196-9b65-cc074f34c723": {
@@ -109,30 +60,77 @@
             "btn_name": "Jetzt entdecken"
           }
         },
-        "item_wxaVcg": {
+        "item_iFhkhf": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "img1": "shopify://shop_images/Slider_unten.png",
-            "img2": "shopify://shop_images/Slider_mitte.png",
-            "img3": "shopify://shop_images/Slider_oben.png",
-            "title": "Draussen spielen",
-            "text": "<p>In ihrer unbändigen Freude am Draussensein finden Kinder eine unendliche Quelle der Inspiration und des Glücks. Und du findest bei uns ein schöne Auswahl an auserlesenen Artikel, um das Leben draussen und die Natur mit deinem Kind zu entdecken und zu feiern.</p>",
-            "url": "shopify://collections/draussen-spielen",
-            "btn_name": "Jetzt entdecken"
+            "img1": "shopify://shop_images/Unten_62fe7837-ab7d-4186-abe7-d24fe1882d94.jpg",
+            "img2": "shopify://shop_images/Mitte_f4f95883-ada7-403a-9744-69ec349dfce6.jpg",
+            "img3": "shopify://shop_images/Oben_2c8039ca-d1bf-419a-a6bb-0a308b0be11d.jpg",
+            "title": "Geschenke zur Geburt",
+            "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.</p>",
+            "url": "shopify://pages/geschenke-zur-geburt",
+            "btn_name": "Unsere Geschenktipps"
           }
         },
-        "item_c8wF6m": {
+        "item_Jc9eFD": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
+            "img2": "shopify://shop_images/info-erkaeltung-kind_Klein.jpg",
+            "img3": "shopify://shop_images/infobild-mama-baby-nackt_Kopie.jpg",
+            "title": "Erkältungen natürlich begleiten",
+            "text": "<p>Wenn kleine Kinder erkältet sind, ist das für uns Eltern oft schlimm mitanzusehen. Die Naturheilkunde bietet sanfte Möglichkeiten dein Kind bei einer Erkältung zu unterstützen. Wir haben für euch unsere besten Tipps zusammengestellt.</p>",
+            "url": "https://herzanherz-shop.ch/pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
+            "btn_name": "Mehr erfahren"
+          }
+        },
+        "item_WxFtCe": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Winterthur_Babyladen_Gutschein_Paarzeit-Kartenset-Paare-Sofasafari-2_66294_2.jpg",
+            "img2": "shopify://shop_images/Couple_e8c016d3-0863-49ac-9ddc-d83c7b70e5fb.jpg",
+            "img3": "shopify://shop_images/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_sweetvalentine_63229_2.jpg",
+            "title": "Für mehr Zweisamkeit",
+            "text": "<p>Das Leben mit kleinen Kindern kann ganz schön hektisch sein. Da ist es umso wichtiger, sich bewusst Zeit für die Partnerschaft zu nehmen. Die klimaneutral gefertigten Paarzeit Produkte schenken euch wunderbare Momente tiefer Verbundenheit. Für mehr Liebe & Achtsamkeit im Familienalltag.</p>",
+            "url": "shopify://collections/partnerschaft",
+            "btn_name": "LIEBEvolle Produkte entdecken"
+          }
+        },
+        "beb1387a-20df-4238-a01b-69c08fe7ba72": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
+            "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
+            "img3": "shopify://shop_images/Infobild-Handschuhe.jpg",
+            "title": "Warm durch Herbst & Winter",
+            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.</p>",
+            "url": "shopify://pages/warm-durch-herbst-winter",
+            "btn_name": "Unsere Tipps"
+          }
+        },
+        "67bececa-9c31-424d-a18a-4a49adda00b5": {
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify://shop_images/oben.jpg",
-            "img2": "shopify://shop_images/Mitte.jpg",
-            "img3": "shopify://shop_images/unten.jpg",
-            "title": "Das brauchst du für den Sommer",
-            "text": "<p>Babys und Kleinkinder reagieren empfindlich auf Sonnenstrahlen. Deshalb ist ein guter Schutz besonders wichtig. UV-Decken für Tragehilfen und Kinderwagen, sowie spezielle, dicht gewebte Kleidung schützen optimal. Für in und am Wasser modische UV-Bademode. Ein guter Sonnenhut und je nach Bedarf Sonnencreme gehören zum optimalen Sonnenschutz dazu. So kann der Sommer kommen!</p>",
-            "url": "shopify://collections/fruhling-sommer",
-            "btn_name": "Jetzt entdecken"
+            "img1": "shopify://shop_images/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_nutcracker.webp",
+            "img2": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
+            "title": "Geschenke für leuchtende Kinderaugen",
+            "text": "<p>Weihnachten steht wieder vor der Tür, und damit die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.</p>",
+            "url": "shopify://pages/weihnachtsgeschenke-guide",
+            "btn_name": "Zum Geschenke-Guide"
+          }
+        },
+        "8fc6288d-372e-45df-a8da-4a794678a4f4": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Start-Silder-Advent1.jpg",
+            "img2": "shopify://shop_images/Start-Silder-Advent2_b327cc0d-dbd7-4f3d-ac8a-3f700a78ac0e.jpg",
+            "img3": "shopify://shop_images/Start-Silder-Advent3.jpg",
+            "title": "Advent mit Kindern gestalten",
+            "text": "<p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.</p>",
+            "url": "shopify://pages/themenseite",
+            "btn_name": "Mehr zum Thema"
           }
         },
         "item_8xqrhQ": {
@@ -150,16 +148,16 @@
         }
       },
       "block_order": [
-        "8fc6288d-372e-45df-a8da-4a794678a4f4",
-        "67bececa-9c31-424d-a18a-4a49adda00b5",
-        "item_Jc9eFD",
-        "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
-        "item_iFhkhf",
-        "item_WxFtCe",
-        "24910c9d-15a9-4196-9b65-cc074f34c723",
-        "item_wxaVcg",
         "item_c8wF6m",
+        "item_wxaVcg",
+        "24910c9d-15a9-4196-9b65-cc074f34c723",
+        "item_iFhkhf",
+        "item_Jc9eFD",
+        "item_WxFtCe",
+        "beb1387a-20df-4238-a01b-69c08fe7ba72",
+        "67bececa-9c31-424d-a18a-4a49adda00b5",
+        "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "item_8xqrhQ"
       ],
       "settings": {}

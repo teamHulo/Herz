@@ -38,6 +38,7 @@
         },
         "item_wxaVcg": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Slider_unten.png",
             "img2": "shopify://shop_images/Slider_mitte.png",

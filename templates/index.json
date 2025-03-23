@@ -177,61 +177,6 @@
       ],
       "settings": {}
     },
-    "eb12502c-a978-4a64-8794-299bf7d22d27": {
-      "type": "section-our",
-      "blocks": {
-        "item_JkwHwM": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Sommer-Cloby-Tragen.jpg",
-            "title": "UV-Decke & Kleidung",
-            "text": "<p>Babys und Kleinkinder reagieren empfindlich auf Sonnenstrahlen. Darum ist ein guter UV-Schutz für sie besonders wichtig. UV-Decken für Tragehilfe und Kinderwagen sowie spezielle, dicht gewebte Kleidung schützen optimal.</p>",
-            "url": "shopify://collections/uv-stampler-tucher",
-            "btn_name": "UV-Decken & -Kleidung"
-          }
-        },
-        "item_67Wce3": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Sommer-Manymonths-Hempies-Hanf.jpg",
-            "title": "Hanf-Kleidung",
-            "text": "<p>Hanf ist von Natur aus UV-beständig, atmungsaktiv und schnell trocknend. Hanf fühlt sich in der Hitze kühl an, aber bei kaltem Wetter erwärmt sich die in den Fasern eingeschlossene Luft vom Körper und macht ihn natürlich warm.</p>",
-            "url": "shopify://collections/manymonths-fruhling-sommer",
-            "btn_name": "Zur Kollektion"
-          }
-        },
-        "item_yrPzyC": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnenhut.jpg",
-            "title": "Sonnenhüte",
-            "text": "<p>Ein guter Sonnenhut ist im Sommer das A und O. Ein Hut mit Nackenschutz oder sogar mit breiter Rundumkrempe wie beim beliebten <a href=\"/products/sonnenhut-feuerwehr\" target=\"_blank\" title=\"Sonnenhut FEUERWEHR\">Feuerwehrhut von Pickapooh</a> schützt gut beim Spielen und beim Tragen.</p>",
-            "url": "shopify://collections/sonnenhute",
-            "btn_name": "Sonnenhüte"
-          }
-        },
-        "item_bPf7kc": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnencreme.jpg",
-            "title": "Sonnencreme",
-            "text": "<p>Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Daher haben wir nur Sonnencreme im Sortiment, die wir guten Gewissens empfehlen können. Sie kommen ohne bedenkliche Inhaltsstoffe aus und werden nachhaltig produziert.</p>",
-            "url": "shopify://collections/sonnencreme",
-            "btn_name": "Sonnencreme"
-          }
-        }
-      },
-      "block_order": [
-        "item_JkwHwM",
-        "item_67Wce3",
-        "item_yrPzyC",
-        "item_bPf7kc"
-      ],
-      "settings": {
-        "name": "UNSERE EMPFEHLUNGEN",
-        "title": "Alles für entspannte Spätsommertage"
-      }
-    },
     "section_our_hW8Uw7": {
       "type": "section-our",
       "blocks": {
@@ -369,6 +314,61 @@
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Für eine magische Zeit mit deinem Baby"
+      }
+    },
+    "eb12502c-a978-4a64-8794-299bf7d22d27": {
+      "type": "section-our",
+      "blocks": {
+        "item_JkwHwM": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Sommer-Cloby-Tragen.jpg",
+            "title": "UV-Decke & Kleidung",
+            "text": "<p>Babys und Kleinkinder reagieren empfindlich auf Sonnenstrahlen. Darum ist ein guter UV-Schutz für sie besonders wichtig. UV-Decken für Tragehilfe und Kinderwagen sowie spezielle, dicht gewebte Kleidung schützen optimal.</p>",
+            "url": "shopify://collections/uv-stampler-tucher",
+            "btn_name": "UV-Decken & -Kleidung"
+          }
+        },
+        "item_67Wce3": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Sommer-Manymonths-Hempies-Hanf.jpg",
+            "title": "Hanf-Kleidung",
+            "text": "<p>Hanf ist von Natur aus UV-beständig, atmungsaktiv und schnell trocknend. Hanf fühlt sich in der Hitze kühl an, aber bei kaltem Wetter erwärmt sich die in den Fasern eingeschlossene Luft vom Körper und macht ihn natürlich warm.</p>",
+            "url": "shopify://collections/manymonths-fruhling-sommer",
+            "btn_name": "Zur Kollektion"
+          }
+        },
+        "item_yrPzyC": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnenhut.jpg",
+            "title": "Sonnenhüte",
+            "text": "<p>Ein guter Sonnenhut ist im Sommer das A und O. Ein Hut mit Nackenschutz oder sogar mit breiter Rundumkrempe wie beim beliebten <a href=\"/products/sonnenhut-feuerwehr\" target=\"_blank\" title=\"Sonnenhut FEUERWEHR\">Feuerwehrhut von Pickapooh</a> schützt gut beim Spielen und beim Tragen.</p>",
+            "url": "shopify://collections/sonnenhute",
+            "btn_name": "Sonnenhüte"
+          }
+        },
+        "item_bPf7kc": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnencreme.jpg",
+            "title": "Sonnencreme",
+            "text": "<p>Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Daher haben wir nur Sonnencreme im Sortiment, die wir guten Gewissens empfehlen können. Sie kommen ohne bedenkliche Inhaltsstoffe aus und werden nachhaltig produziert.</p>",
+            "url": "shopify://collections/sonnencreme",
+            "btn_name": "Sonnencreme"
+          }
+        }
+      },
+      "block_order": [
+        "item_JkwHwM",
+        "item_67Wce3",
+        "item_yrPzyC",
+        "item_bPf7kc"
+      ],
+      "settings": {
+        "name": "UNSERE EMPFEHLUNGEN",
+        "title": "Alles für entspannte Spätsommertage"
       }
     },
     "section_with_text_btn_ECAitC": {
@@ -691,8 +691,8 @@
   },
   "order": [
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee",
-    "eb12502c-a978-4a64-8794-299bf7d22d27",
     "section_our_hW8Uw7",
+    "eb12502c-a978-4a64-8794-299bf7d22d27",
     "section_with_text_btn_ECAitC",
     "section_full_image_EqfEhU",
     "section_slider_ennB3g",

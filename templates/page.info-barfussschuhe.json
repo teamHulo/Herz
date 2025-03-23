@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -22,7 +22,7 @@
       "settings": {
         "padding_top": 60,
         "padding_bottom": 60,
-        "logo": "shopify:\/\/shop_images\/Group.png",
+        "logo": "shopify://shop_images/Group.png",
         "title": "Barfuss-Schuhe für Kinder",
         "text": "",
         "max_width": 1050
@@ -34,7 +34,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h4>Alles was du über Barfuss-Schuhe wissen musst<\/h4><p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Hier verraten wir dir, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind und wie du die richtige Grösse für dein Kind ermittelst.<\/p>",
+            "text": "<h4>Alles was du über Barfuss-Schuhe wissen musst</h4><p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Hier verraten wir dir, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind und wie du die richtige Grösse für dein Kind ermittelst.</p>",
             "text_style": "body"
           }
         }
@@ -43,7 +43,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Barfuss-Schuhe.jpg",
+        "image": "shopify://shop_images/Infobild-Barfuss-Schuhe.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -57,69 +57,23 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_mzNVCL": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_RAfeqp": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_bkxyGb": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>Vortrag: Glückliche Kinderfüsse<\/h4><p>Im kompakten Vortrag \"Glückliche Kinderfüsse\" vermittelt Roman Gull spannendes Wissen über die Fussentwicklung, Vor- & Nachteile von Schuhen, wie der passende Schuh und die richtige Grösse gefunden werden und vieles mehr. Roman Gull setzt sich als Barfuss-Coach für gesunde und schmerzfreie Füsse ein, denn er weiss, dass eine gute Fussgesundheit positive Auswirkungen auf die Gesundheit des ganzen Körpers und Geistes hat. <strong>Am Samstag, 23. November 2024 von 14-16 Uhr <\/strong>bei Herz an Herz.<br\/><\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_43W7qz": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zur Anmeldung",
-            "button_link": "https:\/\/www.herzanherz.ch\/kurse\/glueckliche-kinderfuesse\/",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_RAfeqp",
-        "text_bkxyGb",
-        "button_43W7qz"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Barfuss-Baby.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0": {
       "type": "rich-text",
       "blocks": {
         "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
           "type": "text",
           "settings": {
-            "text": "<h2>Die Vorteile von Barfuss-Schuhen<\/h2><p><strong>Was ist ein Barfuss-Schuh?<\/strong><br\/>Ein Barfuss-Schuh zielt darauf ab, ein möglichst naturgetreues Barfussgefühl zu vermitteln, während gleichzeitig Schutz vor äusseren Einflüssen geboten wird. Anders als herkömmliche Schuhe, die oft stark gepolstert und stützend sind, sind Barfuss-Schuhe darauf ausgelegt, die natürliche Bewegung der Füsse zu fördern und die Füsse so zu trainieren, wie es die Evolution vorgesehen hat.<br\/><\/p><p><strong>Was sind die Vorteile von Barfuss-Schuhen?<\/strong><br\/>Da Kinderfüsse noch in der Wachstumsphase sind, ist es besonders wichtig, Schuhe zu wählen, die ein Barfussgefühl simulieren und so dazu beitragen, dass die Kinderfüsse sich auf natürliche Weise entwickeln können:<br\/><\/p><ul><li>Barfuss-Schuhe unterstützen diese natürliche Entwicklung der Füsse, indem sie eine bessere Bewegungsfreiheit ermöglichen. Die flexiblen Sohlen fördern die Entwicklung der Fuss- und Wadenmuskulatur und tragen dazu bei, dass sich das Fussgewölbe auf natürliche Weise entwickelt.<\/li><li>Die dünnen Sohlen ermöglichen Kindern, den Boden unter ihren Füssen zu spüren. Das verbessert ihre sensorische Wahrnehmung, denn die Reize am Fuss sorgen für eine gute Körperkoordination. Gleichzeitig können die Füsse das Körpergewicht abfedern, Bodenunebenheiten ausgleichen und wichtige Informationen für den Gleichgewichtssinn liefern. So wird das Gleichgewicht verbessert.<\/li><li>Barfuss-Schuhe ermutigen Kinder, bewusster aufzutreten und ihre Schritte präziser zu setzen. Dies kann langfristig dazu beitragen, Haltungsschäden und Problemen im Bewegungsapparat vorzubeugen.<\/li><li>Barfuss-Schuhe fördern eine gesunde Fusshaltung, da sie eine natürliche Abrollbewegung begünstigen und den Zehen ausreichend Platz bieten, was die Ausbildung eines gesunden Gangmusters unterstützt. Die Zehen behalten ihre korrekte Stellung und müssen sich nicht einer unnatürlichen Schuhform anpassen.<\/li><li>Die Beweglichkeit der Zehen und die natürliche Bewegung des Fusses tragen dazu bei, die Durchblutung zu verbessern und die Muskulatur zu stimulieren. Dies kann dazu beitragen, die Fussgesundheit insgesamt zu unterstützen.<br\/><br\/><\/li><\/ul>"
+            "text": "<h2>Die Vorteile von Barfuss-Schuhen</h2><p><strong>Was ist ein Barfuss-Schuh?</strong><br/>Ein Barfuss-Schuh zielt darauf ab, ein möglichst naturgetreues Barfussgefühl zu vermitteln, während gleichzeitig Schutz vor äusseren Einflüssen geboten wird. Anders als herkömmliche Schuhe, die oft stark gepolstert und stützend sind, sind Barfuss-Schuhe darauf ausgelegt, die natürliche Bewegung der Füsse zu fördern und die Füsse so zu trainieren, wie es die Evolution vorgesehen hat.<br/></p><p><strong>Was sind die Vorteile von Barfuss-Schuhen?</strong><br/>Da Kinderfüsse noch in der Wachstumsphase sind, ist es besonders wichtig, Schuhe zu wählen, die ein Barfussgefühl simulieren und so dazu beitragen, dass die Kinderfüsse sich auf natürliche Weise entwickeln können:<br/></p><ul><li>Barfuss-Schuhe unterstützen diese natürliche Entwicklung der Füsse, indem sie eine bessere Bewegungsfreiheit ermöglichen. Die flexiblen Sohlen fördern die Entwicklung der Fuss- und Wadenmuskulatur und tragen dazu bei, dass sich das Fussgewölbe auf natürliche Weise entwickelt.</li><li>Die dünnen Sohlen ermöglichen Kindern, den Boden unter ihren Füssen zu spüren. Das verbessert ihre sensorische Wahrnehmung, denn die Reize am Fuss sorgen für eine gute Körperkoordination. Gleichzeitig können die Füsse das Körpergewicht abfedern, Bodenunebenheiten ausgleichen und wichtige Informationen für den Gleichgewichtssinn liefern. So wird das Gleichgewicht verbessert.</li><li>Barfuss-Schuhe ermutigen Kinder, bewusster aufzutreten und ihre Schritte präziser zu setzen. Dies kann langfristig dazu beitragen, Haltungsschäden und Problemen im Bewegungsapparat vorzubeugen.</li><li>Barfuss-Schuhe fördern eine gesunde Fusshaltung, da sie eine natürliche Abrollbewegung begünstigen und den Zehen ausreichend Platz bieten, was die Ausbildung eines gesunden Gangmusters unterstützt. Die Zehen behalten ihre korrekte Stellung und müssen sich nicht einer unnatürlichen Schuhform anpassen.</li><li>Die Beweglichkeit der Zehen und die natürliche Bewegung des Fusses tragen dazu bei, die Durchblutung zu verbessern und die Muskulatur zu stimulieren. Dies kann dazu beitragen, die Fussgesundheit insgesamt zu unterstützen.<br/><br/></li></ul>"
           }
         },
         "c9b2c8f9-130c-402e-9787-618d8d8c1bea": {
           "type": "button",
           "settings": {
             "button_label": "Babyschuhe",
-            "button_link": "shopify:\/\/collections\/babyschuhe",
+            "button_link": "shopify://collections/babyschuhe",
             "button_style_secondary": false,
             "button_label_2": "Kinderschuhe",
-            "button_link_2": "shopify:\/\/collections\/kinderschuhe",
+            "button_link_2": "shopify://collections/kinderschuhe",
             "button_style_secondary_2": false
           }
         }
@@ -143,7 +97,7 @@
         "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Die passenden Barfuss-Schuhe kaufen<\/h2><h4>Wie erkenne ich einen Barfuss-Schuh?<\/h4><p>Ein Barfuss-Schuh zeichnet sich durch mehrere Eigenschaften aus:<\/p><ul><li>Er hat eine flexible Sohle, die es den Füssen ermöglicht, sich natürlich zu bewegen und den Boden zu spüren. Sensorische Reize am Fuss sorgen für eine gute Körperkoordination.<\/li><li>Die Schuhe haben eine breite Zehenbox und bieten dadurch ausreichend Platz für die Zehen, um sich frei zu bewegen und auseinanderzuspreizen.<\/li><li>Die Sohlen sind dünn. Das Fussbett hat eine flache Form ohne Polsterung oder Absätze und ermöglicht eine natürliche Abrollbewegung des Fusses. <\/li><\/ul><h4>Worauf muss ich beim Kauf eines Barfuss-Schuhs achten?<br\/><\/h4><ul><li>Eine gute Passform: Die Schuhe sollten gut passen, nicht einschränken und genügend Platz für die Zehen bieten. Sie sollten trotz ihrer Flexibilität guten Halt bieten und den Fuss gut umschliessen, um Stabilität zu gewährleisten.  Die Ferse sollte nicht zu viel Spiel haben, um ein Abrutschen zu verhindern.<\/li><li>Das gewünschte Material: Achte auf atmungsaktive und hautfreundliche Materialien, um ein angenehmes Tragegefühl zu gewährleisten. Es gibt Modelle aus Leder oder Wolle sowie auch vegane Modelle mit Stoff.<\/li><li>Der passende Verschluss: Um das An- und Ausziehen zu erleichtern sind kindgerechte Verschlüsse wie Klett- oder Reissverschlüsse praktisch. Schuhe mit Schnürsenkeln bieten dafür in der Regel den besseren Halt, da sie sich der Fussform besser anpassen.<br\/><\/li><\/ul><h4>Wie finde ich die passende Grösse für mein Kind?<\/h4><p>Am einfachsten ist es, wenn dein Kind beim Anprobieren dabei ist und es mit den Schuhen kurz Probe laufen kann. So kannst du sicherstellen, dass die Schuhe bequem sind, sich gut anziehen lassen und richtig passen. Alle Schuhe, die du in unserem Onlineshop siehst, haben wir auch im Laden in Winterthur zum Anprobieren da.<br\/><br\/>Sollte ein Besuch bei uns nicht möglich sein, miss die Fusslänge deines Kindes: Das Kind soll barfuss (denn mit Socken sind die Füsse oft etwas kürzer) gerade stehen und mit dem vollen Gewicht auftreten. Miss von der Ferse bis zur längsten Zehe. Führe die Messung am besten an beiden Füssen durch, da sie leicht unterschiedliche Grössen haben können. Füge dann 12 mm zur Messung dazu, denn bei Barfuss-Schuhen ist es wichtig, zusätzlichen Platz für die natürliche Ausdehnung der Zehen beim Gehen zu berücksichtigen. Überprüfe dann die Grössentabelle des Modells, das du kaufen möchtest und finde die passende Innensohlenlänge.<br\/><\/p><p>Gerne helfen wir dir beim Finden des passenden Schuhs und der passenden Grösse. Nimm Kontakt mit uns auf.<\/p>"
+            "text": "<h2>Die passenden Barfuss-Schuhe kaufen</h2><h4>Wie erkenne ich einen Barfuss-Schuh?</h4><p>Ein Barfuss-Schuh zeichnet sich durch mehrere Eigenschaften aus:</p><ul><li>Er hat eine flexible Sohle, die es den Füssen ermöglicht, sich natürlich zu bewegen und den Boden zu spüren. Sensorische Reize am Fuss sorgen für eine gute Körperkoordination.</li><li>Die Schuhe haben eine breite Zehenbox und bieten dadurch ausreichend Platz für die Zehen, um sich frei zu bewegen und auseinanderzuspreizen.</li><li>Die Sohlen sind dünn. Das Fussbett hat eine flache Form ohne Polsterung oder Absätze und ermöglicht eine natürliche Abrollbewegung des Fusses. </li></ul><h4>Worauf muss ich beim Kauf eines Barfuss-Schuhs achten?<br/></h4><ul><li>Eine gute Passform: Die Schuhe sollten gut passen, nicht einschränken und genügend Platz für die Zehen bieten. Sie sollten trotz ihrer Flexibilität guten Halt bieten und den Fuss gut umschliessen, um Stabilität zu gewährleisten.  Die Ferse sollte nicht zu viel Spiel haben, um ein Abrutschen zu verhindern.</li><li>Das gewünschte Material: Achte auf atmungsaktive und hautfreundliche Materialien, um ein angenehmes Tragegefühl zu gewährleisten. Es gibt Modelle aus Leder oder Wolle sowie auch vegane Modelle mit Stoff.</li><li>Der passende Verschluss: Um das An- und Ausziehen zu erleichtern sind kindgerechte Verschlüsse wie Klett- oder Reissverschlüsse praktisch. Schuhe mit Schnürsenkeln bieten dafür in der Regel den besseren Halt, da sie sich der Fussform besser anpassen.<br/></li></ul><h4>Wie finde ich die passende Grösse für mein Kind?</h4><p>Am einfachsten ist es, wenn dein Kind beim Anprobieren dabei ist und es mit den Schuhen kurz Probe laufen kann. So kannst du sicherstellen, dass die Schuhe bequem sind, sich gut anziehen lassen und richtig passen. Alle Schuhe, die du in unserem Onlineshop siehst, haben wir auch im Laden in Winterthur zum Anprobieren da.<br/><br/>Sollte ein Besuch bei uns nicht möglich sein, miss die Fusslänge deines Kindes: Das Kind soll barfuss (denn mit Socken sind die Füsse oft etwas kürzer) gerade stehen und mit dem vollen Gewicht auftreten. Miss von der Ferse bis zur längsten Zehe. Führe die Messung am besten an beiden Füssen durch, da sie leicht unterschiedliche Grössen haben können. Füge dann 12 mm zur Messung dazu, denn bei Barfuss-Schuhen ist es wichtig, zusätzlichen Platz für die natürliche Ausdehnung der Zehen beim Gehen zu berücksichtigen. Überprüfe dann die Grössentabelle des Modells, das du kaufen möchtest und finde die passende Innensohlenlänge.<br/></p><p>Gerne helfen wir dir beim Finden des passenden Schuhs und der passenden Grösse. Nimm Kontakt mit uns auf.</p>"
           }
         }
       },
@@ -165,7 +119,7 @@
         "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h3>Erste Schühchen<\/h3><p>Gerade bei Babys, deren Füsse sich noch im Wachstum befinden, ist es besonders wichtig, darauf zu achten, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Babyschuhen berücksichtigt das. Sie sind weich, flexibel und erfüllen alle Kriterien eines Barfuss-Schuhs. So können die Kleinen die Welt sicher erkunden, ohne Kompromisse bei der Fussgesundheit eingehen zu müssen.<\/p>",
+            "text": "<h3>Erste Schühchen</h3><p>Gerade bei Babys, deren Füsse sich noch im Wachstum befinden, ist es besonders wichtig, darauf zu achten, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Babyschuhen berücksichtigt das. Sie sind weich, flexibel und erfüllen alle Kriterien eines Barfuss-Schuhs. So können die Kleinen die Welt sicher erkunden, ohne Kompromisse bei der Fussgesundheit eingehen zu müssen.</p>",
             "text_style": "body"
           }
         },
@@ -173,7 +127,7 @@
           "type": "button",
           "settings": {
             "button_label": "Zu den ersten Schüchen",
-            "button_link": "shopify:\/\/collections\/erste-schuhchen",
+            "button_link": "shopify://collections/erste-schuhchen",
             "button_style_secondary": false
           }
         }
@@ -183,7 +137,7 @@
         "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-ErsteSchuhe.jpg",
+        "image": "shopify://shop_images/Infobild-ErsteSchuhe.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -203,7 +157,7 @@
         "b1e16a22-d92a-4fef-8e59-67a00b4f1d98": {
           "type": "text",
           "settings": {
-            "text": "<h3>Halb- & Turnschuhe<\/h3><p>Entdecke unsere Auswahl an praktischen Alltagsschuhen für Kinder, die Komfort und natürliche Bewegungsfreiheit bieten. Wir führen klassische Modelle aus Leder, aber auch vegane Modelle. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.<\/p>",
+            "text": "<h3>Halb- & Turnschuhe</h3><p>Entdecke unsere Auswahl an praktischen Alltagsschuhen für Kinder, die Komfort und natürliche Bewegungsfreiheit bieten. Wir führen klassische Modelle aus Leder, aber auch vegane Modelle. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
             "text_style": "body"
           }
         },
@@ -211,7 +165,7 @@
           "type": "button",
           "settings": {
             "button_label": "Zu den Halb- & Turnschuhen",
-            "button_link": "shopify:\/\/collections\/halb-turnschuhe",
+            "button_link": "shopify://collections/halb-turnschuhe",
             "button_style_secondary": false
           }
         }
@@ -221,7 +175,7 @@
         "1213e182-6420-4dc6-b2ba-8a8ad1072c57"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-Halbschuhe.jpg",
+        "image": "shopify://shop_images/infobild-Halbschuhe.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -241,7 +195,7 @@
         "b12b4506-8983-44eb-b9db-3fcbb5c56894": {
           "type": "text",
           "settings": {
-            "text": "<h3>Warme Schuhe<\/h3><p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.<\/p>",
+            "text": "<h3>Warme Schuhe</h3><p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.</p>",
             "text_style": "body"
           }
         },
@@ -249,7 +203,7 @@
           "type": "button",
           "settings": {
             "button_label": "Zu den warmen Schuhen",
-            "button_link": "shopify:\/\/collections\/warme-schuhe",
+            "button_link": "shopify://collections/warme-schuhe",
             "button_style_secondary": false
           }
         }
@@ -259,7 +213,7 @@
         "ac69770f-93af-4ffa-8278-7abd004dc300"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-warmeSchuhe.jpg",
+        "image": "shopify://shop_images/Infobild-warmeSchuhe.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -279,7 +233,7 @@
         "5c670314-e4f2-497c-a210-812f13bbf66b": {
           "type": "text",
           "settings": {
-            "text": "<h3>Stiefel & Booties<\/h3><p>Du bist auf der Suche nach Wärme und Komfort und möchtet trotzdem nicht auf die Vorteile von Barfuss-Schuhen verzichten? Dann wirst du bei uns fündig: Wir führen verschiedene Modelle an warmen, wasserdichten Winterstiefeln, die alle Barfuss-Schuh-Kriterien erfüllen. So hat dein Kind auch bei Minustemperaturen und im Schnee schön warm.<\/p>",
+            "text": "<h3>Stiefel & Booties</h3><p>Du bist auf der Suche nach Wärme und Komfort und möchtet trotzdem nicht auf die Vorteile von Barfuss-Schuhen verzichten? Dann wirst du bei uns fündig: Wir führen verschiedene Modelle an warmen, wasserdichten Winterstiefeln, die alle Barfuss-Schuh-Kriterien erfüllen. So hat dein Kind auch bei Minustemperaturen und im Schnee schön warm.</p>",
             "text_style": "body"
           }
         },
@@ -287,7 +241,7 @@
           "type": "button",
           "settings": {
             "button_label": "Zu den Stiefeln & Booties",
-            "button_link": "shopify:\/\/collections\/stiefel-booties",
+            "button_link": "shopify://collections/stiefel-booties",
             "button_style_secondary": false
           }
         }
@@ -297,7 +251,7 @@
         "fbbbd352-9a4f-49a2-be70-e82c0f9155bd"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Winterstiefel.jpg",
+        "image": "shopify://shop_images/Infobild-Winterstiefel.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -316,7 +270,6 @@
     "main",
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
-    "image_with_text_mzNVCL",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "6b097b85-0abe-47cb-8728-a6b07bd3d882",
     "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",

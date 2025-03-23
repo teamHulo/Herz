@@ -331,6 +331,7 @@
         },
         "item_67Wce3": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Infobild-Sommer-Manymonths-Hempies-Hanf.jpg",
             "title": "Hanf-Kleidung",
@@ -373,6 +374,7 @@
     },
     "section_with_text_btn_ECAitC": {
       "type": "section-with-text-btn",
+      "disabled": true,
       "settings": {
         "title": "Tragen im Herbst & Winter",
         "text": "<p>Beim Tragen profitiert dein Baby direkt von deiner Körperwärme. Damit ihr auch bei kühlerem Wetter gut angezogen seid, gibt es Tragejacken und -pullis, die den Wärmeaustausch optimal unterstützen.</p>",
@@ -382,6 +384,7 @@
     },
     "section_full_image_EqfEhU": {
       "type": "section-full-image",
+      "disabled": true,
       "settings": {
         "img": "shopify://shop_images/Section-Full-Image_Mamalila-Tragejacke.jpg"
       }

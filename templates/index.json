@@ -212,7 +212,6 @@
         },
         "item_bPf7kc": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnencreme.jpg",
             "title": "Sonnencreme",
@@ -228,7 +227,6 @@
         "item_yrPzyC",
         "item_bPf7kc"
       ],
-      "disabled": true,
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Alles für entspannte Spätsommertage"
@@ -438,6 +436,7 @@
         "item_qgKpyG",
         "item_EVEypg"
       ],
+      "disabled": true,
       "settings": {}
     },
     "section_our_aLKHkd": {
@@ -526,6 +525,7 @@
         "item_RKNkGi",
         "item_qcaWnE"
       ],
+      "disabled": true,
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Wollig warm durch den Winter"

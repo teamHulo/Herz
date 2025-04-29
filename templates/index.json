@@ -50,7 +50,6 @@
         },
         "item_NthYMr": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Unten_a1c07fbf-4df5-4039-80f5-40d254a7afce.jpg",
             "img2": "shopify://shop_images/Mitte_e3aa8247-4845-4993-b01f-ee6b5f3575a7.jpg",

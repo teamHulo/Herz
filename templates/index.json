@@ -12,19 +12,6 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "item_NthYMr": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Unten_a1c07fbf-4df5-4039-80f5-40d254a7afce.jpg",
-            "img2": "shopify://shop_images/Mitte_e3aa8247-4845-4993-b01f-ee6b5f3575a7.jpg",
-            "img3": "shopify://shop_images/Oben_ecf5c7cc-9829-43bd-874b-81e8dba0491c.jpg",
-            "title": "10% auf Stoffwindeln & Zubehör",
-            "text": "<p>Natürlich wickeln. Bewusst entscheiden. Liebevoll handeln – für heute und morgen. 🌿​</p><p>Zur Stoffwindelwoche 2025 schenken wir dir 10% Rabatt auf alle Stoffwindeln, Zubehör & Windelfrei-Produkte. Die Aktion läuft bis zum 4.5.25 – nicht verpassen!</p>",
-            "url": "shopify://collections/wickeln",
-            "btn_name": "Jetzt profitieren"
-          }
-        },
         "item_c8wF6m": {
           "type": "item",
           "settings": {
@@ -123,6 +110,19 @@
             "btn_name": "Mehr erfahren"
           }
         },
+        "item_NthYMr": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Unten_a1c07fbf-4df5-4039-80f5-40d254a7afce.jpg",
+            "img2": "shopify://shop_images/Mitte_e3aa8247-4845-4993-b01f-ee6b5f3575a7.jpg",
+            "img3": "shopify://shop_images/Oben_ecf5c7cc-9829-43bd-874b-81e8dba0491c.jpg",
+            "title": "10% auf Stoffwindeln & Zubehör",
+            "text": "<p>Natürlich wickeln. Bewusst entscheiden. Liebevoll handeln – für heute und morgen. 🌿​</p><p>Zur Stoffwindelwoche 2025 schenken wir dir 10% Rabatt auf alle Stoffwindeln, Zubehör & Windelfrei-Produkte. Die Aktion läuft bis zum 4.5.25 – nicht verpassen!</p>",
+            "url": "shopify://collections/wickeln",
+            "btn_name": "Jetzt profitieren"
+          }
+        },
         "beb1387a-20df-4238-a01b-69c08fe7ba72": {
           "type": "item",
           "disabled": true,
@@ -176,7 +176,6 @@
         }
       },
       "block_order": [
-        "item_NthYMr",
         "item_c8wF6m",
         "item_DxngTX",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
@@ -185,6 +184,7 @@
         "item_iFhkhf",
         "item_WxFtCe",
         "item_Jc9eFD",
+        "item_NthYMr",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "67bececa-9c31-424d-a18a-4a49adda00b5",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",

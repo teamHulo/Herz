@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -22,10 +22,48 @@
       "settings": {
         "padding_top": 60,
         "padding_bottom": 60,
-        "logo": "shopify:\/\/shop_images\/Group.png",
+        "logo": "shopify://shop_images/Group.png",
         "title": "Willkommen auf unserer Wissens-Seite",
-        "text": "<p>Hier findest du eine Übersicht über verschiedene spannende Themen.<\/p>",
+        "text": "<p>Hier findest du eine Übersicht über verschiedene spannende Themen.</p>",
         "max_width": 1050
+      }
+    },
+    "image_with_text_Ybbnah": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_aedBNG": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Sommer, Sonne, Kind</h2><h4>So überstehst du heisse Tage mit deinem Kind</h4><p>Wenn es so richtig heiss ist, kann das Leben ganz schön streng sein. So schön es an der Sonne ist, so herausfordernd ist sie manchmal, wenn man mit Baby oder Kind draussen ist. Was zieht das Kind am besten an? Ist Tragen auch sinnvoll, wenn es so heiss ist? Welche Sonnencreme ist die beste für mein Kind? Und was gibt es sonst noch alles zu beachten? Hier erfährst du es.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_DpQCWC": {
+          "type": "button",
+          "settings": {
+            "button_label": "Sommer, Sonne, Kind",
+            "button_link": "shopify://pages/sommer-sonne-kind",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_aedBNG",
+        "button_DpQCWC"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/infobild-sommersonnekind.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1": {
@@ -34,7 +72,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Erstaustattung<\/h2><h4>Was braucht ein Baby wirklich?<\/h4><p>Im Internet kursieren überall Listen, was du so alles anschaffen sollst, wenn du ein Baby erwartest. Vieles davon ist allerdings ziemlich unnötig oder kann warten. Wir zeigen dir, worauf es ankommt, was du wirklich brauchst und was nicht.<\/p>",
+            "text": "<h2>Erstaustattung</h2><h4>Was braucht ein Baby wirklich?</h4><p>Im Internet kursieren überall Listen, was du so alles anschaffen sollst, wenn du ein Baby erwartest. Vieles davon ist allerdings ziemlich unnötig oder kann warten. Wir zeigen dir, worauf es ankommt, was du wirklich brauchst und was nicht.</p>",
             "text_style": "body"
           }
         },
@@ -42,7 +80,7 @@
           "type": "button",
           "settings": {
             "button_label": "Erstausstattung",
-            "button_link": "shopify:\/\/pages\/erstausstattung",
+            "button_link": "shopify://pages/erstausstattung",
             "button_style_secondary": false
           }
         }
@@ -52,7 +90,7 @@
         "button_GjQzzT"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung.jpg",
+        "image": "shopify://shop_images/Infobild-Erstausstattung.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -72,7 +110,7 @@
         "text_JyqFfC": {
           "type": "text",
           "settings": {
-            "text": "<h2>Natürlich, sanft & selbstbestimmt gebären<\/h2><h4>Überlasse dein Geburtserlebnis nicht dem Zufall.<\/h4><p>Es ist nicht egal, wie wir geboren werden, und es ist auch nicht egal, wie wir gebären! Eine gute Vorbereitung ist der Schlüssel zur natürlichen Geburt. Das moderne Leben legt uns einige Stolpersteine in den Weg. Räume sie aus dem Weg und kümmere dich um die 6 Zutaten, die es für eine natürliche Geburt braucht. So erhöht sich die Chance auf eine sanfte, natürliche und selbstbestimmte Geburt massiv.<\/p>",
+            "text": "<h2>Natürlich, sanft & selbstbestimmt gebären</h2><h4>Überlasse dein Geburtserlebnis nicht dem Zufall.</h4><p>Es ist nicht egal, wie wir geboren werden, und es ist auch nicht egal, wie wir gebären! Eine gute Vorbereitung ist der Schlüssel zur natürlichen Geburt. Das moderne Leben legt uns einige Stolpersteine in den Weg. Räume sie aus dem Weg und kümmere dich um die 6 Zutaten, die es für eine natürliche Geburt braucht. So erhöht sich die Chance auf eine sanfte, natürliche und selbstbestimmte Geburt massiv.</p>",
             "text_style": "body"
           }
         },
@@ -80,7 +118,7 @@
           "type": "button",
           "settings": {
             "button_label": "Natürliche Geburt",
-            "button_link": "shopify:\/\/pages\/sanft-naturlich-selbstbestimmt-gebaren",
+            "button_link": "shopify://pages/sanft-naturlich-selbstbestimmt-gebaren",
             "button_style_secondary": false
           }
         }
@@ -90,7 +128,7 @@
         "button_A76pqp"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-SS-Geburt.jpg",
+        "image": "shopify://shop_images/Infobild-SS-Geburt.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -110,7 +148,7 @@
         "text_CmmVDe": {
           "type": "text",
           "settings": {
-            "text": "<h2>Geschenke zur Geburt<\/h2><h4>Was schenken zur Geburt?<\/h4><p>Du bist auf der Suche nach einem passenden Geschenk für frischgebackene junge Familien? Wir zeigen dir, worauf es ankommt und haben unsere besten Ideen für dich zusammengestellt.<\/p>",
+            "text": "<h2>Geschenke zur Geburt</h2><h4>Was schenken zur Geburt?</h4><p>Du bist auf der Suche nach einem passenden Geschenk für frischgebackene junge Familien? Wir zeigen dir, worauf es ankommt und haben unsere besten Ideen für dich zusammengestellt.</p>",
             "text_style": "body"
           }
         },
@@ -118,7 +156,7 @@
           "type": "button",
           "settings": {
             "button_label": "Geschenke zur Geburt",
-            "button_link": "shopify:\/\/pages\/geschenke-zur-geburt",
+            "button_link": "shopify://pages/geschenke-zur-geburt",
             "button_style_secondary": false
           }
         }
@@ -128,7 +166,7 @@
         "button_xFkVw4"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-geschenk.jpg",
+        "image": "shopify://shop_images/infobild-geschenk.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -148,7 +186,7 @@
         "text_nrkinf": {
           "type": "text",
           "settings": {
-            "text": "<h2>Das 1x1 des Tragens<\/h2><h4>Babys wollen getragen werden.<\/h4><p>Körperkontakt ist ein zentrales Grundbedürfnisse des Babys. In deiner Nähe kann es sich entspannen, fühlt sich wohl und sicher. Dein Baby am Körper zu tragen erfüllt sein Bedürfnis, ist praktisch und hat ausserdem unzählige Vorteile für seine Entwicklung. Hier erfährst du alles über die Hintergründe und bekommst praktische Tipps rund ums Tragen.<\/p>",
+            "text": "<h2>Das 1x1 des Tragens</h2><h4>Babys wollen getragen werden.</h4><p>Körperkontakt ist ein zentrales Grundbedürfnisse des Babys. In deiner Nähe kann es sich entspannen, fühlt sich wohl und sicher. Dein Baby am Körper zu tragen erfüllt sein Bedürfnis, ist praktisch und hat ausserdem unzählige Vorteile für seine Entwicklung. Hier erfährst du alles über die Hintergründe und bekommst praktische Tipps rund ums Tragen.</p>",
             "text_style": "body"
           }
         },
@@ -156,7 +194,7 @@
           "type": "button",
           "settings": {
             "button_label": "Das 1x1 des Tragens",
-            "button_link": "shopify:\/\/pages\/das-1x1-des-tragens",
+            "button_link": "shopify://pages/das-1x1-des-tragens",
             "button_style_secondary": false
           }
         }
@@ -166,7 +204,7 @@
         "button_E8rttf"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Tragen-Familie.jpg",
+        "image": "shopify://shop_images/Infobild-Tragen-Familie.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -186,7 +224,7 @@
         "text_8apHJX": {
           "type": "text",
           "settings": {
-            "text": "<h2>Tragejacken<\/h2><h4>Mit Baby unterwegs im Herbst & Winter<\/h4><p>Gerade wenn es kühl ist, profitiert das Baby besonders vom Tragen. Warum das so ist und welche Kleidung sich zum Tragen eignet (und welche nicht), erfährst du hier. Wir stellen dir auch verschiedene Tragejacken vor, sodass du die richtige für dich findest. Papa trägt? Auch für ihn haben wir die passende Jacke.<\/p>",
+            "text": "<h2>Tragejacken</h2><h4>Mit Baby unterwegs im Herbst & Winter</h4><p>Gerade wenn es kühl ist, profitiert das Baby besonders vom Tragen. Warum das so ist und welche Kleidung sich zum Tragen eignet (und welche nicht), erfährst du hier. Wir stellen dir auch verschiedene Tragejacken vor, sodass du die richtige für dich findest. Papa trägt? Auch für ihn haben wir die passende Jacke.</p>",
             "text_style": "body"
           }
         },
@@ -194,7 +232,7 @@
           "type": "button",
           "settings": {
             "button_label": "Tragen im Herbst & Winter",
-            "button_link": "shopify:\/\/pages\/tragen-im-herbst-und-winter",
+            "button_link": "shopify://pages/tragen-im-herbst-und-winter",
             "button_style_secondary": false
           }
         }
@@ -204,7 +242,7 @@
         "button_MF8iDB"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Tragenimwinter.jpg",
+        "image": "shopify://shop_images/Infobild-Tragenimwinter.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -224,7 +262,7 @@
         "text_MFqpp4": {
           "type": "text",
           "settings": {
-            "text": "<h2>Kinderkleider Guide<\/h2><h4>Was ziehe ich meinem Kind bloss an?<\/h4><p>Diese Frage stellen sich früher oder später wohl alle neuen Eltern. Darum haben wir unsere Kleidungs-Tipps für alle möglichen Situationen und Wetterlagen für dich zusammengestellt. Und ganz unten findest du noch ein paar praktische Grundsätze zum Thema.<\/p>",
+            "text": "<h2>Kinderkleider Guide</h2><h4>Was ziehe ich meinem Kind bloss an?</h4><p>Diese Frage stellen sich früher oder später wohl alle neuen Eltern. Darum haben wir unsere Kleidungs-Tipps für alle möglichen Situationen und Wetterlagen für dich zusammengestellt. Und ganz unten findest du noch ein paar praktische Grundsätze zum Thema.</p>",
             "text_style": "body"
           }
         },
@@ -232,7 +270,7 @@
           "type": "button",
           "settings": {
             "button_label": "Kinderkleider-Guide",
-            "button_link": "shopify:\/\/pages\/kinderkleider-guide",
+            "button_link": "shopify://pages/kinderkleider-guide",
             "button_style_secondary": false
           }
         }
@@ -242,7 +280,7 @@
         "button_TUf7WP"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-kinderkleider-guide.jpg",
+        "image": "shopify://shop_images/infobild-kinderkleider-guide.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -262,7 +300,7 @@
         "text_CfYeGL": {
           "type": "text",
           "settings": {
-            "text": "<h2>Warm durch Herbst & Winter<\/h2><h4>Was ziehe ich meinem Kind bloss an?<\/h4><p>Diese Frage stellen sich früher oder später wohl alle Eltern. Gerade wenn es kühler wird, macht man sich Sorgen, dass das Kind friert (oder schwitzt, weil es zu dick angezogen ist). Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben. Unser Wissen haben wir auf dieser Seite für dich zusammengefasst.<\/p>",
+            "text": "<h2>Warm durch Herbst & Winter</h2><h4>Was ziehe ich meinem Kind bloss an?</h4><p>Diese Frage stellen sich früher oder später wohl alle Eltern. Gerade wenn es kühler wird, macht man sich Sorgen, dass das Kind friert (oder schwitzt, weil es zu dick angezogen ist). Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben. Unser Wissen haben wir auf dieser Seite für dich zusammengefasst.</p>",
             "text_style": "body"
           }
         },
@@ -270,7 +308,7 @@
           "type": "button",
           "settings": {
             "button_label": "Warm durch Herbst & Winter",
-            "button_link": "shopify:\/\/pages\/warm-durch-herbst-winter",
+            "button_link": "shopify://pages/warm-durch-herbst-winter",
             "button_style_secondary": false
           }
         }
@@ -280,7 +318,7 @@
         "button_H8zrpY"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
+        "image": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -300,7 +338,7 @@
         "text_keFNbV": {
           "type": "text",
           "settings": {
-            "text": "<h2>Barfuss-Schuhe für Kinder<\/h2><h4>Alles was du über Barfuss-Schuhe wissen musst<\/h4><p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Hier verraten wir dir, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind und wie du die richtige Grösse für dein Kind ermittelst.<\/p>",
+            "text": "<h2>Barfuss-Schuhe für Kinder</h2><h4>Alles was du über Barfuss-Schuhe wissen musst</h4><p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Hier verraten wir dir, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind und wie du die richtige Grösse für dein Kind ermittelst.</p>",
             "text_style": "body"
           }
         },
@@ -308,7 +346,7 @@
           "type": "button",
           "settings": {
             "button_label": "Barfuss-Schuhe für Kinder",
-            "button_link": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
+            "button_link": "shopify://pages/barfuss-schuhe-fur-kinder",
             "button_style_secondary": false
           }
         }
@@ -318,7 +356,7 @@
         "button_rhg37c"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Barfuss-Schuhe.jpg",
+        "image": "shopify://shop_images/Infobild-Barfuss-Schuhe.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -338,7 +376,7 @@
         "text_bN9K4P": {
           "type": "text",
           "settings": {
-            "text": "<h2>Stoffwindel-Guide<\/h2><h4>Wickeln mit Stoff?<\/h4><p>Du möchtest für die Gesundheit deines Kindes und die der Umwelt einen Beitrag leisten? Du willst keine Chemie am Babyfüdli? Du willst Abfall und Geld sparen? Dann bist du beim Thema Stoffwindeln genau richtig.<\/p><p>Hier erfährst du, was die Vorteile von Stoffwindeln sind, welche Systeme es gibt und welches Zubehör ganz nützlich ist.<\/p>",
+            "text": "<h2>Stoffwindel-Guide</h2><h4>Wickeln mit Stoff?</h4><p>Du möchtest für die Gesundheit deines Kindes und die der Umwelt einen Beitrag leisten? Du willst keine Chemie am Babyfüdli? Du willst Abfall und Geld sparen? Dann bist du beim Thema Stoffwindeln genau richtig.</p><p>Hier erfährst du, was die Vorteile von Stoffwindeln sind, welche Systeme es gibt und welches Zubehör ganz nützlich ist.</p>",
             "text_style": "body"
           }
         },
@@ -346,7 +384,7 @@
           "type": "button",
           "settings": {
             "button_label": "Stoffwindel-Guide",
-            "button_link": "shopify:\/\/pages\/stoffwindeln",
+            "button_link": "shopify://pages/stoffwindeln",
             "button_style_secondary": false
           }
         }
@@ -356,7 +394,7 @@
         "button_f3dCLL"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Erstausstattung-Wickeln.jpg",
+        "image": "shopify://shop_images/Infobild-Erstausstattung-Wickeln.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -376,7 +414,7 @@
         "text_9KwUti": {
           "type": "text",
           "settings": {
-            "text": "<h2>Jahreszeiten, Feste & Rituale in der Familie<\/h2><h4>Kinder durch das Jahr begleiten<\/h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Geburtstage und andere Feste für dein Kind unvergesslich gestalten und die Jahreszeit zuhause sichtbar machen kannst (und warum das eine gute Idee ist) erfährst du auf dieser Seite.<\/p>",
+            "text": "<h2>Jahreszeiten, Feste & Rituale in der Familie</h2><h4>Kinder durch das Jahr begleiten</h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Geburtstage und andere Feste für dein Kind unvergesslich gestalten und die Jahreszeit zuhause sichtbar machen kannst (und warum das eine gute Idee ist) erfährst du auf dieser Seite.</p>",
             "text_style": "body"
           }
         },
@@ -384,7 +422,7 @@
           "type": "button",
           "settings": {
             "button_label": "Jahreszeiten, Feste & Rituale in der Familie",
-            "button_link": "shopify:\/\/pages\/jahreszeiten-feste-rituale-in-der-familie",
+            "button_link": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
             "button_style_secondary": false
           }
         }
@@ -394,7 +432,7 @@
         "button_K9Vxbn"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-grimms-feste-rituale.jpg",
+        "image": "shopify://shop_images/infobild-grimms-feste-rituale.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -414,7 +452,7 @@
         "text_X6dDYE": {
           "type": "text",
           "settings": {
-            "text": "<h2>Rund um den Zyklus<\/h2><h4>Mondzeit & Monatshygiene<\/h4><p>Menstruation ist so viel mehr als nur Blut! Ist dir die Kraft des weiblichen Zyklus bewusst und nutzt du sie schon für dich? Wir teilen unser Wissen, unsere Empfehlungen und Tipps - so dass du dich rundum wohlfühlst als Frau an und mit deinen Tagen.<\/p>",
+            "text": "<h2>Rund um den Zyklus</h2><h4>Mondzeit & Monatshygiene</h4><p>Menstruation ist so viel mehr als nur Blut! Ist dir die Kraft des weiblichen Zyklus bewusst und nutzt du sie schon für dich? Wir teilen unser Wissen, unsere Empfehlungen und Tipps - so dass du dich rundum wohlfühlst als Frau an und mit deinen Tagen.</p>",
             "text_style": "body"
           }
         },
@@ -422,7 +460,7 @@
           "type": "button",
           "settings": {
             "button_label": "Rund um den Zyklus",
-            "button_link": "shopify:\/\/pages\/rund-um-den-zyklus",
+            "button_link": "shopify://pages/rund-um-den-zyklus",
             "button_style_secondary": false
           }
         }
@@ -432,7 +470,7 @@
         "button_qa64Xb"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Zyklus.jpg",
+        "image": "shopify://shop_images/Infobild-Zyklus.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -452,7 +490,7 @@
         "text_A6XH4U": {
           "type": "text",
           "settings": {
-            "text": "<h2>Erkältungen & Fieber<\/h2><h4>Wie begleite ich mein Kind wenn es krank ist?<\/h4><p>Wenn kleine Kinder erkältet sind, fiebern und husten, ist das für Eltern oft schlimm mitanzusehen. Doch bei Fieber gleich zu Fieberzäpfchen und bei jeder Erkältung zu Algifor greifen? Hier erfährst du, warum du deinem Kind damit langfristig mehr schadest als hilfst - und welche sanften Möglichkeiten die Naturheilkunde zu bieten hat.<\/p>",
+            "text": "<h2>Erkältungen & Fieber</h2><h4>Wie begleite ich mein Kind wenn es krank ist?</h4><p>Wenn kleine Kinder erkältet sind, fiebern und husten, ist das für Eltern oft schlimm mitanzusehen. Doch bei Fieber gleich zu Fieberzäpfchen und bei jeder Erkältung zu Algifor greifen? Hier erfährst du, warum du deinem Kind damit langfristig mehr schadest als hilfst - und welche sanften Möglichkeiten die Naturheilkunde zu bieten hat.</p>",
             "text_style": "body"
           }
         },
@@ -460,7 +498,7 @@
           "type": "button",
           "settings": {
             "button_label": "Erkältungen & Fieber",
-            "button_link": "shopify:\/\/pages\/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
+            "button_link": "shopify://pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
             "button_style_secondary": false
           }
         }
@@ -470,7 +508,7 @@
         "button_AfGDxn"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/info-erkaeltung-kind_Klein.jpg",
+        "image": "shopify://shop_images/info-erkaeltung-kind_Klein.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -490,7 +528,7 @@
         "text_LnGMYF": {
           "type": "text",
           "settings": {
-            "text": "<h2>Advent & Co mit Kindern<\/h2><h4>Feste und Rituale zu Advent, Weihnachten und Jahreswechsel in der Familie<\/h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.<\/p>",
+            "text": "<h2>Advent & Co mit Kindern</h2><h4>Feste und Rituale zu Advent, Weihnachten und Jahreswechsel in der Familie</h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.</p>",
             "text_style": "body"
           }
         },
@@ -498,7 +536,7 @@
           "type": "button",
           "settings": {
             "button_label": "Feste & Rituale",
-            "button_link": "shopify:\/\/pages\/themenseite",
+            "button_link": "shopify://pages/themenseite",
             "button_style_secondary": false
           }
         }
@@ -508,7 +546,7 @@
         "button_gM4WAY"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Advent-Weihnachten-gestalten_14012f06-1770-4441-8737-7f588978ebf2.jpg",
+        "image": "shopify://shop_images/Infobild-Advent-Weihnachten-gestalten_14012f06-1770-4441-8737-7f588978ebf2.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -528,7 +566,7 @@
         "text_mGVtXL": {
           "type": "text",
           "settings": {
-            "text": "<h2>Weihnachtsgeschenke-Guide<\/h2><h4>Geschenke, die Freude machen<\/h4><p>Vor Weihnachten beginnt die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.<\/p>",
+            "text": "<h2>Weihnachtsgeschenke-Guide</h2><h4>Geschenke, die Freude machen</h4><p>Vor Weihnachten beginnt die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.</p>",
             "text_style": "body"
           }
         },
@@ -536,7 +574,7 @@
           "type": "button",
           "settings": {
             "button_label": "Weihnachtsgeschenke Guide",
-            "button_link": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
+            "button_link": "shopify://pages/weihnachtsgeschenke-guide",
             "button_style_secondary": false
           }
         }
@@ -546,45 +584,7 @@
         "button_Kheyg9"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_Ybbnah": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_aedBNG": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Sommer, Sonne, Kind<\/h2><h4>So überstehst du heisse Tage mit deinem Kind<\/h4><p>Wenn es so richtig heiss ist, kann das Leben ganz schön streng sein. So schön es an der Sonne ist, so herausfordernd ist sie manchmal, wenn man mit Baby oder Kind draussen ist. Was zieht das Kind am besten an? Ist Tragen auch sinnvoll, wenn es so heiss ist? Welche Sonnencreme ist die beste für mein Kind? Und was gibt es sonst noch alles zu beachten? Hier erfährst du es.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_DpQCWC": {
-          "type": "button",
-          "settings": {
-            "button_label": "Sommer, Sonne, Kind",
-            "button_link": "shopify:\/\/pages\/sommer-sonne-kind",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_aedBNG",
-        "button_DpQCWC"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-sommersonnekind.jpg",
+        "image": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -602,6 +602,7 @@
   "order": [
     "main",
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
+    "image_with_text_Ybbnah",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "image_with_text_egtY7C",
     "image_with_text_aaPfHF",
@@ -615,7 +616,6 @@
     "image_with_text_74aqmp",
     "image_with_text_9jmtCV",
     "image_with_text_Nm3mGq",
-    "image_with_text_NKbETw",
-    "image_with_text_Ybbnah"
+    "image_with_text_NKbETw"
   ]
 }

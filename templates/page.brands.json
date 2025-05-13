@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -11,20 +20,11 @@
     "917202c5-684b-4c71-90a1-e5ff63d6c3c2": {
       "type": "section-brands-list",
       "blocks": {
-        "03a5b612-b625-42a9-b317-d384fc54ffd5": {
-          "type": "brand",
-          "settings": {
-            "title": "A Beautiful Story",
-            "text": "<p>A Beautiful Story verkauft Schmuck und Geschenke, die Glück bringen. Von einer Karte, die Trost spendet, bis hin zu einem Armband, das die Freundschaft feiert. Alle Produkte haben eine Geschichte. Für die Gebenden, weil sie mit ihrem Geschenk wirklich etwas erzählen. Für die Kunsthandwerkerinnen und Kunsthandwerker, weil sie sich mit ihrer Handarbeit eine Existenz aufbauen.<\/p>",
-            "url": "",
-            "logo": "shopify:\/\/shop_images\/ABS_logo-black_May2021.svg"
-          }
-        },
         "0307bdd9-f341-4fe4-b5b0-ef367a454128": {
           "type": "brand",
           "settings": {
             "title": "AllMatters",
-            "text": "<p>AllMatters wurde gegründet, um die Gesundheit während der Menstruation auf persönlicher, kultureller und globaler Ebene zu verbessern. AllMatters engagiert sich dafür, dass Menstruationsprodukte weder unseren Körper noch die Umwelt belasten. Auch dafür, dass Menstruation kein Tabu mehr ist und dafür, dass jeder einfachen Zugang zu einer gesunden Lösung für die Menstruationszeit hat.<\/p><p>Die AllMatters Menstruationstasse besteht zu 100% aus medizinisch unbedenklichem Silikon und enthält weder Zusätze noch Chemikalien.<\/p>",
+            "text": "<p>AllMatters wurde gegründet, um die Gesundheit während der Menstruation auf persönlicher, kultureller und globaler Ebene zu verbessern. AllMatters engagiert sich dafür, dass Menstruationsprodukte weder unseren Körper noch die Umwelt belasten. Auch dafür, dass Menstruation kein Tabu mehr ist und dafür, dass jeder einfachen Zugang zu einer gesunden Lösung für die Menstruationszeit hat.</p><p>Die AllMatters Menstruationstasse besteht zu 100% aus medizinisch unbedenklichem Silikon und enthält weder Zusätze noch Chemikalien.</p>",
             "url": ""
           }
         },
@@ -32,7 +32,7 @@
           "type": "brand",
           "settings": {
             "title": "Aniball",
-            "text": "<p>Der Aniball wurde von Renate Zich- einer zweifachen Mutter – mit dem Ziel entwickelt, Frauen zu helfen, eine natürliche Geburt zu erleben. Die Geburt ist ein natürlicher Bestandteil des Lebens. Sie sollte in Ruhe und ohne Angst verlaufen und nebst einem bedeutungsvollen und einzigartigen auch zu einem schönen Erlebnis werden. Der Aniball Beckenboden- und Geburtstrainer wurde mit Gynäkologen, Hebammen und Schwangeren entwickelt.<\/p>",
+            "text": "<p>Der Aniball wurde von Renate Zich- einer zweifachen Mutter – mit dem Ziel entwickelt, Frauen zu helfen, eine natürliche Geburt zu erleben. Die Geburt ist ein natürlicher Bestandteil des Lebens. Sie sollte in Ruhe und ohne Angst verlaufen und nebst einem bedeutungsvollen und einzigartigen auch zu einem schönen Erlebnis werden. Der Aniball Beckenboden- und Geburtstrainer wurde mit Gynäkologen, Hebammen und Schwangeren entwickelt.</p>",
             "url": ""
           }
         },
@@ -40,7 +40,7 @@
           "type": "brand",
           "settings": {
             "title": "Ardo",
-            "text": "<p>Ardo entwickelt, produziert und vertreibt seit über 25 Jahren Produkte, welche die Menschen auf ihrer Reise durchs Leben begleiten. Sie unterstützen Früh- und Neugeborene in der Entwicklung, begleiten die Mutter durch Schwangerschaft, Geburt und Stillzeit und schenken Patientinnen und Patienten Sicherheit und Komfort. Die Zuverlässigkeit der Ardo Produkte im Bereich der Stillhilfen, sowie die Bedürfnisse der Anwenderinnen und Anwender der Produkte stehen dabei immer im Mittelpunkt. Die Ardo medical AG ist ein Schweizer Familienunternehmen in zweiter Generation. Das Unternehmen hat seinen Hauptsitz in Unterägeri und vertreibt ihre hochwertigen Produkte in über 50 Ländern.<\/p>",
+            "text": "<p>Ardo entwickelt, produziert und vertreibt seit über 25 Jahren Produkte, welche die Menschen auf ihrer Reise durchs Leben begleiten. Sie unterstützen Früh- und Neugeborene in der Entwicklung, begleiten die Mutter durch Schwangerschaft, Geburt und Stillzeit und schenken Patientinnen und Patienten Sicherheit und Komfort. Die Zuverlässigkeit der Ardo Produkte im Bereich der Stillhilfen, sowie die Bedürfnisse der Anwenderinnen und Anwender der Produkte stehen dabei immer im Mittelpunkt. Die Ardo medical AG ist ein Schweizer Familienunternehmen in zweiter Generation. Das Unternehmen hat seinen Hauptsitz in Unterägeri und vertreibt ihre hochwertigen Produkte in über 50 Ländern.</p>",
             "url": ""
           }
         },
@@ -48,7 +48,7 @@
           "type": "brand",
           "settings": {
             "title": "Attipas",
-            "text": "<p>Attipas sind ergonomische Barfussschuhe. Diese Lauflernschuhe sind speziell auf die Bedürfnisse von Kinderfüssen abgestimmt. Durch den grossen Spielraum werden die noch weichen Zehen von Babys nicht unnötig oder unangenehm eingedrückt. Durch 24 kleine Luftlöcher in der Sohle wird der Hitzestau vermieden. Die Attipas sind extrem leicht, was das Gefühl des Barfusslaufens vermittelt. Dank der flexiblen Laufsohle können Kinder den Untergrund auf dem sie laufen sehr gut spüren. Je besser Kinder den Untergrund spüren, desto mehr Reize erhält das Gehirn. Wir sind Fan von Attipas, weil sie dem natürlichen Barfusslaufen sehr nahe kommen und sich die Füsse der Kleinsten optimal entwickeln können.<\/p>",
+            "text": "<p>Attipas sind ergonomische Barfussschuhe. Diese Lauflernschuhe sind speziell auf die Bedürfnisse von Kinderfüssen abgestimmt. Durch den grossen Spielraum werden die noch weichen Zehen von Babys nicht unnötig oder unangenehm eingedrückt. Durch 24 kleine Luftlöcher in der Sohle wird der Hitzestau vermieden. Die Attipas sind extrem leicht, was das Gefühl des Barfusslaufens vermittelt. Dank der flexiblen Laufsohle können Kinder den Untergrund auf dem sie laufen sehr gut spüren. Je besser Kinder den Untergrund spüren, desto mehr Reize erhält das Gehirn. Wir sind Fan von Attipas, weil sie dem natürlichen Barfusslaufen sehr nahe kommen und sich die Füsse der Kleinsten optimal entwickeln können.</p>",
             "url": ""
           }
         },
@@ -56,7 +56,7 @@
           "type": "brand",
           "settings": {
             "title": "Avo+Cado",
-            "text": "<p>avo+cado - Die Marke für preiswerte und qualitativ hochwertige Produkte rund um die Stoffwindel. Mit Firmensitz in Deutschland produziert avo+cado seit 2015 Stoffwindeln und Zubehör. Ziel ist es Stoffwindeln anzubieten, die sich jeder leisten kann. Am bekanntesten sind ihre Prefolds aus ungebleichter Biobaumwolle. Sie sind ein kostengünstiges Wickelsystem für jeden, der wenig ausgeben und trotzdem nicht auf natürliche Fasern verzichten möchte. Zusammen mit einer passenden Überhose ergeben sie eine zuverlässige und vielseitige Stoffwindel.<\/p>",
+            "text": "<p>avo+cado - Die Marke für preiswerte und qualitativ hochwertige Produkte rund um die Stoffwindel. Mit Firmensitz in Deutschland produziert avo+cado seit 2015 Stoffwindeln und Zubehör. Ziel ist es Stoffwindeln anzubieten, die sich jeder leisten kann. Am bekanntesten sind ihre Prefolds aus ungebleichter Biobaumwolle. Sie sind ein kostengünstiges Wickelsystem für jeden, der wenig ausgeben und trotzdem nicht auf natürliche Fasern verzichten möchte. Zusammen mit einer passenden Überhose ergeben sie eine zuverlässige und vielseitige Stoffwindel.</p>",
             "url": ""
           }
         },
@@ -64,7 +64,7 @@
           "type": "brand",
           "settings": {
             "title": "Bajo",
-            "text": "<p>Bajo wurde 1993 in einem kleinen Dorf in Polen gegründet. Bajo Wooden Toys stellt mit langer Erfahrung traditionelle Spielzeuge her. Ihre Motivation ist es bei dem heutigen Lebenstempo, dem technischen Fortschritt, dem Überkonsum und der Informationsflut eine Konstante zu erschaffen. Solide, langlebig Spielzeuge, die euch Meister des Spasses werden lassen. Bajo produziert ausschliesslich im Einklang mit der Natur, so beziehen sie ihren Strom aus Solarpanel, verwenden FSC zertifiziertes Holz von heimischen Bäumen und Plantagen und Verpacken ihre Produkte plastikfrei. Von der Planung bis hin zur Produktion; alles entsteht an einem Ort, keine unnötigen Transportwege werden gefahren.<\/p>",
+            "text": "<p>Bajo wurde 1993 in einem kleinen Dorf in Polen gegründet. Bajo Wooden Toys stellt mit langer Erfahrung traditionelle Spielzeuge her. Ihre Motivation ist es bei dem heutigen Lebenstempo, dem technischen Fortschritt, dem Überkonsum und der Informationsflut eine Konstante zu erschaffen. Solide, langlebig Spielzeuge, die euch Meister des Spasses werden lassen. Bajo produziert ausschliesslich im Einklang mit der Natur, so beziehen sie ihren Strom aus Solarpanel, verwenden FSC zertifiziertes Holz von heimischen Bäumen und Plantagen und Verpacken ihre Produkte plastikfrei. Von der Planung bis hin zur Produktion; alles entsteht an einem Ort, keine unnötigen Transportwege werden gefahren.</p>",
             "url": ""
           }
         },
@@ -72,7 +72,7 @@
           "type": "brand",
           "settings": {
             "title": "Bambino Mio",
-            "text": "<p>Bambino Mios Produkte wurden entwickelt, um langzeitig geliebt und verwendet zu werden. Die Qualitätsprodukte können vom Baby- bis ins Kleinkindalter getragen werden und helfen Eltern und den Kleinen Müll zu reduzieren und Produkte immer wieder zu verwenden. Der Ursprung von Bambino Mio und deren Produkten ist die Nachhaltigkeit. Sie stellen qualitativ hochwertige Produkte unter verantwortungsbewussten Produktionsbedingungen her.<\/p>",
+            "text": "<p>Bambino Mios Produkte wurden entwickelt, um langzeitig geliebt und verwendet zu werden. Die Qualitätsprodukte können vom Baby- bis ins Kleinkindalter getragen werden und helfen Eltern und den Kleinen Müll zu reduzieren und Produkte immer wieder zu verwenden. Der Ursprung von Bambino Mio und deren Produkten ist die Nachhaltigkeit. Sie stellen qualitativ hochwertige Produkte unter verantwortungsbewussten Produktionsbedingungen her.</p>",
             "url": ""
           }
         },
@@ -80,7 +80,7 @@
           "type": "brand",
           "settings": {
             "title": "Bettmaus",
-            "text": "<p>Hinter Bettmaus steckt Margrith Stähli, eine nähbegeisterte Grossmutter, die mit viel Liebe zum Detail vielseitige, praktische und hübsche Produkte herstellt. Natürlich in der Schweiz und mit hochwertigen Materialien. Die Bettmäuse sind ihr Markenzeichen. Den herkömmlichen Bettschlangen nachempfunden zieren sie das Kinder- oder Familienbett. Sie können auch als Lagerungskissen verwendet werden. Ebenfalls beliebt sind die Ärmellätzli für kleine Selberesser und die vielen kleinen Accessoires fürs Baby.<\/p>",
+            "text": "<p>Hinter Bettmaus steckt Margrith Stähli, eine nähbegeisterte Grossmutter, die mit viel Liebe zum Detail vielseitige, praktische und hübsche Produkte herstellt. Natürlich in der Schweiz und mit hochwertigen Materialien. Die Bettmäuse sind ihr Markenzeichen. Den herkömmlichen Bettschlangen nachempfunden zieren sie das Kinder- oder Familienbett. Sie können auch als Lagerungskissen verwendet werden. Ebenfalls beliebt sind die Ärmellätzli für kleine Selberesser und die vielen kleinen Accessoires fürs Baby.</p>",
             "url": ""
           }
         },
@@ -88,7 +88,7 @@
           "type": "brand",
           "settings": {
             "title": "Bijde Hansje",
-            "text": "<p>Die Karten von Bijdehansje haben einzigartige Designs. Schön zum Versenden mit einem persönlichen Wunsch oder Gruß an jemand anderen, aber auch schön auf dem saisonalen Tisch. Die Karten passen gut zu den Jahreszeiten und den jährlichen Festen und Feiern. Die magischen, märchenhaften Designs von Bijdehansje entführen dich in die Kindheit.<\/p>",
+            "text": "<p>Die Karten von Bijdehansje haben einzigartige Designs. Schön zum Versenden mit einem persönlichen Wunsch oder Gruß an jemand anderen, aber auch schön auf dem saisonalen Tisch. Die Karten passen gut zu den Jahreszeiten und den jährlichen Festen und Feiern. Die magischen, märchenhaften Designs von Bijdehansje entführen dich in die Kindheit.</p>",
             "url": ""
           }
         },
@@ -96,7 +96,7 @@
           "type": "brand",
           "settings": {
             "title": "bluu",
-            "text": "<p>Hinter bluu stecken Marko und Roman aus Zürich, die sich zum Ziel gesetzt haben, nachhaltige und gleichzeitig praktische Alternativen von Haushaltsartikeln zu entwickeln. Als Umwelt-Fans und Zero-Waste-Befürworter wollen Marko und Roman mit bluu eine Lösung anbieten, die zu einer plastikfreieren Welt beiträgt und die Waschen mit gutem Gewissen ermöglicht.Ein nachhaltiges Waschmittel ohne jegliches Plastik, mit einer umweltfreundlichen und einfach zu transportierenden Verpackung.<\/p>",
+            "text": "<p>Hinter bluu stecken Marko und Roman aus Zürich, die sich zum Ziel gesetzt haben, nachhaltige und gleichzeitig praktische Alternativen von Haushaltsartikeln zu entwickeln. Als Umwelt-Fans und Zero-Waste-Befürworter wollen Marko und Roman mit bluu eine Lösung anbieten, die zu einer plastikfreieren Welt beiträgt und die Waschen mit gutem Gewissen ermöglicht.Ein nachhaltiges Waschmittel ohne jegliches Plastik, mit einer umweltfreundlichen und einfach zu transportierenden Verpackung.</p>",
             "url": ""
           }
         },
@@ -104,7 +104,7 @@
           "type": "brand",
           "settings": {
             "title": "Brox",
-            "text": "<p>2015 kam von Jin der Impuls, Brox ins Leben zu rufen. In „Lebensmittel“ steckt das Wort „Leben“. Du bist, was du isst – und nach diesem Grundsatz haben Jin und Konrad die Brox-Produkte entwickelt. Bio, fair und regional – das sehen die Gründer von BROX als absolut notwendig für ein modernes Unternehmen. Besonderes Augenmerk legen sie auf das Thema Up- und Recycling der Ressourcen.<\/p>",
+            "text": "<p>2015 kam von Jin der Impuls, Brox ins Leben zu rufen. In „Lebensmittel“ steckt das Wort „Leben“. Du bist, was du isst – und nach diesem Grundsatz haben Jin und Konrad die Brox-Produkte entwickelt. Bio, fair und regional – das sehen die Gründer von BROX als absolut notwendig für ein modernes Unternehmen. Besonderes Augenmerk legen sie auf das Thema Up- und Recycling der Ressourcen.</p>",
             "url": ""
           }
         },
@@ -112,7 +112,7 @@
           "type": "brand",
           "settings": {
             "title": "by Lille Vilde",
-            "text": "<p>Hinter by Lille Vilde steckt Ditte, gelernte Gärtnerin und Mutter von 2 Kindern. Kein Wunder, dass Natur im Fokus des LilleVilde Universums steht. Hinter jedem Produkt steckt ein Designprozess, der seinen Ursprung in der uns umgebenden Natur hat. Nachhaltigkeit wird in den Produkten auf verschiedene Weise berücksichtigt, sei es durch Multifunktionalität, Langlebigkeit oder biologische Abbaubarkeit.<\/p>",
+            "text": "<p>Hinter by Lille Vilde steckt Ditte, gelernte Gärtnerin und Mutter von 2 Kindern. Kein Wunder, dass Natur im Fokus des LilleVilde Universums steht. Hinter jedem Produkt steckt ein Designprozess, der seinen Ursprung in der uns umgebenden Natur hat. Nachhaltigkeit wird in den Produkten auf verschiedene Weise berücksichtigt, sei es durch Multifunktionalität, Langlebigkeit oder biologische Abbaubarkeit.</p>",
             "url": ""
           }
         },
@@ -120,7 +120,7 @@
           "type": "brand",
           "settings": {
             "title": "Chaos & Alibi",
-            "text": "<p>Chaos & Alibi ist ein kleines Familienlabel, das von Simone, ihrem Lebenspartner Michel und ihren zwei Jungs entwickelt wurde. Die Finken sind geschmeidig, atmungsaktiv, bequem und nachhaltig. Die von Simone liebevoll produzierten Finken sind je ein Unikat, denn der Hauptstoff wird aus einem upgecycletem Tragetuch gewonnen und verarbeitet. Die Sohle besteht aus 100% natürlich gegerbtem Leder oder einer veganen Variante.<\/p>",
+            "text": "<p>Chaos & Alibi ist ein kleines Familienlabel, das von Simone, ihrem Lebenspartner Michel und ihren zwei Jungs entwickelt wurde. Die Finken sind geschmeidig, atmungsaktiv, bequem und nachhaltig. Die von Simone liebevoll produzierten Finken sind je ein Unikat, denn der Hauptstoff wird aus einem upgecycletem Tragetuch gewonnen und verarbeitet. Die Sohle besteht aus 100% natürlich gegerbtem Leder oder einer veganen Variante.</p>",
             "url": ""
           }
         },
@@ -128,7 +128,7 @@
           "type": "brand",
           "settings": {
             "title": "Citron",
-            "text": "<p>Citron hat es sich zur Aufgabe gemacht, stilvolle und nachhaltige Produkte für Kinder auf den Markt zu bringen. Gegründet wurde die Marke von einer berufstätigen Mutter, die sich nachhaltige und schöne Produkte für ihre Kinder wünschte. Besonderer Wert wird bei der Produktion auf Qualität und Design gelegt. Die Kollektionen sind nicht nur umweltfreundlich und schön anzusehen, sondern vor allem funktional. Funktionalität sollte bei Produkten für Kinder großgeschrieben werden, denn schließlich haben die Kleinen so einige Ansprüche, denen Citron gerecht wird.<\/p>",
+            "text": "<p>Citron hat es sich zur Aufgabe gemacht, stilvolle und nachhaltige Produkte für Kinder auf den Markt zu bringen. Gegründet wurde die Marke von einer berufstätigen Mutter, die sich nachhaltige und schöne Produkte für ihre Kinder wünschte. Besonderer Wert wird bei der Produktion auf Qualität und Design gelegt. Die Kollektionen sind nicht nur umweltfreundlich und schön anzusehen, sondern vor allem funktional. Funktionalität sollte bei Produkten für Kinder großgeschrieben werden, denn schließlich haben die Kleinen so einige Ansprüche, denen Citron gerecht wird.</p>",
             "url": ""
           }
         },
@@ -136,16 +136,16 @@
           "type": "brand",
           "settings": {
             "title": "Cloby",
-            "text": "<p>Cloby steht für qualitativ hochwertige Produkte, hergestellt aus nachhaltigen Materialien und auch nachhaltig in ihrer Verwendung.<\/p><p>Um das Leben unterwegs mit den Kleinen ein wenig zu erleichtern. Egal wie groß oder klein das Abenteuer ist, denn ein Spaziergang um den Block kann bereits eine große Herausforderung sein.<\/p>",
+            "text": "<p>Cloby steht für qualitativ hochwertige Produkte, hergestellt aus nachhaltigen Materialien und auch nachhaltig in ihrer Verwendung.</p><p>Um das Leben unterwegs mit den Kleinen ein wenig zu erleichtern. Egal wie groß oder klein das Abenteuer ist, denn ein Spaziergang um den Block kann bereits eine große Herausforderung sein.</p>",
             "url": "",
-            "logo": "shopify:\/\/shop_images\/Cloby.jpg"
+            "logo": "shopify://shop_images/Cloby.jpg"
           }
         },
         "a5aba5bc-8529-4823-9b13-c4a2a9eb67bf": {
           "type": "brand",
           "settings": {
             "title": "cocoome",
-            "text": "<p>Julia Pötsch, die Gründerin von cocoome hatte ein Ziel: frischgebackenen Eltern mobile Freiheit und Flexibilität zu ermöglichen und ihnen damit die Vorteile des Babytragens näher zu bringen. Die Produkte von cocoome, wurden in Zusammenarbeit mit Müttern, Trageberaterinnen und Hebammen entwickelt. Sie legen Wert auf hochwertige Qualität, Design und Nachhaltigkeit. Die von ihnen verwendeten Baumwollstoffe sind nach GOTS zertifiziert und werden in Europa vernäht. Damit erfüllt cocoome ökologische und soziale Bedingungen. Gerade in Zeiten, in denen die Welt von Chemie und Schadstoffen umgeben sind bieten cocoome mit ihren Produkten eine wohltuende Unbedenklichkeit.<\/p>",
+            "text": "<p>Julia Pötsch, die Gründerin von cocoome hatte ein Ziel: frischgebackenen Eltern mobile Freiheit und Flexibilität zu ermöglichen und ihnen damit die Vorteile des Babytragens näher zu bringen. Die Produkte von cocoome, wurden in Zusammenarbeit mit Müttern, Trageberaterinnen und Hebammen entwickelt. Sie legen Wert auf hochwertige Qualität, Design und Nachhaltigkeit. Die von ihnen verwendeten Baumwollstoffe sind nach GOTS zertifiziert und werden in Europa vernäht. Damit erfüllt cocoome ökologische und soziale Bedingungen. Gerade in Zeiten, in denen die Welt von Chemie und Schadstoffen umgeben sind bieten cocoome mit ihren Produkten eine wohltuende Unbedenklichkeit.</p>",
             "url": ""
           }
         },
@@ -153,7 +153,7 @@
           "type": "brand",
           "settings": {
             "title": "Crayon Rocks",
-            "text": "<p>Crayon Rocks wurde von der Amerikanerin Barbara Lee ins Leben gerufen. Sie gibt seit 23 Jahren Förderunterricht an Kinder, die an Autismus, Kinderlähmung, geistiger oder körperlicher Behinderung leiden. Sie entwickelte Crayon Rocks, nachdem sie durch das \"Handwriting Without Tears Program\" festgestellt hatte, wie wichtig es für Kinder ist, früh den Dreifingergriff zu entwickeln, da dies später die Schreibfähigkeiten beeinflusst. Crayon Rocks werden aus natürlichem Sojawachs und natürlichen mineralischen Pigmenten hergestellt. Die Produktion liegt auf einem Hügel im ländlichen Gebiet von Hestand, Kentucky, USA.<\/p>",
+            "text": "<p>Crayon Rocks wurde von der Amerikanerin Barbara Lee ins Leben gerufen. Sie gibt seit 23 Jahren Förderunterricht an Kinder, die an Autismus, Kinderlähmung, geistiger oder körperlicher Behinderung leiden. Sie entwickelte Crayon Rocks, nachdem sie durch das \"Handwriting Without Tears Program\" festgestellt hatte, wie wichtig es für Kinder ist, früh den Dreifingergriff zu entwickeln, da dies später die Schreibfähigkeiten beeinflusst. Crayon Rocks werden aus natürlichem Sojawachs und natürlichen mineralischen Pigmenten hergestellt. Die Produktion liegt auf einem Hügel im ländlichen Gebiet von Hestand, Kentucky, USA.</p>",
             "url": ""
           }
         },
@@ -161,7 +161,7 @@
           "type": "brand",
           "settings": {
             "title": "Culla di Teby",
-            "text": "<p>Culla di Teby ist ein italienisches Familienunternehmen mit langer Tradition. Die Marke ist italienisch durch und durch – in Italien geplant, umgesetzt, getestet sowie vermarktet. Teby Windeln zeichnen sich durch ihre ausgezeichnete Verarbeitung und die dahinterstehende Qualität in Rohstoffen, Arbeit und Herstellung aus. Die Hybridwindeln werden in Öko-Tex zertifizierten Nähereien aus Bio-Materialien angefertigt und geben dir somit die Sicherheit, dass Dein Kind in besten Stoffen gewickelt wird.<\/p>",
+            "text": "<p>Culla di Teby ist ein italienisches Familienunternehmen mit langer Tradition. Die Marke ist italienisch durch und durch – in Italien geplant, umgesetzt, getestet sowie vermarktet. Teby Windeln zeichnen sich durch ihre ausgezeichnete Verarbeitung und die dahinterstehende Qualität in Rohstoffen, Arbeit und Herstellung aus. Die Hybridwindeln werden in Öko-Tex zertifizierten Nähereien aus Bio-Materialien angefertigt und geben dir somit die Sicherheit, dass Dein Kind in besten Stoffen gewickelt wird.</p>",
             "url": ""
           }
         },
@@ -169,7 +169,7 @@
           "type": "brand",
           "settings": {
             "title": "Das Brett",
-            "text": "<p>Das in Deutschland von der Manufaktur TicToys hergestellte Balance Board »das.Brett« ist eine Kombination aus einem kreativen Spielobjekt sowie einem vielseitigen und federnden Fitnessgerät. Zusätzlich ist »das.Brett« geölt was es widerstandsfähiger, schmutz- und wasserabweisend macht. Dafür verwenden die Hersteller ausschliesslich einheimisches Buchenholz aus nachhaltiger Forstwirtschaft und lösemittelfreie, dermatologisch geprüfte und lebensmittelechte Naturöle aus der schwäbischen Alb.<\/p>",
+            "text": "<p>Das in Deutschland von der Manufaktur TicToys hergestellte Balance Board »das.Brett« ist eine Kombination aus einem kreativen Spielobjekt sowie einem vielseitigen und federnden Fitnessgerät. Zusätzlich ist »das.Brett« geölt was es widerstandsfähiger, schmutz- und wasserabweisend macht. Dafür verwenden die Hersteller ausschliesslich einheimisches Buchenholz aus nachhaltiger Forstwirtschaft und lösemittelfreie, dermatologisch geprüfte und lebensmittelechte Naturöle aus der schwäbischen Alb.</p>",
             "url": ""
           }
         },
@@ -177,7 +177,7 @@
           "type": "brand",
           "settings": {
             "title": "De Colores",
-            "text": "<p>De Colores ist ein Deutsches Familienunternehmen das hochwertige Produkte aus 100% Alpaka-Wolle produziert. Die Produkte werden in kleinen und mittleren Strickereien in Peru gefertigt, die die in GOTS (Global Organic Textile Standards) verankerten Sozialstandards und Mindest-Sozialkriterien einhalten. Die Produkte werden nach der Fertigung nicht chemisch aufgerüstet, sondern nur gewaschen, gebügelt und verpackt.<\/p>",
+            "text": "<p>De Colores ist ein Deutsches Familienunternehmen das hochwertige Produkte aus 100% Alpaka-Wolle produziert. Die Produkte werden in kleinen und mittleren Strickereien in Peru gefertigt, die die in GOTS (Global Organic Textile Standards) verankerten Sozialstandards und Mindest-Sozialkriterien einhalten. Die Produkte werden nach der Fertigung nicht chemisch aufgerüstet, sondern nur gewaschen, gebügelt und verpackt.</p>",
             "url": ""
           }
         },
@@ -185,7 +185,7 @@
           "type": "brand",
           "settings": {
             "title": "DÉT Denmark",
-            "text": "<p>DÉT Denmark, gegründet von Nathalia im Jahr 2015, steht für rutschfeste Krabbelkleidung aus besten organischen Materialien, die dem Kind Erfolgserlebnisse in der motorischen Entwicklung ermöglichen und sie ermuntern, weitere Herausforderungen zu bewältigen.<\/p>",
+            "text": "<p>DÉT Denmark, gegründet von Nathalia im Jahr 2015, steht für rutschfeste Krabbelkleidung aus besten organischen Materialien, die dem Kind Erfolgserlebnisse in der motorischen Entwicklung ermöglichen und sie ermuntern, weitere Herausforderungen zu bewältigen.</p>",
             "url": ""
           }
         },
@@ -193,7 +193,7 @@
           "type": "brand",
           "settings": {
             "title": "die hebamme in wien",
-            "text": "<p>Die Hebamme in Wien: Eine Naturkosmetiklinie - natürlich, praktisch, multifunktional. Die Produkte sind abgestimmt auf die besonderen Bedürfnisse der Frauen in der Schwangerschaft, im Wochenbett und in der Stillzeit.<\/p>",
+            "text": "<p>Die Hebamme in Wien: Eine Naturkosmetiklinie - natürlich, praktisch, multifunktional. Die Produkte sind abgestimmt auf die besonderen Bedürfnisse der Frauen in der Schwangerschaft, im Wochenbett und in der Stillzeit.</p>",
             "url": ""
           }
         },
@@ -201,7 +201,7 @@
           "type": "brand",
           "settings": {
             "title": "Disana",
-            "text": "<p>Die Freude an der Arbeit mit Naturfasern stand für Disana schon immer im Mittelpunkt der Firmenphilosophie.Die Baby- und Kindertextilien sind aus möglichst naturbelassenen Stoffen - mit dieser Idee gründeten Imma und Dietrich Sautter das Unternehmen vor über 30 Jahren. Was mit einem waschbaren Windelsystem begann, hat sich im Laufe der Jahre zu einem breite...<\/p>",
+            "text": "<p>Die Freude an der Arbeit mit Naturfasern stand für Disana schon immer im Mittelpunkt der Firmenphilosophie.Die Baby- und Kindertextilien sind aus möglichst naturbelassenen Stoffen - mit dieser Idee gründeten Imma und Dietrich Sautter das Unternehmen vor über 30 Jahren. Was mit einem waschbaren Windelsystem begann, hat sich im Laufe der Jahre zu einem breite...</p>",
             "url": ""
           }
         },
@@ -209,7 +209,7 @@
           "type": "brand",
           "settings": {
             "title": "Dondolo",
-            "text": "<p>Dondolo wird von Erisana, einer schweizer Firma hergestellt. Erisana benutzt dafür 100% biologische Baumwolle und schweizer Schafswolle. Somit ist die dondolo hängematte zu 100% Swiss made.<\/p>",
+            "text": "<p>Dondolo wird von Erisana, einer schweizer Firma hergestellt. Erisana benutzt dafür 100% biologische Baumwolle und schweizer Schafswolle. Somit ist die dondolo hängematte zu 100% Swiss made.</p>",
             "url": ""
           }
         },
@@ -217,7 +217,7 @@
           "type": "brand",
           "settings": {
             "title": "Doodush",
-            "text": "<p>Doodush ist ein polnisches Familienunternehmen, das seit 2013 Stoffwindeln in einer kleinen Werkstatt in Bielsko-Biała produziert. Dafür werden ausschliesslich beste polnische Materialien und Technologien eingesetzt, die weltweit anerkannten Qualitätsansprüchen entsprechen.<\/p>",
+            "text": "<p>Doodush ist ein polnisches Familienunternehmen, das seit 2013 Stoffwindeln in einer kleinen Werkstatt in Bielsko-Biała produziert. Dafür werden ausschliesslich beste polnische Materialien und Technologien eingesetzt, die weltweit anerkannten Qualitätsansprüchen entsprechen.</p>",
             "url": ""
           }
         },
@@ -225,13 +225,12 @@
           "type": "brand",
           "settings": {
             "title": "Droomdeurtjes",
-            "text": "<p>Droomdeurtjes ist die Marke von Margreet & Sonja, zwei kreativen Frauen, die diese Welt ein bisschen schöner machen wollen. Ihrer Meinung nach verbringen Kinder zu viel Zeit hinter ihren Tablets oder vor dem Fernseher. Es geht viel Fantasie verloren, die sie gerne wieder in den Alltag der Kinder bringen möchten. <\/p><p>Die Traumtür lädt Kinder dazu ein, ihre Fantasie kreativ zu nutzen und einen sicheren Ort zu schaffen, an dem Feen, Wichtel und Drachen zu Besuch kommen und mit ihnen sympathisieren. Indem Kinder Notizen und\/oder Zeichnungen im Briefkasten hinterlassen, lernen sie, ihre Gedanken und Sorgen mitzuteilen. Etwas, das für mehr Interaktion zwischen Kindern und Erwachsenen sorgt und zu einem tieferen Kontakt führen kann. <\/p><p>Was als Idee begann, hat sich zu einem ausgereiften Konzept entwickelt, das auch in den Niederlanden und Belgien einzigartig ist. Von der Türklinke bis zur Corporate Identity haben wird bei Droomdeurtjes alles sehr persönlich und unabhängig gestaltet.<\/p>",
+            "text": "<p>Droomdeurtjes ist die Marke von Margreet & Sonja, zwei kreativen Frauen, die diese Welt ein bisschen schöner machen wollen. Ihrer Meinung nach verbringen Kinder zu viel Zeit hinter ihren Tablets oder vor dem Fernseher. Es geht viel Fantasie verloren, die sie gerne wieder in den Alltag der Kinder bringen möchten. </p><p>Die Traumtür lädt Kinder dazu ein, ihre Fantasie kreativ zu nutzen und einen sicheren Ort zu schaffen, an dem Feen, Wichtel und Drachen zu Besuch kommen und mit ihnen sympathisieren. Indem Kinder Notizen und/oder Zeichnungen im Briefkasten hinterlassen, lernen sie, ihre Gedanken und Sorgen mitzuteilen. Etwas, das für mehr Interaktion zwischen Kindern und Erwachsenen sorgt und zu einem tieferen Kontakt führen kann. </p><p>Was als Idee begann, hat sich zu einem ausgereiften Konzept entwickelt, das auch in den Niederlanden und Belgien einzigartig ist. Von der Türklinke bis zur Corporate Identity haben wird bei Droomdeurtjes alles sehr persönlich und unabhängig gestaltet.</p>",
             "url": ""
           }
         }
       },
       "block_order": [
-        "03a5b612-b625-42a9-b317-d384fc54ffd5",
         "0307bdd9-f341-4fe4-b5b0-ef367a454128",
         "dcc3d9ca-1ffa-4b3f-81e0-1c58f24c8855",
         "83cbc6ca-d35d-4b22-b1aa-0252967e9f9f",
@@ -271,7 +270,7 @@
           "type": "brand",
           "settings": {
             "title": "Easypisi",
-            "text": "<p>Easypisi - die nachhaltige Lösung anstelle von Einweg-Windeln.<\/p><p>Als Ignaz im Juli 2018 Vater wurde, hat er sich gefragt, ob es eine Alternative gibt zu 6000 Windeln, die ein Baby bis zum Trockenwerden verbraucht. Nach kurzer Recherche fanden er und seine Frau Lena das sogenannte \"Abhalten\", bei dem man das Baby ganz ohne Windeln aufziehen kann. Das einzige, was man dafür brauchte, war ein Töpfchen. Und so begann die Story von Easypisi.<\/p><p>Die Töpfchen von Easypisi sind 100% Germany made, von der Planung bis zur Produktion.<\/p>",
+            "text": "<p>Easypisi - die nachhaltige Lösung anstelle von Einweg-Windeln.</p><p>Als Ignaz im Juli 2018 Vater wurde, hat er sich gefragt, ob es eine Alternative gibt zu 6000 Windeln, die ein Baby bis zum Trockenwerden verbraucht. Nach kurzer Recherche fanden er und seine Frau Lena das sogenannte \"Abhalten\", bei dem man das Baby ganz ohne Windeln aufziehen kann. Das einzige, was man dafür brauchte, war ein Töpfchen. Und so begann die Story von Easypisi.</p><p>Die Töpfchen von Easypisi sind 100% Germany made, von der Planung bis zur Produktion.</p>",
             "url": ""
           }
         },
@@ -279,7 +278,7 @@
           "type": "brand",
           "settings": {
             "title": "Ein dufter Laden",
-            "text": "<p>Ein dufter Laden ist auf dem Hof Liebergott im luzernischen Oberkirch zuhause. Sabrina Estermann liebt es, mit Düften zu arbeiten und immer wieder zu erleben wie wunderbar wirksam die Natur ist und uns im Alltag unterstützt. Düfte sind so heilsam – für Körper und Seele. Ob beim Aus- oder Verräuchern, als Anwendung mit ätherischen Ölen oder Wickel. Sabrina gibt ihr Wissen in Kursen weiter. In der Duftküche von Ein dufter Laden besteht die Möglichkeit selber Raumbeduftung, Alltagshelfer, Naturkosmetik, Räuchermischungen, Duftegeschenke oder andere duftende Sachen herzustellen. Sie fertigt für den Verkauf verschiedene duftende Produkte.<\/p>",
+            "text": "<p>Ein dufter Laden ist auf dem Hof Liebergott im luzernischen Oberkirch zuhause. Sabrina Estermann liebt es, mit Düften zu arbeiten und immer wieder zu erleben wie wunderbar wirksam die Natur ist und uns im Alltag unterstützt. Düfte sind so heilsam – für Körper und Seele. Ob beim Aus- oder Verräuchern, als Anwendung mit ätherischen Ölen oder Wickel. Sabrina gibt ihr Wissen in Kursen weiter. In der Duftküche von Ein dufter Laden besteht die Möglichkeit selber Raumbeduftung, Alltagshelfer, Naturkosmetik, Räuchermischungen, Duftegeschenke oder andere duftende Sachen herzustellen. Sie fertigt für den Verkauf verschiedene duftende Produkte.</p>",
             "url": ""
           }
         },
@@ -287,7 +286,7 @@
           "type": "brand",
           "settings": {
             "title": "einhorn",
-            "text": "<p>einhorn ist nicht nur nachhaltig, sondern fair. Ein Unternehmen mit einer Vision, mit tollen Werten. Eine Firma, die sich einbringt in die Community, die Kultur, die Gesellschaft, die Politik. einhorn tut Gutes und verbindet das auch noch mit witzigem, sexy Design und tollen Produkten.<\/p>",
+            "text": "<p>einhorn ist nicht nur nachhaltig, sondern fair. Ein Unternehmen mit einer Vision, mit tollen Werten. Eine Firma, die sich einbringt in die Community, die Kultur, die Gesellschaft, die Politik. einhorn tut Gutes und verbindet das auch noch mit witzigem, sexy Design und tollen Produkten.</p>",
             "url": ""
           }
         },
@@ -295,7 +294,7 @@
           "type": "brand",
           "settings": {
             "title": "Engel",
-            "text": "<p>Bereits in den 60ern produzierte Engel Strickwindeln aus gebleichter Baumwolle. 1982 begann mit der Verarbeitung naturbelassener Baumwolle eine beispielhafte und konsequente Orientierung auf Naturtextilien. Heute umfasst das Sortiment ein komplettes Wickelsystem, ein Wäscheprogramm für Babys, Kinder und Erwachsene, eine Nachtwäschekollektion für Kinder und Babys, Baby-Oberbekleidung sowie ein kleines Sortiment an Fleece-Bekleidung aus flauschiger Merinoschurwolle für Babys, Kinder und Erwachsene.<\/p><p>Wir haben Engel im Sortiment, weil sich die Bodys aus Wolle-Seide ganz besonders gut anfühlen und sich fürs Tragen eignen, da sie den Temparaturausgleich bestens unterstützen.<\/p>",
+            "text": "<p>Bereits in den 60ern produzierte Engel Strickwindeln aus gebleichter Baumwolle. 1982 begann mit der Verarbeitung naturbelassener Baumwolle eine beispielhafte und konsequente Orientierung auf Naturtextilien. Heute umfasst das Sortiment ein komplettes Wickelsystem, ein Wäscheprogramm für Babys, Kinder und Erwachsene, eine Nachtwäschekollektion für Kinder und Babys, Baby-Oberbekleidung sowie ein kleines Sortiment an Fleece-Bekleidung aus flauschiger Merinoschurwolle für Babys, Kinder und Erwachsene.</p><p>Wir haben Engel im Sortiment, weil sich die Bodys aus Wolle-Seide ganz besonders gut anfühlen und sich fürs Tragen eignen, da sie den Temparaturausgleich bestens unterstützen.</p>",
             "url": ""
           }
         },
@@ -303,7 +302,7 @@
           "type": "brand",
           "settings": {
             "title": "Ette Tete",
-            "text": "<p>Ette Tete ist eine kleine Firma aus Lettland, die Möbel ganz nach der Philosophie von Emmi Pikler und Montessori herstellt. So zum Beispiel das modifizierbare Pikler Dreieck: Damit die Kleinsten sicher klettern, spielen und sich bewegen können und dabei ihre motorischen Fähigkeiten voll entfalten. Auch der Learning Tower ermöglicht den Kinder wichtige Lernerfahrungen, denn sie lieben es, uns bei unserer Arbeit zuzuschauen und aktiv mitzuhelfen.<\/p>",
+            "text": "<p>Ette Tete ist eine kleine Firma aus Lettland, die Möbel ganz nach der Philosophie von Emmi Pikler und Montessori herstellt. So zum Beispiel das modifizierbare Pikler Dreieck: Damit die Kleinsten sicher klettern, spielen und sich bewegen können und dabei ihre motorischen Fähigkeiten voll entfalten. Auch der Learning Tower ermöglicht den Kinder wichtige Lernerfahrungen, denn sie lieben es, uns bei unserer Arbeit zuzuschauen und aktiv mitzuhelfen.</p>",
             "url": ""
           }
         },
@@ -311,7 +310,7 @@
           "type": "brand",
           "settings": {
             "title": "Fabelab",
-            "text": "<p>Fabelab ist eine Skandinavische Marke aus Kopenhagen, die sich auf hoch qualitative, innovative und verantwortungsvoll produzierte Produkte für ein gemütliches, kreatives Zuhause spezialisiert hat.<\/p><p>Die Produkte inspirieren Eltern und Kinder, wecken ihre Neugier und sind mit viel Liebe gemacht. Schönheit und Funktionalität sind genauso wichtig wie die nachhaltige Produktion und die Verwendung von ökologischen Materialien. Auch Upcycling und Wiederverwendbarkeit gehört zu den Grundprinzipien bei Fabelab.<\/p>",
+            "text": "<p>Fabelab ist eine Skandinavische Marke aus Kopenhagen, die sich auf hoch qualitative, innovative und verantwortungsvoll produzierte Produkte für ein gemütliches, kreatives Zuhause spezialisiert hat.</p><p>Die Produkte inspirieren Eltern und Kinder, wecken ihre Neugier und sind mit viel Liebe gemacht. Schönheit und Funktionalität sind genauso wichtig wie die nachhaltige Produktion und die Verwendung von ökologischen Materialien. Auch Upcycling und Wiederverwendbarkeit gehört zu den Grundprinzipien bei Fabelab.</p>",
             "url": ""
           }
         },
@@ -319,7 +318,7 @@
           "type": "brand",
           "settings": {
             "title": "Fattoamanou",
-            "text": "<p>Alle Artikel werden von Manuela selbst hergestellt. In ihrem kleinen Atelier in der Schweiz wird jeder Artikel mit viel Liebe angefertigt und ist ein Unikat. Die meisten Muster entwirft sie selber. Sie näht, flickt, strickt und häkelt auch nach euren Wünschen.<\/p>",
+            "text": "<p>Alle Artikel werden von Manuela selbst hergestellt. In ihrem kleinen Atelier in der Schweiz wird jeder Artikel mit viel Liebe angefertigt und ist ein Unikat. Die meisten Muster entwirft sie selber. Sie näht, flickt, strickt und häkelt auch nach euren Wünschen.</p>",
             "url": ""
           }
         },
@@ -327,7 +326,7 @@
           "type": "brand",
           "settings": {
             "title": "Frau Ottilie",
-            "text": "<p>Andrea alias Frau Ottilie erschaffet von Mainz aus verspielte und liebevoll handgemalte Illustrationen, die kleine und grosse Menschen erfreuen und ein bisschen Zauber in die Welt bringen sollen. Sie hat das Label 2014 gegründet, anfangs noch als kleines Projekt, neben dem Studium. Heute steckt hinter Frau Ottilie ein mehrköpfiges Team das sich um alles kümmert.<\/p><p>Die Illustrationen auf unseren Artikeln stammen dabei aber bis heute allesamt aus Andreas Feder. Das ist ganz wörtlich gemeint: Das allermeiste auf den Bildern ist handgemalt, wird dann digitalisiert, bearbeitet, auseinandergenommen und zusammengesetzt.<\/p>",
+            "text": "<p>Andrea alias Frau Ottilie erschaffet von Mainz aus verspielte und liebevoll handgemalte Illustrationen, die kleine und grosse Menschen erfreuen und ein bisschen Zauber in die Welt bringen sollen. Sie hat das Label 2014 gegründet, anfangs noch als kleines Projekt, neben dem Studium. Heute steckt hinter Frau Ottilie ein mehrköpfiges Team das sich um alles kümmert.</p><p>Die Illustrationen auf unseren Artikeln stammen dabei aber bis heute allesamt aus Andreas Feder. Das ist ganz wörtlich gemeint: Das allermeiste auf den Bildern ist handgemalt, wird dann digitalisiert, bearbeitet, auseinandergenommen und zusammengesetzt.</p>",
             "url": ""
           }
         },
@@ -335,7 +334,7 @@
           "type": "brand",
           "settings": {
             "title": "Fresk",
-            "text": "<p>Fresk ist eine holländische Bio-Baby-Lifestyle-Marke mit frischem, niedlichen Design und einem Hauch Vintage.<\/p><p>Fresk möchte nachhaltige und faire Produkte herstellen, weshalb sie 100% Bio-Baumwolle verwenden. Alle Artikel werden in Holland entworfen. Die Kleidung wird in der Türkei, die anderen Produkte unter streng kontrollierten und fairen Bedingungen in Indien oder China produziert.<\/p><p>Viele Fresk Produkte haben das GOTS-Gütesiegel erhalten, welches als weltweites Qualitätszeichen gilt - nicht nur für das Material sondern auch für den Herstellungsprozess und die gesamte Lieferkette.<\/p>",
+            "text": "<p>Fresk ist eine holländische Bio-Baby-Lifestyle-Marke mit frischem, niedlichen Design und einem Hauch Vintage.</p><p>Fresk möchte nachhaltige und faire Produkte herstellen, weshalb sie 100% Bio-Baumwolle verwenden. Alle Artikel werden in Holland entworfen. Die Kleidung wird in der Türkei, die anderen Produkte unter streng kontrollierten und fairen Bedingungen in Indien oder China produziert.</p><p>Viele Fresk Produkte haben das GOTS-Gütesiegel erhalten, welches als weltweites Qualitätszeichen gilt - nicht nur für das Material sondern auch für den Herstellungsprozess und die gesamte Lieferkette.</p>",
             "url": ""
           }
         },
@@ -343,7 +342,7 @@
           "type": "brand",
           "settings": {
             "title": "Fridahild",
-            "text": "<p>Fridahild: Das ist liebevoll handgefertigter Haarschmuck in zeitlosem Design und aus hochwertigen Materialien und einem Hauch Nostalgie. Bei Fridahild gibt es aussergewöhnliche und ganz besondere Haaraccessoires zu entdecken, die in Wien von Hand gefertigt werden. Aus exklusiven Liberty London-, Leinen- und ausgewählten Motivstoffen werden Haarspangen, Zopfgummis und Schleifen gezaubert, die garantiert auffallen.<\/p>",
+            "text": "<p>Fridahild: Das ist liebevoll handgefertigter Haarschmuck in zeitlosem Design und aus hochwertigen Materialien und einem Hauch Nostalgie. Bei Fridahild gibt es aussergewöhnliche und ganz besondere Haaraccessoires zu entdecken, die in Wien von Hand gefertigt werden. Aus exklusiven Liberty London-, Leinen- und ausgewählten Motivstoffen werden Haarspangen, Zopfgummis und Schleifen gezaubert, die garantiert auffallen.</p>",
             "url": ""
           }
         },
@@ -351,7 +350,7 @@
           "type": "brand",
           "settings": {
             "title": "Froddo",
-            "text": "<p>Die froddo Schuhe des traditionsreichen Unternehmens Ivančica, das seit 1946 für hohe Qualität und Individualität steht, begeistert bis heute mit seinen ökologisch produzierten Kinderschuhen. <\/p><p>Die Barefoot-Linie bietet höchste Bequemlichkeit und Bewegungsfreiheit und berücksichtigt alle Kriterien, die einen Barfuss-Schuh ausmachen: Sie haben flexible Sohlen, ein flaches Fussbett, viel Platz für die Zehen und sorgen so dafür, dass die Muskulatur gestärkt wird, die Zehen die korrekte Stellung behalten und sensorische Reize am Fuss für gute Körperkoordination sorgen. So können die Füsse das Körpergewicht abfedern, Bodenunebenheiten ausgleichen und wichtige Informationen für den Gleichgewichtssinn liefern.<\/p><p>Gerade bei Kindern, deren Füsse sich ja erst noch entwickeln, ist es besonders wichtig, die natürliche Funktion der Füsse wie beim Barfusslaufen zu bewahren, damit es nicht zu Haltungsproblemen, Überbelastung oder verkümmerten Muskeln kommt.<\/p>",
+            "text": "<p>Die froddo Schuhe des traditionsreichen Unternehmens Ivančica, das seit 1946 für hohe Qualität und Individualität steht, begeistert bis heute mit seinen ökologisch produzierten Kinderschuhen. </p><p>Die Barefoot-Linie bietet höchste Bequemlichkeit und Bewegungsfreiheit und berücksichtigt alle Kriterien, die einen Barfuss-Schuh ausmachen: Sie haben flexible Sohlen, ein flaches Fussbett, viel Platz für die Zehen und sorgen so dafür, dass die Muskulatur gestärkt wird, die Zehen die korrekte Stellung behalten und sensorische Reize am Fuss für gute Körperkoordination sorgen. So können die Füsse das Körpergewicht abfedern, Bodenunebenheiten ausgleichen und wichtige Informationen für den Gleichgewichtssinn liefern.</p><p>Gerade bei Kindern, deren Füsse sich ja erst noch entwickeln, ist es besonders wichtig, die natürliche Funktion der Füsse wie beim Barfusslaufen zu bewahren, damit es nicht zu Haltungsproblemen, Überbelastung oder verkümmerten Muskeln kommt.</p>",
             "url": ""
           }
         },
@@ -359,7 +358,7 @@
           "type": "brand",
           "settings": {
             "title": "fun2bemum",
-            "text": "<p>Fun2BeMum ist ein polnisches Familienunternehmen, das gegründet wurde, als Aleksandra Napieralska ihr erstes Kind erwartete. Mit dieser Marke wollte sie bequeme, hochwertige Umstands-, Damen- und Babybekleidung anbieten, die im Alltag verwendet werden kann.<\/p><p>Die Produkte der Marke werden in Polen hergestellt.<\/p>",
+            "text": "<p>Fun2BeMum ist ein polnisches Familienunternehmen, das gegründet wurde, als Aleksandra Napieralska ihr erstes Kind erwartete. Mit dieser Marke wollte sie bequeme, hochwertige Umstands-, Damen- und Babybekleidung anbieten, die im Alltag verwendet werden kann.</p><p>Die Produkte der Marke werden in Polen hergestellt.</p>",
             "url": ""
           }
         },
@@ -367,7 +366,7 @@
           "type": "brand",
           "settings": {
             "title": "Girasol",
-            "text": "<p>Begonnen hat es Ende 1980 als sich Camilla und Gerhard auf die Reise machten, um den amerikanischen Kontinent von Mexiko bis nach Peru zu erkunden. Drei Jahre lang erkundete sie den Kontinent und um sich den Aufenthalt zu finanzieren, begannen sie auf den im Hochland von Guatemala gelegenen Märkten der Mayas handgewebte Textilien und Kunsthandwerk auszusuchen und in Mexiko zu verkaufen. Dies führten sie nach ihrere Rückkehr nach Deutschland erst auf Flohmärkten und dann im eigenen Geschäft in Berlin weiter. GIRASOL ist international insbesondere bekannt für Baby-Tragetücher. Diese werden ausschliesslich für Girasol in einem eigens geschaffenen Netzwerk von Färbern, Webern und Schneidern in Guatemala in Handarbeit hergestellt.<br\/><\/p><p>Girasol arbeitet mit kleinen Handwerksbetrieben und kooperativen und selbständig arbeitenden Weber und Schneider. Beim Kauf, der Herstellung und dem Vertrieb orientiert sich Girasol stets an den Prinzipien des fairen Handels und der Nachhaltigkeit.<\/p>",
+            "text": "<p>Begonnen hat es Ende 1980 als sich Camilla und Gerhard auf die Reise machten, um den amerikanischen Kontinent von Mexiko bis nach Peru zu erkunden. Drei Jahre lang erkundete sie den Kontinent und um sich den Aufenthalt zu finanzieren, begannen sie auf den im Hochland von Guatemala gelegenen Märkten der Mayas handgewebte Textilien und Kunsthandwerk auszusuchen und in Mexiko zu verkaufen. Dies führten sie nach ihrere Rückkehr nach Deutschland erst auf Flohmärkten und dann im eigenen Geschäft in Berlin weiter. GIRASOL ist international insbesondere bekannt für Baby-Tragetücher. Diese werden ausschliesslich für Girasol in einem eigens geschaffenen Netzwerk von Färbern, Webern und Schneidern in Guatemala in Handarbeit hergestellt.<br/></p><p>Girasol arbeitet mit kleinen Handwerksbetrieben und kooperativen und selbständig arbeitenden Weber und Schneider. Beim Kauf, der Herstellung und dem Vertrieb orientiert sich Girasol stets an den Prinzipien des fairen Handels und der Nachhaltigkeit.</p>",
             "url": ""
           }
         },
@@ -375,7 +374,7 @@
           "type": "brand",
           "settings": {
             "title": "Girl or Boy",
-            "text": "<p>Als ursprüngliche Lehrerin lässt die Mutter der GOB Männchen stets ihr pädagogisches Know How in die Produkte einfliessen. Im Alltag holt sie Inspirationen von ihren eigenen Kindern und den Challenges, die es zu bewältigen gibt als Familie. Aus diesem Mix entstehen im Kreativ-Atelier Produkte, die den Alltag mit Kindern erleichtern aber auch spassig und bunt machen.<\/p>",
+            "text": "<p>Als ursprüngliche Lehrerin lässt die Mutter der GOB Männchen stets ihr pädagogisches Know How in die Produkte einfliessen. Im Alltag holt sie Inspirationen von ihren eigenen Kindern und den Challenges, die es zu bewältigen gibt als Familie. Aus diesem Mix entstehen im Kreativ-Atelier Produkte, die den Alltag mit Kindern erleichtern aber auch spassig und bunt machen.</p>",
             "url": ""
           }
         },
@@ -383,7 +382,7 @@
           "type": "brand",
           "settings": {
             "title": "Grapat",
-            "text": "<p>Grapat steht für freies Spiel mit unstrukturierten Materialien, die die Kinder zu eigenständigen Ideen und freiem, Spiel inspirieren. Das kleine spanische Familienunternehmen legt grossen Wert auf eine nachhaltige, faire und lokale Produktion. Grapat ist ein kleines spanische Familienunternehmen. Es legt grossen Wert auf eine nachhaltige, faire und lokale Produktion für ihre Holzprodukte.<\/p>",
+            "text": "<p>Grapat steht für freies Spiel mit unstrukturierten Materialien, die die Kinder zu eigenständigen Ideen und freiem, Spiel inspirieren. Das kleine spanische Familienunternehmen legt grossen Wert auf eine nachhaltige, faire und lokale Produktion. Grapat ist ein kleines spanische Familienunternehmen. Es legt grossen Wert auf eine nachhaltige, faire und lokale Produktion für ihre Holzprodukte.</p>",
             "url": ""
           }
         },
@@ -391,7 +390,7 @@
           "type": "brand",
           "settings": {
             "title": "Grimms",
-            "text": "<p>Nachhaltig & mit viel Liebe! Das sind die zentralen Werte von Grimms.<\/p><p>Die kleine Manufaktur am Fusse der schwäbischen Alb produziert nachhaltig qualitativ hochwertiges und sicheres Holzspielzeug. Die Produkte sind inspiriert durch die Waldorf- und Montessori-Pädagogik.<\/p><p>Die Produkte werden aus Naturmaterial gemacht, somit ist jedes Stück ganz individuell. Daher gilt immer zu beachten - auch auf den Holzspielsachen sind daher manchmal Flecken oder Streifen zu sehen. Bis auf wenige Ausnahmen wird alles von Hand geschliffen und gesägt.<\/p>",
+            "text": "<p>Nachhaltig & mit viel Liebe! Das sind die zentralen Werte von Grimms.</p><p>Die kleine Manufaktur am Fusse der schwäbischen Alb produziert nachhaltig qualitativ hochwertiges und sicheres Holzspielzeug. Die Produkte sind inspiriert durch die Waldorf- und Montessori-Pädagogik.</p><p>Die Produkte werden aus Naturmaterial gemacht, somit ist jedes Stück ganz individuell. Daher gilt immer zu beachten - auch auf den Holzspielsachen sind daher manchmal Flecken oder Streifen zu sehen. Bis auf wenige Ausnahmen wird alles von Hand geschliffen und gesägt.</p>",
             "url": ""
           }
         },
@@ -399,7 +398,7 @@
           "type": "brand",
           "settings": {
             "title": "Grödo",
-            "text": "<p>Die Firma Wilhelm Grözinger Strumpffabrik GmbH wurde 1924 in Dornhan im Schwarzwald gegründet. Seit 1982 beschäftigen sie sich intensiv mit der Produktion von Strumpfwaren aus reinen Naturfasern. Grödo entwickelt qualitativ hochwertige Produkte, die sie mit ihrer Philosophie \"Im Einklang von Mensch, Umwelt und Tragekomfort\" realisieren. Sie setzen sich für die Produktion hervorragender Garne ein, die ausschließlich in Deutschland gefärbt und in Europa produziert werden.<\/p>",
+            "text": "<p>Die Firma Wilhelm Grözinger Strumpffabrik GmbH wurde 1924 in Dornhan im Schwarzwald gegründet. Seit 1982 beschäftigen sie sich intensiv mit der Produktion von Strumpfwaren aus reinen Naturfasern. Grödo entwickelt qualitativ hochwertige Produkte, die sie mit ihrer Philosophie \"Im Einklang von Mensch, Umwelt und Tragekomfort\" realisieren. Sie setzen sich für die Produktion hervorragender Garne ein, die ausschließlich in Deutschland gefärbt und in Europa produziert werden.</p>",
             "url": ""
           }
         },
@@ -407,7 +406,7 @@
           "type": "brand",
           "settings": {
             "title": "homedi-kind",
-            "text": "<p>homedi-kind® ist der Produktname einer besonderen Pflege. Der Grundsatz «Kinder sind keine kleinen Erwachsenen» bewegte den Apotheker Tobias Gut dazu, diese Produkte-Linie zu entwickeln. Die sensible Kinderhaut gibt dabei vor, welche Rohstoffe und Zutaten verwendet werden.<\/p><p>• Ohne chemische Zusatzstoffe – synthetische Farb- und Duftstoffe, Silikone, Paraffine oder andere Stoffe auf Mineralölbasis haben darin nichts verloren.<\/p><p>• Die gesamte Linie wird in sorgfältiger Handarbeit und aus naturbelassenen und hochwertigen Rohstoffen hergestellt.<\/p><p>• Durch die hohe Verträglichkeit eignet sich die gesamte homedi-kind®-Linie für die sensible Baby- und Kinderhaut sowie auch für anspruchsvolle Erwachsenenhaut.<\/p><p>• Als Aromapflege wirkt die homedi-kind®-Linie auf mehreren Ebenen gleichzeitig und ist damit die ideale Ergänzung zu anderen Therapien.<\/p>",
+            "text": "<p>homedi-kind® ist der Produktname einer besonderen Pflege. Der Grundsatz «Kinder sind keine kleinen Erwachsenen» bewegte den Apotheker Tobias Gut dazu, diese Produkte-Linie zu entwickeln. Die sensible Kinderhaut gibt dabei vor, welche Rohstoffe und Zutaten verwendet werden.</p><p>• Ohne chemische Zusatzstoffe – synthetische Farb- und Duftstoffe, Silikone, Paraffine oder andere Stoffe auf Mineralölbasis haben darin nichts verloren.</p><p>• Die gesamte Linie wird in sorgfältiger Handarbeit und aus naturbelassenen und hochwertigen Rohstoffen hergestellt.</p><p>• Durch die hohe Verträglichkeit eignet sich die gesamte homedi-kind®-Linie für die sensible Baby- und Kinderhaut sowie auch für anspruchsvolle Erwachsenenhaut.</p><p>• Als Aromapflege wirkt die homedi-kind®-Linie auf mehreren Ebenen gleichzeitig und ist damit die ideale Ergänzung zu anderen Therapien.</p>",
             "url": ""
           }
         },
@@ -415,7 +414,7 @@
           "type": "brand",
           "settings": {
             "title": "Hörbert",
-            "text": "<p>hörbert ist ein tragbarer Musikspieler aus Holz und wird in Deutschland gefertigt. Die kinderleichte Bedienung macht Spass und sie macht Kinder selbstständig. Stück für Stück entsteht der hochwertiger Player aus ungiftigen Materialien und mit viel Handarbeit. Ein verantwortungsvolles Produkt für ein gutes Gewissen beim Musikhören oder beim Verschenken.<\/p>",
+            "text": "<p>hörbert ist ein tragbarer Musikspieler aus Holz und wird in Deutschland gefertigt. Die kinderleichte Bedienung macht Spass und sie macht Kinder selbstständig. Stück für Stück entsteht der hochwertiger Player aus ungiftigen Materialien und mit viel Handarbeit. Ein verantwortungsvolles Produkt für ein gutes Gewissen beim Musikhören oder beim Verschenken.</p>",
             "url": ""
           }
         },
@@ -423,7 +422,7 @@
           "type": "brand",
           "settings": {
             "title": "Imse Vimse",
-            "text": "<p>ImseVimse wurde 1988 von einer Mutter gegründet, deren Tochter von Plastikwindeln einen Windelausschlag bekommen hatte. Als die Mutter auf Stoffwindeln wechselte, verschwand das Problem. Der Hauptsitz von ImseVimse befindet sich im schwedischen Visby. Die Firma bietet heute weltweit gesunde, umweltfreundliche und erschwingliche Produkte für Kinder an. Die Produkte sind alle aus Bio-Baumwolle und werden hauptsächlich in Lettland und der Türkei gefertigt.<\/p>",
+            "text": "<p>ImseVimse wurde 1988 von einer Mutter gegründet, deren Tochter von Plastikwindeln einen Windelausschlag bekommen hatte. Als die Mutter auf Stoffwindeln wechselte, verschwand das Problem. Der Hauptsitz von ImseVimse befindet sich im schwedischen Visby. Die Firma bietet heute weltweit gesunde, umweltfreundliche und erschwingliche Produkte für Kinder an. Die Produkte sind alle aus Bio-Baumwolle und werden hauptsächlich in Lettland und der Türkei gefertigt.</p>",
             "url": ""
           }
         },
@@ -431,7 +430,7 @@
           "type": "brand",
           "settings": {
             "title": "Into Life",
-            "text": "<p>into life - das ist das Projekt von Hebamme Kareen Danhauer. Ihr Herzensanliegen ist es, Frauen und Paare in der Geburtsvorbereitung zu empowern, Mythen zu entzaubern und rundum zu informieren. Sie schreibt Bücher und entwickelt tolle Produkte mit all ihrem Hebammenwissen.<\/p>",
+            "text": "<p>into life - das ist das Projekt von Hebamme Kareen Danhauer. Ihr Herzensanliegen ist es, Frauen und Paare in der Geburtsvorbereitung zu empowern, Mythen zu entzaubern und rundum zu informieren. Sie schreibt Bücher und entwickelt tolle Produkte mit all ihrem Hebammenwissen.</p>",
             "url": ""
           }
         },
@@ -439,7 +438,7 @@
           "type": "brand",
           "settings": {
             "title": "Jack N` Jill",
-            "text": "<p>Die Marke Jack N` Jill Kids wurde in den 1940er Jahren gegründet und war ein bekannter Name, an den sich viele australische Kinder, die in den 50er, 60er und 70er Jahren aufgewachsen sind, gerne erinnern. Heute wurde das Familienunternehmen von dem in Melbourne ansässigen Ehepaar Rachel & Justin Bernhaut wiederbelebt, die nach ihrem persönlichen Aha-Erlebnis erkannten, dass das Produkt für die gesundheitsbewussten Eltern von heute immer noch sehr relevant ist.<\/p><p>Jack N` Jill wird jetzt in mehr als 50 Ländern verkauft und glauben, dass Unternehmen der Umwelt verpflichtet sind. Ihre Verpackungen sind so gestaltet, dass sie minimal, recycelbar und BPA-frei ist.<\/p>",
+            "text": "<p>Die Marke Jack N` Jill Kids wurde in den 1940er Jahren gegründet und war ein bekannter Name, an den sich viele australische Kinder, die in den 50er, 60er und 70er Jahren aufgewachsen sind, gerne erinnern. Heute wurde das Familienunternehmen von dem in Melbourne ansässigen Ehepaar Rachel & Justin Bernhaut wiederbelebt, die nach ihrem persönlichen Aha-Erlebnis erkannten, dass das Produkt für die gesundheitsbewussten Eltern von heute immer noch sehr relevant ist.</p><p>Jack N` Jill wird jetzt in mehr als 50 Ländern verkauft und glauben, dass Unternehmen der Umwelt verpflichtet sind. Ihre Verpackungen sind so gestaltet, dass sie minimal, recycelbar und BPA-frei ist.</p>",
             "url": ""
           }
         },
@@ -447,7 +446,7 @@
           "type": "brand",
           "settings": {
             "title": "Jorgen House",
-            "text": "<p>Jorgen House stellt funktionale Kleider für Schwangerschaft, Wochenbett, Stillzeit und die Zeit danach her. Denn wir Mamas verändern uns und unser Körper durchlebt verschiedene Phasen.<\/p><p>Jorgen House stellt alle Kleidungsstücke in einer Fabrik her, die auf ein nachhaltigeres Textilproduktionsmodell hinarbeitet und sowohl die Umwelt als auch alle an der Produktion und Lieferkette beteiligten Personen respektiert. Die Fabrik wird mit 100 % erneuerbarer Energie betrieben und produziert mit nachhaltigen Fasern wie Bio-Baumwolle, recyceltem Polyester und künstlichen Zellulosefasern aus nicht gefährdeten, zertifizierten Wäldern.<\/p>",
+            "text": "<p>Jorgen House stellt funktionale Kleider für Schwangerschaft, Wochenbett, Stillzeit und die Zeit danach her. Denn wir Mamas verändern uns und unser Körper durchlebt verschiedene Phasen.</p><p>Jorgen House stellt alle Kleidungsstücke in einer Fabrik her, die auf ein nachhaltigeres Textilproduktionsmodell hinarbeitet und sowohl die Umwelt als auch alle an der Produktion und Lieferkette beteiligten Personen respektiert. Die Fabrik wird mit 100 % erneuerbarer Energie betrieben und produziert mit nachhaltigen Fasern wie Bio-Baumwolle, recyceltem Polyester und künstlichen Zellulosefasern aus nicht gefährdeten, zertifizierten Wäldern.</p>",
             "url": ""
           }
         },
@@ -455,7 +454,7 @@
           "type": "brand",
           "settings": {
             "title": "kikadu",
-            "text": "<p>Alle kikadu Produkte werden sorgfältig und mit viel Liebe zum Detail entwickelt. In der heutigen Wegwerf-Gesellschaft setzt die Marke auf Lieblingsstücke für Kinder, die auf ein langes Leben ausgerichtet sind. Zeitlose und langlebige Kindheitsbegleiter, die auch weiteren Generationen Freude bereiten.<\/p><p>kikadu verwendet fast ausschliesslich GOTS zertifizierte Bio-Baumwolle, FSC-zertifiziertes Holz, Natur-Kautschuk und recycelte Materialien. In der gesamten Herstellungskette kommen keine Pestizide, gesundheitsschädlichen Farben oder gefährlichen Chemikalien zum Einsatz.<\/p>",
+            "text": "<p>Alle kikadu Produkte werden sorgfältig und mit viel Liebe zum Detail entwickelt. In der heutigen Wegwerf-Gesellschaft setzt die Marke auf Lieblingsstücke für Kinder, die auf ein langes Leben ausgerichtet sind. Zeitlose und langlebige Kindheitsbegleiter, die auch weiteren Generationen Freude bereiten.</p><p>kikadu verwendet fast ausschliesslich GOTS zertifizierte Bio-Baumwolle, FSC-zertifiziertes Holz, Natur-Kautschuk und recycelte Materialien. In der gesamten Herstellungskette kommen keine Pestizide, gesundheitsschädlichen Farben oder gefährlichen Chemikalien zum Einsatz.</p>",
             "url": ""
           }
         },
@@ -463,7 +462,7 @@
           "type": "brand",
           "settings": {
             "title": "Knetä",
-            "text": "<p>Lisa, die Gründerin von KNETÄ® wollte mit ihrer Idee glückliche Familienmomente und einen sozialen Beitrag in der Gesellschaft fördern und die Umweltressourcen schonen.<\/p><p>Knete ist wichtig für die Entwicklung der Feinmotorik der Kinder und sollte nicht erst ab 3 Jahren möglich sein, dachte sie sich und deshalb ist KNETÄ umweltfreundlich, vegan und vor allem unbedenklich für Kleinkinder.<\/p>",
+            "text": "<p>Lisa, die Gründerin von KNETÄ® wollte mit ihrer Idee glückliche Familienmomente und einen sozialen Beitrag in der Gesellschaft fördern und die Umweltressourcen schonen.</p><p>Knete ist wichtig für die Entwicklung der Feinmotorik der Kinder und sollte nicht erst ab 3 Jahren möglich sein, dachte sie sich und deshalb ist KNETÄ umweltfreundlich, vegan und vor allem unbedenklich für Kleinkinder.</p>",
             "url": ""
           }
         },
@@ -471,7 +470,7 @@
           "type": "brand",
           "settings": {
             "title": "Koel",
-            "text": "<p>Koel ist eine ursprünglich holländische Marke für Kinderschuhe, die heute mit über 15 Jahren Erfahrung in Portugal Schuhe designed und produziert. Die Barfuss-Schuhe überzeugen durch ihre hohe Qualität, die ausgewählten Materialien, die gute Passform und die nachhaltige Produktionsweise.<\/p><p>Und natürlich erfüllen die Schuhe alle Kriterien, die einen Barfuss-Schuh ausmachen: Sie haben flexible Sohlen, ein flaches Fussbett, viel Platz für die Zehen und sorgen so dafür, dass die Muskulatur gestärkt wird, die Zehen die korrekte Stellung behalten und sensorische Reize am Fuss für gute Körperkoordination sorgen. So können die Füsse das Körpergewicht abfedern, Bodenunebenheiten ausgleichen und wichtige Informationen für den Gleichgewichtssinn liefern.<\/p>",
+            "text": "<p>Koel ist eine ursprünglich holländische Marke für Kinderschuhe, die heute mit über 15 Jahren Erfahrung in Portugal Schuhe designed und produziert. Die Barfuss-Schuhe überzeugen durch ihre hohe Qualität, die ausgewählten Materialien, die gute Passform und die nachhaltige Produktionsweise.</p><p>Und natürlich erfüllen die Schuhe alle Kriterien, die einen Barfuss-Schuh ausmachen: Sie haben flexible Sohlen, ein flaches Fussbett, viel Platz für die Zehen und sorgen so dafür, dass die Muskulatur gestärkt wird, die Zehen die korrekte Stellung behalten und sensorische Reize am Fuss für gute Körperkoordination sorgen. So können die Füsse das Körpergewicht abfedern, Bodenunebenheiten ausgleichen und wichtige Informationen für den Gleichgewichtssinn liefern.</p>",
             "url": ""
           }
         }
@@ -516,7 +515,7 @@
           "type": "brand",
           "settings": {
             "title": "Kokadi",
-            "text": "<p>KOKADI - die Marke mit dem Stern, wurde 2010 von Ceyda Temur gegründet. Warum gerade der Stern als Logo ausgewählt wurde? Deshalb: Er steht für den Ursprung und die Zukunft allen Lebens. Und die Spirale innerhalb des Sternenmotivs symbolisiert Unendlichkeit – wie der Lebenszyklus, der mit der Geburt unserer Kinder wieder neu beginnt.<br\/><\/p><p>„Babywearing goes fashion“ – Die immer wechselnden Kollektionen, modisch, farbenfroh und stilvoll, sind das Markenzeichen der Fashion-Firma. Mit viel Liebe werden alle Produkte und Designs im Headoffice in Deutschland entworfen und in Europa handgenäh<\/p>",
+            "text": "<p>KOKADI - die Marke mit dem Stern, wurde 2010 von Ceyda Temur gegründet. Warum gerade der Stern als Logo ausgewählt wurde? Deshalb: Er steht für den Ursprung und die Zukunft allen Lebens. Und die Spirale innerhalb des Sternenmotivs symbolisiert Unendlichkeit – wie der Lebenszyklus, der mit der Geburt unserer Kinder wieder neu beginnt.<br/></p><p>„Babywearing goes fashion“ – Die immer wechselnden Kollektionen, modisch, farbenfroh und stilvoll, sind das Markenzeichen der Fashion-Firma. Mit viel Liebe werden alle Produkte und Designs im Headoffice in Deutschland entworfen und in Europa handgenäh</p>",
             "url": ""
           }
         },
@@ -524,7 +523,7 @@
           "type": "brand",
           "settings": {
             "title": "Kora Mikino",
-            "text": "<p>Julia hat KORA MIKINO gegründet, weil sie das Thema Periode aus der schambesetzten Schmuddelecke rausholen wollte. Sie hat es sich zur Aufgabe gemacht, Femcare zu revolutionieren, die Menstruation zu enttabuisieren und den natürlichen Flow von allen Stigmen zu befreien. KORA MIKINO steht nicht nur für hochwertige Periodenunterwäsche, sondern vor allem für emanzipierten, fairen und nachhaltigen Flow für alle.<\/p><p>Nachhaltigkeit bedeutet für KORA MIKINO Verantwortung entlang der gesamten Wertschöpfungskette: Vom Rohmaterial, über die sozialen Standards in den Partnerbetrieben bis hin zur Verpackung. Die Panties werden in Europa produziert in zwei Betrieben die regelmässig auditiert und zertifiziert werden.<\/p>",
+            "text": "<p>Julia hat KORA MIKINO gegründet, weil sie das Thema Periode aus der schambesetzten Schmuddelecke rausholen wollte. Sie hat es sich zur Aufgabe gemacht, Femcare zu revolutionieren, die Menstruation zu enttabuisieren und den natürlichen Flow von allen Stigmen zu befreien. KORA MIKINO steht nicht nur für hochwertige Periodenunterwäsche, sondern vor allem für emanzipierten, fairen und nachhaltigen Flow für alle.</p><p>Nachhaltigkeit bedeutet für KORA MIKINO Verantwortung entlang der gesamten Wertschöpfungskette: Vom Rohmaterial, über die sozialen Standards in den Partnerbetrieben bis hin zur Verpackung. Die Panties werden in Europa produziert in zwei Betrieben die regelmässig auditiert und zertifiziert werden.</p>",
             "url": ""
           }
         },
@@ -532,7 +531,7 @@
           "type": "brand",
           "settings": {
             "title": "Korko",
-            "text": "<p>2021 wird Korko als Joint Venture zwischen zwei Unternehmen gegründet, die scheinbar unterschiedlicher nicht sein könnten. Hape als renommierter Spielwarenhersteller und Amorim, dem weltweit größten Korkproduzenten. Doch was verbindet die beiden Unternehmen? Die Liebe zur Natur und die Idee, Nachhaltigkeit für jeden Menschen zugänglich zu machen. Das Spielzeug wird aus Kork aus einem portugiesischen Eichenwald hergestellt, der jährlich bis zu 4,6 Millionen Tonnen CO2 bindet. Anders als bei Holz, wird der Baum nicht gefällt. Für die Gewinnung des Korks wird nur die Baumrinde geschält und nach ca. 9 Jahren kann die Rinde erneut in liebevoller Handarbeit geerntet werden. Kork ist also ein schnell nachwachsender Rohstoff. Das führt dazu, dass das Korko Spielzeug klimaneutral und made in Europe ist.<\/p>",
+            "text": "<p>2021 wird Korko als Joint Venture zwischen zwei Unternehmen gegründet, die scheinbar unterschiedlicher nicht sein könnten. Hape als renommierter Spielwarenhersteller und Amorim, dem weltweit größten Korkproduzenten. Doch was verbindet die beiden Unternehmen? Die Liebe zur Natur und die Idee, Nachhaltigkeit für jeden Menschen zugänglich zu machen. Das Spielzeug wird aus Kork aus einem portugiesischen Eichenwald hergestellt, der jährlich bis zu 4,6 Millionen Tonnen CO2 bindet. Anders als bei Holz, wird der Baum nicht gefällt. Für die Gewinnung des Korks wird nur die Baumrinde geschält und nach ca. 9 Jahren kann die Rinde erneut in liebevoller Handarbeit geerntet werden. Kork ist also ein schnell nachwachsender Rohstoff. Das führt dazu, dass das Korko Spielzeug klimaneutral und made in Europe ist.</p>",
             "url": ""
           }
         },
@@ -540,7 +539,7 @@
           "type": "brand",
           "settings": {
             "title": "Korxx",
-            "text": "<p>Die PLES GmbH hat mit KORXX den Wunsch nach gutem Spielzeug weitergebracht. KORXX Bausteine dürfen mit gutem Gewissen und nachweislich als Öko-Spielzeug bezeichnet werden.<\/p><p>Durch ein spezielles Herstellungsverfahren, das sensibel Komponenten wie Zeit, Druck und Hitze einsetzt, entsteht ein natürliches Korkmaterial – nachweislich frei von Schadstoffen. Dadurch ist es der PLES GmbH möglich, einen stabilen und sicheren Materialverbund herzustellen und gleichzeitig die Natürlichkeit zu erhalten. Mit dieser modernen und schonenden Verarbeitung entsteht das hochwertige und sichere KORXX Material für das Spielzeug. 100 % Bio, fair und nachhaltig.<\/p>",
+            "text": "<p>Die PLES GmbH hat mit KORXX den Wunsch nach gutem Spielzeug weitergebracht. KORXX Bausteine dürfen mit gutem Gewissen und nachweislich als Öko-Spielzeug bezeichnet werden.</p><p>Durch ein spezielles Herstellungsverfahren, das sensibel Komponenten wie Zeit, Druck und Hitze einsetzt, entsteht ein natürliches Korkmaterial – nachweislich frei von Schadstoffen. Dadurch ist es der PLES GmbH möglich, einen stabilen und sicheren Materialverbund herzustellen und gleichzeitig die Natürlichkeit zu erhalten. Mit dieser modernen und schonenden Verarbeitung entsteht das hochwertige und sichere KORXX Material für das Spielzeug. 100 % Bio, fair und nachhaltig.</p>",
             "url": ""
           }
         },
@@ -548,7 +547,7 @@
           "type": "brand",
           "settings": {
             "title": "kruut",
-            "text": "<p>Kruut steht für einen Schritt zurück zur nährstoffreichen Natur und dem Wissen, wie man diese nutzt. Hergestellt mit Werten, die heute oft zu kurz kommen: Zeit & Hingabe.<\/p><p>„Dat ole Kruut mutt rut“ - Mit diesem plattdeutschen Ausspruch wurden die Gründer von kruut in ihrer Kindheit vom Opa in den Garten geschickt. Nicht um das Unkraut einfach zu jäten - nein, um es zu nutzen. <\/p><p>kruut möchte kraftvolle Wildkräuter zurück in unseren modernen Alltag holen. Die Rezepturen basieren auf dem jahrtausendealten Wissen der Pflanzenheilkunde. Für naturnahe Rituale und wilden Genuss.<\/p>",
+            "text": "<p>Kruut steht für einen Schritt zurück zur nährstoffreichen Natur und dem Wissen, wie man diese nutzt. Hergestellt mit Werten, die heute oft zu kurz kommen: Zeit & Hingabe.</p><p>„Dat ole Kruut mutt rut“ - Mit diesem plattdeutschen Ausspruch wurden die Gründer von kruut in ihrer Kindheit vom Opa in den Garten geschickt. Nicht um das Unkraut einfach zu jäten - nein, um es zu nutzen. </p><p>kruut möchte kraftvolle Wildkräuter zurück in unseren modernen Alltag holen. Die Rezepturen basieren auf dem jahrtausendealten Wissen der Pflanzenheilkunde. Für naturnahe Rituale und wilden Genuss.</p>",
             "url": ""
           }
         },
@@ -556,7 +555,7 @@
           "type": "brand",
           "settings": {
             "title": "Leea",
-            "text": "<p>Alles began mit einem Vater (Dan, 49 aus Bukarest) der sich fragte \"Was kann ich für mein Kind tun, damit es entdecken und Spass haben kann?\"<\/p><p>Er baute den Learning Tower für sein Kind und stellte fest, dass dieser auf so viele Arten benutzt werden konnte. Also fing er an ihn zu optimieren und verbessern. Fügte zusätzliche Funktionen hinzu. Nach zwei Jahren stand der Leea`s Tower.<\/p>",
+            "text": "<p>Alles began mit einem Vater (Dan, 49 aus Bukarest) der sich fragte \"Was kann ich für mein Kind tun, damit es entdecken und Spass haben kann?\"</p><p>Er baute den Learning Tower für sein Kind und stellte fest, dass dieser auf so viele Arten benutzt werden konnte. Also fing er an ihn zu optimieren und verbessern. Fügte zusätzliche Funktionen hinzu. Nach zwei Jahren stand der Leea`s Tower.</p>",
             "url": ""
           }
         },
@@ -564,7 +563,7 @@
           "type": "brand",
           "settings": {
             "title": "Love Radius",
-            "text": "<p>Love Radius wurde 2007 in Paris gegründet und ist die französische Marke, die das Tragen aus praktischen Gründen, aber auch wegen der Nähe zu Ihrem Baby fördert.<\/p><p>Alle Produkte werden in Frankreich geplant und in der EU hergestellt.<\/p>",
+            "text": "<p>Love Radius wurde 2007 in Paris gegründet und ist die französische Marke, die das Tragen aus praktischen Gründen, aber auch wegen der Nähe zu Ihrem Baby fördert.</p><p>Alle Produkte werden in Frankreich geplant und in der EU hergestellt.</p>",
             "url": ""
           }
         },
@@ -572,7 +571,7 @@
           "type": "brand",
           "settings": {
             "title": "made with love by nici",
-            "text": "<p>Die Produkte von made with love by nici werden alle von Nicole Wegmüller persönlich handgefertigt.<\/p>",
+            "text": "<p>Die Produkte von made with love by nici werden alle von Nicole Wegmüller persönlich handgefertigt.</p>",
             "url": ""
           }
         },
@@ -580,7 +579,7 @@
           "type": "brand",
           "settings": {
             "title": "Mader",
-            "text": "<p>Die Welt der Kreisel - Die Firma Kreiselmanufaktur Klaus Mader wurde 1991 gegründet und hat sich das Thema KREISEL zum Hauptinhalt gewählt. Die Kreisel werden in Handarbeit gefertigt und handbemalt. Als Material finden fast ausschliesslich regionale Edel- und Harthölzer Verwendung.  Alle Natursorten werden geölt und die bunten Sorten mit einem speichelechten Lack behandelt. Für die Farbgebung kommen bei Mader lichtbeständige Künstlermalfarben zum Einsatz. In allen Fällen hält Mader die Normen der CE EN 71 ein. Sämtliche Artikel sind zertifiziert PEFC<\/p>",
+            "text": "<p>Die Welt der Kreisel - Die Firma Kreiselmanufaktur Klaus Mader wurde 1991 gegründet und hat sich das Thema KREISEL zum Hauptinhalt gewählt. Die Kreisel werden in Handarbeit gefertigt und handbemalt. Als Material finden fast ausschliesslich regionale Edel- und Harthölzer Verwendung.  Alle Natursorten werden geölt und die bunten Sorten mit einem speichelechten Lack behandelt. Für die Farbgebung kommen bei Mader lichtbeständige Künstlermalfarben zum Einsatz. In allen Fällen hält Mader die Normen der CE EN 71 ein. Sämtliche Artikel sind zertifiziert PEFC</p>",
             "url": ""
           }
         },
@@ -588,7 +587,7 @@
           "type": "brand",
           "settings": {
             "title": "Mahler",
-            "text": "<p>Die über 50-jährige Bio-Geschichte der Familie Mahler aus dem Aargau bringt eine Vielfalt von wertvollen Kontakten zu Produzenten in aller Welt mit sich. Für ihre Marke selektionieren sie für ihre Kunden beste Qualitäten, hauptsächlich aus langjährigen und ihnen persönlich bekannten Projekten. Ihre Überzeugung für nachhaltig erzeugte Bio-Qualität und die Leidenschaft der Produzenten für schonenden Anbau steckt in jedem Produkt.<\/p>",
+            "text": "<p>Die über 50-jährige Bio-Geschichte der Familie Mahler aus dem Aargau bringt eine Vielfalt von wertvollen Kontakten zu Produzenten in aller Welt mit sich. Für ihre Marke selektionieren sie für ihre Kunden beste Qualitäten, hauptsächlich aus langjährigen und ihnen persönlich bekannten Projekten. Ihre Überzeugung für nachhaltig erzeugte Bio-Qualität und die Leidenschaft der Produzenten für schonenden Anbau steckt in jedem Produkt.</p>",
             "url": ""
           }
         },
@@ -596,7 +595,7 @@
           "type": "brand",
           "settings": {
             "title": "Maispops",
-            "text": "<p>Maispops werden aus 100% biologischem Mais aus Europa hergestellt, gemäss Gesetz sind die Bio Produkte GVO-frei. Die Maispops wurden ganz ohne Zusätze im Dampfverfahren, ohne Beigabe von Fett oder Salz in Finnland hergestellt.<\/p><p>Alle Transporte erfolgen klimaneutral. Aus biologische Rohstoffen, ohne Zusatzstoffe und Konservierungsmittel.<\/p>",
+            "text": "<p>Maispops werden aus 100% biologischem Mais aus Europa hergestellt, gemäss Gesetz sind die Bio Produkte GVO-frei. Die Maispops wurden ganz ohne Zusätze im Dampfverfahren, ohne Beigabe von Fett oder Salz in Finnland hergestellt.</p><p>Alle Transporte erfolgen klimaneutral. Aus biologische Rohstoffen, ohne Zusatzstoffe und Konservierungsmittel.</p>",
             "url": ""
           }
         },
@@ -604,7 +603,7 @@
           "type": "brand",
           "settings": {
             "title": "Mama Nuka",
-            "text": "<p>Die Gründerinnen Stephanie und Stefanie teilen nicht nur einen Namen, sondern auch einen gemeinsames Ziel: Sie möchten der von \"Entwicklung\" und Wohlstand bestimmten Welt ein Stück Natürlichkeit zurückgeben. In Indien entdeckten sie, dass das traditionelle Färber-Handwerk auch ohne den Einsatz moderner Chemikalien brillante Farben erzeugt. In einem patentierten Prozess werden die Stoffe mit Auszügen aus dem, was uns die Natur geschenkt hat, gefärbt: Gemüse, Wurzeln und Blüten. Pflanzen geben nicht nur wunderschöne Farben, sondern sind auch gut zu deiner Haut und der deines Babys. Die Bio-Baumwolle kommt direkt aus Gujarat, Indien, wo sie gesponnen, gewebt und in Mama Nukas verwandelt wird.<\/p><p>\"Nuka\" kommt übrigens von \"Nook\" - das englische Wort für \"Schlupfwinkel\", - also ein Ort an dem man sich sicher und geborgen fühlt.<\/p><p>Die \"Mamanukas\" sind eine Inselgruppe auf den Fidschis - auch dort werden Babys in Tüchern getragen!<\/p>",
+            "text": "<p>Die Gründerinnen Stephanie und Stefanie teilen nicht nur einen Namen, sondern auch einen gemeinsames Ziel: Sie möchten der von \"Entwicklung\" und Wohlstand bestimmten Welt ein Stück Natürlichkeit zurückgeben. In Indien entdeckten sie, dass das traditionelle Färber-Handwerk auch ohne den Einsatz moderner Chemikalien brillante Farben erzeugt. In einem patentierten Prozess werden die Stoffe mit Auszügen aus dem, was uns die Natur geschenkt hat, gefärbt: Gemüse, Wurzeln und Blüten. Pflanzen geben nicht nur wunderschöne Farben, sondern sind auch gut zu deiner Haut und der deines Babys. Die Bio-Baumwolle kommt direkt aus Gujarat, Indien, wo sie gesponnen, gewebt und in Mama Nukas verwandelt wird.</p><p>\"Nuka\" kommt übrigens von \"Nook\" - das englische Wort für \"Schlupfwinkel\", - also ein Ort an dem man sich sicher und geborgen fühlt.</p><p>Die \"Mamanukas\" sind eine Inselgruppe auf den Fidschis - auch dort werden Babys in Tüchern getragen!</p>",
             "url": ""
           }
         },
@@ -612,7 +611,7 @@
           "type": "brand",
           "settings": {
             "title": "Mamalila",
-            "text": "<p>mamalila ist ein Familienunternehmen im besten Sinn – und in mehrfacher Hinsicht. Die Geburt ihrer beiden Kinder war für die heutige Geschäftsführerin Vicki Marx der Anlass, mamalila zu gründen. <\/p><p>Denn als Outdoor- und Tragefan entdeckte die junge Mutter eine Marktlücke: Wer mit Kind vor dem Bauch bei Wind und Wetter vor die Tür möchte, braucht eine Jacke, die anders ist als das, was der Markt bis dahin hergab. Und so entwickelte Vicki Marx diese Jacke kurzerhand selbst – und hob die nachhaltige Marke mamalila aus der Taufe.<\/p>",
+            "text": "<p>mamalila ist ein Familienunternehmen im besten Sinn – und in mehrfacher Hinsicht. Die Geburt ihrer beiden Kinder war für die heutige Geschäftsführerin Vicki Marx der Anlass, mamalila zu gründen. </p><p>Denn als Outdoor- und Tragefan entdeckte die junge Mutter eine Marktlücke: Wer mit Kind vor dem Bauch bei Wind und Wetter vor die Tür möchte, braucht eine Jacke, die anders ist als das, was der Markt bis dahin hergab. Und so entwickelte Vicki Marx diese Jacke kurzerhand selbst – und hob die nachhaltige Marke mamalila aus der Taufe.</p>",
             "url": ""
           }
         },
@@ -620,7 +619,7 @@
           "type": "brand",
           "settings": {
             "title": "Mamidala",
-            "text": "<p>Tina Eck, selbst Mutter zweier Söhne, steht hinter dem Namen Mamidala. Angefangen hat sie damit, Stillarmbänder selbst herzustellen, die super praktisch für stillende Mütter sind. <\/p><p>Sie achtet stets auf hochwertige und sichere Materialien sowie auf die bestmöglichste Sicherheit für das Baby. Im Laufe der Zeit kamen viele Produkte, wie Babyarmbänder und Kinderarmbänder sowie Stillketten, Greiflinge und Babysocken dazu. Alle Produkte stellt sie selbst in Handarbeit her.<\/p>",
+            "text": "<p>Tina Eck, selbst Mutter zweier Söhne, steht hinter dem Namen Mamidala. Angefangen hat sie damit, Stillarmbänder selbst herzustellen, die super praktisch für stillende Mütter sind. </p><p>Sie achtet stets auf hochwertige und sichere Materialien sowie auf die bestmöglichste Sicherheit für das Baby. Im Laufe der Zeit kamen viele Produkte, wie Babyarmbänder und Kinderarmbänder sowie Stillketten, Greiflinge und Babysocken dazu. Alle Produkte stellt sie selbst in Handarbeit her.</p>",
             "url": ""
           }
         },
@@ -628,7 +627,7 @@
           "type": "brand",
           "settings": {
             "title": "ManyMonths",
-            "text": "<p>Manymonths-Kleidung wurde designt um den Parenting Lifestyle einfacher zu gestalten. Bei Trage-Eltern bereits sehr beliebt sind die wärmenden Stulpen oder die Elefanten-Mütze, welche dem Kind nicht ins Gesicht rutscht. Manymonths bietet aber noch viele weitere Kleidungsstücke und Accessoires für Babys und Kinder. So gibt es auch Handschuhe, Schlafsäcke oder Stiefeli - da ist für jeden etwas dabei. Die Merino-Wolle hält die warme Luft am Körper des Babys und ist von Natur aus antibakteriell, muss also nicht so häufig gewaschen werden. Die meisten Manymonths-Produkte wachsen mit und passen deinem Kind so über viele Monate hinweg.<\/p>",
+            "text": "<p>Manymonths-Kleidung wurde designt um den Parenting Lifestyle einfacher zu gestalten. Bei Trage-Eltern bereits sehr beliebt sind die wärmenden Stulpen oder die Elefanten-Mütze, welche dem Kind nicht ins Gesicht rutscht. Manymonths bietet aber noch viele weitere Kleidungsstücke und Accessoires für Babys und Kinder. So gibt es auch Handschuhe, Schlafsäcke oder Stiefeli - da ist für jeden etwas dabei. Die Merino-Wolle hält die warme Luft am Körper des Babys und ist von Natur aus antibakteriell, muss also nicht so häufig gewaschen werden. Die meisten Manymonths-Produkte wachsen mit und passen deinem Kind so über viele Monate hinweg.</p>",
             "url": ""
           }
         },
@@ -636,7 +635,7 @@
           "type": "brand",
           "settings": {
             "title": "mara mea",
-            "text": "<p>Maren & Dorina haben zusammen im Jahr 2015 mara mea gegründet. Sie hatten eine klare Vorstellung, wie Wickeltaschen, Umstandsmode und Accessoires für die heutige Frau und Mutter aussehen sollten. Für diese Bedürfnisse entwickelt mara mea zeitlose und trotzdem trendige Produkte, welche auch über die Schwangerschaft und Stillzeit hinaus echte Lieblingstücke sind. Langlebige Stücke mit Liebe zum Detail.<\/p><p>Alle Schnitte, Muster & Designs werden im Berliner Büro gefertigt. Die Produktion ist in einem kleinen Familienbetrieb in Indien.<\/p>",
+            "text": "<p>Maren & Dorina haben zusammen im Jahr 2015 mara mea gegründet. Sie hatten eine klare Vorstellung, wie Wickeltaschen, Umstandsmode und Accessoires für die heutige Frau und Mutter aussehen sollten. Für diese Bedürfnisse entwickelt mara mea zeitlose und trotzdem trendige Produkte, welche auch über die Schwangerschaft und Stillzeit hinaus echte Lieblingstücke sind. Langlebige Stücke mit Liebe zum Detail.</p><p>Alle Schnitte, Muster & Designs werden im Berliner Büro gefertigt. Die Produktion ist in einem kleinen Familienbetrieb in Indien.</p>",
             "url": ""
           }
         },
@@ -644,7 +643,7 @@
           "type": "brand",
           "settings": {
             "title": "Milker",
-            "text": "<p>Höchste Bio-Qualität für Schwangere und Stillende. Die Marke aus Dänemark hat sich auf modische Stillbekleidung spezialisiert, die aus ökologischen Rohmaterialien hergestellt wird. Dank diskreten Stillöffnungen ist das Stillen mit jedem Kleidungsstück problemlos möglich.<\/p>",
+            "text": "<p>Höchste Bio-Qualität für Schwangere und Stillende. Die Marke aus Dänemark hat sich auf modische Stillbekleidung spezialisiert, die aus ökologischen Rohmaterialien hergestellt wird. Dank diskreten Stillöffnungen ist das Stillen mit jedem Kleidungsstück problemlos möglich.</p>",
             "url": ""
           }
         },
@@ -652,7 +651,7 @@
           "type": "brand",
           "settings": {
             "title": "mini monkey",
-            "text": "<p>mini Monkey ist eine holländische Marke mit Sitz in Amsterdam. Hinter der Marke steht Margot, die ihre Produkte versucht so innovativ und komfortabel wie möglich für Eltern und Kind zu produzieren. Sie selbst ist bei der Planung der Produkte an der Front und ist erst überzeugt, wenn das Endprodukt hantlich und \"monkeyproof\" ist.<\/p>",
+            "text": "<p>mini Monkey ist eine holländische Marke mit Sitz in Amsterdam. Hinter der Marke steht Margot, die ihre Produkte versucht so innovativ und komfortabel wie möglich für Eltern und Kind zu produzieren. Sie selbst ist bei der Planung der Produkte an der Front und ist erst überzeugt, wenn das Endprodukt hantlich und \"monkeyproof\" ist.</p>",
             "url": ""
           }
         },
@@ -660,7 +659,7 @@
           "type": "brand",
           "settings": {
             "title": "Minimalisma",
-            "text": "<p>Minimalisma ist eine Marke, die in der kleinsten Hauptstadt der Welt auf einem Vulkanarchipel im Nordatlantik entstanden ist. Die Natur spielte von Anfang an eine zentrale Rolle in der Lebensgeschichte der Gründerin, was sich stark in ihren Kreationen widerspiegelt. Die Verbindung zur Natur ist eine wesentliche Inspirationsquelle für die Marke.<\/p><p>Die Wurzeln von Minimalisma gehen auf die Kindheit der Gründerin zurück, in der handgestrickte Kleidung eine Selbstverständlichkeit war. 2012 brachte die Marke ihre erste Kollektion auf den Markt, und sogar eines der ersten Stücke war in limitierter Auflage handgestrickt. Diese Verbundenheit zur Handwerkskunst und zur Natur spiegelt sich in jedem Teil ihrer Kollektionen wider.<\/p><p>Die Gründerin hatte schon immer den Wunsch, etwas Eigenes zu schaffen, und als sie Mutter wurde, war der richtige Moment gekommen. Die Freude der Mutterschaft inspirierte sie, hochwertige, skandinavisch inspirierte Kleidung zu entwerfen, die den Bedürfnissen von Kindern und Eltern gleichermaßen gerecht wird. Minimalisma steht für minimalistisches skandinavisches Design, verbunden mit den feinsten Qualitäten, und bringt zeitlose, stilvolle Stücke hervor, die sowohl praktisch als auch ästhetisch ansprechend sind.<\/p>",
+            "text": "<p>Minimalisma ist eine Marke, die in der kleinsten Hauptstadt der Welt auf einem Vulkanarchipel im Nordatlantik entstanden ist. Die Natur spielte von Anfang an eine zentrale Rolle in der Lebensgeschichte der Gründerin, was sich stark in ihren Kreationen widerspiegelt. Die Verbindung zur Natur ist eine wesentliche Inspirationsquelle für die Marke.</p><p>Die Wurzeln von Minimalisma gehen auf die Kindheit der Gründerin zurück, in der handgestrickte Kleidung eine Selbstverständlichkeit war. 2012 brachte die Marke ihre erste Kollektion auf den Markt, und sogar eines der ersten Stücke war in limitierter Auflage handgestrickt. Diese Verbundenheit zur Handwerkskunst und zur Natur spiegelt sich in jedem Teil ihrer Kollektionen wider.</p><p>Die Gründerin hatte schon immer den Wunsch, etwas Eigenes zu schaffen, und als sie Mutter wurde, war der richtige Moment gekommen. Die Freude der Mutterschaft inspirierte sie, hochwertige, skandinavisch inspirierte Kleidung zu entwerfen, die den Bedürfnissen von Kindern und Eltern gleichermaßen gerecht wird. Minimalisma steht für minimalistisches skandinavisches Design, verbunden mit den feinsten Qualitäten, und bringt zeitlose, stilvolle Stücke hervor, die sowohl praktisch als auch ästhetisch ansprechend sind.</p>",
             "url": ""
           }
         },
@@ -668,7 +667,7 @@
           "type": "brand",
           "settings": {
             "title": "Moose-li",
-            "text": "<p>Moose-li wurde von Nadine aus Rorbas ins Leben gerufen. Zusammen mit Hilfe von ihrer ganzen Familie betreibt sie ihr kleines Unternehmen. Bei Moose-li findet man kleine Geschenke und Mitbringsel für Kinder und Erwachsene.<\/p><p>Gewisse Produkte werden von Nadine selbst hergestellt und andere werden von Produzenten hergestellt, die grossen Wert auf Nachhaltigkeit legen und soziale Projekte unterstützen.<\/p>",
+            "text": "<p>Moose-li wurde von Nadine aus Rorbas ins Leben gerufen. Zusammen mit Hilfe von ihrer ganzen Familie betreibt sie ihr kleines Unternehmen. Bei Moose-li findet man kleine Geschenke und Mitbringsel für Kinder und Erwachsene.</p><p>Gewisse Produkte werden von Nadine selbst hergestellt und andere werden von Produzenten hergestellt, die grossen Wert auf Nachhaltigkeit legen und soziale Projekte unterstützen.</p>",
             "url": ""
           }
         },
@@ -676,7 +675,7 @@
           "type": "brand",
           "settings": {
             "title": "Motherlove",
-            "text": "<p>Motherlove® Herbal Company wurde 1990 von der amerikanischen Pflanzenheilkundlerin Kathryn Higgins gegründet. Higgins ist eine anerkannte Expertin für Heilkräuter.<\/p><p>Motherlove Herbal Company unterstützt Mütter während und nach der Schwangerschaft mit Naturmitteln von höchster Reinheit. Die nachhaltige Wirkung der einzigartigen Rezepturen beruht auf tief verwurzeltem Wissen um die uralten Kräfte hilfreicher Kräuter und ihr optimales Zusammenspiel für die Gesundheit von Mutter und Kind.<\/p><p>Motherlove bietet eine Reihe an Extrakten und ganzheitlichen Pflegeprodukten mit Kräutern aus biologisch kontrolliertem Anbau an.<\/p><p>Alle Produkte sind garantiert frei von künstlichen Inhalts-, Farb- und Duftstoffen sowie Mineralölen und Konservierungsmitteln. Nachhaltige Produktion und Herstellung, Verzicht auf Tierversuche.<\/p>",
+            "text": "<p>Motherlove® Herbal Company wurde 1990 von der amerikanischen Pflanzenheilkundlerin Kathryn Higgins gegründet. Higgins ist eine anerkannte Expertin für Heilkräuter.</p><p>Motherlove Herbal Company unterstützt Mütter während und nach der Schwangerschaft mit Naturmitteln von höchster Reinheit. Die nachhaltige Wirkung der einzigartigen Rezepturen beruht auf tief verwurzeltem Wissen um die uralten Kräfte hilfreicher Kräuter und ihr optimales Zusammenspiel für die Gesundheit von Mutter und Kind.</p><p>Motherlove bietet eine Reihe an Extrakten und ganzheitlichen Pflegeprodukten mit Kräutern aus biologisch kontrolliertem Anbau an.</p><p>Alle Produkte sind garantiert frei von künstlichen Inhalts-, Farb- und Duftstoffen sowie Mineralölen und Konservierungsmitteln. Nachhaltige Produktion und Herstellung, Verzicht auf Tierversuche.</p>",
             "url": ""
           }
         },
@@ -684,7 +683,7 @@
           "type": "brand",
           "settings": {
             "title": "Moulin Roty",
-            "text": "<p>Die französische Marke Moulin Roty entstand bereits im Jahr 1972. Seit 40 Jahren fertigen sie wunderschöne und qualitativ hochwertige Spielzeuge, Plüschtiere, Babykleidung, Zimmerausstattung uvm. Ihr einzigartiges und zartes Design zieht alle Blicke auf sich und erfreut seit Generationen nicht nur die Kleinen.<\/p><p>Alle ihre Produkte werden mit den besten europäischen Stoffen und Materialien hergestellt.<\/p>",
+            "text": "<p>Die französische Marke Moulin Roty entstand bereits im Jahr 1972. Seit 40 Jahren fertigen sie wunderschöne und qualitativ hochwertige Spielzeuge, Plüschtiere, Babykleidung, Zimmerausstattung uvm. Ihr einzigartiges und zartes Design zieht alle Blicke auf sich und erfreut seit Generationen nicht nur die Kleinen.</p><p>Alle ihre Produkte werden mit den besten europäischen Stoffen und Materialien hergestellt.</p>",
             "url": ""
           }
         },
@@ -692,7 +691,7 @@
           "type": "brand",
           "settings": {
             "title": "müsli",
-            "text": "<p>Müsli Kleidung ist GOTS zertifiziert. Dies ist aktuell der höchste Standard für Bekleidung. Alle Prozesse wie Färben, Weben und Nähen sind unter den strengsten Vorgaben mit Rücksicht auf die Umwelt durchgeführt. Auch die Arbeitsbedingungen in jedem einzelnen Produktionsschritt werden streng überwacht. GOTS ist international anerkannt als führender Standard für die Verarbeitung von Textilien aus Biobaumwolle.<\/p>",
+            "text": "<p>Müsli Kleidung ist GOTS zertifiziert. Dies ist aktuell der höchste Standard für Bekleidung. Alle Prozesse wie Färben, Weben und Nähen sind unter den strengsten Vorgaben mit Rücksicht auf die Umwelt durchgeführt. Auch die Arbeitsbedingungen in jedem einzelnen Produktionsschritt werden streng überwacht. GOTS ist international anerkannt als führender Standard für die Verarbeitung von Textilien aus Biobaumwolle.</p>",
             "url": ""
           }
         },
@@ -700,7 +699,7 @@
           "type": "brand",
           "settings": {
             "title": "MyClarella",
-            "text": "<p>MyClarella ist ein frauengegründetes und inhaberingeführtes Wellness-Unternehmen für werdende Mamas mit dem Fokus auf der besonderen Zeit nach der Geburt, dem Wochenbett.<\/p><p>MyClarella setzt sich dafür ein, dass Frauen aufgeklärt und gestärkt in die Geburt gehen und begleiten sie im Wochenbett, der wichtigen Zeit nach der Geburt.<\/p><p>Sie setzen auf natürliche, biologische und recyclebare Materialien und achten auf gute soziale Bedingungen in ihren Produktionsstätten, sowie angemessene Arbeitszeiten, eine entsprechende Vergütung und hohe Gesundheitsstandards.<\/p>",
+            "text": "<p>MyClarella ist ein frauengegründetes und inhaberingeführtes Wellness-Unternehmen für werdende Mamas mit dem Fokus auf der besonderen Zeit nach der Geburt, dem Wochenbett.</p><p>MyClarella setzt sich dafür ein, dass Frauen aufgeklärt und gestärkt in die Geburt gehen und begleiten sie im Wochenbett, der wichtigen Zeit nach der Geburt.</p><p>Sie setzen auf natürliche, biologische und recyclebare Materialien und achten auf gute soziale Bedingungen in ihren Produktionsstätten, sowie angemessene Arbeitszeiten, eine entsprechende Vergütung und hohe Gesundheitsstandards.</p>",
             "url": ""
           }
         },
@@ -708,7 +707,7 @@
           "type": "brand",
           "settings": {
             "title": "MYLILY",
-            "text": "<p>MYLILY ist ein Organic Femcare Start-up aus Hamburg. Sie entwickeln nachhaltige und qualitativ hochwertige Produkte für die Bedürfnisse von Frauen in allen Lebensphasen.<\/p><p>Ihre Produkte sind zu 100% aus Bio-Qualität, vegan & tierversuchsfrei.<\/p>",
+            "text": "<p>MYLILY ist ein Organic Femcare Start-up aus Hamburg. Sie entwickeln nachhaltige und qualitativ hochwertige Produkte für die Bedürfnisse von Frauen in allen Lebensphasen.</p><p>Ihre Produkte sind zu 100% aus Bio-Qualität, vegan & tierversuchsfrei.</p>",
             "url": ""
           }
         }
@@ -752,7 +751,7 @@
           "type": "brand",
           "settings": {
             "title": "Naïf",
-            "text": "<p>Naïf haltet die Dinge am liebsten so einfach wie möglich. Darum enthalten ihre Produkte weder Mineralöl, noch chemische Konservierungsstoffe oder andere aggressive Zusätze. Stattdessen formen ausschließlich natürliche Inhaltsstoffe wie Leinsamenöl, Avocadoöl, und Lycosol (Tomatenextrakt) die Basis ihrer Pflegelinien. 100% Vegan, 100% Plastikfrei.<\/p>",
+            "text": "<p>Naïf haltet die Dinge am liebsten so einfach wie möglich. Darum enthalten ihre Produkte weder Mineralöl, noch chemische Konservierungsstoffe oder andere aggressive Zusätze. Stattdessen formen ausschließlich natürliche Inhaltsstoffe wie Leinsamenöl, Avocadoöl, und Lycosol (Tomatenextrakt) die Basis ihrer Pflegelinien. 100% Vegan, 100% Plastikfrei.</p>",
             "url": ""
           }
         },
@@ -760,7 +759,7 @@
           "type": "brand",
           "settings": {
             "title": "namaki",
-            "text": "<p>Das französische Label Namaki ist seit 2013 mit über 60 Produkten im Bereich Kinderkosmetik vertreten. Bereits am verspielten Namen lässt sich der Grundsatz hinter den BIO-zertifizierten Kinderschmink-Artikeln des Unternehmens erkennen: Namaki steht für „Naturel, Make-Up, Kids“. <\/p><p>Gegründet wurde Namaki vom Ehepaar Marie-Laure Bascoul und Vincent Bascoul. Beide legen seit der Gründung Wert darauf, den Menschen und die Umwelt zu schützen. Die Produkte werden unter anderem mit umweltfreundlichen Verpackungen angeboten. Die BIO-zertifizierte Kinderschminke ist hypoallergen und auf Wasserbasis hergestellt.<\/p>",
+            "text": "<p>Das französische Label Namaki ist seit 2013 mit über 60 Produkten im Bereich Kinderkosmetik vertreten. Bereits am verspielten Namen lässt sich der Grundsatz hinter den BIO-zertifizierten Kinderschmink-Artikeln des Unternehmens erkennen: Namaki steht für „Naturel, Make-Up, Kids“. </p><p>Gegründet wurde Namaki vom Ehepaar Marie-Laure Bascoul und Vincent Bascoul. Beide legen seit der Gründung Wert darauf, den Menschen und die Umwelt zu schützen. Die Produkte werden unter anderem mit umweltfreundlichen Verpackungen angeboten. Die BIO-zertifizierte Kinderschminke ist hypoallergen und auf Wasserbasis hergestellt.</p>",
             "url": ""
           }
         },
@@ -768,7 +767,7 @@
           "type": "brand",
           "settings": {
             "title": "Nanchen Natur",
-            "text": "<p>Seit 1983 werden die Nanchen Puppen in liebevoller Handarbeit in Nordhessen handgefertigt. Als die Gründer, Nana und Peter Sendke, Anfang der 1980er auf der Suche nach hochwertigen Puppen für Ihre eigenen Kinder nicht fündig wurden, begannen Sie selbst nach Vorbild der Waldorf Pädagogik Puppen anzufertigen.<\/p><p>Aus diesen ersten Versuchen und viel handwerklichem Geschick entwickelte sich langsam der ganz eigene Stil der bunten Nanchen Welt. Bis heute orientiert sich das Unternehmen an den Ursprüngen von Nachen Natur und ergänzt sie behutsam mit zeitgemässem Design. Mittlerweile arbeiten rund 15 MitarbeiterInnen in Heimarbeit und in der kleinen Manufaktur. Nanchen Puppen werden vor Ort handgestopft und die Gesichter handbemalt, wodurch jede Puppe ihren ganz eigenen Charakter erhält.<\/p><p>Für Nanchen Natur werden fast ausschliesslich Rohstoffe aus kontrolliert biologischem Anbau (kbA) und kontrolliert biologischer Tierhaltung (kbT) verwendet. Die Puppen werden mit Bioland-Schafschurwolle aus Deutschland per Hand gestopft.<\/p>",
+            "text": "<p>Seit 1983 werden die Nanchen Puppen in liebevoller Handarbeit in Nordhessen handgefertigt. Als die Gründer, Nana und Peter Sendke, Anfang der 1980er auf der Suche nach hochwertigen Puppen für Ihre eigenen Kinder nicht fündig wurden, begannen Sie selbst nach Vorbild der Waldorf Pädagogik Puppen anzufertigen.</p><p>Aus diesen ersten Versuchen und viel handwerklichem Geschick entwickelte sich langsam der ganz eigene Stil der bunten Nanchen Welt. Bis heute orientiert sich das Unternehmen an den Ursprüngen von Nachen Natur und ergänzt sie behutsam mit zeitgemässem Design. Mittlerweile arbeiten rund 15 MitarbeiterInnen in Heimarbeit und in der kleinen Manufaktur. Nanchen Puppen werden vor Ort handgestopft und die Gesichter handbemalt, wodurch jede Puppe ihren ganz eigenen Charakter erhält.</p><p>Für Nanchen Natur werden fast ausschliesslich Rohstoffe aus kontrolliert biologischem Anbau (kbA) und kontrolliert biologischer Tierhaltung (kbT) verwendet. Die Puppen werden mit Bioland-Schafschurwolle aus Deutschland per Hand gestopft.</p>",
             "url": ""
           }
         },
@@ -776,7 +775,7 @@
           "type": "brand",
           "settings": {
             "title": "Naturtrends",
-            "text": "<p>Naturtrends ist ein kleiner Familienbetrieb aus dem Thurgau, der versucht, Dir ein Stück Natur zurückzubringen. Die kleine Manufaktur haben sie selbst aus Lehm und Schafswolle gebaut und darin eine schöne Produktionsküche eingerichtet. Dort werden von mir Aromabalsame, feste Körperbutter und Deocremes liebevoll von Hand hergestellt.<\/p><p>Besonders wichtig ist der Inhaberin, wenn immer möglich, nur Bio-Rohstoffe zu verwenden – aus Liebe zur Natur und aus Liebe zur Gesundheit. Sie verwendet ausschliesslich 100% naturreine ätherische Öle und hochqualitative Absolues, die für die Aromatherapie geeignet sind.<\/p><p>Es werden keine synthetischen Parfumöle und kein Palmöl verarbeitet.<\/p>",
+            "text": "<p>Naturtrends ist ein kleiner Familienbetrieb aus dem Thurgau, der versucht, Dir ein Stück Natur zurückzubringen. Die kleine Manufaktur haben sie selbst aus Lehm und Schafswolle gebaut und darin eine schöne Produktionsküche eingerichtet. Dort werden von mir Aromabalsame, feste Körperbutter und Deocremes liebevoll von Hand hergestellt.</p><p>Besonders wichtig ist der Inhaberin, wenn immer möglich, nur Bio-Rohstoffe zu verwenden – aus Liebe zur Natur und aus Liebe zur Gesundheit. Sie verwendet ausschliesslich 100% naturreine ätherische Öle und hochqualitative Absolues, die für die Aromatherapie geeignet sind.</p><p>Es werden keine synthetischen Parfumöle und kein Palmöl verarbeitet.</p>",
             "url": ""
           }
         },
@@ -784,7 +783,7 @@
           "type": "brand",
           "settings": {
             "title": "Nikwax",
-            "text": "<p>Nikwax ist weltweit führend in innovativen, PFC-freien Bekleidungs- und Ausrüstungssystemen, das hervorragende Materialien und Pflegeprodukte für die Outdoor-Entdecker entwickelt, und gleichzeitig für die Umwelt sorgt.<\/p><p>Nikwax benutzt keine Aerosole oder Fluorkohlenwasserstoffe und gleichen ihre Kohlenstoffemissionen durch die Wiederherstellung von Wäldern in Ecuador vollständig aus.<\/p>",
+            "text": "<p>Nikwax ist weltweit führend in innovativen, PFC-freien Bekleidungs- und Ausrüstungssystemen, das hervorragende Materialien und Pflegeprodukte für die Outdoor-Entdecker entwickelt, und gleichzeitig für die Umwelt sorgt.</p><p>Nikwax benutzt keine Aerosole oder Fluorkohlenwasserstoffe und gleichen ihre Kohlenstoffemissionen durch die Wiederherstellung von Wäldern in Ecuador vollständig aus.</p>",
             "url": ""
           }
         },
@@ -792,7 +791,7 @@
           "type": "brand",
           "settings": {
             "title": "Nóon",
-            "text": "<p>Aninna hat sich die  Makremee-Knüpftechnik selbst beigebracht. Der Name Nóon leitet sich vom portugiesischen Wort für Knoten (Nó) ab, da Annina in Portgual ihre Faszination für das Knüpfen entdeckte.<\/p><p>Sie ist ein Local aus Winterthur und mit ihren liebevoll selbstgemachten Wohnaccessoires möchte sie das Zuhause ihrer Kunden verschönern.<\/p>",
+            "text": "<p>Aninna hat sich die  Makremee-Knüpftechnik selbst beigebracht. Der Name Nóon leitet sich vom portugiesischen Wort für Knoten (Nó) ab, da Annina in Portgual ihre Faszination für das Knüpfen entdeckte.</p><p>Sie ist ein Local aus Winterthur und mit ihren liebevoll selbstgemachten Wohnaccessoires möchte sie das Zuhause ihrer Kunden verschönern.</p>",
             "url": ""
           }
         },
@@ -800,7 +799,7 @@
           "type": "brand",
           "settings": {
             "title": "Noppies",
-            "text": "<p>Noppies ist die Marke für schwangere Frauen und Mütter. Seit mehr als zwanzig Jahren sorgt Noppies dafür, dass stilbewusste Frauen sich während der Höhepunkte und Herausforderungen ihrer Schwangerschaft und Stillzeit ihrer selbst sicher fühlen können.<\/p><p>Noppies engagiert sich auf verschiedenen Ebenen für Nachhaltigkeit, unter anderem durch Mitgliedschaft im Niederländischen Abkommen über nachhaltige Mode und Textilien. Zudem verpflichtet Noppies sich zur Einhaltung verantwortungsvoller Geschäftspraktiken und zur Optimierung der Arbeitsbedingungen entlang der gesamten Wertschöpfungskette.<\/p>",
+            "text": "<p>Noppies ist die Marke für schwangere Frauen und Mütter. Seit mehr als zwanzig Jahren sorgt Noppies dafür, dass stilbewusste Frauen sich während der Höhepunkte und Herausforderungen ihrer Schwangerschaft und Stillzeit ihrer selbst sicher fühlen können.</p><p>Noppies engagiert sich auf verschiedenen Ebenen für Nachhaltigkeit, unter anderem durch Mitgliedschaft im Niederländischen Abkommen über nachhaltige Mode und Textilien. Zudem verpflichtet Noppies sich zur Einhaltung verantwortungsvoller Geschäftspraktiken und zur Optimierung der Arbeitsbedingungen entlang der gesamten Wertschöpfungskette.</p>",
             "url": ""
           }
         },
@@ -808,7 +807,7 @@
           "type": "brand",
           "settings": {
             "title": "ökoNORM",
-            "text": "<p>ökoNORM steht für ökologisch sinnvolle Produkte, die in Herstellung, Gebrauch und Entsorgung den Menschen und der Umwelt so wenig wie möglich schaden.<\/p><p>Die Firmengründer Ellen Schahn und Albert Krohn waren schon vor der Firmengründung 1989 in Frankfurt\/Main im Umweltschutz, in Bürgerinitiativen und gesellschaftspolitisch aktiv. Sie haben sich über diese Themenfelder kennengelernt und in ökologisch orientierten Firmen zusammen gearbeitet.<\/p><p>ökoNORM engagiert sich für die konsequente Entwicklung von Produkten aus nachwachsenden Rohstoffen.<\/p>",
+            "text": "<p>ökoNORM steht für ökologisch sinnvolle Produkte, die in Herstellung, Gebrauch und Entsorgung den Menschen und der Umwelt so wenig wie möglich schaden.</p><p>Die Firmengründer Ellen Schahn und Albert Krohn waren schon vor der Firmengründung 1989 in Frankfurt/Main im Umweltschutz, in Bürgerinitiativen und gesellschaftspolitisch aktiv. Sie haben sich über diese Themenfelder kennengelernt und in ökologisch orientierten Firmen zusammen gearbeitet.</p><p>ökoNORM engagiert sich für die konsequente Entwicklung von Produkten aus nachwachsenden Rohstoffen.</p>",
             "url": ""
           }
         },
@@ -816,7 +815,7 @@
           "type": "brand",
           "settings": {
             "title": "Oli & Carol",
-            "text": "<p>Das junge Label Oli & Carol wurde von zwei Schwestern in Barcelona gegründet. Oli & Carol kreieren mit Leidenschaft nachhaltiges Spielzeug für Babys und Kinder aus 100% Naturkautschuk. Frei von Weichmachern und giftigen Zusatzstoffen, ohne Löcher, damit keine Feuchtigkeit und Bakterien sich im Innern sammeln können und dadurch absolut sicher für kleine Hände und Münder. Die Spielsachen von Oli & Carol werden von Hand hergestellt und eingefärbt.<\/p>",
+            "text": "<p>Das junge Label Oli & Carol wurde von zwei Schwestern in Barcelona gegründet. Oli & Carol kreieren mit Leidenschaft nachhaltiges Spielzeug für Babys und Kinder aus 100% Naturkautschuk. Frei von Weichmachern und giftigen Zusatzstoffen, ohne Löcher, damit keine Feuchtigkeit und Bakterien sich im Innern sammeln können und dadurch absolut sicher für kleine Hände und Münder. Die Spielsachen von Oli & Carol werden von Hand hergestellt und eingefärbt.</p>",
             "url": ""
           }
         },
@@ -824,7 +823,7 @@
           "type": "brand",
           "settings": {
             "title": "Oscha",
-            "text": "<p>Verantwortungsvolle Produktion steht im Mittelpunkt von Oschas Philosophie. Die Marke legt grossen Wert auf den Schutz unseres Planeten und das Erhalten seiner Schönheit für künftige Generationen. Aus diesem Grund setzt Oscha auf Garne, die verantwortungsvoll beschafft und organisch sind. Die hochwertigen Tragetücher und Slings werden im Vereinigten Königreich gewebt und in Schottland handgefertigt.<\/p><p>Ein weiteres Merkmal ist die Produktion ohne Abfall (Zero Waste), und jeder Kauf unterstützt das Wachstum des Waldgebiets im Caledonian Forest. In Zusammenarbeit mit Trees for Life wird hier daran gearbeitet, die schottischen Highlands in ihren natürlichen Zustand zurückzuversetzen.<\/p>",
+            "text": "<p>Verantwortungsvolle Produktion steht im Mittelpunkt von Oschas Philosophie. Die Marke legt grossen Wert auf den Schutz unseres Planeten und das Erhalten seiner Schönheit für künftige Generationen. Aus diesem Grund setzt Oscha auf Garne, die verantwortungsvoll beschafft und organisch sind. Die hochwertigen Tragetücher und Slings werden im Vereinigten Königreich gewebt und in Schottland handgefertigt.</p><p>Ein weiteres Merkmal ist die Produktion ohne Abfall (Zero Waste), und jeder Kauf unterstützt das Wachstum des Waldgebiets im Caledonian Forest. In Zusammenarbeit mit Trees for Life wird hier daran gearbeitet, die schottischen Highlands in ihren natürlichen Zustand zurückzuversetzen.</p>",
             "url": ""
           }
         },
@@ -832,7 +831,7 @@
           "type": "brand",
           "settings": {
             "title": "Paarzeit",
-            "text": "<p>Paarzeit gibt es seit 2019 und hat den Sitz im schönen Osnabrücker Land.<\/p><p>Das Ziel ist es, Dinge zu erschaffen, die Momente der Verbundenheit schenken. Rund ums Jahr möchte Paarzeit mit den klimaneutralen und regional gefertigten Produkten ein bisschen mehr Liebe und Achtsamkeit in die Welt tragen.<\/p>",
+            "text": "<p>Paarzeit gibt es seit 2019 und hat den Sitz im schönen Osnabrücker Land.</p><p>Das Ziel ist es, Dinge zu erschaffen, die Momente der Verbundenheit schenken. Rund ums Jahr möchte Paarzeit mit den klimaneutralen und regional gefertigten Produkten ein bisschen mehr Liebe und Achtsamkeit in die Welt tragen.</p>",
             "url": ""
           }
         },
@@ -840,7 +839,7 @@
           "type": "brand",
           "settings": {
             "title": "Papierdrachen",
-            "text": "<p>2014 als kleines Familienunternehmen gestartet, bieten sie heute diverse Produkte an.<\/p><p>Ihr Ziel ist es, liebevoll gestaltete Geschenkideen in Premiumqualität zu einem fairen Preis anzubieten.<\/p><p>Von der Gestaltung über die Herstellung und Konfektionierung bis hin zum Versand, finden so viele Schritte wie möglich in Deutschland statt. Dazu wählt Papierdrachen kurze Wege und arbeitet mit Werkstätten für Menschen mit Behinderung zusammen.<\/p>",
+            "text": "<p>2014 als kleines Familienunternehmen gestartet, bieten sie heute diverse Produkte an.</p><p>Ihr Ziel ist es, liebevoll gestaltete Geschenkideen in Premiumqualität zu einem fairen Preis anzubieten.</p><p>Von der Gestaltung über die Herstellung und Konfektionierung bis hin zum Versand, finden so viele Schritte wie möglich in Deutschland statt. Dazu wählt Papierdrachen kurze Wege und arbeitet mit Werkstätten für Menschen mit Behinderung zusammen.</p>",
             "url": ""
           }
         },
@@ -848,7 +847,7 @@
           "type": "brand",
           "settings": {
             "title": "PATCH",
-            "text": "<p>Patch (Nutricare) ist eine australische Firma welche sich es zur Aufgabe gemacht hat, ein natürliches und umweltfreundliches Pflaster zu entwickeln, welches ohne Chemikalien auskommt.<\/p><p>Patch unterstützt Communities in Osttimor und in Haiti sowie Sea Shepherd.<\/p><p>Die Bambuspflaster von Patch enthalten weder Latex, noch Silikone oder andere allergene Inhaltsstoffe. Alle Inhaltsstoffe sind biologisch abbaubar und bei Bambus handelt es sich um eine besonders schnell wachsende Ressource, die mit wenig Wasser und ohne Pestizide oder Herbizide heranwächst. Patch ist vegan und zu 100% plastikfrei.<\/p>",
+            "text": "<p>Patch (Nutricare) ist eine australische Firma welche sich es zur Aufgabe gemacht hat, ein natürliches und umweltfreundliches Pflaster zu entwickeln, welches ohne Chemikalien auskommt.</p><p>Patch unterstützt Communities in Osttimor und in Haiti sowie Sea Shepherd.</p><p>Die Bambuspflaster von Patch enthalten weder Latex, noch Silikone oder andere allergene Inhaltsstoffe. Alle Inhaltsstoffe sind biologisch abbaubar und bei Bambus handelt es sich um eine besonders schnell wachsende Ressource, die mit wenig Wasser und ohne Pestizide oder Herbizide heranwächst. Patch ist vegan und zu 100% plastikfrei.</p>",
             "url": ""
           }
         },
@@ -856,16 +855,16 @@
           "type": "brand",
           "settings": {
             "title": "Period",
-            "text": "<p>Céline litt seit Jahren unter starken Menstruationsbeschwerden und fand auf dem Markt kein Mittel, das ihr helfen konnte. Sie machte sich selbst an die Arbeit und entwickelte neuartige Rezepturen, die bei ihr Wirkung zeigten. Freundinnen ging es genauso. Und Freundinnen von Freundinnen ebenso. So entstand PERIOD.<\/p><p>Der weibliche Zyklus ist ein Wunder der Natur. Deshalb hat er mehr Aufmerksamkeit und einen offeneren Umgang verdient. Period klärt auf, bricht Tabus und arbeitet mit viel Freude daran, die Menstruation in den Mainstream zu bringen.<br\/><br\/><\/p>",
+            "text": "<p>Céline litt seit Jahren unter starken Menstruationsbeschwerden und fand auf dem Markt kein Mittel, das ihr helfen konnte. Sie machte sich selbst an die Arbeit und entwickelte neuartige Rezepturen, die bei ihr Wirkung zeigten. Freundinnen ging es genauso. Und Freundinnen von Freundinnen ebenso. So entstand PERIOD.</p><p>Der weibliche Zyklus ist ein Wunder der Natur. Deshalb hat er mehr Aufmerksamkeit und einen offeneren Umgang verdient. Period klärt auf, bricht Tabus und arbeitet mit viel Freude daran, die Menstruation in den Mainstream zu bringen.<br/><br/></p>",
             "url": "",
-            "logo": "shopify:\/\/shop_images\/Period.png"
+            "logo": "shopify://shop_images/Period.png"
           }
         },
         "a7a35798-82e6-490b-b393-190f666cefbd": {
           "type": "brand",
           "settings": {
             "title": "Petit Lulu",
-            "text": "<p>Petit Lulu ist ein kleines Familienunternehmen aus der Tschechischen Republik. Als Lucie im Jahr 2012 ihr erstes Kind gebar, suchte sie vergebens nach preiswerten und qualitativ hochwertigen Stoffwindeln und nähte sie - obwohl sie noch nie zuvor genäht hatte - kurzerhand selber. Weil die Produkte ihren Bekannten so gefielen, verkaufte sie sie auf einem Tschechischen Onlineshop für Handgemachtes. Ein Erfolg! Mittlerweile werden 70% der Petit Lulu Produkte in anderen europäischen Ländern verkauft.<\/p><p>Alle Produkte von Petit Lulu haben eine Oeko-Tex Zertifizierung und viele sind in Bio-Qualität hergestellt.<\/p>",
+            "text": "<p>Petit Lulu ist ein kleines Familienunternehmen aus der Tschechischen Republik. Als Lucie im Jahr 2012 ihr erstes Kind gebar, suchte sie vergebens nach preiswerten und qualitativ hochwertigen Stoffwindeln und nähte sie - obwohl sie noch nie zuvor genäht hatte - kurzerhand selber. Weil die Produkte ihren Bekannten so gefielen, verkaufte sie sie auf einem Tschechischen Onlineshop für Handgemachtes. Ein Erfolg! Mittlerweile werden 70% der Petit Lulu Produkte in anderen europäischen Ländern verkauft.</p><p>Alle Produkte von Petit Lulu haben eine Oeko-Tex Zertifizierung und viele sind in Bio-Qualität hergestellt.</p>",
             "url": ""
           }
         },
@@ -873,7 +872,7 @@
           "type": "brand",
           "settings": {
             "title": "Pickapooh",
-            "text": "<p>PICKAPOOH ist als Mützenmanufaktur und kleines Familienunternehmen mit Sitz in Hamburg seit 1991 spezialisiert auf Design und Produktion von ökologischen, modischen und hochwertigen Mützen sowie anderen Accessoires, die Kinder wegen der guten Passform und der weichen Materialien gerne tragen. Seit 1998 produziert Pickapooh (made in Germany) ausschliesslich aus reinen Naturfasern; unter strengen ökologischen und sozialen Kriterien - gut für Mensch, Tier, Pflanzen und Umwelt.<\/p>",
+            "text": "<p>PICKAPOOH ist als Mützenmanufaktur und kleines Familienunternehmen mit Sitz in Hamburg seit 1991 spezialisiert auf Design und Produktion von ökologischen, modischen und hochwertigen Mützen sowie anderen Accessoires, die Kinder wegen der guten Passform und der weichen Materialien gerne tragen. Seit 1998 produziert Pickapooh (made in Germany) ausschliesslich aus reinen Naturfasern; unter strengen ökologischen und sozialen Kriterien - gut für Mensch, Tier, Pflanzen und Umwelt.</p>",
             "url": ""
           }
         },
@@ -881,7 +880,7 @@
           "type": "brand",
           "settings": {
             "title": "Pingo",
-            "text": "<p>Die Pingo Produkte sind ökologisch uns werden seit 30 Jahren in der Schweiz hergestellt.<\/p><p>Die FSC®-Zertifizierung der Pingo Produkte garantiert, dass die verwendete Zellulose aus nachhaltig bewirtschafteter Waldwirtschaft stammt und unsere Ressourcen schont. Die Pingo Produkte werden mit zertifiziertem Ökostrom hergestellt. Der verbleibende CO2-Fussabdruck wird von Pingo über Projekte von myclimate vollständig kompensiert.<\/p>",
+            "text": "<p>Die Pingo Produkte sind ökologisch uns werden seit 30 Jahren in der Schweiz hergestellt.</p><p>Die FSC®-Zertifizierung der Pingo Produkte garantiert, dass die verwendete Zellulose aus nachhaltig bewirtschafteter Waldwirtschaft stammt und unsere Ressourcen schont. Die Pingo Produkte werden mit zertifiziertem Ökostrom hergestellt. Der verbleibende CO2-Fussabdruck wird von Pingo über Projekte von myclimate vollständig kompensiert.</p>",
             "url": ""
           }
         },
@@ -889,7 +888,7 @@
           "type": "brand",
           "settings": {
             "title": "PlanToys",
-            "text": "<p>Nachhaltiges Spielen – dies ist die Philosophie von PlanToys.<\/p><p>So wird das Holz chemiefrei getrocknet und die Spielzeuge werden mit Hilfe eines zertifizierten E-Zero Formaldehyd-freien Klebers anstelle von herkömmlichem, toxischem Holzleim zusammengebaut.<\/p><p>Zudem verwendet PlanToys recyclingfähige Verpackungen und keine chemischen Farbstoffe. 73% des verwendeten Materiales kommt aus Ressourcen im Umkreis von 30 km der Fabrik.<\/p>",
+            "text": "<p>Nachhaltiges Spielen – dies ist die Philosophie von PlanToys.</p><p>So wird das Holz chemiefrei getrocknet und die Spielzeuge werden mit Hilfe eines zertifizierten E-Zero Formaldehyd-freien Klebers anstelle von herkömmlichem, toxischem Holzleim zusammengebaut.</p><p>Zudem verwendet PlanToys recyclingfähige Verpackungen und keine chemischen Farbstoffe. 73% des verwendeten Materiales kommt aus Ressourcen im Umkreis von 30 km der Fabrik.</p>",
             "url": ""
           }
         },
@@ -897,7 +896,7 @@
           "type": "brand",
           "settings": {
             "title": "Play Up",
-            "text": "<p>Play Up ist eine Baby- und Kinderkleider-Marke aus Portugal. Mit über 30 Jahren Erfahrung in Design und Herstellung kreieren sie in hoher Qualität, nachhaltig, verantwortungsvoll und nach den Prinzipien von \"Slow-Making\" - vieles wird von Hand gemacht, mit viel Zeit und Aufmerksamkeit. Die Kleider werden mit biologisch abbaubaren Farben gefärbt und die meisten Teile aus Bio-Baumwolle gefertigt.<\/p>",
+            "text": "<p>Play Up ist eine Baby- und Kinderkleider-Marke aus Portugal. Mit über 30 Jahren Erfahrung in Design und Herstellung kreieren sie in hoher Qualität, nachhaltig, verantwortungsvoll und nach den Prinzipien von \"Slow-Making\" - vieles wird von Hand gemacht, mit viel Zeit und Aufmerksamkeit. Die Kleider werden mit biologisch abbaubaren Farben gefärbt und die meisten Teile aus Bio-Baumwolle gefertigt.</p>",
             "url": ""
           }
         },
@@ -905,7 +904,7 @@
           "type": "brand",
           "settings": {
             "title": "Popolini",
-            "text": "<p>Popolini ist ein österreichischer Familienbetrieb in der 2. Generation mit Hauptsitz Wien. Popolini produziert Stoffwindeln, nachhaltige Baby- und Kindermode sowie Heimtextilien. Mit der eigenen Produktion in Europa sind kurze Wege vom Produzenten zum Verbraucher und faire Arbeitsbedingungen garantiert. Die Produkte erfüllen höchste Qualitätsstandards und sind OEKO-TEX® und GOTS zertifiziert.<\/p>",
+            "text": "<p>Popolini ist ein österreichischer Familienbetrieb in der 2. Generation mit Hauptsitz Wien. Popolini produziert Stoffwindeln, nachhaltige Baby- und Kindermode sowie Heimtextilien. Mit der eigenen Produktion in Europa sind kurze Wege vom Produzenten zum Verbraucher und faire Arbeitsbedingungen garantiert. Die Produkte erfüllen höchste Qualitätsstandards und sind OEKO-TEX® und GOTS zertifiziert.</p>",
             "url": ""
           }
         },
@@ -913,7 +912,7 @@
           "type": "brand",
           "settings": {
             "title": "Potette",
-            "text": "<p>Seit über 25 Jahren bietet die amerikanische Firma Kalencom mit Potette ein faltbares Reisetöpfchen an, das das Reisen mit Kindern entspannter macht.<\/p>",
+            "text": "<p>Seit über 25 Jahren bietet die amerikanische Firma Kalencom mit Potette ein faltbares Reisetöpfchen an, das das Reisen mit Kindern entspannter macht.</p>",
             "url": ""
           }
         },
@@ -921,7 +920,7 @@
           "type": "brand",
           "settings": {
             "title": "Pura",
-            "text": "<p>Jennifer und Roger Moore haben Pura im Jahr 2008 gegründet. Ihr Ziel mit den Pura Flschen war es langlebige, wiederverwendbare Produkte herzustellen, die viel umweltfreundlicher und kostengünstiger sind als der Kauf neuer Flaschen alle paar Monate. Die Pura Flaschen sind anpassungsfähig und wandelbar. Die Flaschen kann man ab Babyalter bis ins Erwachsenenalter benutzen und anpassen.<\/p>",
+            "text": "<p>Jennifer und Roger Moore haben Pura im Jahr 2008 gegründet. Ihr Ziel mit den Pura Flschen war es langlebige, wiederverwendbare Produkte herzustellen, die viel umweltfreundlicher und kostengünstiger sind als der Kauf neuer Flaschen alle paar Monate. Die Pura Flaschen sind anpassungsfähig und wandelbar. Die Flaschen kann man ab Babyalter bis ins Erwachsenenalter benutzen und anpassen.</p>",
             "url": ""
           }
         },
@@ -929,7 +928,7 @@
           "type": "brand",
           "settings": {
             "title": "Quittenduft",
-            "text": "<p>Josianne von Quittenduft ist Zyklusmentorin, Menstruationskundige und Tabubrecherin. Über das zyklische Leben zu berichten, ist ihre Leidenschaft und ihr Beruf. Wenns ums Frauenwohl und um Selfcare geht ist sie ganz vorne mit dabei.Von der ersten Menstruation bis zu den Wechseljahren ist bei Quittenduft alles dabei.<\/p>",
+            "text": "<p>Josianne von Quittenduft ist Zyklusmentorin, Menstruationskundige und Tabubrecherin. Über das zyklische Leben zu berichten, ist ihre Leidenschaft und ihr Beruf. Wenns ums Frauenwohl und um Selfcare geht ist sie ganz vorne mit dabei.Von der ersten Menstruation bis zu den Wechseljahren ist bei Quittenduft alles dabei.</p>",
             "url": ""
           }
         },
@@ -937,7 +936,7 @@
           "type": "brand",
           "settings": {
             "title": "Rosenfellner Mühle",
-            "text": "<p>Seit 1998 führt Monika Rosenfellner in dritter Generation den Betrieb in Niederösterreich. Der Sinn für die Verarbeitung von heimischen Getreide, die Sortenvielfalt und der Aspekt der Nachhaltigkeit stammen von ihrem Großvater. Ihnen ist es stets wichtig, das Getreide von nahen Bauern und aus fairer Landwirtschaft zu beziehen. Die Mühle verfügt über eine eigene Wasserkraftanlage für die Produktion, somit werden ihre Produkte weitestgehend mit der ganzen Kraft des Wassers hergestellt oder mit Strom aus erneuerbarer Energien. Sie arbeiten gemeinsam und im Einklang mit der Natur.<\/p><p>Die Produkte der Rosenfellner Mühle sind ausschließlich biologisch und somit frei von chemischen Zusatzstoffen.<\/p>",
+            "text": "<p>Seit 1998 führt Monika Rosenfellner in dritter Generation den Betrieb in Niederösterreich. Der Sinn für die Verarbeitung von heimischen Getreide, die Sortenvielfalt und der Aspekt der Nachhaltigkeit stammen von ihrem Großvater. Ihnen ist es stets wichtig, das Getreide von nahen Bauern und aus fairer Landwirtschaft zu beziehen. Die Mühle verfügt über eine eigene Wasserkraftanlage für die Produktion, somit werden ihre Produkte weitestgehend mit der ganzen Kraft des Wassers hergestellt oder mit Strom aus erneuerbarer Energien. Sie arbeiten gemeinsam und im Einklang mit der Natur.</p><p>Die Produkte der Rosenfellner Mühle sind ausschließlich biologisch und somit frei von chemischen Zusatzstoffen.</p>",
             "url": ""
           }
         },
@@ -945,7 +944,7 @@
           "type": "brand",
           "settings": {
             "title": "Rouge",
-            "text": "<p>Die Menstruation als natürliches und positives Merkmal des biologisch weiblichen Körpers wird gesellschaftlich, politisch oder religiös oftmals tabuisiert - sei es aus Unwissenheit, Unsicherheit oder Kalkül.<\/p><p>Rouge macht es sich deshalb zur Aufgabe, Unwissenheit mit Aufklärung zu begegnen, Unsicherheit durch Dialog aufzulösen und sich sowohl gesellschaftlicher wie auch politischer Diskriminierung aktiv entgegenzustellen. Einen Teil des Erlöses spendet Rouge an Organisationen, die sich für Mädchen und Frauen einsetzen.<\/p>",
+            "text": "<p>Die Menstruation als natürliches und positives Merkmal des biologisch weiblichen Körpers wird gesellschaftlich, politisch oder religiös oftmals tabuisiert - sei es aus Unwissenheit, Unsicherheit oder Kalkül.</p><p>Rouge macht es sich deshalb zur Aufgabe, Unwissenheit mit Aufklärung zu begegnen, Unsicherheit durch Dialog aufzulösen und sich sowohl gesellschaftlicher wie auch politischer Diskriminierung aktiv entgegenzustellen. Einen Teil des Erlöses spendet Rouge an Organisationen, die sich für Mädchen und Frauen einsetzen.</p>",
             "url": ""
           }
         },
@@ -953,7 +952,7 @@
           "type": "brand",
           "settings": {
             "title": "Sarah's Silks",
-            "text": "<p>Basierend auf den Philosophien der Waldorfpädagogik und ihrer eigenen Kindheit mit fantasievollem Spielen entwirft Sarah seit über 29 Jahren Playsilks und andere natürliche, umweltfreundliche Holz- und Seidenspielzeuge. Sarah’s Silks beflügelt die Fantasie von Kindern auf der ganzen Welt durch offenes Spielzeug aus natürlichen, umweltfreundlichen Materialien.<\/p>",
+            "text": "<p>Basierend auf den Philosophien der Waldorfpädagogik und ihrer eigenen Kindheit mit fantasievollem Spielen entwirft Sarah seit über 29 Jahren Playsilks und andere natürliche, umweltfreundliche Holz- und Seidenspielzeuge. Sarah’s Silks beflügelt die Fantasie von Kindern auf der ganzen Welt durch offenes Spielzeug aus natürlichen, umweltfreundlichen Materialien.</p>",
             "url": ""
           }
         },
@@ -961,7 +960,7 @@
           "type": "brand",
           "settings": {
             "title": "Silverette",
-            "text": "<p>Silverette Silberhütchen werden von der Tecnologia Ospedaliera in Italien hergestellt. Die Firma wurde in den 70ern von Luigi Sevignani gegründet und nun von seinen Töchtern weitergeführt. Sie arbeiteten mit bekannten Gesundheitsexperten des Universitätskrankenhauses von Padua, Italien zusammen<\/p>",
+            "text": "<p>Silverette Silberhütchen werden von der Tecnologia Ospedaliera in Italien hergestellt. Die Firma wurde in den 70ern von Luigi Sevignani gegründet und nun von seinen Töchtern weitergeführt. Sie arbeiteten mit bekannten Gesundheitsexperten des Universitätskrankenhauses von Padua, Italien zusammen</p>",
             "url": ""
           }
         }
@@ -1007,7 +1006,7 @@
           "type": "brand",
           "settings": {
             "title": "Skinnies",
-            "text": "<p>2010 in Neuseeland entwickelt. Das Land der Surfer stellt hohe Anforderungen an eine Sonnencreme.<\/p><p>Selbst nach 80 Minuten im Wasser, bietet Skinnies immer noch einen LSF 30.<\/p><p>Als weiches, leicht verstreichbares Gel eignet sich Skinnies auch für Kinder. Es ist durchsichtig, trocknet schnell ein und bietet sofortigen lang anhaltenden Schutz.<\/p><p>Skinnies Produkte enthalten kein Wasser, keine Parabene, keine Konservierungsstoffe und keine Duftstoffe.<\/p>",
+            "text": "<p>2010 in Neuseeland entwickelt. Das Land der Surfer stellt hohe Anforderungen an eine Sonnencreme.</p><p>Selbst nach 80 Minuten im Wasser, bietet Skinnies immer noch einen LSF 30.</p><p>Als weiches, leicht verstreichbares Gel eignet sich Skinnies auch für Kinder. Es ist durchsichtig, trocknet schnell ein und bietet sofortigen lang anhaltenden Schutz.</p><p>Skinnies Produkte enthalten kein Wasser, keine Parabene, keine Konservierungsstoffe und keine Duftstoffe.</p>",
             "url": ""
           }
         },
@@ -1015,7 +1014,7 @@
           "type": "brand",
           "settings": {
             "title": "Smallstuff",
-            "text": "<p>Smallstuff ist eine dänische Marke und wurde 2006 gegründet. Smallstuff liebt Farben und schöne Designs. Für alle Produkte werden natürliche Materialien wie Baumwolle, Wolle und Holz verwendet. Die Wolle ist OEKO-TEX-zertifiziert. Smallstuff stellt gut sitzende Kleidung her, die gleichzeitig weich und angenehm zu tragen ist.<\/p>",
+            "text": "<p>Smallstuff ist eine dänische Marke und wurde 2006 gegründet. Smallstuff liebt Farben und schöne Designs. Für alle Produkte werden natürliche Materialien wie Baumwolle, Wolle und Holz verwendet. Die Wolle ist OEKO-TEX-zertifiziert. Smallstuff stellt gut sitzende Kleidung her, die gleichzeitig weich und angenehm zu tragen ist.</p>",
             "url": ""
           }
         },
@@ -1023,7 +1022,7 @@
           "type": "brand",
           "settings": {
             "title": "Smart Bottoms",
-            "text": "<p>Christy Malone hat Smart Bottoms aus ihrer Liebe zu Stoffwindeln heraus gegründet. Die Firma mit Sitz in den USA bemüht sich so natürlich und vernünftig wie nur möglich zu handeln. So wird zum Beispiel in einigen Windeln die Verwendung von Chemikalien bei der Beseitigung von natürlichen Ölen aus den Baumwollfasern vermieden.<\/p>",
+            "text": "<p>Christy Malone hat Smart Bottoms aus ihrer Liebe zu Stoffwindeln heraus gegründet. Die Firma mit Sitz in den USA bemüht sich so natürlich und vernünftig wie nur möglich zu handeln. So wird zum Beispiel in einigen Windeln die Verwendung von Chemikalien bei der Beseitigung von natürlichen Ölen aus den Baumwollfasern vermieden.</p>",
             "url": ""
           }
         },
@@ -1031,7 +1030,7 @@
           "type": "brand",
           "settings": {
             "title": "Solwang",
-            "text": "<p>Die Oma der Gründerin von Solwang Design strickte aus alten Garnreste Wischlappen in allen Farben, die sie in der Küche und im Haushalt verwendete. Nach dem Vorbild der Grossmutter produziert Solwang heute moderne Wischlappen mit hervorragender Saugfähigkeit und langer Lebensdauer aus 100% BIO-Baumwolle.<\/p><p>Die Philosophie des Unternehmens basiert auf der Nachhaltigkeit und der Verwendung von hochwertigen Materialien.<\/p>",
+            "text": "<p>Die Oma der Gründerin von Solwang Design strickte aus alten Garnreste Wischlappen in allen Farben, die sie in der Küche und im Haushalt verwendete. Nach dem Vorbild der Grossmutter produziert Solwang heute moderne Wischlappen mit hervorragender Saugfähigkeit und langer Lebensdauer aus 100% BIO-Baumwolle.</p><p>Die Philosophie des Unternehmens basiert auf der Nachhaltigkeit und der Verwendung von hochwertigen Materialien.</p>",
             "url": ""
           }
         },
@@ -1039,7 +1038,7 @@
           "type": "brand",
           "settings": {
             "title": "Sonnentor",
-            "text": "<p>Die Firma Sonnentor ist ein österreichisches Unternehmen mit Sitz in Sprögnitz, das auf die Herstellung und Vermarktung von Kräutern, Tees und Gewürzen aus biologischem und fairen Anbau spezialisiert ist.<\/p>",
+            "text": "<p>Die Firma Sonnentor ist ein österreichisches Unternehmen mit Sitz in Sprögnitz, das auf die Herstellung und Vermarktung von Kräutern, Tees und Gewürzen aus biologischem und fairen Anbau spezialisiert ist.</p>",
             "url": ""
           }
         },
@@ -1047,7 +1046,7 @@
           "type": "brand",
           "settings": {
             "title": "Stillfashion",
-            "text": "<p>Stillfashion ist ein österreichisches Unternehmen und entwickelt nachhaltige Mode für die Schwangerschaft, die Stillzeit und die Zeit danach (oder davor). Die Mode soll möglichst lange in Verwendung sein und dich auch noch nach den besonderen Lebensphasen der Schwangerschaft und Stillzeit begleiten. Deshalb sind oft viele Funktionen in einem simpel wirkenden Schnitt verpackt.<\/p><p>Stillfashion setzt auf sanfte und robuste Stoffe, auf besondere Materialien wie Bio-Baumwolle und Tencel. Hergestellt wird die Mode aus nachhaltigen Materialien und in sozialen Produktionsstätten.<\/p>",
+            "text": "<p>Stillfashion ist ein österreichisches Unternehmen und entwickelt nachhaltige Mode für die Schwangerschaft, die Stillzeit und die Zeit danach (oder davor). Die Mode soll möglichst lange in Verwendung sein und dich auch noch nach den besonderen Lebensphasen der Schwangerschaft und Stillzeit begleiten. Deshalb sind oft viele Funktionen in einem simpel wirkenden Schnitt verpackt.</p><p>Stillfashion setzt auf sanfte und robuste Stoffe, auf besondere Materialien wie Bio-Baumwolle und Tencel. Hergestellt wird die Mode aus nachhaltigen Materialien und in sozialen Produktionsstätten.</p>",
             "url": ""
           }
         },
@@ -1055,7 +1054,7 @@
           "type": "brand",
           "settings": {
             "title": "Stockmar",
-            "text": "<p>Seit 100 Jahren steht der Name Stockmar für hochwertige Kreativ-Produkte. Zu ihrem Qualitätsverständnis gehört der Anspruch, künstlerische Freiräume zu eröffnen, die wohltuend auf die individuelle kindliche Entwicklung wirken. Die Qualität stellen sie durch die sorgfältige Auswahl der Rohstoffe, erstklassige Verarbeitung sowie hervorragende Farb-, Mal- und Modelliereigenschaften sicher.<\/p><p>Stockmar Produkte sind für Gesundheit und Umwelt unbedenklich.<\/p>",
+            "text": "<p>Seit 100 Jahren steht der Name Stockmar für hochwertige Kreativ-Produkte. Zu ihrem Qualitätsverständnis gehört der Anspruch, künstlerische Freiräume zu eröffnen, die wohltuend auf die individuelle kindliche Entwicklung wirken. Die Qualität stellen sie durch die sorgfältige Auswahl der Rohstoffe, erstklassige Verarbeitung sowie hervorragende Farb-, Mal- und Modelliereigenschaften sicher.</p><p>Stockmar Produkte sind für Gesundheit und Umwelt unbedenklich.</p>",
             "url": ""
           }
         },
@@ -1063,7 +1062,7 @@
           "type": "brand",
           "settings": {
             "title": "Stokke Limas",
-            "text": "<p>Stokke ist ein norwegisches Unternehmen und für seine Kinderprodukte bekannt.<\/p><p>Für Stokke steht das Wohl des Kindes immer an oberster Stelle.<\/p><p>Stokke's Designteam entwirft Produkte, die funktional, komfortabel und einfach in der Handhabung sind. Vor allem aber kreieren ihre Produkte Nähe zwischen Eltern und Kind.<\/p><p>Sie legen höchsten Wert auf Nachhaltigkeit. Darum produzieren sie alles aus hochwertigen und widerstandsfähigen Materialien. Für Stokke ist die mitwachsende Funktionalität wichtig, um das Produkt so lange wie möglich nutzen zu können.<\/p>",
+            "text": "<p>Stokke ist ein norwegisches Unternehmen und für seine Kinderprodukte bekannt.</p><p>Für Stokke steht das Wohl des Kindes immer an oberster Stelle.</p><p>Stokke's Designteam entwirft Produkte, die funktional, komfortabel und einfach in der Handhabung sind. Vor allem aber kreieren ihre Produkte Nähe zwischen Eltern und Kind.</p><p>Sie legen höchsten Wert auf Nachhaltigkeit. Darum produzieren sie alles aus hochwertigen und widerstandsfähigen Materialien. Für Stokke ist die mitwachsende Funktionalität wichtig, um das Produkt so lange wie möglich nutzen zu können.</p>",
             "url": ""
           }
         },
@@ -1071,7 +1070,7 @@
           "type": "brand",
           "settings": {
             "title": "Stonz",
-            "text": "<p>Stonz - die Kindermarke aus Kanada, die hochwertige, langlebige, funktionale und bequeme Outdoor-Gear für Babys und Kinder entwickelt, damit Familien und Kinder von klein auf viel Zeit in der Natur verbringen können. Stonz ist der Meinung, dass Kinder, die draußen aktiv sein können, sich wohler fühlen und gesünder sind. Und nebenbei lernen sie, die Natur zu lieben und sie zu schützen. <\/p>",
+            "text": "<p>Stonz - die Kindermarke aus Kanada, die hochwertige, langlebige, funktionale und bequeme Outdoor-Gear für Babys und Kinder entwickelt, damit Familien und Kinder von klein auf viel Zeit in der Natur verbringen können. Stonz ist der Meinung, dass Kinder, die draußen aktiv sein können, sich wohler fühlen und gesünder sind. Und nebenbei lernen sie, die Natur zu lieben und sie zu schützen. </p>",
             "url": ""
           }
         },
@@ -1079,7 +1078,7 @@
           "type": "brand",
           "settings": {
             "title": "Swings and Dreams",
-            "text": "<p>Swings and Dreams ist ein Unternehmen aus Litauen, das Hängestühle und Dekorationen für Babies und Kleinkinder herstellt. Alle Produkte von Swings and Dreams sind handgemacht.<\/p>",
+            "text": "<p>Swings and Dreams ist ein Unternehmen aus Litauen, das Hängestühle und Dekorationen für Babies und Kleinkinder herstellt. Alle Produkte von Swings and Dreams sind handgemacht.</p>",
             "url": ""
           }
         },
@@ -1087,7 +1086,7 @@
           "type": "brand",
           "settings": {
             "title": "Ulrich Natürlich",
-            "text": "<p>Seit über 30 Jahren ist Ulrich Natürlich ein renommierter Hersteller zertifizierter, ökologischer Wasch- und Reinigungsmittel. Die Marke legt großen Wert auf Nachhaltigkeit und verwendet Inhaltsstoffe auf Basis nachwachsender Rohstoffe, vorzugsweise aus ökologischem Anbau. Ihr Hauptaugenmerk liegt auf der Entwicklung von Produkten, die nicht nur leicht biologisch abbaubar sind, sondern auch äußerst nachhaltig und ergiebig im Gebrauch.<\/p><p><br\/><\/p><p>Die stetig wachsende Problematik von Verpackungsmüll ist Ulrich Natürlich nicht gleichgültig geblieben. Sie haben sich entschlossen, plastikarme und wenn möglich plastikfreie Verpackungslösungen anzubieten. Die von ihnen verwendeten Flaschen bestehen zu 100 % aus Recyclat, welches ausschließlich aus kommunalen Abfällen (Post Consumer Products) gewonnen wird. Das bedeutet, dass das verwendete Material zuvor bereits in einer anderen Funktion genutzt wurde.<\/p><p>Diese zukunftsweisenden Initiativen unterstreichen Ulrich Natürlichs Engagement für Umweltschutz und nachhaltiges Handeln. Ihre Produkte und Verpackungen tragen dazu bei, die Umweltauswirkungen zu minimieren und die Welt zu einem nachhaltigeren Ort zu machen.<\/p>",
+            "text": "<p>Seit über 30 Jahren ist Ulrich Natürlich ein renommierter Hersteller zertifizierter, ökologischer Wasch- und Reinigungsmittel. Die Marke legt großen Wert auf Nachhaltigkeit und verwendet Inhaltsstoffe auf Basis nachwachsender Rohstoffe, vorzugsweise aus ökologischem Anbau. Ihr Hauptaugenmerk liegt auf der Entwicklung von Produkten, die nicht nur leicht biologisch abbaubar sind, sondern auch äußerst nachhaltig und ergiebig im Gebrauch.</p><p><br/></p><p>Die stetig wachsende Problematik von Verpackungsmüll ist Ulrich Natürlich nicht gleichgültig geblieben. Sie haben sich entschlossen, plastikarme und wenn möglich plastikfreie Verpackungslösungen anzubieten. Die von ihnen verwendeten Flaschen bestehen zu 100 % aus Recyclat, welches ausschließlich aus kommunalen Abfällen (Post Consumer Products) gewonnen wird. Das bedeutet, dass das verwendete Material zuvor bereits in einer anderen Funktion genutzt wurde.</p><p>Diese zukunftsweisenden Initiativen unterstreichen Ulrich Natürlichs Engagement für Umweltschutz und nachhaltiges Handeln. Ihre Produkte und Verpackungen tragen dazu bei, die Umweltauswirkungen zu minimieren und die Welt zu einem nachhaltigeren Ort zu machen.</p>",
             "url": ""
           }
         },
@@ -1095,7 +1094,7 @@
           "type": "brand",
           "settings": {
             "title": "Walkiddy",
-            "text": "<p>Walkiddy ist eine Baby- und Kindermodenmarke, für die Nachhaltigkeit an erster Stelle steht. Walkiddy beobachtet stets die internationalen Standards für Bio-Baumwolle und produziert mit hochwertigen nachhaltigen Stoffen Kleidung, die die Haut der Kleinen schützt. Die Designs sind inspiriert von der Natur und faszinierenden Wesen. Sie schaffen Kollektionen durch welche die Kinder die märchenhafte Schönheit der Natur entdecken können.<\/p><p>Walkiddy wie auch wir sind überzeugt, dass die Zukunft unseres Planeten, die Zukunft unserer Kinder ist. Der Fortbestand des Öko-Systems ist lediglich mit Nachhaltigkeit möglich. Heutzutage produzieren viele Unternehmen für Bekleidung niedrigpreisig mehr Kleidung als benötigt wird. Dies führt zu Verschwendung. Mehr Produktion, mehr Wasser und mehr Lieferungen sind Einflussfaktoren, die den Kohlenstoffdioxid-Ausstoss steigern. Übrigens vernichten viele Unternehmen die überproduzierte, übriggebliebene Ware zum Ende der Saison. - Walkiddy nicht und auch wir von Herz an Herz werfen niemals Ware weg.<\/p><p>Auf eine Zukunft, in der anstelle von Verschwendung Nachhaltigkeit tritt und unsere Kinder in einer hoffnungsvollen Welt ihre eigenen Schritte machen können.<\/p>",
+            "text": "<p>Walkiddy ist eine Baby- und Kindermodenmarke, für die Nachhaltigkeit an erster Stelle steht. Walkiddy beobachtet stets die internationalen Standards für Bio-Baumwolle und produziert mit hochwertigen nachhaltigen Stoffen Kleidung, die die Haut der Kleinen schützt. Die Designs sind inspiriert von der Natur und faszinierenden Wesen. Sie schaffen Kollektionen durch welche die Kinder die märchenhafte Schönheit der Natur entdecken können.</p><p>Walkiddy wie auch wir sind überzeugt, dass die Zukunft unseres Planeten, die Zukunft unserer Kinder ist. Der Fortbestand des Öko-Systems ist lediglich mit Nachhaltigkeit möglich. Heutzutage produzieren viele Unternehmen für Bekleidung niedrigpreisig mehr Kleidung als benötigt wird. Dies führt zu Verschwendung. Mehr Produktion, mehr Wasser und mehr Lieferungen sind Einflussfaktoren, die den Kohlenstoffdioxid-Ausstoss steigern. Übrigens vernichten viele Unternehmen die überproduzierte, übriggebliebene Ware zum Ende der Saison. - Walkiddy nicht und auch wir von Herz an Herz werfen niemals Ware weg.</p><p>Auf eine Zukunft, in der anstelle von Verschwendung Nachhaltigkeit tritt und unsere Kinder in einer hoffnungsvollen Welt ihre eigenen Schritte machen können.</p>",
             "url": ""
           }
         },
@@ -1103,7 +1102,7 @@
           "type": "brand",
           "settings": {
             "title": "Wear Me",
-            "text": "<p>WearMe ist eine kleine italienische Marke und wurde von einer Mutter Namens Virginia ins Leben gerufen. Sie hat ihr Baby in einem Tragetuch getragen und sich so ins Tragen verliebt, dass sie 2013 eine kleine Welt darum herum schuf.<\/p><p>Bei WearMe arbeitet ein Team mit mehr als vielen Jahren Erfahrung, das sich zum Ziel gemacht hat, das Leben von Familien durch ihre Produkte zu verbessern.<\/p>",
+            "text": "<p>WearMe ist eine kleine italienische Marke und wurde von einer Mutter Namens Virginia ins Leben gerufen. Sie hat ihr Baby in einem Tragetuch getragen und sich so ins Tragen verliebt, dass sie 2013 eine kleine Welt darum herum schuf.</p><p>Bei WearMe arbeitet ein Team mit mehr als vielen Jahren Erfahrung, das sich zum Ziel gemacht hat, das Leben von Familien durch ihre Produkte zu verbessern.</p>",
             "url": ""
           }
         },
@@ -1111,7 +1110,7 @@
           "type": "brand",
           "settings": {
             "title": "Willow Tree",
-            "text": "<p>Die Willow Tree Figuren werden von der Künstlerin Susan Lordi liebevoll entworfen. Die zeitlosen Skulpturen drücken mit ihren Gesten Beziehungen und Gefühle aus, die uns wichtig sind. Sie trösten, spenden Mut oder Hoffnung, feiern ein freudiges Erlebnis und zeigen liebevolle Erinnerungen.<\/p>",
+            "text": "<p>Die Willow Tree Figuren werden von der Künstlerin Susan Lordi liebevoll entworfen. Die zeitlosen Skulpturen drücken mit ihren Gesten Beziehungen und Gefühle aus, die uns wichtig sind. Sie trösten, spenden Mut oder Hoffnung, feiern ein freudiges Erlebnis und zeigen liebevolle Erinnerungen.</p>",
             "url": ""
           }
         },
@@ -1119,7 +1118,7 @@
           "type": "brand",
           "settings": {
             "title": "Wombat",
-            "text": "<p>Wombat & Co. London wurde von einer Gruppe Freunden ins Leben gerufen, die alle verschiedene Erfahrungen in der Modebranche und der Baby-Trage-Welt mitbrachten. Von Müttern für Mütter. Das Ziel ist es, praktische, flexible und stylische Jacken zu designen, die von der Schwangerschaft über die Tragezeit aber auch noch lange danach genutzt werden können.<\/p><p>Wombat verwendet nachhaltige Materialien höchster Qualität und schützt dadurch die Natur- und Tierwelt.<\/p>",
+            "text": "<p>Wombat & Co. London wurde von einer Gruppe Freunden ins Leben gerufen, die alle verschiedene Erfahrungen in der Modebranche und der Baby-Trage-Welt mitbrachten. Von Müttern für Mütter. Das Ziel ist es, praktische, flexible und stylische Jacken zu designen, die von der Schwangerschaft über die Tragezeit aber auch noch lange danach genutzt werden können.</p><p>Wombat verwendet nachhaltige Materialien höchster Qualität und schützt dadurch die Natur- und Tierwelt.</p>",
             "url": ""
           }
         },
@@ -1127,7 +1126,7 @@
           "type": "brand",
           "settings": {
             "title": "Wooden Story",
-            "text": "<p>Wooden Story: Ein kleines Familienunternehmen aus Polen, das mit grosser Leidenschaft nachhaltiges und umwelfreundliches Holzspielzeug herstellt. Was mit der Leidenschaft von Grossvater Borowy begann, wird jetzt schon in der 3.Generation fortgeführt.<\/p><p>Die Spielsachen sind aus FSC zertifiziertem Holz, sie werden nur mit Bienenwachs und pflanzlichen Ölen behandelt und mit natürlichen Farben gefärbt. So fühlen sie sich angenehm glatt an, riechen wunderbar nach Holz und laden zu stundenlangem freien Spiel ein.<\/p><p>Die Verpackung ist plastikfrei und kann recycelt oder wiederverwendet werden.<\/p>",
+            "text": "<p>Wooden Story: Ein kleines Familienunternehmen aus Polen, das mit grosser Leidenschaft nachhaltiges und umwelfreundliches Holzspielzeug herstellt. Was mit der Leidenschaft von Grossvater Borowy begann, wird jetzt schon in der 3.Generation fortgeführt.</p><p>Die Spielsachen sind aus FSC zertifiziertem Holz, sie werden nur mit Bienenwachs und pflanzlichen Ölen behandelt und mit natürlichen Farben gefärbt. So fühlen sie sich angenehm glatt an, riechen wunderbar nach Holz und laden zu stundenlangem freien Spiel ein.</p><p>Die Verpackung ist plastikfrei und kann recycelt oder wiederverwendet werden.</p>",
             "url": ""
           }
         },
@@ -1135,7 +1134,7 @@
           "type": "brand",
           "settings": {
             "title": "Woodletters",
-            "text": "<p>WOODLETTERS steht für einfaches natürliches Design, welches Freude und Wohlbefinden erzeugt. Das Produkt überzeugt in seiner Haptik, seinem Geruch, seiner Wirkung und seinem verspielten Design. WOODLETTERS stellt alle Produkte in der Schweiz und aus heimischem Arvenholz her und steht für eine Nachhaltige Produktion und Verpackung ein. Die Qualität von WOODLETTERS überzeugt durch seine Langlebigkeit, Natürlichkeit und Einzigartigkeit. Das bearbeitete Holz der WOODLETTERS ist weich, fein und sehr angenehm zum Anfassen und Riechen. Die WOODLETTERS wecken die kindliche Neugier und laden zu kreativem Spiel ein.<\/p>",
+            "text": "<p>WOODLETTERS steht für einfaches natürliches Design, welches Freude und Wohlbefinden erzeugt. Das Produkt überzeugt in seiner Haptik, seinem Geruch, seiner Wirkung und seinem verspielten Design. WOODLETTERS stellt alle Produkte in der Schweiz und aus heimischem Arvenholz her und steht für eine Nachhaltige Produktion und Verpackung ein. Die Qualität von WOODLETTERS überzeugt durch seine Langlebigkeit, Natürlichkeit und Einzigartigkeit. Das bearbeitete Holz der WOODLETTERS ist weich, fein und sehr angenehm zum Anfassen und Riechen. Die WOODLETTERS wecken die kindliche Neugier und laden zu kreativem Spiel ein.</p>",
             "url": ""
           }
         },
@@ -1143,7 +1142,7 @@
           "type": "brand",
           "settings": {
             "title": "Woolrex",
-            "text": "<p>Woolrex produziert Merinowolle-Produkte höchster Qualität. Die Wollqualität der Produkte wird mit dem Woolmark Label bestätigt. Sämtliche WOOLREX Produkte und ihre hohe Qualität werden durch unterschiedliche, unabhängige Institutionen zertifiziert.<\/p><p><br\/>Die Entstehung der WOOLREX Produkte beginnt nicht mit dem Design der jeweiligen Kleidungsstücke und Accessoires. Es fängt schon viel früher an, nämlich mit der Rohstoffgewinnung der Merinowolle. Für eine transparente Lieferkette ist es essenziell, jede einzelne dieser Stationen zu kennen und zu verfolgen. Daher gehört der stetige Austausch mit unseren Lieferanten und Geschäftspartnern zu den Prioritäten von Woolrex.<\/p>",
+            "text": "<p>Woolrex produziert Merinowolle-Produkte höchster Qualität. Die Wollqualität der Produkte wird mit dem Woolmark Label bestätigt. Sämtliche WOOLREX Produkte und ihre hohe Qualität werden durch unterschiedliche, unabhängige Institutionen zertifiziert.</p><p><br/>Die Entstehung der WOOLREX Produkte beginnt nicht mit dem Design der jeweiligen Kleidungsstücke und Accessoires. Es fängt schon viel früher an, nämlich mit der Rohstoffgewinnung der Merinowolle. Für eine transparente Lieferkette ist es essenziell, jede einzelne dieser Stationen zu kennen und zu verfolgen. Daher gehört der stetige Austausch mit unseren Lieferanten und Geschäftspartnern zu den Prioritäten von Woolrex.</p>",
             "url": ""
           }
         },
@@ -1151,7 +1150,7 @@
           "type": "brand",
           "settings": {
             "title": "Wetterpelle",
-            "text": "<p>Wetterpelle fertigt Schlupfsäcke, welche für Kinder in Kinderwagen, Lastenrädern & Fahrradanhängern aller Art konzipiert worden sind.<\/p><p>Die verwendeten Materialien sind von der Wolle, bis hin zum Garn recycelt, nachhaltig & langlebig. Die Wolle, oder auch die \"Higthtechfaser der Natur\" stammt von bedrohten Landschafrassen aus Deutschland, welche durch mutige & innovative Menschen, wie Marco Scheel, wieder eine Bedeutung\/Aufgabe erhalten. Die Schurwolle wird in vielen kleinen Schritten verarbeitet- jedoch ganz bewusst nicht gefärbt! <\/p><p>Wetterpelle produziert aus Überzeugung mit regionalen Partnern aus Rostock, Mecklenburg-Vorpommern & Deutschland.<\/p>",
+            "text": "<p>Wetterpelle fertigt Schlupfsäcke, welche für Kinder in Kinderwagen, Lastenrädern & Fahrradanhängern aller Art konzipiert worden sind.</p><p>Die verwendeten Materialien sind von der Wolle, bis hin zum Garn recycelt, nachhaltig & langlebig. Die Wolle, oder auch die \"Higthtechfaser der Natur\" stammt von bedrohten Landschafrassen aus Deutschland, welche durch mutige & innovative Menschen, wie Marco Scheel, wieder eine Bedeutung/Aufgabe erhalten. Die Schurwolle wird in vielen kleinen Schritten verarbeitet- jedoch ganz bewusst nicht gefärbt! </p><p>Wetterpelle produziert aus Überzeugung mit regionalen Partnern aus Rostock, Mecklenburg-Vorpommern & Deutschland.</p>",
             "url": ""
           }
         },
@@ -1159,9 +1158,9 @@
           "type": "brand",
           "settings": {
             "title": "Zeazoo",
-            "text": "<p>Zeazoo ist ein bulgarisches Familienunternehmen, das seit 2011 minimalistische Schuhe herstellt, welche ein echtes Barfussgefühl vermitteln.<\/p><p>Alle Modelle für Kinder berücksichtigen die natürliche Entwicklung der Kinderfüsse und bestehen aus natürlichen Materialien.<br\/><br\/>Die handgefertigten Schuhe werden mit Liebe zum Detail von einem professionellen Schuhmacher der dritten Generation in eigenen Produktionsstätte in Bulgarien hergestellt.<\/p>",
+            "text": "<p>Zeazoo ist ein bulgarisches Familienunternehmen, das seit 2011 minimalistische Schuhe herstellt, welche ein echtes Barfussgefühl vermitteln.</p><p>Alle Modelle für Kinder berücksichtigen die natürliche Entwicklung der Kinderfüsse und bestehen aus natürlichen Materialien.<br/><br/>Die handgefertigten Schuhe werden mit Liebe zum Detail von einem professionellen Schuhmacher der dritten Generation in eigenen Produktionsstätte in Bulgarien hergestellt.</p>",
             "url": "",
-            "logo": "shopify:\/\/shop_images\/Zeazoo.webp"
+            "logo": "shopify://shop_images/Zeazoo.webp"
           }
         }
       },

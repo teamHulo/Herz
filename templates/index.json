@@ -50,11 +50,10 @@
         },
         "item_wxaVcg": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Slider_unten.png",
             "img2": "shopify://shop_images/Slider_mitte.png",
-            "img3": "shopify://shop_images/Slider_oben.png",
+            "img3": "shopify://shop_images/Mitte_rechts.jpg",
             "title": "Draussen spielen",
             "text": "<p>In ihrer unbändigen Freude am Draussensein finden Kinder eine unendliche Quelle der Inspiration und des Glücks. Und du findest bei uns ein schöne Auswahl an auserlesenen Artikel, um das Leben draussen und die Natur mit deinem Kind zu entdecken und zu feiern.</p>",
             "url": "shopify://collections/draussen-spielen",

@@ -97,21 +97,12 @@
             "name": "Salome",
             "text": "Babyzeichen-Kursleiterin, Mama"
           }
-        },
-        "person_r7Twez": {
-          "type": "person",
-          "settings": {
-            "ava": "shopify://shop_images/Lorena.png",
-            "name": "Lorena",
-            "text": "Teammitglied, Mama"
-          }
         }
       },
       "block_order": [
         "person_ke4xf3",
         "person_wU94Ua",
-        "person_YD9J4b",
-        "person_r7Twez"
+        "person_YD9J4b"
       ],
       "settings": {
         "bg": "#a25c3f",
@@ -170,7 +161,7 @@
         "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-1": {
           "type": "column",
           "settings": {
-            "title": "7 Fachfrauen",
+            "title": "6 Fachfrauen",
             "text": "<p>Bei Herz an Herz arbeiten Frauen, die sich mit viel Herzblut für dich und dein Baby einsetzen. Wir bilden uns laufend weiter und kennen uns nicht nur mit unseren Produkten aus, sondern auch im natürlichen Umgang mit deinem Baby.</p>",
             "link_label": "",
             "link": ""
@@ -188,7 +179,7 @@
         "template--21450253959483__cf5c7238-26a2-4d23-84da-58742fa5239e-column-3": {
           "type": "column",
           "settings": {
-            "title": "13 eigene Kinder",
+            "title": "11 eigene Kinder",
             "text": "<p>Unsere tiefgreifende Erfahrung resultiert auch aus unserer eigenen Elternschaft. Zusammen haben wir 16 Kinder im Alter von 1 bis 10 Jahren, und wir wissen aus erster Hand, wovon wir sprechen. Unsere Produkte testen wir und unsere Kinder ausgiebig!</p>",
             "link_label": "",
             "link": ""

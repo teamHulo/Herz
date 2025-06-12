@@ -17,6 +17,44 @@
         "padding_bottom": 0
       }
     },
+    "image_with_text_z4fVX4": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_pB8bR8": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>Mitwachsen</em>",
+            "heading_size": "h1"
+          }
+        },
+        "text_H6RLUf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wächst dein Baby? Dann wachsen wir mit dir! Ob du gerade erst schwanger bist oder dein Baby schon da ist – mit <strong>Mitwachsen</strong> bekommst du jeden Monat genau die Inhalte, die jetzt wichtig sind.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pB8bR8",
+        "text_H6RLUf"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Mitwachsen_Logo.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "69deded2-d25d-40dc-ad4a-fca5b349d668": {
       "type": "rich-text",
       "blocks": {
@@ -30,7 +68,7 @@
         "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h1>Mitwachsen</h1><h3>Herz an Herz durch die Babyzeit</h3><p>Wächst dein Baby? Dann wachsen wir mit dir! Ob du gerade erst schwanger bist oder dein Baby schon da ist – mit <strong>Mitwachsen</strong> bekommst du jeden Monat genau die Inhalte, die jetzt wichtig sind:</p><p>* Jede Menge Fachwissen von unseren Expertinnen *</p><p>* Bindungsorientiert & artgerecht *</p><p>* Tipps zur aktuellen Entwicklungsphase *</p><p>* Geschenke & Aktionen für dich *</p><p>Und das alles natürlich kostenlos – von Herz an Herz. Melde dich jetzt an und lasse dich durch die Baby- und Kleinkindzeit begleiten.</p><p>Unter allen Anmeldungen eines Monats verlosen wir übrigens jeweils einen 50.- Gutschein! Es lohnt sich also gleich doppelt.</p>"
+            "text": "<p>* Jede Menge Fachwissen von unseren Expertinnen *</p><p>* Bindungsorientiert & artgerecht *</p><p>* Tipps zur aktuellen Entwicklungsphase *</p><p>* Geschenke & Aktionen für dich *</p><p>Und das alles natürlich kostenlos – von Herz an Herz. Melde dich jetzt an und lasse dich durch die Baby- und Kleinkindzeit begleiten.</p><p>Unter allen Anmeldungen eines Monats verlosen wir übrigens jeweils einen 50.- Gutschein! Es lohnt sich also gleich doppelt.</p>"
           }
         },
         "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-button-1": {
@@ -262,6 +300,7 @@
   },
   "order": [
     "main",
+    "image_with_text_z4fVX4",
     "69deded2-d25d-40dc-ad4a-fca5b349d668",
     "custom_liquid_wzrc8m",
     "9d96080f-20a8-4c8b-8b75-07ae1831617b",

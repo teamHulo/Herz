@@ -1,0 +1,262 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "69deded2-d25d-40dc-ad4a-fca5b349d668": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Kontakt</h1><p>Herzlich willkommen bei Herz an Herz! Wir freuen uns, dass du den Weg zu unserer Kontaktseite gefunden hast. Dein Feedback, deine Fragen und Anliegen sind uns wichtig. Wir sind hier, um dir zu helfen und auf deine Anfragen zu antworten. Bitte zögere nicht, uns zu kontaktieren, sei es bezüglich unserer Produkte, Bestellungen oder jeglicher anderer Anliegen. Wir sind nur eine Nachricht entfernt – schreibe uns, und wir werden uns so bald wie möglich bei dir melden.</p>"
+          }
+        },
+        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-heading-1",
+        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-text-1",
+        "template--21402263978299__69deded2-d25d-40dc-ad4a-fca5b349d668-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "9d96080f-20a8-4c8b-8b75-07ae1831617b": {
+      "type": "rich-text",
+      "blocks": {
+        "caaf9bf4-bb8f-4b1b-9a97-34a6b30f2bf0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "675aac20-73a1-48a5-85cc-6a74425db36b": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Melde dich bei uns</h3><p>Unser Team hilft dir gerne weiter. Du erreichst uns via Mail oder zu unseren Öffnungszeiten via Telefon. Gerne kannst du auch ganz unkompliziert ein SMS oder Whatsapp senden.</p><p>team@herzanherz.ch</p><p>076 325 84 84</p><p></p><p>Besuche uns im Laden: Obertor 9, 8400 Winterthur</p>"
+          }
+        },
+        "60ad996f-d954-44ed-8080-63b3ef285cea": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "caaf9bf4-bb8f-4b1b-9a97-34a6b30f2bf0",
+        "675aac20-73a1-48a5-85cc-6a74425db36b",
+        "60ad996f-d954-44ed-8080-63b3ef285cea"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "41f13753-da4e-4a91-9c04-741fd47e65ba": {
+      "type": "rich-text",
+      "blocks": {
+        "111423a0-c213-4113-94ee-e223ed1f4954": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "c7e881be-648c-4cd9-b911-598acf36acbd": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Du hast eine Frage?</h3><p>Wir haben die Antworten auf die gängigsten Fragen in unseren FAQ zusammengefasst. Vielleicht findest du deine Antwort auch dort?</p>"
+          }
+        },
+        "b5258e33-433d-4139-acba-c50633744880": {
+          "type": "button",
+          "settings": {
+            "button_label": "FAQ anschauen",
+            "button_link": "shopify://pages/faq-haufige-fragen",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "111423a0-c213-4113-94ee-e223ed1f4954",
+        "c7e881be-648c-4cd9-b911-598acf36acbd",
+        "b5258e33-433d-4139-acba-c50633744880"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "2cb71f7d-e107-4a9d-80e3-1dfe7180b999": {
+      "type": "rich-text",
+      "blocks": {
+        "205e75d9-1084-49f9-aea1-97390375f44b": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "bc740cac-8de4-405a-843c-6f6301ce2fbb": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Werde Teil unserer Community</h3><p>Verpasse keine Neuigkeiten, Aktionen und Tipps mehr. Tritt unserer Online-Community bei und sei Teil der Herz an Herz Familie. Du findest uns auf Facebook und Instagram, wo wir dich auf dem Laufenden halten und dir wertvolle Tipps und Inspiration für das Leben mit Baby mitgeben.</p>"
+          }
+        },
+        "c1c2d9d1-70c2-458f-b9a4-deea743746af": {
+          "type": "button",
+          "settings": {
+            "button_label": "Facebook",
+            "button_link": "https://www.facebook.com/herzanherzwinterthur",
+            "button_style_secondary": false,
+            "button_label_2": "Instagram",
+            "button_link_2": "http://www.instagram.com/herzanherzwinterthur",
+            "button_style_secondary_2": false
+          }
+        },
+        "479a2316-b9cb-464f-b0be-8f8caadcfb4d": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "205e75d9-1084-49f9-aea1-97390375f44b",
+        "bc740cac-8de4-405a-843c-6f6301ce2fbb",
+        "c1c2d9d1-70c2-458f-b9a4-deea743746af",
+        "479a2316-b9cb-464f-b0be-8f8caadcfb4d"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "84126fb7-03ab-4916-bcf7-3441b8df502f": {
+      "type": "rich-text",
+      "blocks": {
+        "2e01b5d3-f3fb-4e69-95d0-a0e37499a64d": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "e089e5a8-6730-461c-aa62-51cfdafb1e81": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Kontaktformular</h3><p>Du kannst auch unser Kontaktformular benutzen, um uns zu kontaktieren.</p>"
+          }
+        },
+        "0d01a4e1-20a4-4794-bb08-26b85e2b607f": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "2e01b5d3-f3fb-4e69-95d0-a0e37499a64d",
+        "e089e5a8-6730-461c-aa62-51cfdafb1e81",
+        "0d01a4e1-20a4-4794-bb08-26b85e2b607f"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "69deded2-d25d-40dc-ad4a-fca5b349d668",
+    "9d96080f-20a8-4c8b-8b75-07ae1831617b",
+    "41f13753-da4e-4a91-9c04-741fd47e65ba",
+    "2cb71f7d-e107-4a9d-80e3-1dfe7180b999",
+    "84126fb7-03ab-4916-bcf7-3441b8df502f",
+    "form"
+  ]
+}

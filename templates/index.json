@@ -312,10 +312,10 @@
         "item_EVEypg": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/Section-Slider_Tragen-Hoodie.jpg",
-            "title": "Leichte Umstands- und Tragejacken",
-            "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.</p>",
-            "url": "shopify://collections/leichte-umstands-tragejacken",
+            "img": "shopify://shop_images/Section-Slider_Sommer-Sonne-Kind-Wickeln.jpg",
+            "title": "Wickeln bei Hitze",
+            "text": "<p>Stoffwindeln haben viele Vorteile und ein grosser Vorteil im Sommer ist die optimale Regulation der Temperatur im Innern. Sie werden nicht so schnell warm oder schwitzig und sie sind luftdurchlässiger als Wegwerfwindeln.</p>",
+            "url": "shopify://collections/stoffwindeln",
             "btn_name": "Jetzt entdecken"
           }
         }

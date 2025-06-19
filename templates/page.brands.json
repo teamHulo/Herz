@@ -362,6 +362,14 @@
             "url": ""
           }
         },
+        "brand_czwwLQ": {
+          "type": "brand",
+          "settings": {
+            "title": "Geggamoja",
+            "text": "<p>Geggamoja - das ist nachhaltige Kindermode aus Schweden. Bei uns findest du die Geggamoja Bambus-Kleider - wunderbar weich und angenehm zur Haut, auch für empfindliche Kinder.</p>",
+            "url": "shopify://collections/geggamoja-fruhling-sommer"
+          }
+        },
         "51c3baf8-46ea-4408-8e38-5caadfed1c91": {
           "type": "brand",
           "settings": {
@@ -488,6 +496,7 @@
         "15155f04-b283-4f56-869e-de5075e3ecf6",
         "c9102d9a-4f26-4a83-afb7-bf3d470c2b72",
         "5e1a5b19-5f0d-41bd-827b-639200e9725f",
+        "brand_czwwLQ",
         "51c3baf8-46ea-4408-8e38-5caadfed1c91",
         "fdec288b-e2aa-496b-aafb-a6d7b5424f2b",
         "69f93b2e-3b33-4e7f-a635-e2dcee4305d7",

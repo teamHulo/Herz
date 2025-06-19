@@ -302,10 +302,10 @@
         "item_qgKpyG": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/Infobild-Tragejacke-Papa.jpg",
-            "title": "Tragejacken für Männer",
-            "text": "<p>Auch Väter sollen ihr Baby warm und kuschlig tragen dürfen. Wähle zwischen Hoodies, Softshell-Jacken oder Wintermänteln für Männer.</p>",
-            "url": "shopify://collections/tragejacken-fur-mannertragejacken-fur-manner",
+            "img": "shopify://shop_images/Infobild-Erstausstattung-Stillen.jpg",
+            "title": "Stillen bei Hitze",
+            "text": "<p>Stille oder füttere nach Bedarf und nicht nach der Uhr. Babys die voll gestillt werden löschen ihren Durst mit der Muttermilch und brauchen auch bei grosser Hitze kein zusätzliches Wasser. Stillen in der Öffentlichkeit wird übrigens viel einfacher und angenehmer, wenn du mit passender Still-Kleidung ausgestattet bist: BHs, Tops, Shirts und sommerlich luftige Blusen und Kleider!</p>",
+            "url": "shopify://collections/stillen",
             "btn_name": "Jetzt entdecken"
           }
         },

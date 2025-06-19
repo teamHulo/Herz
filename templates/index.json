@@ -205,6 +205,174 @@
       ],
       "settings": {}
     },
+    "eb12502c-a978-4a64-8794-299bf7d22d27": {
+      "type": "section-our",
+      "blocks": {
+        "item_JkwHwM": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Sommer-Cloby-Tragen.jpg",
+            "title": "UV-Decke & Kleidung",
+            "text": "<p>Babys und Kleinkinder reagieren empfindlich auf Sonnenstrahlen. Darum ist ein guter UV-Schutz für sie besonders wichtig. UV-Decken für Tragehilfe und Kinderwagen sowie spezielle, dicht gewebte Kleidung schützen optimal.</p>",
+            "url": "shopify://collections/uv-stampler-tucher",
+            "btn_name": "UV-Decken & -Kleidung"
+          }
+        },
+        "item_67Wce3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Sommer-Manymonths-Hempies-Hanf.jpg",
+            "title": "Hanf-Kleidung",
+            "text": "<p>Hanf ist von Natur aus UV-beständig, atmungsaktiv und schnell trocknend. Hanf fühlt sich in der Hitze kühl an, aber bei kaltem Wetter erwärmt sich die in den Fasern eingeschlossene Luft vom Körper und macht ihn natürlich warm.</p>",
+            "url": "shopify://collections/manymonths-fruhling-sommer",
+            "btn_name": "Zur Kollektion"
+          }
+        },
+        "item_yrPzyC": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnenhut.jpg",
+            "title": "Sonnenhüte",
+            "text": "<p>Ein guter Sonnenhut ist im Sommer das A und O. Ein Hut mit Nackenschutz oder sogar mit breiter Rundumkrempe wie beim beliebten <a href=\"/products/sonnenhut-feuerwehr\" target=\"_blank\" title=\"Sonnenhut FEUERWEHR\">Feuerwehrhut von Pickapooh</a> schützt gut beim Spielen und beim Tragen.</p>",
+            "url": "shopify://collections/sonnenhute",
+            "btn_name": "Sonnenhüte"
+          }
+        },
+        "item_bPf7kc": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnencreme.jpg",
+            "title": "Sonnencreme",
+            "text": "<p>Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Daher haben wir nur Sonnencreme im Sortiment, die wir guten Gewissens empfehlen können. Sie kommen ohne bedenkliche Inhaltsstoffe aus und werden nachhaltig produziert.</p>",
+            "url": "shopify://collections/sonnencreme",
+            "btn_name": "Sonnencreme"
+          }
+        }
+      },
+      "block_order": [
+        "item_JkwHwM",
+        "item_67Wce3",
+        "item_yrPzyC",
+        "item_bPf7kc"
+      ],
+      "settings": {
+        "name": "UNSERE EMPFEHLUNGEN",
+        "title": "Alles für entspannte Sommertage"
+      }
+    },
+    "section_with_text_btn_ECAitC": {
+      "type": "section-with-text-btn",
+      "settings": {
+        "title": "Sommer, Sonne, Kind",
+        "text": "<p>So schön es an der Sonne ist, so herausfordernd ist sie manchmal, wenn man mit Baby oder Kind draussen ist. Was zieht das Kind am besten an? Ist Tragen auch sinnvoll, wenn es so heiss ist? Welche Sonnencreme ist die beste für mein Kind? Und was gibt es sonst noch alles zu beachten? Hier erfährst du es.</p>",
+        "url": "shopify://pages/sommer-sonne-kind",
+        "btn_name": "Mehr zum Thema erfahren"
+      }
+    },
+    "section_full_image_EqfEhU": {
+      "type": "section-full-image",
+      "settings": {
+        "img": "shopify://shop_images/Section-Full-Image_Cloby-Sommer-Sonne-Kind.jpg"
+      }
+    },
+    "section_slider_ennB3g": {
+      "type": "section-slider",
+      "blocks": {
+        "item_R3wwin": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Tragejacken5.jpg",
+            "title": "Warme Umstands- und Tragejacken",
+            "text": "<p>Für richtig kalte Tage bist du mit einer sportlichen, funktionalen Winterjacke oder einem schicken Wollmantel gut gerüstet. Die Jacke kannst du auch ohne Baby verwenden.</p>",
+            "url": "shopify://collections/warme-umstands-tragejacken",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_wD89en": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Tragejacken2.jpg",
+            "title": "Tragejacken fürs ganze Jahr",
+            "text": "<p>Du möchtest eine Umstands- & Tragejacke, die du das ganze Jahr über verwenden kannst? Dann wähle eine Softshelljacke oder einen leichten Mantel.</p>",
+            "url": "shopify://collections/tragejacken-furs-ganze-jahr",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_qgKpyG": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Tragejacke-Papa.jpg",
+            "title": "Tragejacken für Männer",
+            "text": "<p>Auch Väter sollen ihr Baby warm und kuschlig tragen dürfen. Wähle zwischen Hoodies, Softshell-Jacken oder Wintermänteln für Männer.</p>",
+            "url": "shopify://collections/tragejacken-fur-mannertragejacken-fur-manner",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_EVEypg": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Section-Slider_Tragen-Hoodie.jpg",
+            "title": "Leichte Umstands- und Tragejacken",
+            "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.</p>",
+            "url": "shopify://collections/leichte-umstands-tragejacken",
+            "btn_name": "Jetzt entdecken"
+          }
+        }
+      },
+      "block_order": [
+        "item_R3wwin",
+        "item_wD89en",
+        "item_qgKpyG",
+        "item_EVEypg"
+      ],
+      "settings": {}
+    },
+    "3042eba3-91b9-4a6e-9e08-4e8237a86bf5": {
+      "type": "section-our",
+      "blocks": {
+        "item_CjqJ8J": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Wasser-UV-Bademode.jpg",
+            "title": "UV- & Bademode",
+            "text": "<p>Guter UV-Schutz ist gerade am Wasser wichtig. Daher findest du bei uns UV-Mode und dazu passende Wasserschuhe. Und kennst du schon die praktischen Badewindeln aus Stoff?</p>",
+            "url": "shopify://collections/uv-bademode",
+            "btn_name": "Bademode & Badewindeln"
+          }
+        },
+        "item_JY7qQY": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Wasser-Poncho.jpg",
+            "title": "UV-Ponchos",
+            "text": "<p>Ein tolles Accessoire für Badi, Strand, Garten (und natürlich auch fürs Hallenbad) ist dieser praktische UV-Poncho aus kuschlig weichem Bambus-Baumwoll-Gemisch. Er schützt das Kind beim Spielen vor der Sonne und hält nach dem Baden kuschlig warm.</p>",
+            "url": "shopify://products/uv-poncho",
+            "btn_name": "UV-Ponchos"
+          }
+        },
+        "item_RWxmUj": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Wasser-Wasserspielzeug.jpg",
+            "title": "Wasserspielzeug",
+            "text": "<p>Hast du gewusst, dass Badespielzeug aus Plastik kleine Mikroplatstik-Partikel ins Wasser abgibt? Mit unserem Badespielzeug aus Naturkautschuk oder Silikon lässt sich das vermeiden. Und das Spielen macht genauso viel Spass!</p>",
+            "url": "shopify://collections/wasser-badespielzeug",
+            "btn_name": "Zum Badespielzeug"
+          }
+        }
+      },
+      "block_order": [
+        "item_CjqJ8J",
+        "item_JY7qQY",
+        "item_RWxmUj"
+      ],
+      "disabled": true,
+      "settings": {
+        "name": "UNSERE EMPFEHLUNGEN",
+        "title": "Am Wasser"
+      }
+    },
     "section_our_hW8Uw7": {
       "type": "section-our",
       "blocks": {
@@ -344,132 +512,6 @@
         "title": "Für eine magische Zeit mit deinem Baby"
       }
     },
-    "eb12502c-a978-4a64-8794-299bf7d22d27": {
-      "type": "section-our",
-      "blocks": {
-        "item_JkwHwM": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Sommer-Cloby-Tragen.jpg",
-            "title": "UV-Decke & Kleidung",
-            "text": "<p>Babys und Kleinkinder reagieren empfindlich auf Sonnenstrahlen. Darum ist ein guter UV-Schutz für sie besonders wichtig. UV-Decken für Tragehilfe und Kinderwagen sowie spezielle, dicht gewebte Kleidung schützen optimal.</p>",
-            "url": "shopify://collections/uv-stampler-tucher",
-            "btn_name": "UV-Decken & -Kleidung"
-          }
-        },
-        "item_67Wce3": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Sommer-Manymonths-Hempies-Hanf.jpg",
-            "title": "Hanf-Kleidung",
-            "text": "<p>Hanf ist von Natur aus UV-beständig, atmungsaktiv und schnell trocknend. Hanf fühlt sich in der Hitze kühl an, aber bei kaltem Wetter erwärmt sich die in den Fasern eingeschlossene Luft vom Körper und macht ihn natürlich warm.</p>",
-            "url": "shopify://collections/manymonths-fruhling-sommer",
-            "btn_name": "Zur Kollektion"
-          }
-        },
-        "item_yrPzyC": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnenhut.jpg",
-            "title": "Sonnenhüte",
-            "text": "<p>Ein guter Sonnenhut ist im Sommer das A und O. Ein Hut mit Nackenschutz oder sogar mit breiter Rundumkrempe wie beim beliebten <a href=\"/products/sonnenhut-feuerwehr\" target=\"_blank\" title=\"Sonnenhut FEUERWEHR\">Feuerwehrhut von Pickapooh</a> schützt gut beim Spielen und beim Tragen.</p>",
-            "url": "shopify://collections/sonnenhute",
-            "btn_name": "Sonnenhüte"
-          }
-        },
-        "item_bPf7kc": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnencreme.jpg",
-            "title": "Sonnencreme",
-            "text": "<p>Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Daher haben wir nur Sonnencreme im Sortiment, die wir guten Gewissens empfehlen können. Sie kommen ohne bedenkliche Inhaltsstoffe aus und werden nachhaltig produziert.</p>",
-            "url": "shopify://collections/sonnencreme",
-            "btn_name": "Sonnencreme"
-          }
-        }
-      },
-      "block_order": [
-        "item_JkwHwM",
-        "item_67Wce3",
-        "item_yrPzyC",
-        "item_bPf7kc"
-      ],
-      "settings": {
-        "name": "UNSERE EMPFEHLUNGEN",
-        "title": "Alles für entspannte Sommertage"
-      }
-    },
-    "section_with_text_btn_ECAitC": {
-      "type": "section-with-text-btn",
-      "disabled": true,
-      "settings": {
-        "title": "Tragen im Herbst & Winter",
-        "text": "<p>Beim Tragen profitiert dein Baby direkt von deiner Körperwärme. Damit ihr auch bei kühlerem Wetter gut angezogen seid, gibt es Tragejacken und -pullis, die den Wärmeaustausch optimal unterstützen.</p>",
-        "url": "shopify://pages/tragen-im-herbst-und-winter",
-        "btn_name": "Mehr zum Thema erfahren"
-      }
-    },
-    "section_full_image_EqfEhU": {
-      "type": "section-full-image",
-      "disabled": true,
-      "settings": {
-        "img": "shopify://shop_images/Section-Full-Image_Mamalila-Tragejacke.jpg"
-      }
-    },
-    "section_slider_ennB3g": {
-      "type": "section-slider",
-      "blocks": {
-        "item_R3wwin": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Tragejacken5.jpg",
-            "title": "Warme Umstands- und Tragejacken",
-            "text": "<p>Für richtig kalte Tage bist du mit einer sportlichen, funktionalen Winterjacke oder einem schicken Wollmantel gut gerüstet. Die Jacke kannst du auch ohne Baby verwenden.</p>",
-            "url": "shopify://collections/warme-umstands-tragejacken",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_wD89en": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Tragejacken2.jpg",
-            "title": "Tragejacken fürs ganze Jahr",
-            "text": "<p>Du möchtest eine Umstands- & Tragejacke, die du das ganze Jahr über verwenden kannst? Dann wähle eine Softshelljacke oder einen leichten Mantel.</p>",
-            "url": "shopify://collections/tragejacken-furs-ganze-jahr",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_qgKpyG": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Tragejacke-Papa.jpg",
-            "title": "Tragejacken für Männer",
-            "text": "<p>Auch Väter sollen ihr Baby warm und kuschlig tragen dürfen. Wähle zwischen Hoodies, Softshell-Jacken oder Wintermänteln für Männer.</p>",
-            "url": "shopify://collections/tragejacken-fur-mannertragejacken-fur-manner",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_EVEypg": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Section-Slider_Tragen-Hoodie.jpg",
-            "title": "Leichte Umstands- und Tragejacken",
-            "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.</p>",
-            "url": "shopify://collections/leichte-umstands-tragejacken",
-            "btn_name": "Jetzt entdecken"
-          }
-        }
-      },
-      "block_order": [
-        "item_R3wwin",
-        "item_wD89en",
-        "item_qgKpyG",
-        "item_EVEypg"
-      ],
-      "disabled": true,
-      "settings": {}
-    },
     "section_our_aLKHkd": {
       "type": "section-our",
       "blocks": {
@@ -560,51 +602,6 @@
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Wollig warm durch den Winter"
-      }
-    },
-    "3042eba3-91b9-4a6e-9e08-4e8237a86bf5": {
-      "type": "section-our",
-      "blocks": {
-        "item_CjqJ8J": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Wasser-UV-Bademode.jpg",
-            "title": "UV- & Bademode",
-            "text": "<p>Guter UV-Schutz ist gerade am Wasser wichtig. Daher findest du bei uns UV-Mode und dazu passende Wasserschuhe. Und kennst du schon die praktischen Badewindeln aus Stoff?</p>",
-            "url": "shopify://collections/uv-bademode",
-            "btn_name": "Bademode & Badewindeln"
-          }
-        },
-        "item_JY7qQY": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Wasser-Poncho.jpg",
-            "title": "UV-Ponchos",
-            "text": "<p>Ein tolles Accessoire für Badi, Strand, Garten (und natürlich auch fürs Hallenbad) ist dieser praktische UV-Poncho aus kuschlig weichem Bambus-Baumwoll-Gemisch. Er schützt das Kind beim Spielen vor der Sonne und hält nach dem Baden kuschlig warm.</p>",
-            "url": "shopify://products/uv-poncho",
-            "btn_name": "UV-Ponchos"
-          }
-        },
-        "item_RWxmUj": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Wasser-Wasserspielzeug.jpg",
-            "title": "Wasserspielzeug",
-            "text": "<p>Hast du gewusst, dass Badespielzeug aus Plastik kleine Mikroplatstik-Partikel ins Wasser abgibt? Mit unserem Badespielzeug aus Naturkautschuk oder Silikon lässt sich das vermeiden. Und das Spielen macht genauso viel Spass!</p>",
-            "url": "shopify://collections/wasser-badespielzeug",
-            "btn_name": "Zum Badespielzeug"
-          }
-        }
-      },
-      "block_order": [
-        "item_CjqJ8J",
-        "item_JY7qQY",
-        "item_RWxmUj"
-      ],
-      "disabled": true,
-      "settings": {
-        "name": "UNSERE EMPFEHLUNGEN",
-        "title": "Am Wasser"
       }
     },
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba": {
@@ -722,13 +719,13 @@
   },
   "order": [
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee",
-    "section_our_hW8Uw7",
     "eb12502c-a978-4a64-8794-299bf7d22d27",
     "section_with_text_btn_ECAitC",
     "section_full_image_EqfEhU",
     "section_slider_ennB3g",
-    "section_our_aLKHkd",
     "3042eba3-91b9-4a6e-9e08-4e8237a86bf5",
+    "section_our_hW8Uw7",
+    "section_our_aLKHkd",
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba",
     "9c9bf7b0-233a-4e77-bba3-785994bab770",
     "87ca8f06-a903-47e5-8e13-7b5d55ff9427",

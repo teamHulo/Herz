@@ -57,43 +57,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_7yy6BY": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_M8D8DC": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_aLkiAA": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>Kostenloser Infoevent: Baby im Sommer</h4><p>Was ziehe ich dem Kind an bei sonnigem Wetter? Soll man schon Sonnencreme verwenden, und wenn ja, welche eignet sich? Darf das Baby ins Tragetuch, wenn es so heiss ist? Und wie sieht es bei Hitze mit dem Babyschlaf aus? Diese und weitere Fragen beantworten wir an unserem kostenlosen Infoevent am <strong>Samstag 24. Mai 2025</strong> bei uns im Herz an Herz Winterthur.</p><p>Komm einfach vorbei, es ist keine Anmeldung erforderlich.</p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_M8D8DC",
-        "text_aLkiAA"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/infobild-stillen-sommer2.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0": {
       "type": "rich-text",
       "blocks": {
@@ -455,7 +418,6 @@
     "main",
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
-    "image_with_text_7yy6BY",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "66cf2c2d-098b-49ab-93be-9ca360db9db4",
     "rich_text_UjMYrL",

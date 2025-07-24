@@ -1,5 +1,5 @@
 {% unless template == 'page.mitwachsen' %}
-  {% comment %} Formular auf Mitwachsen-Seite ausblenden - ganz unten ist noch das endunless, das auch dazu gehört, der Rest vom Code wird dazwischen eingebettet {% endcomment %}
+  {% comment %} Formular auf Mitwachsen-Seite ausblenden - ganz unten vor dem Schema ist noch das endunless, das auch dazu gehört, der Rest vom Code wird dazwischen eingebettet {% endcomment %}
 
 
 {{ "mailchimp-form.css" | asset_url | stylesheet_tag }} 
@@ -53,6 +53,7 @@
   </div>
 </section>
 {% endunless %}
+
 {% schema %}
 {
   "name": "Mailchimp Form",

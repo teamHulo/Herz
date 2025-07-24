@@ -45,7 +45,6 @@
         "paragraph",
         "email-form"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "inverse",
         "full_width": true,

@@ -71,8 +71,6 @@
             data-cascade
             {% endif %}>
             {%- for block in section.blocks -%}
-                <p>Block-Typ: {{ block.type }}, Überschrift: {{ block.settings.heading }}</p>
-
               <div
                 class="footer-block grid__item{% if block.type == 'link_list' %} footer-block--menu{% endif %}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
                 {{ block.shopify_attributes }}

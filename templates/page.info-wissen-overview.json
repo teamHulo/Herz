@@ -28,6 +28,45 @@
         "max_width": 1050
       }
     },
+    "image_with_text_nNw76J": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_jzzcGQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Herz an Herz durch die Babyzeit:</strong> Monatlich wertvolles Fachwissen, Entwicklungsimpulse, praktische Tipps und liebevolle Inspiration – genau passend zum Alter deines Kindes.</p><p><strong>Jetzt anmelden & 50.- gewinnen!</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_AHQb7Q": {
+          "type": "button",
+          "settings": {
+            "button_label": "Mehr erfahren",
+            "button_link": "shopify://pages/mitwachsen",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_jzzcGQ",
+        "button_AHQb7Q"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Mitwachsen_Logo_eb27e6ca-768f-4d02-8042-11cdadf66fbb.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_Ybbnah": {
       "type": "image-with-text",
       "blocks": {
@@ -53,6 +92,44 @@
       ],
       "settings": {
         "image": "shopify://shop_images/infobild-sommersonnekind.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_3QLkBQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_keFNbV": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Barfuss-Schuhe für Kinder</h2><h4>Alles was du über Barfuss-Schuhe wissen musst</h4><p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Hier verraten wir dir, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind und wie du die richtige Grösse für dein Kind ermittelst.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_rhg37c": {
+          "type": "button",
+          "settings": {
+            "button_label": "Barfuss-Schuhe für Kinder",
+            "button_link": "shopify://pages/barfuss-schuhe-fur-kinder",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_keFNbV",
+        "button_rhg37c"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Infobild-Barfuss-Schuhe.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -243,44 +320,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Infobild-Tragenimwinter.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_3QLkBQ": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_keFNbV": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Barfuss-Schuhe für Kinder</h2><h4>Alles was du über Barfuss-Schuhe wissen musst</h4><p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Hier verraten wir dir, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind und wie du die richtige Grösse für dein Kind ermittelst.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_rhg37c": {
-          "type": "button",
-          "settings": {
-            "button_label": "Barfuss-Schuhe für Kinder",
-            "button_link": "shopify://pages/barfuss-schuhe-fur-kinder",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_keFNbV",
-        "button_rhg37c"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Infobild-Barfuss-Schuhe.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -602,6 +641,7 @@
   "order": [
     "main",
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
+    "image_with_text_nNw76J",
     "image_with_text_Ybbnah",
     "image_with_text_3QLkBQ",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",

@@ -13,7 +13,6 @@
   "sections": {
     "mailchimp_form_p4MrmT": {
       "type": "mailchimp-form",
-      "disabled": true,
       "settings": {
         "bg_color": "#a25c3f",
         "padding_top": 28,

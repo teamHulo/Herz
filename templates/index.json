@@ -177,13 +177,13 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify://shop_images/Unten_2.jpg",
-            "img2": "shopify://shop_images/Mitte_2.jpg",
-            "img3": "shopify://shop_images/oben_2.jpg",
-            "title": "Startklar fürs Wasser",
-            "text": "<p>Wenn du mit deinem Kind einen Ausflug ins Schwimmbad oder zum Strand planst, ist die passende Ausrüstung ein Muss. Unsere Bademode ist nicht nur praktisch, sondern schützt auch gut und sieht stilvoll aus.</p>",
-            "url": "shopify://collections/uv-bademode",
-            "btn_name": "Gleich entdecken"
+            "img1": "shopify://shop_images/Bild_unten_5422cf15-722b-4e1b-b10e-a8f42646eb16.jpg",
+            "img2": "shopify://shop_images/Sale_mitte.jpg",
+            "img3": "shopify://shop_images/Sommer_Sale_oben.jpg",
+            "title": "Ahoi Sommer Sale",
+            "text": "<p>Der Sommer ist zurück – und wie! Was lange auf sich warten liess, feiern wir jetzt umso mehr; mit unserem Sommer Sale. Wir werfen die Preise über Bord und bringen dich stilvoll durch den Rest des Sommers.</p>",
+            "url": "shopify://collections/sale",
+            "btn_name": "Jetzt profitieren"
           }
         }
       },

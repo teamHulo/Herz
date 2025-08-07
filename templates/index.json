@@ -38,6 +38,7 @@
         },
         "item_Jwex7b": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/unten_2_63366898-c22c-44f8-b197-82f74d27dc1d.jpg",
             "img2": "shopify://shop_images/Bild_mitte_Fuesse.jpg",

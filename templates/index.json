@@ -465,7 +465,6 @@
         },
         "item_pdmF6i": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Slider-Bild-Advent-Spirale-Grimms.jpg",
             "title": "Schöne Rituale im Advent",

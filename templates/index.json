@@ -38,6 +38,7 @@
         },
         "item_c8wF6m": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Unten_501288f6-ca17-4c63-958f-8dd896acad74.jpg",
             "img2": "shopify://shop_images/Bild_mitte_d04cfd47-0d34-4500-b53e-6a43554a1545.jpg",

@@ -24,6 +24,18 @@
             "btn_name": "Jetzt profitieren"
           }
         },
+        "item_PYBx6f": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Oben_Feste.jpg",
+            "img2": "shopify://shop_images/Mitte_Feste.jpg",
+            "img3": "shopify://shop_images/Unten_Feste.jpg",
+            "title": "Feste und Rituale in der Familie",
+            "text": "<p>Der Alltag mit Kindern ist geprägt von kleinen Abenteuern, liebgewonnenen Ritualen und vielen besonderen Augenblicken. Wie du Geburtstage und andere Feste unvergesslich gestaltest und die Jahreszeiten auch zuhause erlebbar machst – und weshalb das so wertvoll ist – erklären wir dir hier.</p>",
+            "url": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
+            "btn_name": "Mehr erfahren"
+          }
+        },
         "item_c8wF6m": {
           "type": "item",
           "settings": {
@@ -95,18 +107,6 @@
             "text": "<p>Das Leben mit kleinen Kindern kann ganz schön hektisch sein. Da ist es umso wichtiger, sich bewusst Zeit für die Partnerschaft zu nehmen. Die klimaneutral gefertigten Paarzeit Produkte schenken euch wunderbare Momente tiefer Verbundenheit. Für mehr Liebe & Achtsamkeit im Familienalltag.</p>",
             "url": "shopify://collections/partnerschaft",
             "btn_name": "LIEBEvolle Produkte entdecken"
-          }
-        },
-        "item_PYBx6f": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Oben_Feste.jpg",
-            "img2": "shopify://shop_images/Mitte_Feste.jpg",
-            "img3": "shopify://shop_images/Unten_Feste.jpg",
-            "title": "Feste und Rituale in der Familie",
-            "text": "<p>Der Alltag mit Kindern ist geprägt von kleinen Abenteuern, liebgewonnenen Ritualen und vielen besonderen Augenblicken. Wie du Geburtstage und andere Feste unvergesslich gestaltest und die Jahreszeiten auch zuhause erlebbar machst – und weshalb das so wertvoll ist – erklären wir dir hier.</p>",
-            "url": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
-            "btn_name": "Das will ich wissen"
           }
         },
         "item_Jwex7b": {
@@ -202,13 +202,13 @@
       },
       "block_order": [
         "item_8xqrhQ",
+        "item_PYBx6f",
         "item_c8wF6m",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_iFhkhf",
         "item_WxFtCe",
-        "item_PYBx6f",
         "item_Jwex7b",
         "item_Jc9eFD",
         "item_wxaVcg",

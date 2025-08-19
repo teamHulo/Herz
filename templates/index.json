@@ -24,18 +24,6 @@
             "btn_name": "Jetzt profitieren"
           }
         },
-        "beb1387a-20df-4238-a01b-69c08fe7ba72": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
-            "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
-            "img3": "shopify://shop_images/Infobild-Handschuhe.jpg",
-            "title": "Warm durch Herbst",
-            "text": "<p>Was soll ich meinem Kind nur anziehen? Gerade wenn die Temperaturen wieder sinken, fragen sich viele Eltern, ob ihr Kind warm genug eingepackt ist. Wir konnten über die Jahre hinweg zahlreiche Produkte und Materialien an unseren mittlerweile mehr als 10 eigenen Kindern testen und viele wertvolle Erfahrungen sammeln</p>",
-            "url": "shopify://pages/warm-durch-herbst-winter",
-            "btn_name": "Unsere Tipps"
-          }
-        },
         "item_c8wF6m": {
           "type": "item",
           "settings": {
@@ -48,17 +36,17 @@
             "btn_name": "Jetzt entdecken"
           }
         },
-        "item_Jwex7b": {
+        "beb1387a-20df-4238-a01b-69c08fe7ba72": {
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify://shop_images/unten_2_63366898-c22c-44f8-b197-82f74d27dc1d.jpg",
-            "img2": "shopify://shop_images/Bild_mitte_Fuesse.jpg",
-            "img3": "shopify://shop_images/Bild_links.jpg",
-            "title": "Leichtigkeit für kleine Füsse",
-            "text": "<p>Gerade bei Kindern, deren Füsse sich noch im Wachstum befinden, ist es besonders wichtig, darauf zu achten, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Barfuss-Schuhen erfüllt diese Anforderungen – sie sind weich, flexibel und haben eine breite Zehenbox. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
-            "url": "shopify://collections/barfuss-schuhe",
-            "btn_name": "Jetzt entdecken"
+            "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
+            "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
+            "img3": "shopify://shop_images/Infobild-Handschuhe.jpg",
+            "title": "Warm durch Herbst",
+            "text": "<p>Was soll ich meinem Kind nur anziehen? Gerade wenn die Temperaturen wieder sinken, fragen sich viele Eltern, ob ihr Kind warm genug eingepackt ist. Wir konnten über die Jahre hinweg zahlreiche Produkte und Materialien an unseren mittlerweile mehr als 10 eigenen Kindern testen und viele wertvolle Erfahrungen sammeln</p>",
+            "url": "shopify://pages/warm-durch-herbst-winter",
+            "btn_name": "Unsere Tipps"
           }
         },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
@@ -71,19 +59,6 @@
             "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Möchtest du wissen, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind?</p>",
             "url": "shopify://pages/barfuss-schuhe-fur-kinder",
             "btn_name": "Mehr zum Thema erfahren"
-          }
-        },
-        "item_wxaVcg": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Slider_unten.png",
-            "img2": "shopify://shop_images/Slider_mitte.png",
-            "img3": "shopify://shop_images/Mitte_rechts.jpg",
-            "title": "Draussen spielen",
-            "text": "<p>In ihrer unbändigen Freude am Draussensein finden Kinder eine unendliche Quelle der Inspiration und des Glücks. Und du findest bei uns ein schöne Auswahl an auserlesenen Artikel, um das Leben draussen und die Natur mit deinem Kind zu entdecken und zu feiern.</p>",
-            "url": "shopify://collections/draussen-spielen",
-            "btn_name": "Jetzt entdecken"
           }
         },
         "24910c9d-15a9-4196-9b65-cc074f34c723": {
@@ -122,6 +97,19 @@
             "btn_name": "LIEBEvolle Produkte entdecken"
           }
         },
+        "item_Jwex7b": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/unten_2_63366898-c22c-44f8-b197-82f74d27dc1d.jpg",
+            "img2": "shopify://shop_images/Bild_mitte_Fuesse.jpg",
+            "img3": "shopify://shop_images/Bild_links.jpg",
+            "title": "Leichtigkeit für kleine Füsse",
+            "text": "<p>Gerade bei Kindern, deren Füsse sich noch im Wachstum befinden, ist es besonders wichtig, darauf zu achten, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Barfuss-Schuhen erfüllt diese Anforderungen – sie sind weich, flexibel und haben eine breite Zehenbox. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
+            "url": "shopify://collections/barfuss-schuhe",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_Jc9eFD": {
           "type": "item",
           "disabled": true,
@@ -133,6 +121,19 @@
             "text": "<p>Wenn kleine Kinder erkältet sind, ist das für uns Eltern oft schlimm mitanzusehen. Die Naturheilkunde bietet sanfte Möglichkeiten dein Kind bei einer Erkältung zu unterstützen. Wir haben für euch unsere besten Tipps zusammengestellt.</p>",
             "url": "https://herzanherz-shop.ch/pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
             "btn_name": "Mehr erfahren"
+          }
+        },
+        "item_wxaVcg": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Slider_unten.png",
+            "img2": "shopify://shop_images/Slider_mitte.png",
+            "img3": "shopify://shop_images/Mitte_rechts.jpg",
+            "title": "Draussen spielen",
+            "text": "<p>In ihrer unbändigen Freude am Draussensein finden Kinder eine unendliche Quelle der Inspiration und des Glücks. Und du findest bei uns ein schöne Auswahl an auserlesenen Artikel, um das Leben draussen und die Natur mit deinem Kind zu entdecken und zu feiern.</p>",
+            "url": "shopify://collections/draussen-spielen",
+            "btn_name": "Jetzt entdecken"
           }
         },
         "item_NthYMr": {
@@ -189,15 +190,15 @@
       },
       "block_order": [
         "item_8xqrhQ",
-        "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "item_c8wF6m",
-        "item_Jwex7b",
+        "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
-        "item_wxaVcg",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_iFhkhf",
         "item_WxFtCe",
+        "item_Jwex7b",
         "item_Jc9eFD",
+        "item_wxaVcg",
         "item_NthYMr",
         "item_DxngTX",
         "67bececa-9c31-424d-a18a-4a49adda00b5",

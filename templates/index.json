@@ -528,7 +528,6 @@
         },
         "item_DL76rn": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Fridahild-Haarschmuck-Kinder-Haargummi-Haarschmuck-Stoff-1.webp",
             "title": "Hübsche Mitbringsel",
@@ -539,6 +538,7 @@
         },
         "item_RDJDVL": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
             "title": "Weltenbau und stundenlanges freies Spiel",

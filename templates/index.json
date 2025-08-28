@@ -12,33 +12,8 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "item_8xqrhQ": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Sommer_Sale_oben_ceccad4d-fa78-4f8c-bba2-79d079220c5c.jpg",
-            "img2": "shopify://shop_images/Sale_mitte.jpg",
-            "img3": "shopify://shop_images/Bild_unten_5422cf15-722b-4e1b-b10e-a8f42646eb16.jpg",
-            "title": "Ahoi Sommer Sale",
-            "text": "<p>Der Sommer ist zurück und wie! Was lange auf sich warten liess, feiern wir jetzt umso mehr; mit unserem Sommer Sale. Wir werfen die Preise über Bord und bringen dich stilvoll durch den Rest des Sommers.</p>",
-            "url": "shopify://collections/sale",
-            "btn_name": "Jetzt profitieren"
-          }
-        },
-        "item_PYBx6f": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Oben_Feste.jpg",
-            "img2": "shopify://shop_images/Mitte_Feste.jpg",
-            "img3": "shopify://shop_images/Unten_Feste.jpg",
-            "title": "Feste und Rituale in der Familie",
-            "text": "<p>Der Alltag mit Kindern ist geprägt von kleinen Abenteuern, liebgewonnenen Ritualen und vielen besonderen Augenblicken. Wie du Geburtstage und andere Feste unvergesslich gestaltest und die Jahreszeiten auch zuhause erlebbar machst – und weshalb das so wertvoll ist – erklären wir dir hier.</p>",
-            "url": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
-            "btn_name": "Mehr erfahren"
-          }
-        },
         "beb1387a-20df-4238-a01b-69c08fe7ba72": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
             "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
@@ -59,6 +34,30 @@
             "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Möchtest du wissen, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind?</p>",
             "url": "shopify://pages/barfuss-schuhe-fur-kinder",
             "btn_name": "Mehr zum Thema erfahren"
+          }
+        },
+        "item_PYBx6f": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Oben_Feste.jpg",
+            "img2": "shopify://shop_images/Mitte_Feste.jpg",
+            "img3": "shopify://shop_images/Unten_Feste.jpg",
+            "title": "Feste und Rituale in der Familie",
+            "text": "<p>Der Alltag mit Kindern ist geprägt von kleinen Abenteuern, liebgewonnenen Ritualen und vielen besonderen Augenblicken. Wie du Geburtstage und andere Feste unvergesslich gestaltest und die Jahreszeiten auch zuhause erlebbar machst – und weshalb das so wertvoll ist – erklären wir dir hier.</p>",
+            "url": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
+            "btn_name": "Mehr erfahren"
+          }
+        },
+        "item_8xqrhQ": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Sommer_Sale_oben_ceccad4d-fa78-4f8c-bba2-79d079220c5c.jpg",
+            "img2": "shopify://shop_images/Sale_mitte.jpg",
+            "img3": "shopify://shop_images/Bild_unten_5422cf15-722b-4e1b-b10e-a8f42646eb16.jpg",
+            "title": "Ahoi Sommer Sale",
+            "text": "<p>Der Sommer ist zurück und wie! Was lange auf sich warten liess, feiern wir jetzt umso mehr; mit unserem Sommer Sale. Wir werfen die Preise über Bord und bringen dich stilvoll durch den Rest des Sommers.</p>",
+            "url": "shopify://collections/sale",
+            "btn_name": "Jetzt profitieren"
           }
         },
         "24910c9d-15a9-4196-9b65-cc074f34c723": {
@@ -201,10 +200,10 @@
         }
       },
       "block_order": [
-        "item_8xqrhQ",
-        "item_PYBx6f",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
+        "item_PYBx6f",
+        "item_8xqrhQ",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_iFhkhf",
         "item_WxFtCe",
@@ -278,16 +277,16 @@
     "section_with_text_btn_ECAitC": {
       "type": "section-with-text-btn",
       "settings": {
-        "title": "Sommer, Sonne, Kind",
-        "text": "<p>So schön es an der Sonne ist, so herausfordernd ist sie manchmal, wenn man mit Baby oder Kind draussen ist. Was zieht das Kind am besten an? Ist Tragen auch sinnvoll, wenn es so heiss ist? Welche Sonnencreme ist die beste für mein Kind? Und was gibt es sonst noch alles zu beachten? Hier erfährst du es.</p>",
-        "url": "shopify://pages/sommer-sonne-kind",
-        "btn_name": "Mehr zum Thema erfahren"
+        "title": "Barfuss-Schuhe",
+        "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie  haben viele Vorteile für die gesunde Fussentwicklung von Kindern. </p>",
+        "url": "shopify://pages/barfuss-schuhe-fur-kinder",
+        "btn_name": "Alles über Barfuss-Schuhe"
       }
     },
     "section_full_image_EqfEhU": {
       "type": "section-full-image",
       "settings": {
-        "img": "shopify://shop_images/Section-Full-Image_Cloby-Sommer-Sonne-Kind.jpg"
+        "img": "shopify://shop_images/Section-Full-Image_Barfuss-Kinder.jpg"
       }
     },
     "section_slider_ennB3g": {
@@ -296,10 +295,10 @@
         "item_R3wwin": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/Section-Slider_Sommer-Sonne-Kind-Kleidung.jpg",
-            "title": "Kleidung für heisse Tage",
-            "text": "<p>Im Sommer eignet sich langärmlige, luftige Kleidung am besten. Sie hat einen höheren UV-Schutz als eng anliegende Kleidung. Auch Materialien wie Seide, Bambus, Hanf, Leinen oder Musselin sind angenehm bei Hitze.</p>",
-            "url": "shopify://collections/sommer",
+            "img": "shopify://shop_images/Infobild-Barfuss-Schuhe-Turnschuhe.jpg",
+            "title": "Übergangs-Schuhe",
+            "text": "<p>Entdecke unsere Auswahl an praktischen Alltagsschuhen aus Leder oder vegan, die Komfort und natürliche Bewegungsfreiheit für jede Jahreszeit bieten. </p>",
+            "url": "shopify://collections/halb-turnschuhe",
             "btn_name": "Jetzt entdecken"
           }
         },

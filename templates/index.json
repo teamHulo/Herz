@@ -221,6 +221,16 @@
     "section_our_aLKHkd": {
       "type": "section-our",
       "blocks": {
+        "item_z66qYR": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
+            "title": "Wollkleidung von Disana",
+            "text": "<p>Disana ist DIE Marke, wenn es um funktionale Wollkleidung geht. Wolle passt sich schwankenden Temperaturen perfekt an und hält die Körpertemperatur konstant. Das Kind fühlt sich bei jedem Wetter genau richtig warm.</p>",
+            "url": "shopify://collections/disana-herbst-winter",
+            "btn_name": "Zu Disana"
+          }
+        },
         "item_MDJQWT": {
           "type": "item",
           "disabled": true,
@@ -232,18 +242,9 @@
             "btn_name": "Warme Barfuss-Schuhe"
           }
         },
-        "item_z66qYR": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
-            "title": "Wollkleidung von Disana",
-            "text": "<p>Disana ist DIE Marke, wenn es um funktionale Wollkleidung geht. Wolle passt sich schwankenden Temperaturen perfekt an und hält die Körpertemperatur konstant. Das Kind fühlt sich bei jedem Wetter genau richtig warm.</p>",
-            "url": "shopify://collections/disana-herbst-winter",
-            "btn_name": "Zu Disana"
-          }
-        },
         "item_DYBGiU": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Collection-Kindermode-Muetzen.jpg",
             "title": "Mützen",
@@ -298,8 +299,8 @@
         }
       },
       "block_order": [
-        "item_MDJQWT",
         "item_z66qYR",
+        "item_MDJQWT",
         "item_DYBGiU",
         "item_PbJV4p",
         "item_VrDnVb",
@@ -308,7 +309,7 @@
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
-        "title": "Wollig warm durch den Winter"
+        "title": "Es wird wieder kühler..."
       }
     },
     "eb12502c-a978-4a64-8794-299bf7d22d27": {

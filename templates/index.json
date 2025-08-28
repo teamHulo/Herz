@@ -308,36 +308,14 @@
             "img": "shopify://shop_images/Infobild-Barfuss-Schuhe-Winter.jpg",
             "title": "Warme Schuhe",
             "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.</p>",
-            "url": "shopify://collections/schlafen",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_qgKpyG": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Erstausstattung-Stillen.jpg",
-            "title": "Stillen bei Hitze",
-            "text": "<p>Stille oder füttere nach Bedarf und nicht nach der Uhr. Babys die voll gestillt werden löschen ihren Durst mit der Muttermilch und brauchen auch bei grosser Hitze kein zusätzliches Wasser. Stillen in der Öffentlichkeit wird übrigens viel einfacher und angenehmer, wenn du mit passender Still-Kleidung ausgestattet bist: BHs, Tops, Shirts und sommerlich luftige Blusen und Kleider!</p>",
-            "url": "shopify://collections/stillen",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_EVEypg": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Section-Slider_Sommer-Sonne-Kind-Wickeln.jpg",
-            "title": "Wickeln bei Hitze",
-            "text": "<p>Stoffwindeln haben viele Vorteile und ein grosser Vorteil im Sommer ist die optimale Regulation der Temperatur im Innern. Sie werden nicht so schnell warm oder schwitzig und sie sind luftdurchlässiger als Wegwerfwindeln.</p>",
-            "url": "shopify://collections/stoffwindeln",
+            "url": "shopify://collections/warme-schuhe",
             "btn_name": "Jetzt entdecken"
           }
         }
       },
       "block_order": [
         "item_R3wwin",
-        "item_wD89en",
-        "item_qgKpyG",
-        "item_EVEypg"
+        "item_wD89en"
       ],
       "settings": {}
     },

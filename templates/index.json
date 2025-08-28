@@ -221,6 +221,16 @@
     "section_our_aLKHkd": {
       "type": "section-our",
       "blocks": {
+        "item_taMpWb": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/infobild-kinderkleider-guide-zuhause.jpg",
+            "title": "Wolle-Seide Kleidung",
+            "text": "<p>Wir empfehlen Kleidung aus Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.</p>",
+            "url": "shopify://collections/wolle-seide-produkte",
+            "btn_name": "Zu Disana"
+          }
+        },
         "item_z66qYR": {
           "type": "item",
           "settings": {
@@ -231,14 +241,14 @@
             "btn_name": "Zu Disana"
           }
         },
-        "item_taMpWb": {
+        "item_r87mja": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/infobild-kinderkleider-guide-zuhause.jpg",
-            "title": "Wolle-Seide Kleidung",
-            "text": "<p>Wir empfehlen Kleidung aus Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.</p>",
-            "url": "shopify://collections/wolle-seide-produkte",
-            "btn_name": "Zu Disana"
+            "img": "shopify://shop_images/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
+            "title": "Praktische Accessoires",
+            "text": "<p>Pulswärmer und Stulpen sind das prefekte Extra bei kühleren Temperaturen! Sie wärmen bei Bedarf und sind schnell wieder ausgezogen. Babys, Kinder und Erwachsene lieben sie!</p>",
+            "url": "shopify://collections/stulpen-pulswarmer",
+            "btn_name": "Stulpen & Pulswärmer"
           }
         },
         "item_MDJQWT": {
@@ -309,8 +319,9 @@
         }
       },
       "block_order": [
-        "item_z66qYR",
         "item_taMpWb",
+        "item_z66qYR",
+        "item_r87mja",
         "item_MDJQWT",
         "item_DYBGiU",
         "item_PbJV4p",

@@ -48,18 +48,6 @@
             "btn_name": "Mehr erfahren"
           }
         },
-        "item_8xqrhQ": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Sommer_Sale_oben_ceccad4d-fa78-4f8c-bba2-79d079220c5c.jpg",
-            "img2": "shopify://shop_images/Sale_mitte.jpg",
-            "img3": "shopify://shop_images/Bild_unten_5422cf15-722b-4e1b-b10e-a8f42646eb16.jpg",
-            "title": "Ahoi Sommer Sale",
-            "text": "<p>Der Sommer ist zurück und wie! Was lange auf sich warten liess, feiern wir jetzt umso mehr; mit unserem Sommer Sale. Wir werfen die Preise über Bord und bringen dich stilvoll durch den Rest des Sommers.</p>",
-            "url": "shopify://collections/sale",
-            "btn_name": "Jetzt profitieren"
-          }
-        },
         "24910c9d-15a9-4196-9b65-cc074f34c723": {
           "type": "item",
           "settings": {
@@ -106,6 +94,19 @@
             "text": "<p>Wenn kleine Kinder erkältet sind, ist das für uns Eltern oft schlimm mitanzusehen. Die Naturheilkunde bietet sanfte Möglichkeiten dein Kind bei einer Erkältung zu unterstützen. Wir haben für euch unsere besten Tipps zusammengestellt.</p>",
             "url": "https://herzanherz-shop.ch/pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
             "btn_name": "Mehr erfahren"
+          }
+        },
+        "item_8xqrhQ": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Sommer_Sale_oben_ceccad4d-fa78-4f8c-bba2-79d079220c5c.jpg",
+            "img2": "shopify://shop_images/Sale_mitte.jpg",
+            "img3": "shopify://shop_images/Bild_unten_5422cf15-722b-4e1b-b10e-a8f42646eb16.jpg",
+            "title": "Ahoi Sommer Sale",
+            "text": "<p>Der Sommer ist zurück und wie! Was lange auf sich warten liess, feiern wir jetzt umso mehr; mit unserem Sommer Sale. Wir werfen die Preise über Bord und bringen dich stilvoll durch den Rest des Sommers.</p>",
+            "url": "shopify://collections/sale",
+            "btn_name": "Jetzt profitieren"
           }
         },
         "item_c8wF6m": {
@@ -203,11 +204,11 @@
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_PYBx6f",
-        "item_8xqrhQ",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_iFhkhf",
         "item_WxFtCe",
         "item_Jc9eFD",
+        "item_8xqrhQ",
         "item_c8wF6m",
         "item_Jwex7b",
         "item_wxaVcg",

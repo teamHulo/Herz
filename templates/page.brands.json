@@ -748,6 +748,14 @@
             "url": ""
           }
         },
+        "brand_BWYPeA": {
+          "type": "brand",
+          "settings": {
+            "title": "Plus12",
+            "text": "<p>Plus12 steht für gesunde Kinderfüsse. Seit über 20 Jahren beschäftigt sich das Team mit Kinderfüssen und Kinderschuhen. 2019 haben sie die plus12socks entwickelt – Socken, die der natürlichen Fussform folgen. Produziert werden sie in Österreich. Ziel sind hochwertige Produkte, welche lokal entstehen und trotzdem für viele Familien erschwinglich bleiben.</p>",
+            "url": ""
+          }
+        },
         "57bf30bf-5eaf-4d6d-a6dc-a1ace4d09686": {
           "type": "brand",
           "settings": {
@@ -830,6 +838,7 @@
         "b810120f-4b48-4a68-9405-c0434710bcea",
         "de03a7ff-25aa-4864-b98f-7bae20d92a0a",
         "c5cca916-8a7a-4216-85e0-f865286d2cf7",
+        "brand_BWYPeA",
         "57bf30bf-5eaf-4d6d-a6dc-a1ace4d09686",
         "c765f1ae-334b-496b-bbee-247fbdd38f67",
         "f7f17304-b089-43b4-8004-9e1539c04679",

@@ -12,6 +12,18 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "8fc6288d-372e-45df-a8da-4a794678a4f4": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Start-Silder-Advent1.jpg",
+            "img2": "shopify://shop_images/Start-Silder-Advent2_b327cc0d-dbd7-4f3d-ac8a-3f700a78ac0e.jpg",
+            "img3": "shopify://shop_images/Start-Silder-Advent3.jpg",
+            "title": "Advent mit Kindern gestalten",
+            "text": "<p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.</p>",
+            "url": "shopify://pages/themenseite",
+            "btn_name": "Mehr zum Thema"
+          }
+        },
         "beb1387a-20df-4238-a01b-69c08fe7ba72": {
           "type": "item",
           "settings": {
@@ -45,6 +57,18 @@
             "title": "Feste und Rituale in der Familie",
             "text": "<p>Der Alltag mit Kindern ist geprägt von kleinen Abenteuern, liebgewonnenen Ritualen und vielen besonderen Augenblicken. Wie du Geburtstage und andere Feste unvergesslich gestaltest und die Jahreszeiten auch zuhause erlebbar machst – und weshalb das so wertvoll ist – erklären wir dir hier.</p>",
             "url": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
+            "btn_name": "Mehr erfahren"
+          }
+        },
+        "item_Jc9eFD": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
+            "img2": "shopify://shop_images/info-erkaeltung-kind_Klein.jpg",
+            "img3": "shopify://shop_images/infobild-mama-baby-nackt_Kopie.jpg",
+            "title": "Erkältungen natürlich begleiten",
+            "text": "<p>Wenn kleine Kinder erkältet sind, ist das für uns Eltern oft schlimm mitanzusehen. Die Naturheilkunde bietet sanfte Möglichkeiten dein Kind bei einer Erkältung zu unterstützen. Wir haben für euch unsere besten Tipps zusammengestellt.</p>",
+            "url": "https://herzanherz-shop.ch/pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
             "btn_name": "Mehr erfahren"
           }
         },
@@ -82,18 +106,6 @@
             "text": "<p>Das Leben mit kleinen Kindern kann ganz schön hektisch sein. Da ist es umso wichtiger, sich bewusst Zeit für die Partnerschaft zu nehmen. Die klimaneutral gefertigten Paarzeit Produkte schenken euch wunderbare Momente tiefer Verbundenheit. Für mehr Liebe & Achtsamkeit im Familienalltag.</p>",
             "url": "shopify://collections/partnerschaft",
             "btn_name": "LIEBEvolle Produkte entdecken"
-          }
-        },
-        "item_Jc9eFD": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
-            "img2": "shopify://shop_images/info-erkaeltung-kind_Klein.jpg",
-            "img3": "shopify://shop_images/infobild-mama-baby-nackt_Kopie.jpg",
-            "title": "Erkältungen natürlich begleiten",
-            "text": "<p>Wenn kleine Kinder erkältet sind, ist das für uns Eltern oft schlimm mitanzusehen. Die Naturheilkunde bietet sanfte Möglichkeiten dein Kind bei einer Erkältung zu unterstützen. Wir haben für euch unsere besten Tipps zusammengestellt.</p>",
-            "url": "https://herzanherz-shop.ch/pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
-            "btn_name": "Mehr erfahren"
           }
         },
         "item_8xqrhQ": {
@@ -185,37 +197,24 @@
             "url": "shopify://pages/weihnachtsgeschenke-guide",
             "btn_name": "Zum Geschenke-Guide"
           }
-        },
-        "8fc6288d-372e-45df-a8da-4a794678a4f4": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Start-Silder-Advent1.jpg",
-            "img2": "shopify://shop_images/Start-Silder-Advent2_b327cc0d-dbd7-4f3d-ac8a-3f700a78ac0e.jpg",
-            "img3": "shopify://shop_images/Start-Silder-Advent3.jpg",
-            "title": "Advent mit Kindern gestalten",
-            "text": "<p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.</p>",
-            "url": "shopify://pages/themenseite",
-            "btn_name": "Mehr zum Thema"
-          }
         }
       },
       "block_order": [
+        "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_PYBx6f",
+        "item_Jc9eFD",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_iFhkhf",
         "item_WxFtCe",
-        "item_Jc9eFD",
         "item_8xqrhQ",
         "item_c8wF6m",
         "item_Jwex7b",
         "item_wxaVcg",
         "item_NthYMr",
         "item_DxngTX",
-        "67bececa-9c31-424d-a18a-4a49adda00b5",
-        "8fc6288d-372e-45df-a8da-4a794678a4f4"
+        "67bececa-9c31-424d-a18a-4a49adda00b5"
       ],
       "settings": {}
     },

@@ -67,31 +67,221 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_Ybbnah": {
+    "image_with_text_DCJwbf": {
       "type": "image-with-text",
       "blocks": {
-        "text_aedBNG": {
+        "text_CfYeGL": {
           "type": "text",
           "settings": {
-            "text": "<h2>Sommer, Sonne, Kind</h2><h4>So überstehst du heisse Tage mit deinem Kind</h4><p>Wenn es so richtig heiss ist, kann das Leben ganz schön streng sein. So schön es an der Sonne ist, so herausfordernd ist sie manchmal, wenn man mit Baby oder Kind draussen ist. Was zieht das Kind am besten an? Ist Tragen auch sinnvoll, wenn es so heiss ist? Welche Sonnencreme ist die beste für mein Kind? Und was gibt es sonst noch alles zu beachten? Hier erfährst du es.</p>",
+            "text": "<h2>Warm durch Herbst & Winter</h2><h4>Was ziehe ich meinem Kind bloss an?</h4><p>Diese Frage stellen sich früher oder später wohl alle Eltern. Gerade wenn es kühler wird, macht man sich Sorgen, dass das Kind friert (oder schwitzt, weil es zu dick angezogen ist). Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben. Unser Wissen haben wir auf dieser Seite für dich zusammengefasst.</p>",
             "text_style": "body"
           }
         },
-        "button_DpQCWC": {
+        "button_H8zrpY": {
           "type": "button",
           "settings": {
-            "button_label": "Sommer, Sonne, Kind",
-            "button_link": "shopify://pages/sommer-sonne-kind",
+            "button_label": "Warm durch Herbst & Winter",
+            "button_link": "shopify://pages/warm-durch-herbst-winter",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "text_aedBNG",
-        "button_DpQCWC"
+        "text_CfYeGL",
+        "button_H8zrpY"
       ],
       "settings": {
-        "image": "shopify://shop_images/infobild-sommersonnekind.jpg",
+        "image": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_krnqdd": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_8apHJX": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Tragejacken</h2><h4>Mit Baby unterwegs im Herbst & Winter</h4><p>Gerade wenn es kühl ist, profitiert das Baby besonders vom Tragen. Warum das so ist und welche Kleidung sich zum Tragen eignet (und welche nicht), erfährst du hier. Wir stellen dir auch verschiedene Tragejacken vor, sodass du die richtige für dich findest. Papa trägt? Auch für ihn haben wir die passende Jacke.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_MF8iDB": {
+          "type": "button",
+          "settings": {
+            "button_label": "Tragen im Herbst & Winter",
+            "button_link": "shopify://pages/tragen-im-herbst-und-winter",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_8apHJX",
+        "button_MF8iDB"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Infobild-Tragenimwinter.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_AmNqdA": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_MFqpp4": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Kinderkleider Guide</h2><h4>Was ziehe ich meinem Kind bloss an?</h4><p>Diese Frage stellen sich früher oder später wohl alle neuen Eltern. Darum haben wir unsere Kleidungs-Tipps für alle möglichen Situationen und Wetterlagen für dich zusammengestellt. Und ganz unten findest du noch ein paar praktische Grundsätze zum Thema.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_TUf7WP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Kinderkleider-Guide",
+            "button_link": "shopify://pages/kinderkleider-guide",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_MFqpp4",
+        "button_TUf7WP"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/infobild-kinderkleider-guide.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_9jmtCV": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_A6XH4U": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Erkältungen & Fieber</h2><h4>Wie begleite ich mein Kind wenn es krank ist?</h4><p>Wenn kleine Kinder erkältet sind, fiebern und husten, ist das für Eltern oft schlimm mitanzusehen. Doch bei Fieber gleich zu Fieberzäpfchen und bei jeder Erkältung zu Algifor greifen? Hier erfährst du, warum du deinem Kind damit langfristig mehr schadest als hilfst - und welche sanften Möglichkeiten die Naturheilkunde zu bieten hat.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_AfGDxn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Erkältungen & Fieber",
+            "button_link": "shopify://pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_A6XH4U",
+        "button_AfGDxn"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/info-erkaeltung-kind_Klein.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_Xbnawt": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_9KwUti": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Jahreszeiten, Feste & Rituale in der Familie</h2><h4>Kinder durch das Jahr begleiten</h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Geburtstage und andere Feste für dein Kind unvergesslich gestalten und die Jahreszeit zuhause sichtbar machen kannst (und warum das eine gute Idee ist) erfährst du auf dieser Seite.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_K9Vxbn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Jahreszeiten, Feste & Rituale in der Familie",
+            "button_link": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_9KwUti",
+        "button_K9Vxbn"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/infobild-grimms-feste-rituale.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_NKbETw": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_mGVtXL": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Weihnachtsgeschenke-Guide</h2><h4>Geschenke, die Freude machen</h4><p>Vor Weihnachten beginnt die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_Kheyg9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Weihnachtsgeschenke Guide",
+            "button_link": "shopify://pages/weihnachtsgeschenke-guide",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_mGVtXL",
+        "button_Kheyg9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -257,44 +447,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_DCJwbf": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_CfYeGL": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Warm durch Herbst & Winter</h2><h4>Was ziehe ich meinem Kind bloss an?</h4><p>Diese Frage stellen sich früher oder später wohl alle Eltern. Gerade wenn es kühler wird, macht man sich Sorgen, dass das Kind friert (oder schwitzt, weil es zu dick angezogen ist). Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben. Unser Wissen haben wir auf dieser Seite für dich zusammengefasst.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_H8zrpY": {
-          "type": "button",
-          "settings": {
-            "button_label": "Warm durch Herbst & Winter",
-            "button_link": "shopify://pages/warm-durch-herbst-winter",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_CfYeGL",
-        "button_H8zrpY"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_GpFBQw": {
       "type": "image-with-text",
       "blocks": {
@@ -333,69 +485,31 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_krnqdd": {
+    "image_with_text_Ybbnah": {
       "type": "image-with-text",
       "blocks": {
-        "text_8apHJX": {
+        "text_aedBNG": {
           "type": "text",
           "settings": {
-            "text": "<h2>Tragejacken</h2><h4>Mit Baby unterwegs im Herbst & Winter</h4><p>Gerade wenn es kühl ist, profitiert das Baby besonders vom Tragen. Warum das so ist und welche Kleidung sich zum Tragen eignet (und welche nicht), erfährst du hier. Wir stellen dir auch verschiedene Tragejacken vor, sodass du die richtige für dich findest. Papa trägt? Auch für ihn haben wir die passende Jacke.</p>",
+            "text": "<h2>Sommer, Sonne, Kind</h2><h4>So überstehst du heisse Tage mit deinem Kind</h4><p>Wenn es so richtig heiss ist, kann das Leben ganz schön streng sein. So schön es an der Sonne ist, so herausfordernd ist sie manchmal, wenn man mit Baby oder Kind draussen ist. Was zieht das Kind am besten an? Ist Tragen auch sinnvoll, wenn es so heiss ist? Welche Sonnencreme ist die beste für mein Kind? Und was gibt es sonst noch alles zu beachten? Hier erfährst du es.</p>",
             "text_style": "body"
           }
         },
-        "button_MF8iDB": {
+        "button_DpQCWC": {
           "type": "button",
           "settings": {
-            "button_label": "Tragen im Herbst & Winter",
-            "button_link": "shopify://pages/tragen-im-herbst-und-winter",
+            "button_label": "Sommer, Sonne, Kind",
+            "button_link": "shopify://pages/sommer-sonne-kind",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "text_8apHJX",
-        "button_MF8iDB"
+        "text_aedBNG",
+        "button_DpQCWC"
       ],
       "settings": {
-        "image": "shopify://shop_images/Infobild-Tragenimwinter.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_AmNqdA": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_MFqpp4": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Kinderkleider Guide</h2><h4>Was ziehe ich meinem Kind bloss an?</h4><p>Diese Frage stellen sich früher oder später wohl alle neuen Eltern. Darum haben wir unsere Kleidungs-Tipps für alle möglichen Situationen und Wetterlagen für dich zusammengestellt. Und ganz unten findest du noch ein paar praktische Grundsätze zum Thema.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_TUf7WP": {
-          "type": "button",
-          "settings": {
-            "button_label": "Kinderkleider-Guide",
-            "button_link": "shopify://pages/kinderkleider-guide",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_MFqpp4",
-        "button_TUf7WP"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/infobild-kinderkleider-guide.jpg",
+        "image": "shopify://shop_images/infobild-sommersonnekind.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -447,44 +561,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_Xbnawt": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_9KwUti": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Jahreszeiten, Feste & Rituale in der Familie</h2><h4>Kinder durch das Jahr begleiten</h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Geburtstage und andere Feste für dein Kind unvergesslich gestalten und die Jahreszeit zuhause sichtbar machen kannst (und warum das eine gute Idee ist) erfährst du auf dieser Seite.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_K9Vxbn": {
-          "type": "button",
-          "settings": {
-            "button_label": "Jahreszeiten, Feste & Rituale in der Familie",
-            "button_link": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_9KwUti",
-        "button_K9Vxbn"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/infobild-grimms-feste-rituale.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_74aqmp": {
       "type": "image-with-text",
       "blocks": {
@@ -510,44 +586,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Infobild-Zyklus.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_9jmtCV": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_A6XH4U": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Erkältungen & Fieber</h2><h4>Wie begleite ich mein Kind wenn es krank ist?</h4><p>Wenn kleine Kinder erkältet sind, fiebern und husten, ist das für Eltern oft schlimm mitanzusehen. Doch bei Fieber gleich zu Fieberzäpfchen und bei jeder Erkältung zu Algifor greifen? Hier erfährst du, warum du deinem Kind damit langfristig mehr schadest als hilfst - und welche sanften Möglichkeiten die Naturheilkunde zu bieten hat.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_AfGDxn": {
-          "type": "button",
-          "settings": {
-            "button_label": "Erkältungen & Fieber",
-            "button_link": "shopify://pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_A6XH4U",
-        "button_AfGDxn"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/info-erkaeltung-kind_Klein.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -598,44 +636,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_with_text_NKbETw": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_mGVtXL": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Weihnachtsgeschenke-Guide</h2><h4>Geschenke, die Freude machen</h4><p>Vor Weihnachten beginnt die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_Kheyg9": {
-          "type": "button",
-          "settings": {
-            "button_label": "Weihnachtsgeschenke Guide",
-            "button_link": "shopify://pages/weihnachtsgeschenke-guide",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_mGVtXL",
-        "button_Kheyg9"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -647,6 +647,8 @@
     "image_with_text_AmNqdA",
     "image_with_text_9jmtCV",
     "image_with_text_Xbnawt",
+    "image_with_text_Nm3mGq",
+    "image_with_text_NKbETw",
     "image_with_text_3QLkBQ",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "image_with_text_egtY7C",
@@ -654,8 +656,6 @@
     "image_with_text_GpFBQw",
     "image_with_text_Ybbnah",
     "image_with_text_dXeC47",
-    "image_with_text_74aqmp",
-    "image_with_text_Nm3mGq",
-    "image_with_text_NKbETw"
+    "image_with_text_74aqmp"
   ]
 }

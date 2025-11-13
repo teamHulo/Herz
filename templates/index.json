@@ -243,6 +243,143 @@
       ],
       "settings": {}
     },
+    "section_our_hW8Uw7": {
+      "type": "section-our",
+      "blocks": {
+        "item_YWtWKB": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Wolle-Seide-Babykleider.jpg",
+            "title": "Wolle-Seide Kleidung",
+            "text": "<p>Wir empfehlen Kleidung aus Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.</p>",
+            "url": "shopify://collections/wolle-seide-produkte",
+            "btn_name": "Wolle-Seide Produkte"
+          }
+        },
+        "item_d3thnR": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Stillen-Stillkissen.jpg",
+            "title": "Stillkissen & Co",
+            "text": "<p>Fürs Stillen brauchst du Ruhe, Entspannung und Körperkontakt mit dem Baby. Ein <a href=\"/products/bettmaus-stillkissen-gross\" target=\"_blank\" title=\"Stillkissen gross mit Bio-Dinkelspreu\">Stillkissen</a> sorgt für eine gemütliche Stillzeit. Für einfaches und diskretes Stillen auch unterwegs lohnt es sich, in passende <a href=\"/collections/umstands-stillmode\" target=\"_blank\" title=\"Umstands- & Stillmode\">Still-Mode</a> zu investieren.</p>",
+            "url": "shopify://collections/stillen",
+            "btn_name": "Produkte rund ums Stillen"
+          }
+        },
+        "item_MRqUzR": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Baby-Schlafsack.jpg",
+            "title": "Für guten Babyschlaf",
+            "text": "<p>Der Schlafplatz des Babys sollte kühl sein. Damit das Baby trotzdem warm hat, empfehlen wir flexible Schichten aus Wolle oder Wolle-Seide. Dazu gehört insbesondere ein passender <a href=\"/collections/schlafsacke\" target=\"_blank\" title=\"Schlafsäcke\">Schlafsack</a> und nach Bedarf eine warme <a href=\"/collections/babydecken\" target=\"_blank\" title=\"Babydecken\">Wolldecke</a>.</p>",
+            "url": "shopify://collections/schlafen",
+            "btn_name": "Alles für den Babyschlaf"
+          }
+        },
+        "item_DL76rn": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Fridahild-Haarschmuck-Kinder-Haargummi-Haarschmuck-Stoff-1.webp",
+            "title": "Hübsche Mitbringsel",
+            "text": "<p>Es muss nicht immer etwas Grosses sein. Kleine, ausgewählte Mitbringsel machen genauso viel Freude! Wie wäre es mit wunderhübschen, handgemachten Spängeli? Einem hochwertigen Holzkreisel? Oder einem Kindertattoo?</p>",
+            "url": "shopify://collections/mitbringsel",
+            "btn_name": "Mitbringsel finden"
+          }
+        },
+        "item_kfnk9a": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
+            "title": "Adventskalender für Paare",
+            "text": "<p>Der Paarzeit Adventskalender ist eine wunderschöne Idee für etwas bewusste Zweisamkeit im Advent. Mit inspirierenden, lustigen, nachdenklichen, romantischen Anregungen für eure Partnerschaft.</p>",
+            "url": "shopify://collections/paarzeit",
+            "btn_name": "Paarzeit verbringen"
+          }
+        },
+        "item_ENeina": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Advent-Kalender.jpg",
+            "title": "Adventskalender für Kinder",
+            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente? Oder einem Türchen-Kalender ohne Zahlen?</p>",
+            "url": "shopify://collections/adventskalender",
+            "btn_name": "Adventskalender"
+          }
+        },
+        "item_pdmF6i": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Advent-Spirale-Grimms.jpg",
+            "title": "Schöne Rituale im Advent",
+            "text": "<p>Feste & Rituale sind für Kinder wichtig für die Orientierung im Jahr. Um die Zeit bis Weihnachten sichtbar zu machen, könnt ihr eine Adventsspirale verwenden. Viele weitere Ideen findest du auf unserer Wissensseite dazu.</p>",
+            "url": "shopify://pages/themenseite",
+            "btn_name": "Adventsrituale"
+          }
+        },
+        "item_jXDWYz": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
+            "title": "Weihnachtsgeschenke Guide",
+            "text": "<p>Bei uns findest du eine Auswahl an sinnvollen Weihnachtsgeschenken. Lass dich inspirieren!</p>",
+            "url": "shopify://pages/weihnachtsgeschenke-guide",
+            "btn_name": "Inspirieren lassen"
+          }
+        },
+        "item_RDJDVL": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
+            "title": "Weltenbau und stundenlanges freies Spiel",
+            "text": "<p>Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie. Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.</p>",
+            "url": "shopify://collections/freies-spiel",
+            "btn_name": "Alles fürs freie Spiel"
+          }
+        },
+        "item_8PeDTn": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
+            "title": "Etwas Schönes für euer Zuhause",
+            "text": "<p>Ein Kletterdreieck, eine Schaukel oder ein Lern- und Spielturm sind Geschenke, die über viele Jahre Freude machen. Wenn sich mehrere Schenkende daran beteiligen, wird es ein sinnvolles Gemeinschaftsgeschenk.</p>",
+            "url": "shopify://collections/furs-kinderzimmer",
+            "btn_name": "Geschenke entdecken"
+          }
+        },
+        "item_dK9gcB": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Advent-Wichteltuer.jpg",
+            "title": "Wichteltürchen",
+            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!</p>",
+            "url": "shopify://collections/wichtelzauber",
+            "btn_name": "Wichtel einladen"
+          }
+        }
+      },
+      "block_order": [
+        "item_YWtWKB",
+        "item_d3thnR",
+        "item_MRqUzR",
+        "item_DL76rn",
+        "item_kfnk9a",
+        "item_ENeina",
+        "item_pdmF6i",
+        "item_jXDWYz",
+        "item_RDJDVL",
+        "item_8PeDTn",
+        "item_dK9gcB"
+      ],
+      "settings": {
+        "name": "UNSERE EMPFEHLUNGEN",
+        "title": "Für eine magische Adventszeit"
+      }
+    },
     "section_our_aLKHkd": {
       "type": "section-our",
       "blocks": {
@@ -506,143 +643,6 @@
         "title": "Am Wasser"
       }
     },
-    "section_our_hW8Uw7": {
-      "type": "section-our",
-      "blocks": {
-        "item_YWtWKB": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Wolle-Seide-Babykleider.jpg",
-            "title": "Wolle-Seide Kleidung",
-            "text": "<p>Wir empfehlen Kleidung aus Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.</p>",
-            "url": "shopify://collections/wolle-seide-produkte",
-            "btn_name": "Wolle-Seide Produkte"
-          }
-        },
-        "item_d3thnR": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Stillen-Stillkissen.jpg",
-            "title": "Stillkissen & Co",
-            "text": "<p>Fürs Stillen brauchst du Ruhe, Entspannung und Körperkontakt mit dem Baby. Ein <a href=\"/products/bettmaus-stillkissen-gross\" target=\"_blank\" title=\"Stillkissen gross mit Bio-Dinkelspreu\">Stillkissen</a> sorgt für eine gemütliche Stillzeit. Für einfaches und diskretes Stillen auch unterwegs lohnt es sich, in passende <a href=\"/collections/umstands-stillmode\" target=\"_blank\" title=\"Umstands- & Stillmode\">Still-Mode</a> zu investieren.</p>",
-            "url": "shopify://collections/stillen",
-            "btn_name": "Produkte rund ums Stillen"
-          }
-        },
-        "item_MRqUzR": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Baby-Schlafsack.jpg",
-            "title": "Für guten Babyschlaf",
-            "text": "<p>Der Schlafplatz des Babys sollte kühl sein. Damit das Baby trotzdem warm hat, empfehlen wir flexible Schichten aus Wolle oder Wolle-Seide. Dazu gehört insbesondere ein passender <a href=\"/collections/schlafsacke\" target=\"_blank\" title=\"Schlafsäcke\">Schlafsack</a> und nach Bedarf eine warme <a href=\"/collections/babydecken\" target=\"_blank\" title=\"Babydecken\">Wolldecke</a>.</p>",
-            "url": "shopify://collections/schlafen",
-            "btn_name": "Alles für den Babyschlaf"
-          }
-        },
-        "item_DL76rn": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Fridahild-Haarschmuck-Kinder-Haargummi-Haarschmuck-Stoff-1.webp",
-            "title": "Hübsche Mitbringsel",
-            "text": "<p>Es muss nicht immer etwas Grosses sein. Kleine, ausgewählte Mitbringsel machen genauso viel Freude! Wie wäre es mit wunderhübschen, handgemachten Spängeli? Einem hochwertigen Holzkreisel? Oder einem Kindertattoo?</p>",
-            "url": "shopify://collections/mitbringsel",
-            "btn_name": "Mitbringsel finden"
-          }
-        },
-        "item_kfnk9a": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
-            "title": "Adventskalender für Paare",
-            "text": "<p>Der Paarzeit Adventskalender ist eine wunderschöne Idee für etwas bewusste Zweisamkeit im Advent. Mit inspirierenden, lustigen, nachdenklichen, romantischen Anregungen für eure Partnerschaft.</p>",
-            "url": "shopify://collections/paarzeit",
-            "btn_name": "Paarzeit verbringen"
-          }
-        },
-        "item_ENeina": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Advent-Kalender.jpg",
-            "title": "Adventskalender für Kinder",
-            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente? Oder einem Türchen-Kalender ohne Zahlen?</p>",
-            "url": "shopify://collections/adventskalender",
-            "btn_name": "Adventskalender"
-          }
-        },
-        "item_pdmF6i": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Advent-Spirale-Grimms.jpg",
-            "title": "Schöne Rituale im Advent",
-            "text": "<p>Feste & Rituale sind für Kinder wichtig für die Orientierung im Jahr. Um die Zeit bis Weihnachten sichtbar zu machen, könnt ihr eine Adventsspirale verwenden. Viele weitere Ideen findest du auf unserer Wissensseite dazu.</p>",
-            "url": "shopify://pages/themenseite",
-            "btn_name": "Adventsrituale"
-          }
-        },
-        "item_jXDWYz": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
-            "title": "Weihnachtsgeschenke Guide",
-            "text": "<p>Bei uns findest du eine Auswahl an sinnvollen Weihnachtsgeschenken. Lass dich inspirieren!</p>",
-            "url": "shopify://pages/weihnachtsgeschenke-guide",
-            "btn_name": "Inspirieren lassen"
-          }
-        },
-        "item_RDJDVL": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
-            "title": "Weltenbau und stundenlanges freies Spiel",
-            "text": "<p>Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie. Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.</p>",
-            "url": "shopify://collections/freies-spiel",
-            "btn_name": "Alles fürs freie Spiel"
-          }
-        },
-        "item_8PeDTn": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
-            "title": "Etwas Schönes für euer Zuhause",
-            "text": "<p>Ein Kletterdreieck, eine Schaukel oder ein Lern- und Spielturm sind Geschenke, die über viele Jahre Freude machen. Wenn sich mehrere Schenkende daran beteiligen, wird es ein sinnvolles Gemeinschaftsgeschenk.</p>",
-            "url": "shopify://collections/furs-kinderzimmer",
-            "btn_name": "Geschenke entdecken"
-          }
-        },
-        "item_dK9gcB": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Advent-Wichteltuer.jpg",
-            "title": "Wichteltürchen",
-            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!</p>",
-            "url": "shopify://collections/wichtelzauber",
-            "btn_name": "Wichtel einladen"
-          }
-        }
-      },
-      "block_order": [
-        "item_YWtWKB",
-        "item_d3thnR",
-        "item_MRqUzR",
-        "item_DL76rn",
-        "item_kfnk9a",
-        "item_ENeina",
-        "item_pdmF6i",
-        "item_jXDWYz",
-        "item_RDJDVL",
-        "item_8PeDTn",
-        "item_dK9gcB"
-      ],
-      "settings": {
-        "name": "UNSERE EMPFEHLUNGEN",
-        "title": "Für eine magische Adventszeit"
-      }
-    },
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba": {
       "type": "section-blog-list",
       "blocks": {
@@ -758,13 +758,13 @@
   },
   "order": [
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee",
+    "section_our_hW8Uw7",
     "section_our_aLKHkd",
     "eb12502c-a978-4a64-8794-299bf7d22d27",
     "section_with_text_btn_ECAitC",
     "section_full_image_EqfEhU",
     "section_slider_ennB3g",
     "3042eba3-91b9-4a6e-9e08-4e8237a86bf5",
-    "section_our_hW8Uw7",
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba",
     "9c9bf7b0-233a-4e77-bba3-785994bab770",
     "87ca8f06-a903-47e5-8e13-7b5d55ff9427",

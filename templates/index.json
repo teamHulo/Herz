@@ -35,6 +35,18 @@
             "btn_name": "Zum Geschenke-Guide"
           }
         },
+        "item_CVq4Tq": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Oben_347c0580-0465-4e00-b885-c76813cbaace.jpg",
+            "img2": "shopify://shop_images/Mitte_5822973c-8b4c-4e8d-a387-42dab5cc363d.jpg",
+            "title": "Geschenke, die Kinderherzen höherschlagen lassen",
+            "text": "",
+            "url": "shopify://collections/weihnachtsgeschenke",
+            "btn_name": "Zu den Geschenken"
+          }
+        },
         "beb1387a-20df-4238-a01b-69c08fe7ba72": {
           "type": "item",
           "settings": {
@@ -201,6 +213,7 @@
       "block_order": [
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "67bececa-9c31-424d-a18a-4a49adda00b5",
+        "item_CVq4Tq",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_PYBx6f",

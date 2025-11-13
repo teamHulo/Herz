@@ -553,16 +553,6 @@
             "btn_name": "Mitbringsel finden"
           }
         },
-        "item_RDJDVL": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
-            "title": "Weltenbau und stundenlanges freies Spiel",
-            "text": "<p>Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie. Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.</p>",
-            "url": "shopify://collections/freies-spiel",
-            "btn_name": "Alles fürs freie Spiel"
-          }
-        },
         "item_kfnk9a": {
           "type": "item",
           "settings": {
@@ -603,6 +593,16 @@
             "btn_name": "Inspirieren lassen"
           }
         },
+        "item_RDJDVL": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
+            "title": "Weltenbau und stundenlanges freies Spiel",
+            "text": "<p>Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie. Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.</p>",
+            "url": "shopify://collections/freies-spiel",
+            "btn_name": "Alles fürs freie Spiel"
+          }
+        },
         "item_8PeDTn": {
           "type": "item",
           "settings": {
@@ -630,11 +630,11 @@
         "item_d3thnR",
         "item_MRqUzR",
         "item_DL76rn",
-        "item_RDJDVL",
         "item_kfnk9a",
         "item_ENeina",
         "item_pdmF6i",
         "item_jXDWYz",
+        "item_RDJDVL",
         "item_8PeDTn",
         "item_dK9gcB"
       ],

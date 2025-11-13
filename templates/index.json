@@ -574,7 +574,6 @@
         },
         "item_kfnk9a": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
             "title": "Adventskalender für Paare",
@@ -585,7 +584,6 @@
         },
         "item_pdmF6i": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Slider-Bild-Advent-Spirale-Grimms.jpg",
             "title": "Schöne Rituale im Advent",
@@ -596,7 +594,6 @@
         },
         "item_jXDWYz": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
             "title": "Weihnachtsgeschenke Guide",
@@ -618,7 +615,6 @@
         },
         "item_ENeina": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Infobild-Advent-Kalender.jpg",
             "title": "Adventskalender für Kinder",

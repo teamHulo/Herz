@@ -37,12 +37,12 @@
         },
         "item_CVq4Tq": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "img1": "shopify://shop_images/Oben_347c0580-0465-4e00-b885-c76813cbaace.jpg",
-            "img2": "shopify://shop_images/Mitte_5822973c-8b4c-4e8d-a387-42dab5cc363d.jpg",
+            "img1": "shopify://shop_images/Unten_2_9d6b39d3-e1e5-4484-8374-1b611a2f9241.jpg",
+            "img2": "shopify://shop_images/Mitte_2_718a7d11-39e0-4947-8c32-6f188129dc89.jpg",
+            "img3": "shopify://shop_images/Oben_2_832d22da-5712-405d-a08e-c88c955b2e2b.jpg",
             "title": "Geschenke, die Kinderherzen höherschlagen lassen",
-            "text": "",
+            "text": "<p>Schenken kann so viel mehr sein als nur eine Überraschung. Unsere Geschenkideen für Kinder verbinden Freude, Nachhaltigkeit und Sinn, für leuchtende Augen und glückliche Herzen.</p>",
             "url": "shopify://collections/weihnachtsgeschenke",
             "btn_name": "Zu den Geschenken"
           }

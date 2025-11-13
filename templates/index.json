@@ -522,6 +522,7 @@
         },
         "item_d3thnR": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Stillen-Stillkissen.jpg",
             "title": "Stillkissen & Co",
@@ -532,6 +533,7 @@
         },
         "item_MRqUzR": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Baby-Schlafsack.jpg",
             "title": "Für guten Babyschlaf",
@@ -553,6 +555,7 @@
         },
         "item_DL76rn": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Fridahild-Haarschmuck-Kinder-Haargummi-Haarschmuck-Stoff-1.webp",
             "title": "Hübsche Mitbringsel",

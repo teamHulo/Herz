@@ -542,16 +542,6 @@
             "btn_name": "Alles für den Babyschlaf"
           }
         },
-        "item_8PeDTn": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
-            "title": "Etwas Schönes für euer Zuhause",
-            "text": "<p>Ein Kletterdreieck, eine Schaukel oder ein Lern- und Spielturm sind Geschenke, die über viele Jahre Freude machen. Wenn sich mehrere Schenkende daran beteiligen, wird es ein sinnvolles Gemeinschaftsgeschenk.</p>",
-            "url": "shopify://collections/furs-kinderzimmer",
-            "btn_name": "Geschenke entdecken"
-          }
-        },
         "item_DL76rn": {
           "type": "item",
           "disabled": true,
@@ -583,6 +573,16 @@
             "btn_name": "Paarzeit verbringen"
           }
         },
+        "item_ENeina": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Advent-Kalender.jpg",
+            "title": "Adventskalender für Kinder",
+            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente? Oder einem Türchen-Kalender ohne Zahlen?</p>",
+            "url": "shopify://collections/adventskalender",
+            "btn_name": "Adventskalender"
+          }
+        },
         "item_pdmF6i": {
           "type": "item",
           "settings": {
@@ -603,6 +603,16 @@
             "btn_name": "Inspirieren lassen"
           }
         },
+        "item_8PeDTn": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
+            "title": "Etwas Schönes für euer Zuhause",
+            "text": "<p>Ein Kletterdreieck, eine Schaukel oder ein Lern- und Spielturm sind Geschenke, die über viele Jahre Freude machen. Wenn sich mehrere Schenkende daran beteiligen, wird es ein sinnvolles Gemeinschaftsgeschenk.</p>",
+            "url": "shopify://collections/furs-kinderzimmer",
+            "btn_name": "Geschenke entdecken"
+          }
+        },
         "item_dK9gcB": {
           "type": "item",
           "disabled": true,
@@ -613,30 +623,20 @@
             "url": "shopify://collections/wichtelzauber",
             "btn_name": "Wichtel einladen"
           }
-        },
-        "item_ENeina": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Advent-Kalender.jpg",
-            "title": "Adventskalender für Kinder",
-            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente? Oder einem Türchen-Kalender ohne Zahlen?</p>",
-            "url": "shopify://collections/adventskalender",
-            "btn_name": "Adventskalender"
-          }
         }
       },
       "block_order": [
         "item_YWtWKB",
         "item_d3thnR",
         "item_MRqUzR",
-        "item_8PeDTn",
         "item_DL76rn",
         "item_RDJDVL",
         "item_kfnk9a",
+        "item_ENeina",
         "item_pdmF6i",
         "item_jXDWYz",
-        "item_dK9gcB",
-        "item_ENeina"
+        "item_8PeDTn",
+        "item_dK9gcB"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",

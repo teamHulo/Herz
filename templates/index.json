@@ -544,7 +544,6 @@
         },
         "item_8PeDTn": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
             "title": "Etwas Schönes für euer Zuhause",
@@ -566,7 +565,6 @@
         },
         "item_RDJDVL": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
             "title": "Weltenbau und stundenlanges freies Spiel",

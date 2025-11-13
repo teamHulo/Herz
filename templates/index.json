@@ -75,10 +75,10 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify://shop_images/Infobild-Barfuss-Schuhe.jpg",
-            "img2": "shopify://shop_images/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
-            "img3": "shopify://shop_images/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
-            "title": "Barfuss-Schuhe",
+            "img1": "shopify://shop_images/Unten_3.jpg",
+            "img2": "shopify://shop_images/Mitte_3.jpg",
+            "img3": "shopify://shop_images/Oben_3_9b6cdfaa-19c6-45f4-92c2-63af80037861.jpg",
+            "title": "Warme Füsse im Winter",
             "text": "<p>Mach dich bereit für kalte Tage mit unseren Winterschuhen. Warm gefüttert und stylisch zugleich, halten sie deine Füsse kuschelig und schick. Egal ob Schneespaziergang oder Stadtbummel - mit diesen Schuhen ist dein Kind bestens gerüstet für den Winter!</p>",
             "url": "shopify://pages/barfuss-schuhe-fur-kinder",
             "btn_name": "Jetzt entdecken"

@@ -24,6 +24,18 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_BTFeaX": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Unten_3.jpg",
+            "img2": "shopify://shop_images/Mitte_3.jpg",
+            "img3": "shopify://shop_images/Oben_3_9b6cdfaa-19c6-45f4-92c2-63af80037861.jpg",
+            "title": "Winterglück für Kinderfüsse",
+            "text": "<p>Bereit für den Winter? Unsere warm gefütterten Winterschuhe halten kleine Füsse wohlig warm und sehen dabei einfach toll aus! Ob im Schnee, auf dem Spielplatz oder in der Stadt: Dein Kind ist mit ihnen rundum gut gerüstet für kalte Tage.</p>",
+            "url": "shopify://pages/barfuss-schuhe-fur-kinder",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "8fc6288d-372e-45df-a8da-4a794678a4f4": {
           "type": "item",
           "settings": {
@@ -57,18 +69,6 @@
             "text": "<p>Was soll ich meinem Kind nur anziehen? Gerade wenn die Temperaturen wieder sinken, fragen sich viele Eltern, ob ihr Kind warm genug eingepackt ist. Wir konnten über die Jahre hinweg zahlreiche Produkte und Materialien an unseren mittlerweile mehr als 10 eigenen Kindern testen und viele wertvolle Erfahrungen sammeln</p>",
             "url": "shopify://pages/warm-durch-herbst-winter",
             "btn_name": "Unsere Tipps"
-          }
-        },
-        "item_BTFeaX": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Unten_3.jpg",
-            "img2": "shopify://shop_images/Mitte_3.jpg",
-            "img3": "shopify://shop_images/Oben_3_9b6cdfaa-19c6-45f4-92c2-63af80037861.jpg",
-            "title": "Winterglück für Kinderfüsse",
-            "text": "<p>Bereit für den Winter? Unsere warm gefütterten Winterschuhe halten kleine Füsse wohlig warm und sehen dabei einfach toll aus! Ob im Schnee, auf dem Spielplatz oder in der Stadt: Dein Kind ist mit ihnen rundum gut gerüstet für kalte Tage.</p>",
-            "url": "shopify://pages/barfuss-schuhe-fur-kinder",
-            "btn_name": "Jetzt entdecken"
           }
         },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
@@ -224,10 +224,10 @@
       },
       "block_order": [
         "item_CVq4Tq",
+        "item_BTFeaX",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "67bececa-9c31-424d-a18a-4a49adda00b5",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
-        "item_BTFeaX",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_PYBx6f",
         "item_Jc9eFD",

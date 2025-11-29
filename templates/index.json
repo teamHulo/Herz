@@ -312,6 +312,16 @@
             "btn_name": "Adventskalender"
           }
         },
+        "item_8PeDTn": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
+            "title": "Etwas Schönes für euer Zuhause",
+            "text": "<p>Ein Kletterdreieck, eine Schaukel oder ein Lern- und Spielturm sind Geschenke, die über viele Jahre Freude machen. Wenn sich mehrere Schenkende daran beteiligen, wird es ein sinnvolles Gemeinschaftsgeschenk.</p>",
+            "url": "shopify://collections/furs-kinderzimmer",
+            "btn_name": "Geschenke entdecken"
+          }
+        },
         "item_pdmF6i": {
           "type": "item",
           "settings": {
@@ -342,16 +352,6 @@
             "btn_name": "Alles fürs freie Spiel"
           }
         },
-        "item_8PeDTn": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
-            "title": "Etwas Schönes für euer Zuhause",
-            "text": "<p>Ein Kletterdreieck, eine Schaukel oder ein Lern- und Spielturm sind Geschenke, die über viele Jahre Freude machen. Wenn sich mehrere Schenkende daran beteiligen, wird es ein sinnvolles Gemeinschaftsgeschenk.</p>",
-            "url": "shopify://collections/furs-kinderzimmer",
-            "btn_name": "Geschenke entdecken"
-          }
-        },
         "item_dK9gcB": {
           "type": "item",
           "disabled": true,
@@ -371,10 +371,10 @@
         "item_DL76rn",
         "item_kfnk9a",
         "item_ENeina",
+        "item_8PeDTn",
         "item_pdmF6i",
         "item_jXDWYz",
         "item_RDJDVL",
-        "item_8PeDTn",
         "item_dK9gcB"
       ],
       "settings": {

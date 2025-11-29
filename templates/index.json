@@ -570,16 +570,6 @@
     "section_slider_ennB3g": {
       "type": "section-slider",
       "blocks": {
-        "item_R3wwin": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Barfuss-Schuhe-Turnschuhe.jpg",
-            "title": "Übergangs-Schuhe",
-            "text": "<p>Entdecke unsere Auswahl an praktischen Alltagsschuhen aus Leder oder vegan, die Komfort und natürliche Bewegungsfreiheit für jede Jahreszeit bieten. </p>",
-            "url": "shopify://collections/halb-turnschuhe",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
         "item_wD89en": {
           "type": "item",
           "settings": {
@@ -589,11 +579,21 @@
             "url": "shopify://collections/warme-schuhe",
             "btn_name": "Jetzt entdecken"
           }
+        },
+        "item_R3wwin": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Barfuss-Schuhe-Turnschuhe.jpg",
+            "title": "Übergangs-Schuhe",
+            "text": "<p>Entdecke unsere Auswahl an praktischen Alltagsschuhen aus Leder oder vegan, die Komfort und natürliche Bewegungsfreiheit für jede Jahreszeit bieten. </p>",
+            "url": "shopify://collections/halb-turnschuhe",
+            "btn_name": "Jetzt entdecken"
+          }
         }
       },
       "block_order": [
-        "item_R3wwin",
-        "item_wD89en"
+        "item_wD89en",
+        "item_R3wwin"
       ],
       "settings": {}
     },

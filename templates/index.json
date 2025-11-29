@@ -312,6 +312,16 @@
             "btn_name": "Adventskalender"
           }
         },
+        "item_pdmF6i": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Advent-Spirale-Grimms.jpg",
+            "title": "Schöne Rituale im Advent",
+            "text": "<p>Feste & Rituale sind für Kinder wichtig für die Orientierung im Jahr. Um die Zeit bis Weihnachten sichtbar zu machen, könnt ihr eine Adventsspirale verwenden. Viele weitere Ideen findest du auf unserer Wissensseite dazu.</p>",
+            "url": "shopify://pages/themenseite",
+            "btn_name": "Adventsrituale"
+          }
+        },
         "item_8PeDTn": {
           "type": "item",
           "settings": {
@@ -327,19 +337,9 @@
           "settings": {
             "img": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
             "title": "Weihnachtsgeschenke Guide",
-            "text": "<p>Mit unseren Wissensseiten rund ums Familienleben bist du bestens vorbereitet Von Tipps, wie du dein Kind im Winter richtig und nachhaltig anziehst, über kreative Ideen für Advent & Weihnachten bis hin zu inspirierenden Geschenkideen. Unsere Ratgeber helfen dir, den Alltag entspannt, bewusst und liebevoll zu gestalten – für glückliche Kinder und eine nachhaltige Familienzeit.</p>",
+            "text": "<p>Unsere Wissensseiten rund ums Familienleben bereiten dich bestens vor, mit Tipps fürs nachhaltige Anziehen im Winter, Ideen für Advent und Weihnachten sowie inspirierenden Geschenkideen. Unsere Ratgeber unterstützen dich dabei, den Alltag entspannt und bewusst zu gestalten.</p>",
             "url": "shopify://pages/weihnachtsgeschenke-guide",
             "btn_name": "Inspirieren lassen"
-          }
-        },
-        "item_pdmF6i": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Advent-Spirale-Grimms.jpg",
-            "title": "Schöne Rituale im Advent",
-            "text": "<p>Feste & Rituale sind für Kinder wichtig für die Orientierung im Jahr. Um die Zeit bis Weihnachten sichtbar zu machen, könnt ihr eine Adventsspirale verwenden. Viele weitere Ideen findest du auf unserer Wissensseite dazu.</p>",
-            "url": "shopify://pages/themenseite",
-            "btn_name": "Adventsrituale"
           }
         },
         "item_RDJDVL": {
@@ -371,9 +371,9 @@
         "item_DL76rn",
         "item_kfnk9a",
         "item_ENeina",
+        "item_pdmF6i",
         "item_8PeDTn",
         "item_jXDWYz",
-        "item_pdmF6i",
         "item_RDJDVL",
         "item_dK9gcB"
       ],

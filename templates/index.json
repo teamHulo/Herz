@@ -417,7 +417,6 @@
         },
         "item_MDJQWT": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Infobild-ErsteSchuhe.jpg",
             "title": "Warme Barfuss-Schuhe",
@@ -428,7 +427,6 @@
         },
         "item_DYBGiU": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Collection-Kindermode-Muetzen.jpg",
             "title": "Mützen",
@@ -439,7 +437,6 @@
         },
         "item_PbJV4p": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Collection-Kindermode-Strumphosen-socken.jpg",
             "title": "Strumpfhosen & Socken aus Wolle",

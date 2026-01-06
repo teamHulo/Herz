@@ -14,6 +14,7 @@
       "blocks": {
         "item_CVq4Tq": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Unten_2_9d6b39d3-e1e5-4484-8374-1b611a2f9241.jpg",
             "img2": "shopify://shop_images/Mitte_2_718a7d11-39e0-4947-8c32-6f188129dc89.jpg",
@@ -38,6 +39,7 @@
         },
         "8fc6288d-372e-45df-a8da-4a794678a4f4": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Start-Silder-Advent1.jpg",
             "img2": "shopify://shop_images/Start-Silder-Advent2_b327cc0d-dbd7-4f3d-ac8a-3f700a78ac0e.jpg",
@@ -50,6 +52,7 @@
         },
         "67bececa-9c31-424d-a18a-4a49adda00b5": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Oben_347c0580-0465-4e00-b885-c76813cbaace.jpg",
             "img2": "shopify://shop_images/Mitte_5822973c-8b4c-4e8d-a387-42dab5cc363d.jpg",

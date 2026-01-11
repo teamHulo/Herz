@@ -251,7 +251,6 @@
       "blocks": {
         "item_YWtWKB": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Wolle-Seide-Babykleider.jpg",
             "title": "Wolle-Seide Kleidung",
@@ -273,7 +272,6 @@
         },
         "item_MRqUzR": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Baby-Schlafsack.jpg",
             "title": "Für guten Babyschlaf",
@@ -284,7 +282,6 @@
         },
         "item_DL76rn": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Fridahild-Haarschmuck-Kinder-Haargummi-Haarschmuck-Stoff-1.webp",
             "title": "Hübsche Mitbringsel",

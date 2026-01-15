@@ -295,120 +295,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_Xbnawt": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_9KwUti": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Jahreszeiten, Feste & Rituale in der Familie</h2><h4>Kinder durch das Jahr begleiten</h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Geburtstage und andere Feste für dein Kind unvergesslich gestalten und die Jahreszeit zuhause sichtbar machen kannst (und warum das eine gute Idee ist) erfährst du auf dieser Seite.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_K9Vxbn": {
-          "type": "button",
-          "settings": {
-            "button_label": "Jahreszeiten, Feste & Rituale in der Familie",
-            "button_link": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_9KwUti",
-        "button_K9Vxbn"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/infobild-grimms-feste-rituale.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_Nm3mGq": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_LnGMYF": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Advent & Co mit Kindern</h2><h4>Feste und Rituale zu Advent, Weihnachten und Jahreswechsel in der Familie</h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_gM4WAY": {
-          "type": "button",
-          "settings": {
-            "button_label": "Feste & Rituale",
-            "button_link": "shopify://pages/themenseite",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_LnGMYF",
-        "button_gM4WAY"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Infobild-Advent-Weihnachten-gestalten_14012f06-1770-4441-8737-7f588978ebf2.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_NKbETw": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_mGVtXL": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Weihnachtsgeschenke-Guide</h2><h4>Geschenke, die Freude machen</h4><p>Vor Weihnachten beginnt die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_Kheyg9": {
-          "type": "button",
-          "settings": {
-            "button_label": "Weihnachtsgeschenke Guide",
-            "button_link": "shopify://pages/weihnachtsgeschenke-guide",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_mGVtXL",
-        "button_Kheyg9"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_egtY7C": {
       "type": "image-with-text",
       "blocks": {
@@ -447,31 +333,31 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_aaPfHF": {
+    "image_with_text_Xbnawt": {
       "type": "image-with-text",
       "blocks": {
-        "text_CmmVDe": {
+        "text_9KwUti": {
           "type": "text",
           "settings": {
-            "text": "<h2>Geschenke zur Geburt</h2><h4>Was schenken zur Geburt?</h4><p>Du bist auf der Suche nach einem passenden Geschenk für frischgebackene junge Familien? Wir zeigen dir, worauf es ankommt und haben unsere besten Ideen für dich zusammengestellt.</p>",
+            "text": "<h2>Jahreszeiten, Feste & Rituale in der Familie</h2><h4>Kinder durch das Jahr begleiten</h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Geburtstage und andere Feste für dein Kind unvergesslich gestalten und die Jahreszeit zuhause sichtbar machen kannst (und warum das eine gute Idee ist) erfährst du auf dieser Seite.</p>",
             "text_style": "body"
           }
         },
-        "button_xFkVw4": {
+        "button_K9Vxbn": {
           "type": "button",
           "settings": {
-            "button_label": "Geschenke zur Geburt",
-            "button_link": "shopify://pages/geschenke-zur-geburt",
+            "button_label": "Jahreszeiten, Feste & Rituale in der Familie",
+            "button_link": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "text_CmmVDe",
-        "button_xFkVw4"
+        "text_9KwUti",
+        "button_K9Vxbn"
       ],
       "settings": {
-        "image": "shopify://shop_images/infobild-geschenk.jpg",
+        "image": "shopify://shop_images/infobild-grimms-feste-rituale.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -599,6 +485,120 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_aaPfHF": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_CmmVDe": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Geschenke zur Geburt</h2><h4>Was schenken zur Geburt?</h4><p>Du bist auf der Suche nach einem passenden Geschenk für frischgebackene junge Familien? Wir zeigen dir, worauf es ankommt und haben unsere besten Ideen für dich zusammengestellt.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_xFkVw4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Geschenke zur Geburt",
+            "button_link": "shopify://pages/geschenke-zur-geburt",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_CmmVDe",
+        "button_xFkVw4"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/infobild-geschenk.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_Nm3mGq": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_LnGMYF": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Advent & Co mit Kindern</h2><h4>Feste und Rituale zu Advent, Weihnachten und Jahreswechsel in der Familie</h4><p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_gM4WAY": {
+          "type": "button",
+          "settings": {
+            "button_label": "Feste & Rituale",
+            "button_link": "shopify://pages/themenseite",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_LnGMYF",
+        "button_gM4WAY"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Infobild-Advent-Weihnachten-gestalten_14012f06-1770-4441-8737-7f588978ebf2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_NKbETw": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_mGVtXL": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Weihnachtsgeschenke-Guide</h2><h4>Geschenke, die Freude machen</h4><p>Vor Weihnachten beginnt die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_Kheyg9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Weihnachtsgeschenke Guide",
+            "button_link": "shopify://pages/weihnachtsgeschenke-guide",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_mGVtXL",
+        "button_Kheyg9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_Ybbnah": {
       "type": "image-with-text",
       "blocks": {
@@ -647,13 +647,13 @@
     "image_with_text_AmNqdA",
     "image_with_text_3QLkBQ",
     "image_with_text_9jmtCV",
+    "image_with_text_Xbnawt",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "image_with_text_egtY7C",
     "image_with_text_GpFBQw",
     "image_with_text_dXeC47",
     "image_with_text_74aqmp",
     "image_with_text_aaPfHF",
-    "image_with_text_Xbnawt",
     "image_with_text_Nm3mGq",
     "image_with_text_NKbETw",
     "image_with_text_Ybbnah"

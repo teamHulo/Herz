@@ -257,6 +257,44 @@
         "padding_bottom": 36
       }
     },
+    "01bd0c23-c272-4bfe-9a96-88558e4ef1f1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Erstaustattung</h2><h4>Was braucht ein Baby wirklich?</h4><p>Im Internet kursieren überall Listen, was du so alles anschaffen sollst, wenn du ein Baby erwartest. Vieles davon ist allerdings ziemlich unnötig oder kann warten. Wir zeigen dir, worauf es ankommt, was du wirklich brauchst und was nicht.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_GjQzzT": {
+          "type": "button",
+          "settings": {
+            "button_label": "Erstausstattung",
+            "button_link": "shopify://pages/erstausstattung",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1",
+        "button_GjQzzT"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Infobild-Erstausstattung.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_Xbnawt": {
       "type": "image-with-text",
       "blocks": {
@@ -358,44 +396,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "01bd0c23-c272-4bfe-9a96-88558e4ef1f1": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Erstaustattung</h2><h4>Was braucht ein Baby wirklich?</h4><p>Im Internet kursieren überall Listen, was du so alles anschaffen sollst, wenn du ein Baby erwartest. Vieles davon ist allerdings ziemlich unnötig oder kann warten. Wir zeigen dir, worauf es ankommt, was du wirklich brauchst und was nicht.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_GjQzzT": {
-          "type": "button",
-          "settings": {
-            "button_label": "Erstausstattung",
-            "button_link": "shopify://pages/erstausstattung",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1",
-        "button_GjQzzT"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Infobild-Erstausstattung.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -647,15 +647,15 @@
     "image_with_text_AmNqdA",
     "image_with_text_3QLkBQ",
     "image_with_text_9jmtCV",
-    "image_with_text_Xbnawt",
-    "image_with_text_Nm3mGq",
-    "image_with_text_NKbETw",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "image_with_text_egtY7C",
-    "image_with_text_aaPfHF",
     "image_with_text_GpFBQw",
     "image_with_text_dXeC47",
     "image_with_text_74aqmp",
+    "image_with_text_aaPfHF",
+    "image_with_text_Xbnawt",
+    "image_with_text_Nm3mGq",
+    "image_with_text_NKbETw",
     "image_with_text_Ybbnah"
   ]
 }

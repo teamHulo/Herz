@@ -12,18 +12,6 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "item_Jc9eFD": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
-            "img2": "shopify://shop_images/info-erkaeltung-kind_Klein.jpg",
-            "img3": "shopify://shop_images/infobild-mama-baby-nackt_Kopie.jpg",
-            "title": "Erkältungen natürlich begleiten",
-            "text": "<p>Wenn kleine Kinder erkältet sind, ist das für uns Eltern oft schlimm mitanzusehen. Die Naturheilkunde bietet sanfte Möglichkeiten dein Kind bei einer Erkältung zu unterstützen. Wir haben für euch unsere besten Tipps zusammengestellt.</p>",
-            "url": "https://herzanherz-shop.ch/pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
-            "btn_name": "Mehr erfahren"
-          }
-        },
         "item_wkJFCy": {
           "type": "item",
           "settings": {
@@ -34,6 +22,18 @@
             "text": "<p>Bei uns findest du alles, was dein Kind in den verschiedenen Phasen des Aufwachsens stärkt und begleitet. Von sorgfältig ausgewählten Produkten für Schlaf, Tragen, Essen und Spielen bis hin zu Wissen, <a href=\"https://www.herzanherz.ch/kurse/\" target=\"_blank\" title=\"https://www.herzanherz.ch/kurse/\">Kursen</a> und persönlicher <a href=\"https://www.herzanherz.ch/beratungen/\" target=\"_blank\" title=\"https://www.herzanherz.ch/beratungen/\">Beratung</a> – wir denken Wohlbefinden ganzheitlich. Uns ist wichtig, dass Kinder sich sicher, gesehen und geborgen fühlen dürfen und dass Eltern im Alltag Unterstützung finden, die stärkt statt verunsichert. </p>",
             "url": "shopify://collections",
             "btn_name": "Alles für die Babyzeit"
+          }
+        },
+        "item_Jc9eFD": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
+            "img2": "shopify://shop_images/info-erkaeltung-kind_Klein.jpg",
+            "img3": "shopify://shop_images/infobild-mama-baby-nackt_Kopie.jpg",
+            "title": "Erkältungen natürlich begleiten",
+            "text": "<p>Wenn kleine Kinder erkältet sind, ist das für uns Eltern oft schlimm mitanzusehen. Die Naturheilkunde bietet sanfte Möglichkeiten dein Kind bei einer Erkältung zu unterstützen. Wir haben für euch unsere besten Tipps zusammengestellt.</p>",
+            "url": "https://herzanherz-shop.ch/pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
+            "btn_name": "Mehr erfahren"
           }
         },
         "item_PYBx6f": {
@@ -247,8 +247,8 @@
         }
       },
       "block_order": [
-        "item_Jc9eFD",
         "item_wkJFCy",
+        "item_Jc9eFD",
         "item_PYBx6f",
         "item_BTFeaX",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",

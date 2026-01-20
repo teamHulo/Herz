@@ -96,15 +96,6 @@
             "btn_name": "Jetzt entdecken"
           }
         },
-        "item_3eY6aF": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "text": "",
-            "url": "",
-            "btn_name": "LEarn more"
-          }
-        },
         "item_iFhkhf": {
           "type": "item",
           "settings": {
@@ -254,7 +245,6 @@
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
-        "item_3eY6aF",
         "item_iFhkhf",
         "item_WxFtCe",
         "item_8xqrhQ",

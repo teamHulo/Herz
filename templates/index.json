@@ -12,6 +12,19 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "item_TYg9jc": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Sommer_Sale_oben_ceccad4d-fa78-4f8c-bba2-79d079220c5c.jpg",
+            "img2": "shopify://shop_images/Sale_mitte.jpg",
+            "img3": "shopify://shop_images/Bild_unten_5422cf15-722b-4e1b-b10e-a8f42646eb16.jpg",
+            "title": "Grosser Winter Sale",
+            "text": "<p>Viele Winterartikel aus Wolle warten auf dich: Kuschelig, nachhaltig und perfekt für die kalte Saison. Mit <strong>30% Rabatt auf viele Topmarken</strong> sparst du jetzt richtig.</p>",
+            "url": "shopify://collections/sale",
+            "btn_name": "Jetzt profitieren"
+          }
+        },
         "item_wkJFCy": {
           "type": "item",
           "settings": {
@@ -238,6 +251,7 @@
         }
       },
       "block_order": [
+        "item_TYg9jc",
         "item_wkJFCy",
         "item_Jc9eFD",
         "item_PYBx6f",

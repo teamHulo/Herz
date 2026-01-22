@@ -12,6 +12,19 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "item_TYg9jc": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Bild-link.jpg",
+            "img2": "shopify://shop_images/Bild_mitte_d036fadd-f856-4945-af83-963ca3169a97.jpg",
+            "img3": "shopify://shop_images/Bild_unten_5422cf15-722b-4e1b-b10e-a8f42646eb16.jpg",
+            "title": "Grosser Winter Sale",
+            "text": "<p>Viele Winterartikel aus Wolle warten auf dich: Kuschelig, nachhaltig und perfekt für die kalte Saison. Mit <strong>30% Rabatt auf viele Topmarken</strong> sparst du jetzt richtig. Jetzt zugreifen und Lieblingsstücke sichern.</p>",
+            "url": "shopify://collections/sale",
+            "btn_name": "Jetzt profitieren"
+          }
+        },
         "item_wkJFCy": {
           "type": "item",
           "settings": {
@@ -22,19 +35,6 @@
             "text": "<p>Bei uns findest du alles, was dein Kind in den verschiedenen Phasen des Aufwachsens stärkt und begleitet. Von sorgfältig ausgewählten Produkten für Schlaf, Tragen, Essen und Spielen bis hin zu Wissen, <a href=\"https://www.herzanherz.ch/kurse/\" target=\"_blank\" title=\"https://www.herzanherz.ch/kurse/\">Kursen</a> und persönlicher <a href=\"https://www.herzanherz.ch/beratungen/\" target=\"_blank\" title=\"https://www.herzanherz.ch/beratungen/\">Beratung</a> : Wir denken Wohlbefinden ganzheitlich. Uns ist wichtig, dass Kinder sich sicher, gesehen und geborgen fühlen dürfen und dass Eltern im Alltag Unterstützung finden, die stärkt statt verunsichert. </p>",
             "url": "https://herzanherz-shop.ch/collections/babyzeit",
             "btn_name": "Alles für die Babyzeit"
-          }
-        },
-        "item_TYg9jc": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Bild-link.jpg",
-            "img2": "shopify://shop_images/Bild_mitte_d036fadd-f856-4945-af83-963ca3169a97.jpg",
-            "img3": "shopify://shop_images/Bild_unten_5422cf15-722b-4e1b-b10e-a8f42646eb16.jpg",
-            "title": "Grosser Winter Sale",
-            "text": "<p>Viele Winterartikel aus Wolle warten auf dich: Kuschelig, nachhaltig und perfekt für die kalte Saison. Mit <strong>30% Rabatt auf viele Topmarken</strong> sparst du jetzt richtig.</p>",
-            "url": "shopify://collections/sale",
-            "btn_name": "Jetzt profitieren"
           }
         },
         "item_Jc9eFD": {
@@ -251,8 +251,8 @@
         }
       },
       "block_order": [
-        "item_wkJFCy",
         "item_TYg9jc",
+        "item_wkJFCy",
         "item_Jc9eFD",
         "item_PYBx6f",
         "item_BTFeaX",

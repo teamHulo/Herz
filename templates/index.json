@@ -26,6 +26,7 @@
         },
         "item_TYg9jc": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Bild-link.jpg",
             "img2": "shopify://shop_images/Bild_mitte_d036fadd-f856-4945-af83-963ca3169a97.jpg",

@@ -16,7 +16,6 @@
       "blocks": {
         "announcement_9kMrpi": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "❄️ Grosser WINTER SALE ❄️",
             "link": ""
@@ -24,6 +23,7 @@
         },
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Herzlich Willkommen bei ❤️ an ❤️",
             "link": ""

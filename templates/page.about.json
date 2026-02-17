@@ -32,14 +32,6 @@
     "591cf3fa-c46a-4347-90c3-10ffaa7815f1": {
       "type": "section-our-team",
       "blocks": {
-        "0d00a222-aa0c-4c8b-aa88-5bfe8def0963": {
-          "type": "person",
-          "settings": {
-            "ava": "shopify://shop_images/Team_Anita.png",
-            "name": "Anita",
-            "text": "Gründerin, Geschäftsführerin, Coach für Geburtsvorbereitung, Trageberaterin, Babyschlaf-Coach und Mama"
-          }
-        },
         "c8394d23-9764-4513-aa47-49c63d237f3e": {
           "type": "person",
           "settings": {
@@ -58,7 +50,6 @@
         }
       },
       "block_order": [
-        "0d00a222-aa0c-4c8b-aa88-5bfe8def0963",
         "c8394d23-9764-4513-aa47-49c63d237f3e",
         "a7e72277-935e-463c-97b3-335ba595dda4"
       ],

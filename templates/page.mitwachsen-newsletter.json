@@ -30,7 +30,7 @@
         "text_H6RLUf": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Herz an Herz durch die Babyzeit:</strong> Monatlich wertvolles Fachwissen, Entwicklungsimpulse, praktische Tipps und liebevolle Inspiration – genau passend zum Alter deines Kindes.</p><p></p><p><strong>Jetzt anmelden & 50.- gewinnen!</strong></p>",
+            "text": "<p><strong>Herz an Herz durch die Babyzeit:</strong> Monatlich wertvolles Fachwissen, Entwicklungsimpulse, praktische Tipps und liebevolle Inspiration – genau passend zum Alter deines Kindes.</p>",
             "text_style": "body"
           }
         }
@@ -118,6 +118,7 @@
         "heading_aEjNCc",
         "text_Q7D9WY"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",

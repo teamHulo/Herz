@@ -38,6 +38,18 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_CVq4Tq": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Slider_links.jpg",
+            "img2": "shopify://shop_images/Mitte_2_718a7d11-39e0-4947-8c32-6f188129dc89.jpg",
+            "img3": "shopify://shop_images/Oben_2_832d22da-5712-405d-a08e-c88c955b2e2b.jpg",
+            "title": "Mit allen Sinnen spielen",
+            "text": "<p>Spielen ist Lernen, Entdecken und Wachsen. In unserem sorgfältig ausgewählten Sortiment findest du nachhaltige Spielsachen für Babys und Kleinkinder, die Fantasie, Motorik und Selbstständigkeit fördern. Hochwertige Materialien, zeitloses Design und eine bewusste Auswahl stehen bei uns im Mittelpunkt. Für Spielmomente, die Freude machen und lange begleiten. 💛</p>",
+            "url": "shopify://collections/nachhaltige-spielsachen",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_wkJFCy": {
           "type": "item",
           "settings": {
@@ -60,18 +72,6 @@
             "text": "<p>Viele Winterartikel aus Wolle, warme Barfussschuhe und weitere Winterbegleiter warten auf dich – kuschelig, nachhaltig und perfekt für die kalte Jahreszeit. Sichere dir jetzt 30 % Rabatt auf viele Topmarken und spare richtig. Jetzt zugreifen und Lieblingsstücke sichern.</p>",
             "url": "shopify://collections/sale",
             "btn_name": "Jetzt profitieren"
-          }
-        },
-        "item_CVq4Tq": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Slider_links.jpg",
-            "img2": "shopify://shop_images/Mitte_2_718a7d11-39e0-4947-8c32-6f188129dc89.jpg",
-            "img3": "shopify://shop_images/Oben_2_832d22da-5712-405d-a08e-c88c955b2e2b.jpg",
-            "title": "Mit allen Sinnen spielen",
-            "text": "<p>Spielen ist Lernen, Entdecken und Wachsen. In unserem sorgfältig ausgewählten Sortiment findest du nachhaltige Spielsachen für Babys und Kleinkinder, die Fantasie, Motorik und Selbstständigkeit fördern. Hochwertige Materialien, zeitloses Design und eine bewusste Auswahl stehen bei uns im Mittelpunkt. Für Spielmomente, die Freude machen und lange begleiten. 💛</p>",
-            "url": "shopify://collections/nachhaltige-spielsachen",
-            "btn_name": "Jetzt entdecken"
           }
         },
         "item_Jc9eFD": {
@@ -252,9 +252,9 @@
       "block_order": [
         "item_Jwex7b",
         "item_DxngTX",
+        "item_CVq4Tq",
         "item_wkJFCy",
         "item_TYg9jc",
-        "item_CVq4Tq",
         "item_Jc9eFD",
         "item_PYBx6f",
         "item_BTFeaX",

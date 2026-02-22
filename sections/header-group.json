@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_9kMrpi": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "❄️ Grosser WINTER SALE ❄️",
             "link": ""
@@ -30,6 +31,7 @@
         },
         "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Besuche unseren Laden in Winterthur",
             "link": "https://herzanherz.ch"

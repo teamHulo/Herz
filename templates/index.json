@@ -62,6 +62,18 @@
             "btn_name": "Jetzt profitieren"
           }
         },
+        "item_CVq4Tq": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Slider_links.jpg",
+            "img2": "shopify://shop_images/Mitte_2_718a7d11-39e0-4947-8c32-6f188129dc89.jpg",
+            "img3": "shopify://shop_images/Oben_2_832d22da-5712-405d-a08e-c88c955b2e2b.jpg",
+            "title": "Mit allen Sinnen spielen",
+            "text": "<p>Spielen ist Lernen, Entdecken und Wachsen. In unserem sorgfältig ausgewählten Sortiment findest du nachhaltige Spielsachen für Babys und Kleinkinder, die Fantasie, Motorik und Selbstständigkeit fördern. Hochwertige Materialien, zeitloses Design und eine bewusste Auswahl stehen bei uns im Mittelpunkt. Für Spielmomente, die Freude machen und lange begleiten. 💛</p>",
+            "url": "shopify://collections/nachhaltige-spielsachen",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_Jc9eFD": {
           "type": "item",
           "settings": {
@@ -185,19 +197,6 @@
             "btn_name": "Jetzt entdecken"
           }
         },
-        "item_CVq4Tq": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Unten_2_9d6b39d3-e1e5-4484-8374-1b611a2f9241.jpg",
-            "img2": "shopify://shop_images/Mitte_2_718a7d11-39e0-4947-8c32-6f188129dc89.jpg",
-            "img3": "shopify://shop_images/Oben_2_832d22da-5712-405d-a08e-c88c955b2e2b.jpg",
-            "title": "Spielsachen mit Sinn und Herz",
-            "text": "<p>Schenken kann so viel mehr sein als nur eine Überraschung. Unsere Geschenkideen für Kinder verbinden Freude, Nachhaltigkeit und Sinn, für leuchtende Augen und glückliche Herzen.</p>",
-            "url": "shopify://collections/weihnachtsgeschenke",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
         "67bececa-9c31-424d-a18a-4a49adda00b5": {
           "type": "item",
           "disabled": true,
@@ -255,6 +254,7 @@
         "item_DxngTX",
         "item_wkJFCy",
         "item_TYg9jc",
+        "item_CVq4Tq",
         "item_Jc9eFD",
         "item_PYBx6f",
         "item_BTFeaX",
@@ -265,7 +265,6 @@
         "item_WxFtCe",
         "item_8xqrhQ",
         "item_c8wF6m",
-        "item_CVq4Tq",
         "67bececa-9c31-424d-a18a-4a49adda00b5",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "item_wxaVcg",

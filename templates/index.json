@@ -12,6 +12,32 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "item_Jwex7b": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/unten_2_63366898-c22c-44f8-b197-82f74d27dc1d.jpg",
+            "img2": "shopify://shop_images/Bild_mitte_Fuesse.jpg",
+            "img3": "shopify://shop_images/Bild_links.jpg",
+            "title": "Leichtigkeit für kleine Füsse",
+            "text": "<p>Gerade bei Kindern, deren Füsse sich noch im Wachstum befinden, ist es besonders wichtig, darauf zu achten, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Barfuss-Schuhen erfüllt diese Anforderungen – sie sind weich, flexibel und haben eine breite Zehenbox. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
+            "url": "shopify://collections/barfuss-schuhe",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_DxngTX": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/unten_2_63366898-c22c-44f8-b197-82f74d27dc1d.jpg",
+            "img2": "shopify://shop_images/Mitte_2_6c8b1912-26b8-44c4-bff7-3d735fcb4e51.jpg",
+            "img3": "shopify://shop_images/oben_3.jpg",
+            "title": "Die Füsse wollen den Frühling spüren",
+            "text": "<p>Gerade bei Kindern, deren Füsse sich noch im Wachstum befinden, ist es besonders wichtig, darauf zu achten, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Barfuss-Schuhen erfüllt diese Anforderungen – sie sind weich, flexibel und haben eine breite Zehenbox. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
+            "url": "shopify://collections/barfuss-schuhe",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_TYg9jc": {
           "type": "item",
           "settings": {
@@ -62,6 +88,7 @@
         },
         "item_BTFeaX": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Unten_3.jpg",
             "img2": "shopify://shop_images/Mitte_3.jpg",
@@ -196,19 +223,6 @@
             "btn_name": "Mehr zum Thema"
           }
         },
-        "item_Jwex7b": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/unten_2_63366898-c22c-44f8-b197-82f74d27dc1d.jpg",
-            "img2": "shopify://shop_images/Bild_mitte_Fuesse.jpg",
-            "img3": "shopify://shop_images/Bild_links.jpg",
-            "title": "Leichtigkeit für kleine Füsse",
-            "text": "<p>Gerade bei Kindern, deren Füsse sich noch im Wachstum befinden, ist es besonders wichtig, darauf zu achten, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Barfuss-Schuhen erfüllt diese Anforderungen – sie sind weich, flexibel und haben eine breite Zehenbox. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
-            "url": "shopify://collections/barfuss-schuhe",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
         "item_wxaVcg": {
           "type": "item",
           "disabled": true,
@@ -234,22 +248,11 @@
             "url": "shopify://collections/wickeln",
             "btn_name": "Jetzt profitieren"
           }
-        },
-        "item_DxngTX": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/unten_2_63366898-c22c-44f8-b197-82f74d27dc1d.jpg",
-            "img2": "shopify://shop_images/Mitte_2_6c8b1912-26b8-44c4-bff7-3d735fcb4e51.jpg",
-            "img3": "shopify://shop_images/oben_3.jpg",
-            "title": "Die Füsse wollen den Frühling spüren",
-            "text": "<p>Gerade bei Kindern, deren Füsse sich noch im Wachstum befinden, ist es besonders wichtig, darauf zu achten, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Barfuss-Schuhen erfüllt diese Anforderungen – sie sind weich, flexibel und haben eine breite Zehenbox. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
-            "url": "shopify://collections/barfuss-schuhe",
-            "btn_name": "Jetzt entdecken"
-          }
         }
       },
       "block_order": [
+        "item_Jwex7b",
+        "item_DxngTX",
         "item_TYg9jc",
         "item_wkJFCy",
         "item_Jc9eFD",
@@ -265,10 +268,8 @@
         "item_CVq4Tq",
         "67bececa-9c31-424d-a18a-4a49adda00b5",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
-        "item_Jwex7b",
         "item_wxaVcg",
-        "item_NthYMr",
-        "item_DxngTX"
+        "item_NthYMr"
       ],
       "settings": {}
     },

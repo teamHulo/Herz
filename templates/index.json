@@ -12,28 +12,14 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "item_Jwex7b": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/unten_2_63366898-c22c-44f8-b197-82f74d27dc1d.jpg",
-            "img2": "shopify://shop_images/Bild_mitte_Fuesse.jpg",
-            "img3": "shopify://shop_images/Bild_links.jpg",
-            "title": "Leichtigkeit für kleine Füsse",
-            "text": "<p>Gerade bei Kindern, deren Füsse sich noch im Wachstum befinden, ist es besonders wichtig, darauf zu achten, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Barfuss-Schuhen erfüllt diese Anforderungen – sie sind weich, flexibel und haben eine breite Zehenbox. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
-            "url": "shopify://collections/barfuss-schuhe",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
         "item_DxngTX": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Links.jpg",
             "img2": "shopify://shop_images/MItte_9e029b0d-138d-4982-8eb5-cba1973b3155.jpg",
             "img3": "shopify://shop_images/Rechts.jpg",
             "title": "Leicht, flexibel und perfekt für wärmere Tage",
-            "text": "<p>Gerade bei Kindern, deren Füsse sich noch im Wachstum befinden, ist es besonders wichtig, darauf zu achten, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Barfuss-Schuhen erfüllt diese Anforderungen – sie sind weich, flexibel und haben eine breite Zehenbox. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
+            "text": "<p>Wachsende Kinderfüsse brauchen Bewegungsfreiheit. Unsere neuen Barfuss-Schuhe für den Frühling sind weich, flexibel und mit breiter Zehenbox gestaltet: Für eine natürliche Entwicklung und unbeschwerte Abenteuer an wärmeren Tagen. 💛</p>",
             "url": "shopify://collections/barfuss-schuhe",
             "btn_name": "Jetzt entdecken"
           }
@@ -251,7 +237,6 @@
         }
       },
       "block_order": [
-        "item_Jwex7b",
         "item_DxngTX",
         "item_CVq4Tq",
         "item_wkJFCy",

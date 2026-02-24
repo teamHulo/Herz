@@ -15,11 +15,11 @@
         "item_DxngTX": {
           "type": "item",
           "settings": {
-            "img1": "shopify://shop_images/Links.jpg",
+            "img1": "shopify://shop_images/Rechts.jpg",
             "img2": "shopify://shop_images/MItte_9e029b0d-138d-4982-8eb5-cba1973b3155.jpg",
-            "img3": "shopify://shop_images/Rechts.jpg",
+            "img3": "shopify://shop_images/Links.jpg",
             "title": "Leicht, flexibel und perfekt für wärmere Tage",
-            "text": "<p>Gerade bei Kindern, deren Füsse noch wachsen, ist es besonders wichtig, dass Schuhe die natürliche Entwicklung nicht einschränken. Unsere Frühlingsneuheiten erfüllen genau diese Anforderungen: Weich, flexibel und mit breiter Zehenbox für viel Bewegungsfreiheit. Für eine natürliche Entwicklung und unbeschwerte Abenteuer an sonnigen Tagen. 💛</p>",
+            "text": "<p>Gerade bei Kindern, deren Füsse noch wachsen, ist es besonders wichtig, dass Schuhe die natürliche Entwicklung nicht einschränken. Unsere Frühlingsneuheiten erfüllen genau diese Anforderungen: Weich, flexibel und mit breiter Zehenbox für viel Bewegungsfreiheit. So sind kleine Füsse bereit für Spielplatz, Waldspaziergänge und warme Frühlingstage </p>",
             "url": "shopify://collections/barfuss-schuhe",
             "btn_name": "Jetzt entdecken"
           }

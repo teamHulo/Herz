@@ -271,16 +271,6 @@
             "btn_name": "Jetzt entdecken"
           }
         },
-        "item_6XDWwm": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Disana_Schlafsack.jpg",
-            "title": "Schlafsäcke",
-            "text": "<p>Wenn die Nächte wärmer werden, sind leichtere Schlafsäcke die ideale Wahl. Unsere Modelle aus Musselin, Bambusviskose oder Wolle sorgen für ein angenehmes Schlafklima und begleiten dein Baby sanft durch die Frühlings und Sommerzeit. Die atmungsaktiven Materialien wirken temperaturausgleichend und bieten Geborgenheit, ohne zu überhitzen. Für ruhige Nächte und erholsamen Schlaf, ganz natürlich.</p>",
-            "url": "shopify://collections/schlafsacke",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
         "item_XRbJ6J": {
           "type": "item",
           "settings": {
@@ -289,6 +279,16 @@
             "text": "<p>Stulpen und leichte Mützen aus Wolle/Seide sind das ideale Extra für wechselhafte Frühlingstage. Sie wärmen sanft, wenn es morgens noch frisch ist, und schützen empfindliche Haut vor Wind und kühler Luft. Dank der natürlichen Fasern sind sie besonders atmungsaktiv und temperaturausgleichend, sodass es weder zu warm noch zu kühl wird. Ein unkomplizierter Begleiter für Klein & Gross.</p>",
             "url": "shopify://collections/pickapooh-herbst-winter",
             "btn_name": "Mützen & Stulpen"
+          }
+        },
+        "item_6XDWwm": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Disana_Schlafsack.jpg",
+            "title": "Schlafsäcke",
+            "text": "<p>Wenn die Nächte wärmer werden, sind leichtere Schlafsäcke die ideale Wahl. Unsere Modelle aus Musselin, Bambusviskose oder Wolle sorgen für ein angenehmes Schlafklima und begleiten dein Baby sanft durch die Frühlings und Sommerzeit. Die atmungsaktiven Materialien wirken temperaturausgleichend und bieten Geborgenheit, ohne zu überhitzen. Für ruhige Nächte und erholsamen Schlaf, ganz natürlich.</p>",
+            "url": "shopify://collections/schlafsacke",
+            "btn_name": "Jetzt entdecken"
           }
         },
         "item_RKNkGi": {
@@ -379,8 +379,8 @@
       },
       "block_order": [
         "item_taMpWb",
-        "item_6XDWwm",
         "item_XRbJ6J",
+        "item_6XDWwm",
         "item_RKNkGi",
         "item_qcaWnE",
         "item_VrDnVb",

@@ -303,6 +303,7 @@
         },
         "item_z66qYR": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
             "title": "Wollkleidung von Disana",
@@ -313,6 +314,7 @@
         },
         "item_r87mja": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Infobild_DeColores-Pulswaermer.jpg",
             "title": "Praktische Accessoires",

@@ -321,6 +321,16 @@
             "btn_name": "Stulpen & Pulswärmer"
           }
         },
+        "item_XRbJ6J": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Stulpen_Pickapooh.webp",
+            "title": "Praktische Accessoires",
+            "text": "<p>Stulpen und leichte Mützen aus Wolle/Seide sind das ideale Extra für wechselhafte Frühlingstage. Sie wärmen sanft, wenn es morgens noch frisch ist, und sind dank der natürlichen Materialien besonders atmungsaktiv und temperaturausgleichend.</p>",
+            "url": "shopify://collections/all",
+            "btn_name": "Mützen & Stulpen"
+          }
+        },
         "item_MDJQWT": {
           "type": "item",
           "settings": {
@@ -359,6 +369,7 @@
         "item_taMpWb",
         "item_z66qYR",
         "item_r87mja",
+        "item_XRbJ6J",
         "item_MDJQWT",
         "item_DYBGiU",
         "item_PbJV4p"

@@ -258,6 +258,116 @@
       ],
       "settings": {}
     },
+    "section_our_aLKHkd": {
+      "type": "section-our",
+      "blocks": {
+        "item_RKNkGi": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Barfuss-Schuhe-Warum.jpg",
+            "title": "Warum Barfuss-Schuhe?",
+            "text": "<p>Anders als herkömmliche Schuhe, die oft stark gepolstert und stützend sind, sind Barfuss-Schuhe darauf ausgelegt, die natürliche Bewegung der Füsse zu fördern und die Füsse so zu trainieren, wie es die Evolution vorgesehen hat. Erfahre hier alles was du zum Thema wissen musst.</p>",
+            "url": "shopify://pages/barfuss-schuhe-fur-kinder",
+            "btn_name": "Zur Infoseite"
+          }
+        },
+        "item_qcaWnE": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
+            "title": "Barfuss-Übergangs-Schuhe",
+            "text": "<p>Entdecke unsere Auswahl an praktischen Alltagsschuhen für Kinder, die Komfort und natürliche Bewegungsfreiheit bieten. Wir führen klassische Modelle aus Leder, aber auch vegane Modelle. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
+            "url": "shopify://collections/halb-turnschuhe",
+            "btn_name": "Zu den Halb- & Turnschuhen"
+          }
+        },
+        "item_VrDnVb": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
+            "title": "Erste Schühchen",
+            "text": "<p>Bei Füssen, die sich noch im Wachstum befinden, ist es besonders wichtig, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Babyschuhen berücksichtigt das. Sie sind weich, flexibel und erfüllen alle Kriterien eines Barfuss-Schuhs.</p>",
+            "url": "shopify://collections/erste-schuhchen",
+            "btn_name": "Babyschuhe entdecken"
+          }
+        },
+        "item_taMpWb": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/infobild-kinderkleider-guide-zuhause.jpg",
+            "title": "Wolle-Seide Kleidung",
+            "text": "<p>Kleidung aus Wolle-Seide-Gemischen hält die Körpertemperatur des Babys konstant. Das ist ein super Vorteil für die kühlere Jahreszeit! Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.</p>",
+            "url": "shopify://collections/wolle-seide-produkte",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_z66qYR": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
+            "title": "Wollkleidung von Disana",
+            "text": "<p>Disana ist DIE Marke, wenn es um funktionale Wollkleidung geht. Wolle passt sich schwankenden Temperaturen perfekt an und hält die Körpertemperatur konstant. Das Kind fühlt sich bei jedem Wetter genau richtig warm.</p>",
+            "url": "shopify://collections/disana-herbst-winter",
+            "btn_name": "Zu Disana"
+          }
+        },
+        "item_r87mja": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild_DeColores-Pulswaermer.jpg",
+            "title": "Praktische Accessoires",
+            "text": "<p>Pulswärmer und Stulpen sind das prefekte Extra bei kühleren Temperaturen! Sie wärmen bei Bedarf und sind schnell wieder ausgezogen. Babys, Kinder und Erwachsene lieben sie!</p>",
+            "url": "shopify://collections/stulpen-pulswarmer",
+            "btn_name": "Stulpen & Pulswärmer"
+          }
+        },
+        "item_MDJQWT": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-ErsteSchuhe.jpg",
+            "title": "Warme Barfuss-Schuhe",
+            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.</p>",
+            "url": "shopify://collections/warme-schuhe",
+            "btn_name": "Warme Barfuss-Schuhe"
+          }
+        },
+        "item_DYBGiU": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Collection-Kindermode-Muetzen.jpg",
+            "title": "Mützen",
+            "text": "<p>Über den Kopf geht viel Wärme verloren. Eine Mütze ist bei kühlem Wetter daher sehr wichtig. Mützen aus Wolle halten die Temperatur angenehm warm. Neu eingetroffen sind auch die beliebten Schlupfmützen von ManyMonths.</p>",
+            "url": "shopify://collections/mutzen-stirnbander",
+            "btn_name": "Mützen & Stirnbänder"
+          }
+        },
+        "item_PbJV4p": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Collection-Kindermode-Strumphosen-socken.jpg",
+            "title": "Strumpfhosen & Socken aus Wolle",
+            "text": "<p>Wenn es draussen kalt ist, eignen sich als erste Kleidungsschicht Strumpfhosen aus Wolle super! Und an die Füsse Wollsocken: Sie geben warm und verhindern Schweissfüsse.</p>",
+            "url": "shopify://collections/strumpfhosen-stulpen-socken",
+            "btn_name": "Strumpfis & Co"
+          }
+        }
+      },
+      "block_order": [
+        "item_RKNkGi",
+        "item_qcaWnE",
+        "item_VrDnVb",
+        "item_taMpWb",
+        "item_z66qYR",
+        "item_r87mja",
+        "item_MDJQWT",
+        "item_DYBGiU",
+        "item_PbJV4p"
+      ],
+      "settings": {
+        "name": "UNSERE EMPFEHLUNGEN",
+        "title": "Sanft begleitet durch den Frühling"
+      }
+    },
     "section_our_hW8Uw7": {
       "type": "section-our",
       "blocks": {
@@ -394,116 +504,6 @@
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Für eine unvergessliche Babyzeit"
-      }
-    },
-    "section_our_aLKHkd": {
-      "type": "section-our",
-      "blocks": {
-        "item_RKNkGi": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Barfuss-Schuhe-Warum.jpg",
-            "title": "Warum Barfuss-Schuhe?",
-            "text": "<p>Anders als herkömmliche Schuhe, die oft stark gepolstert und stützend sind, sind Barfuss-Schuhe darauf ausgelegt, die natürliche Bewegung der Füsse zu fördern und die Füsse so zu trainieren, wie es die Evolution vorgesehen hat. Erfahre hier alles was du zum Thema wissen musst.</p>",
-            "url": "shopify://pages/barfuss-schuhe-fur-kinder",
-            "btn_name": "Zur Infoseite"
-          }
-        },
-        "item_qcaWnE": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
-            "title": "Barfuss-Übergangs-Schuhe",
-            "text": "<p>Entdecke unsere Auswahl an praktischen Alltagsschuhen für Kinder, die Komfort und natürliche Bewegungsfreiheit bieten. Wir führen klassische Modelle aus Leder, aber auch vegane Modelle. Mit diesen Schuhen ist dein Kind für kleine und grosse Abenteuer in jeder Jahreszeit gut gerüstet.</p>",
-            "url": "shopify://collections/halb-turnschuhe",
-            "btn_name": "Zu den Halb- & Turnschuhen"
-          }
-        },
-        "item_VrDnVb": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
-            "title": "Erste Schühchen",
-            "text": "<p>Bei Füssen, die sich noch im Wachstum befinden, ist es besonders wichtig, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Babyschuhen berücksichtigt das. Sie sind weich, flexibel und erfüllen alle Kriterien eines Barfuss-Schuhs.</p>",
-            "url": "shopify://collections/erste-schuhchen",
-            "btn_name": "Babyschuhe entdecken"
-          }
-        },
-        "item_taMpWb": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/infobild-kinderkleider-guide-zuhause.jpg",
-            "title": "Wolle-Seide Kleidung",
-            "text": "<p>Kleidung aus Wolle-Seide-Gemischen hält die Körpertemperatur des Babys konstant. Das ist ein super Vorteil für die kühlere Jahreszeit! Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.</p>",
-            "url": "shopify://collections/wolle-seide-produkte",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_z66qYR": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
-            "title": "Wollkleidung von Disana",
-            "text": "<p>Disana ist DIE Marke, wenn es um funktionale Wollkleidung geht. Wolle passt sich schwankenden Temperaturen perfekt an und hält die Körpertemperatur konstant. Das Kind fühlt sich bei jedem Wetter genau richtig warm.</p>",
-            "url": "shopify://collections/disana-herbst-winter",
-            "btn_name": "Zu Disana"
-          }
-        },
-        "item_r87mja": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild_DeColores-Pulswaermer.jpg",
-            "title": "Praktische Accessoires",
-            "text": "<p>Pulswärmer und Stulpen sind das prefekte Extra bei kühleren Temperaturen! Sie wärmen bei Bedarf und sind schnell wieder ausgezogen. Babys, Kinder und Erwachsene lieben sie!</p>",
-            "url": "shopify://collections/stulpen-pulswarmer",
-            "btn_name": "Stulpen & Pulswärmer"
-          }
-        },
-        "item_MDJQWT": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-ErsteSchuhe.jpg",
-            "title": "Warme Barfuss-Schuhe",
-            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.</p>",
-            "url": "shopify://collections/warme-schuhe",
-            "btn_name": "Warme Barfuss-Schuhe"
-          }
-        },
-        "item_DYBGiU": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Collection-Kindermode-Muetzen.jpg",
-            "title": "Mützen",
-            "text": "<p>Über den Kopf geht viel Wärme verloren. Eine Mütze ist bei kühlem Wetter daher sehr wichtig. Mützen aus Wolle halten die Temperatur angenehm warm. Neu eingetroffen sind auch die beliebten Schlupfmützen von ManyMonths.</p>",
-            "url": "shopify://collections/mutzen-stirnbander",
-            "btn_name": "Mützen & Stirnbänder"
-          }
-        },
-        "item_PbJV4p": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Collection-Kindermode-Strumphosen-socken.jpg",
-            "title": "Strumpfhosen & Socken aus Wolle",
-            "text": "<p>Wenn es draussen kalt ist, eignen sich als erste Kleidungsschicht Strumpfhosen aus Wolle super! Und an die Füsse Wollsocken: Sie geben warm und verhindern Schweissfüsse.</p>",
-            "url": "shopify://collections/strumpfhosen-stulpen-socken",
-            "btn_name": "Strumpfis & Co"
-          }
-        }
-      },
-      "block_order": [
-        "item_RKNkGi",
-        "item_qcaWnE",
-        "item_VrDnVb",
-        "item_taMpWb",
-        "item_z66qYR",
-        "item_r87mja",
-        "item_MDJQWT",
-        "item_DYBGiU",
-        "item_PbJV4p"
-      ],
-      "settings": {
-        "name": "UNSERE EMPFEHLUNGEN",
-        "title": "Sanft begleitet durch den Frühling"
       }
     },
     "eb12502c-a978-4a64-8794-299bf7d22d27": {
@@ -768,8 +768,8 @@
   },
   "order": [
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee",
-    "section_our_hW8Uw7",
     "section_our_aLKHkd",
+    "section_our_hW8Uw7",
     "eb12502c-a978-4a64-8794-299bf7d22d27",
     "section_with_text_btn_ECAitC",
     "section_full_image_EqfEhU",

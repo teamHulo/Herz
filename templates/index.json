@@ -325,6 +325,7 @@
         },
         "item_pdmF6i": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Slider-Bild-Advent-Spirale-Grimms.jpg",
             "title": "Schöne Rituale im Advent",
@@ -335,6 +336,7 @@
         },
         "item_8PeDTn": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
             "title": "Geschenke, die von Herzen kommen",
@@ -345,6 +347,7 @@
         },
         "item_jXDWYz": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Infobild-Xmas-Guide-Mood2.jpg",
             "title": "Weihnachtsgeschenke Guide",

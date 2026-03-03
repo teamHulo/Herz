@@ -271,6 +271,16 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_6XDWwm": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Disana_Schlafsack.jpg",
+            "title": "Schlafsäcke",
+            "text": "<p>Für wärmere Nächte sind leichte Schlafsäcke aus Musselin, Bambusviskose oder Wolle ideal. Sie sind atmungsaktiv, temperaturausgleichend und sorgen für ein angenehmes Schlafklima ganz natürlich. </p>",
+            "url": "shopify://collections/schlafsacke",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_XRbJ6J": {
           "type": "item",
           "settings": {
@@ -368,6 +378,7 @@
       },
       "block_order": [
         "item_taMpWb",
+        "item_6XDWwm",
         "item_XRbJ6J",
         "item_RKNkGi",
         "item_qcaWnE",

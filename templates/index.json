@@ -286,7 +286,7 @@
           "settings": {
             "img": "shopify://shop_images/Stulpen_Pickapooh.webp",
             "title": "Praktische Accessoires",
-            "text": "<p>Stulpen und leichte Mützen aus Wolle/Seide sind das ideale Extra für wechselhafte Frühlingstage. Sie wärmen sanft, wenn es morgens noch frisch ist, und schützen empfindliche Haut vor Wind und kühler Luft. Dank der natürlichen Fasern sind sie besonders atmungsaktiv und temperaturausgleichend, sodass es weder zu warm noch zu kühl wird. Ein unkomplizierter Begleiter für Klein & Gross, die draussen die ersten Sonnenstrahlen geniessen</p>",
+            "text": "<p>Stulpen und leichte Mützen aus Wolle/Seide sind das ideale Extra für wechselhafte Frühlingstage. Sie wärmen sanft, wenn es morgens noch frisch ist, und schützen empfindliche Haut vor Wind und kühler Luft. Dank der natürlichen Fasern sind sie besonders atmungsaktiv und temperaturausgleichend, sodass es weder zu warm noch zu kühl wird. Ein unkomplizierter Begleiter für Klein & Gross.</p>",
             "url": "shopify://collections/pickapooh-herbst-winter",
             "btn_name": "Mützen & Stulpen"
           }
@@ -356,6 +356,7 @@
         },
         "item_DYBGiU": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Collection-Kindermode-Muetzen.jpg",
             "title": "Mützen",

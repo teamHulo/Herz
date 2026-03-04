@@ -12,6 +12,18 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "item_bzRQfG": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Cloby_Unten.jpg",
+            "img2": "shopify://shop_images/Mitte_Cloby.jpg",
+            "img3": "shopify://shop_images/Oben_Cloby.jpg",
+            "title": "Cloby Neuheiten : UV-Schutz mit Stil",
+            "text": "<p>Die neue Lieferung von Cloby ist da. Entdecke die vielseitige UV-Decke, unser absoluter Bestseller, sowie weitere durchdachte Essentials mit UV-Schutz für Baby und Kleinkind. Perfekt für unterwegs, im Kinderwagen oder beim Spielen draussen. </p>",
+            "url": "shopify://collections/fruhling-sommer",
+            "btn_name": "Sichere dir deine Favoriten"
+          }
+        },
         "item_DxngTX": {
           "type": "item",
           "settings": {
@@ -184,19 +196,6 @@
             "btn_name": "Jetzt entdecken"
           }
         },
-        "item_bzRQfG": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Unten_501288f6-ca17-4c63-958f-8dd896acad74.jpg",
-            "img2": "shopify://shop_images/Bild_mitte_d04cfd47-0d34-4500-b53e-6a43554a1545.jpg",
-            "img3": "shopify://shop_images/Oben_4d42760d-2658-4e80-9b16-a1882f212572.jpg",
-            "title": "Cloby Neuheiten : UV-Schutz mit Stil",
-            "text": "<p>Die neue Lieferung von Cloby ist da. Entdecke die vielseitige UV-Decke – unser absoluter Bestseller – sowie weitere durchdachte Essentials mit UV-Schutz für Baby und Kleinkind. Perfekt für unterwegs, im Kinderwagen oder beim Spielen draussen. </p>",
-            "url": "shopify://collections/fruhling-sommer",
-            "btn_name": "Sichere dir deine Favoriten"
-          }
-        },
         "67bececa-9c31-424d-a18a-4a49adda00b5": {
           "type": "item",
           "disabled": true,
@@ -250,6 +249,7 @@
         }
       },
       "block_order": [
+        "item_bzRQfG",
         "item_DxngTX",
         "item_CVq4Tq",
         "item_wkJFCy",
@@ -264,7 +264,6 @@
         "item_WxFtCe",
         "item_8xqrhQ",
         "item_c8wF6m",
-        "item_bzRQfG",
         "67bececa-9c31-424d-a18a-4a49adda00b5",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "item_wxaVcg",

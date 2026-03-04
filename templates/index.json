@@ -18,7 +18,7 @@
             "img1": "shopify://shop_images/Rechts.jpg",
             "img2": "shopify://shop_images/MItte_9e029b0d-138d-4982-8eb5-cba1973b3155.jpg",
             "img3": "shopify://shop_images/Links.jpg",
-            "title": "Fühl den Frühling unter den Füssen",
+            "title": "Den Frühling unter den Füssen spüren",
             "text": "<p>Gerade bei Kindern, deren Füsse noch wachsen, ist es besonders wichtig, dass Schuhe die natürliche Entwicklung nicht einschränken. Unsere Frühlingsneuheiten erfüllen genau diese Anforderungen: Weich, flexibel und mit breiter Zehenbox für viel Bewegungsfreiheit. Ideal für Spielplatz, Wald und alle kleinen und grossen Frühlingsabenteuer.</p>",
             "url": "shopify://collections/barfuss-schuhe",
             "btn_name": "Jetzt entdecken"
@@ -184,6 +184,19 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_bzRQfG": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Unten_501288f6-ca17-4c63-958f-8dd896acad74.jpg",
+            "img2": "shopify://shop_images/Bild_mitte_d04cfd47-0d34-4500-b53e-6a43554a1545.jpg",
+            "img3": "shopify://shop_images/Oben_4d42760d-2658-4e80-9b16-a1882f212572.jpg",
+            "title": "Cloby Neuheiten : UV-Schutz mit Stil",
+            "text": "<p>Die neue Lieferung von Cloby ist da. Entdecke die vielseitige UV-Decke – unser absoluter Bestseller – sowie weitere durchdachte Essentials mit UV-Schutz für Baby und Kleinkind. Perfekt für unterwegs, im Kinderwagen oder beim Spielen draussen. </p>",
+            "url": "shopify://collections/fruhling-sommer",
+            "btn_name": "Sichere dir deine Favoriten"
+          }
+        },
         "67bececa-9c31-424d-a18a-4a49adda00b5": {
           "type": "item",
           "disabled": true,
@@ -251,6 +264,7 @@
         "item_WxFtCe",
         "item_8xqrhQ",
         "item_c8wF6m",
+        "item_bzRQfG",
         "67bececa-9c31-424d-a18a-4a49adda00b5",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "item_wxaVcg",

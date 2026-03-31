@@ -12,6 +12,18 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "item_f4JDnm": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Unten_ostern.jpg",
+            "img2": "shopify://shop_images/Mitte_Ostern.jpg",
+            "img3": "shopify://shop_images/Oben_Ostern.jpg",
+            "title": "Alles fürs Osterkörbchen",
+            "text": "<p>Mach dein Osterkörbchen dieses Jahr besonders: mit nachhaltigen Spielsachen, die Kinderaugen zum Leuchten bringen und gleichzeitig die Umwelt schonen. Unsere Auswahl ist hochwertig, langlebig und mit viel Sorgfalt hergestellt – für bewusstes Schenken mit Sinn. So bleiben die Osterfreuden nicht nur kurz, sondern begleiten lange im Alltag.</p>",
+            "url": "shopify://collections/nachhaltige-spielsachen",
+            "btn_name": "Das will ich entdecken"
+          }
+        },
         "item_67rBEb": {
           "type": "item",
           "settings": {
@@ -22,18 +34,6 @@
             "text": "<p>Der Alltag mit Kindern ist geprägt von kleinen Abenteuern, liebgewonnenen Ritualen und vielen besonderen Augenblicken. Wie du Geburtstage und andere Feste unvergesslich gestaltest und die Jahreszeiten auch zuhause erlebbar machst – und weshalb das so wertvoll ist – erklären wir dir hier.</p>",
             "url": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
             "btn_name": "Mehr erfahren"
-          }
-        },
-        "item_f4JDnm": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Unten_ostern.jpg",
-            "img2": "shopify://shop_images/Mitte_Ostern.jpg",
-            "img3": "shopify://shop_images/Oben_Ostern.jpg",
-            "title": "Alles fürs Osterkörbchen",
-            "text": "<p>Alles fürs Osterkörbchen: Entdecke unsere nachhaltigen Spielsachen – liebevoll ausgewählt, langlebig und umweltbewusst produziert. Perfekt für kleine Überraschungen mit grosser Wirkung.</p>",
-            "url": "shopify://collections/nachhaltige-spielsachen",
-            "btn_name": "Das will ich entdecken"
           }
         },
         "item_bzRQfG": {
@@ -274,8 +274,8 @@
         }
       },
       "block_order": [
-        "item_67rBEb",
         "item_f4JDnm",
+        "item_67rBEb",
         "item_bzRQfG",
         "item_DxngTX",
         "item_CVq4Tq",

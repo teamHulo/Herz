@@ -24,6 +24,18 @@
             "btn_name": "Mehr erfahren"
           }
         },
+        "item_67rBEb": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Oben_Feste.jpg",
+            "img2": "shopify://shop_images/Mitte_00151fbe-d2d3-4ada-90aa-238b66bc57b5.jpg",
+            "img3": "shopify://shop_images/Unten_Feste.jpg",
+            "title": "Feste und Rituale in der Familie",
+            "text": "<p>Der Alltag mit Kindern ist geprägt von kleinen Abenteuern, liebgewonnenen Ritualen und vielen besonderen Augenblicken. Wie du Geburtstage und andere Feste unvergesslich gestaltest und die Jahreszeiten auch zuhause erlebbar machst – und weshalb das so wertvoll ist – erklären wir dir hier.</p>",
+            "url": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
+            "btn_name": "Mehr erfahren"
+          }
+        },
         "item_bzRQfG": {
           "type": "item",
           "settings": {
@@ -250,6 +262,7 @@
       },
       "block_order": [
         "item_PYBx6f",
+        "item_67rBEb",
         "item_bzRQfG",
         "item_DxngTX",
         "item_CVq4Tq",

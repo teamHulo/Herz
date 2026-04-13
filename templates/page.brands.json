@@ -620,14 +620,6 @@
     "26cb4638-73d5-4d25-b720-f15bc45c9e37": {
       "type": "section-brands-list",
       "blocks": {
-        "brand_7wxCnU": {
-          "type": "brand",
-          "settings": {
-            "title": "Play Up",
-            "text": "",
-            "url": ""
-          }
-        },
         "ae3e28a4-b4ce-484f-949e-29abc4b80ce1": {
           "type": "brand",
           "settings": {
@@ -756,6 +748,14 @@
             "url": ""
           }
         },
+        "brand_7wxCnU": {
+          "type": "brand",
+          "settings": {
+            "title": "Play Up",
+            "text": "<p>Play Up ist eine portugiesische Marke, die sich auf natürliche Materialien wie Bio-Baumwolle und Leinen spezialisiert hat. Die Kollektionen werden in Portugal entworfen und gefertigt und stehen für eine bewusste, verantwortungsvolle Produktion mit Fokus auf Qualität, Komfort und Langlebigkeit. Die schlichten, zeitlosen Designs sind alltagstauglich, angenehm zu tragen und oft so gestaltet, dass sie über längere Zeit genutzt oder weitergegeben werden können.</p>",
+            "url": ""
+          }
+        },
         "brand_BWYPeA": {
           "type": "brand",
           "settings": {
@@ -830,7 +830,6 @@
         }
       },
       "block_order": [
-        "brand_7wxCnU",
         "ae3e28a4-b4ce-484f-949e-29abc4b80ce1",
         "89a57af1-2db6-40bd-8b02-adecf780263c",
         "ff2b09c3-e61a-4290-82a2-a35b4a33a8a0",
@@ -847,6 +846,7 @@
         "b810120f-4b48-4a68-9405-c0434710bcea",
         "de03a7ff-25aa-4864-b98f-7bae20d92a0a",
         "c5cca916-8a7a-4216-85e0-f865286d2cf7",
+        "brand_7wxCnU",
         "brand_BWYPeA",
         "57bf30bf-5eaf-4d6d-a6dc-a1ace4d09686",
         "c765f1ae-334b-496b-bbee-247fbdd38f67",

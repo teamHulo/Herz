@@ -620,6 +620,14 @@
     "26cb4638-73d5-4d25-b720-f15bc45c9e37": {
       "type": "section-brands-list",
       "blocks": {
+        "brand_7wxCnU": {
+          "type": "brand",
+          "settings": {
+            "title": "Play Up",
+            "text": "",
+            "url": ""
+          }
+        },
         "ae3e28a4-b4ce-484f-949e-29abc4b80ce1": {
           "type": "brand",
           "settings": {
@@ -822,6 +830,7 @@
         }
       },
       "block_order": [
+        "brand_7wxCnU",
         "ae3e28a4-b4ce-484f-949e-29abc4b80ce1",
         "89a57af1-2db6-40bd-8b02-adecf780263c",
         "ff2b09c3-e61a-4290-82a2-a35b4a33a8a0",

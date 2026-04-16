@@ -12,6 +12,30 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "item_bzRQfG": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Cloby_Unten.jpg",
+            "img2": "shopify://shop_images/Mitte_Cloby.jpg",
+            "img3": "shopify://shop_images/Oben_Cloby.jpg",
+            "title": "Cloby Neuheiten: UV-Schutz mit Stil",
+            "text": "<p>Die neue Lieferung von Cloby ist da. Entdecke die vielseitige UV-Decke - unser absoluter Bestseller - sowie weitere durchdachte Essentials mit UV-Schutz für Baby und Kleinkind. Perfekt für unterwegs, im Kinderwagen oder beim Spielen draussen. </p>",
+            "url": "shopify://collections/cloby-fruhling-sommer",
+            "btn_name": "Sichere dir deine Favoriten"
+          }
+        },
+        "item_DxngTX": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Rechts.jpg",
+            "img2": "shopify://shop_images/MItte_9e029b0d-138d-4982-8eb5-cba1973b3155.jpg",
+            "img3": "shopify://shop_images/Links.jpg",
+            "title": "Den Frühling unter den Füssen spüren",
+            "text": "<p>Gerade bei Kindern, deren Füsse noch wachsen, ist es besonders wichtig, dass Schuhe die natürliche Entwicklung nicht einschränken. Unsere Frühlingsneuheiten erfüllen genau diese Anforderungen: Weich, flexibel und mit breiter Zehenbox für viel Bewegungsfreiheit. Ideal für Spielplatz, Wald und alle kleinen und grossen Frühlingsabenteuer.</p>",
+            "url": "shopify://collections/barfuss-schuhe",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_67rBEb": {
           "type": "item",
           "settings": {
@@ -35,30 +59,6 @@
             "text": "<p>Die Stoffwindelwoche 2026 ist da und wir feiern mit dir nachhaltiges Wickeln im Familienalltag. Sichere dir jetzt 10% Rabatt auf alle Stoffwindeln, Zubehör und Windelfrei-Produkte und entdecke, wie einfach, schön und alltagstauglich nachhaltiges Wickeln sein kann.</p><p>Die Aktion läuft bis zum 26.4.26. Jetzt ist der perfekte Moment einzusteigen oder dein Stoffwindelsortiment zu erweitern.</p>",
             "url": "shopify://collections/wickeln",
             "btn_name": "Jetzt profitieren"
-          }
-        },
-        "item_bzRQfG": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Cloby_Unten.jpg",
-            "img2": "shopify://shop_images/Mitte_Cloby.jpg",
-            "img3": "shopify://shop_images/Oben_Cloby.jpg",
-            "title": "Cloby Neuheiten: UV-Schutz mit Stil",
-            "text": "<p>Die neue Lieferung von Cloby ist da. Entdecke die vielseitige UV-Decke - unser absoluter Bestseller - sowie weitere durchdachte Essentials mit UV-Schutz für Baby und Kleinkind. Perfekt für unterwegs, im Kinderwagen oder beim Spielen draussen. </p>",
-            "url": "shopify://collections/cloby-fruhling-sommer",
-            "btn_name": "Sichere dir deine Favoriten"
-          }
-        },
-        "item_DxngTX": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Rechts.jpg",
-            "img2": "shopify://shop_images/MItte_9e029b0d-138d-4982-8eb5-cba1973b3155.jpg",
-            "img3": "shopify://shop_images/Links.jpg",
-            "title": "Den Frühling unter den Füssen spüren",
-            "text": "<p>Gerade bei Kindern, deren Füsse noch wachsen, ist es besonders wichtig, dass Schuhe die natürliche Entwicklung nicht einschränken. Unsere Frühlingsneuheiten erfüllen genau diese Anforderungen: Weich, flexibel und mit breiter Zehenbox für viel Bewegungsfreiheit. Ideal für Spielplatz, Wald und alle kleinen und grossen Frühlingsabenteuer.</p>",
-            "url": "shopify://collections/barfuss-schuhe",
-            "btn_name": "Jetzt entdecken"
           }
         },
         "item_CVq4Tq": {
@@ -85,19 +85,6 @@
             "btn_name": "Alles für die Babyzeit"
           }
         },
-        "item_TYg9jc": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Bild-link.jpg",
-            "img2": "shopify://shop_images/Bild_mitte_d036fadd-f856-4945-af83-963ca3169a97.jpg",
-            "img3": "shopify://shop_images/Bild_unten_5422cf15-722b-4e1b-b10e-a8f42646eb16.jpg",
-            "title": "Winter Sale",
-            "text": "<p>Viele Winterartikel aus Wolle, warme Barfussschuhe und weitere Winterbegleiter warten auf dich – kuschelig, nachhaltig und perfekt für die kalte Jahreszeit. Sichere dir jetzt 30 % Rabatt auf viele Topmarken und spare richtig. Jetzt zugreifen und Lieblingsstücke sichern.</p>",
-            "url": "shopify://collections/sale",
-            "btn_name": "Jetzt profitieren"
-          }
-        },
         "item_Jc9eFD": {
           "type": "item",
           "settings": {
@@ -108,32 +95,6 @@
             "text": "<p>Wenn kleine Kinder erkältet sind, ist das für uns Eltern oft schlimm mitanzusehen. Die Naturheilkunde bietet sanfte Möglichkeiten dein Kind bei einer Erkältung zu unterstützen. Wir haben für euch unsere besten Tipps zusammengestellt.</p>",
             "url": "https://herzanherz-shop.ch/pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
             "btn_name": "Mehr erfahren"
-          }
-        },
-        "item_BTFeaX": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Unten_3.jpg",
-            "img2": "shopify://shop_images/Mitte_3.jpg",
-            "img3": "shopify://shop_images/Oben_3_9b6cdfaa-19c6-45f4-92c2-63af80037861.jpg",
-            "title": "Winterglück für Kinderfüsse",
-            "text": "<p>Bereit für den Winter? Unsere warm gefütterten Winterschuhe halten kleine Füsse wohlig warm und sehen dabei einfach toll aus! Ob im Schnee, auf dem Spielplatz oder in der Stadt: Dein Kind ist mit ihnen rundum gut gerüstet für kalte Tage.</p>",
-            "url": "shopify://pages/barfuss-schuhe-fur-kinder",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "beb1387a-20df-4238-a01b-69c08fe7ba72": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
-            "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
-            "img3": "shopify://shop_images/Infobild-Handschuhe.jpg",
-            "title": "Warm durch den Winter",
-            "text": "<p>Was soll ich meinem Kind nur anziehen? Gerade wenn die Temperaturen wieder sinken, fragen sich viele Eltern, ob ihr Kind warm genug eingepackt ist. Wir konnten über die Jahre hinweg zahlreiche Produkte und Materialien an unseren mittlerweile mehr als 10 eigenen Kindern testen und viele wertvolle Erfahrungen sammeln</p>",
-            "url": "shopify://pages/warm-durch-herbst-winter",
-            "btn_name": "Unsere Tipps"
           }
         },
         "24910c9d-15a9-4196-9b65-cc074f34c723": {
@@ -210,6 +171,32 @@
             "btn_name": "Jetzt profitieren"
           }
         },
+        "item_TYg9jc": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Bild-link.jpg",
+            "img2": "shopify://shop_images/Bild_mitte_d036fadd-f856-4945-af83-963ca3169a97.jpg",
+            "img3": "shopify://shop_images/Bild_unten_5422cf15-722b-4e1b-b10e-a8f42646eb16.jpg",
+            "title": "Winter Sale",
+            "text": "<p>Viele Winterartikel aus Wolle, warme Barfussschuhe und weitere Winterbegleiter warten auf dich – kuschelig, nachhaltig und perfekt für die kalte Jahreszeit. Sichere dir jetzt 30 % Rabatt auf viele Topmarken und spare richtig. Jetzt zugreifen und Lieblingsstücke sichern.</p>",
+            "url": "shopify://collections/sale",
+            "btn_name": "Jetzt profitieren"
+          }
+        },
+        "beb1387a-20df-4238-a01b-69c08fe7ba72": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
+            "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
+            "img3": "shopify://shop_images/Infobild-Handschuhe.jpg",
+            "title": "Warm durch den Winter",
+            "text": "<p>Was soll ich meinem Kind nur anziehen? Gerade wenn die Temperaturen wieder sinken, fragen sich viele Eltern, ob ihr Kind warm genug eingepackt ist. Wir konnten über die Jahre hinweg zahlreiche Produkte und Materialien an unseren mittlerweile mehr als 10 eigenen Kindern testen und viele wertvolle Erfahrungen sammeln</p>",
+            "url": "shopify://pages/warm-durch-herbst-winter",
+            "btn_name": "Unsere Tipps"
+          }
+        },
         "item_f4JDnm": {
           "type": "item",
           "disabled": true,
@@ -233,6 +220,19 @@
             "title": "Das brauchst du für den Sommer",
             "text": "<p>Babys und Kleinkinder reagieren besonders empfindlich auf Sonnenstrahlen, weshalb ein guter Schutz unerlässlich ist. Die UV-Decke von Cloby ist ein echtes Multitalent – sie bietet optimalen Schutz und fühlt sich angenehm weich an. Ergänzt durch samtweiche Kleidung aus Bambus und einen praktischen Sonnenhut steht unbeschwerten Sommertagen nichts mehr im Weg! </p>",
             "url": "shopify://collections/fruhling-sommer",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_BTFeaX": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Unten_3.jpg",
+            "img2": "shopify://shop_images/Mitte_3.jpg",
+            "img3": "shopify://shop_images/Oben_3_9b6cdfaa-19c6-45f4-92c2-63af80037861.jpg",
+            "title": "Winterglück für Kinderfüsse",
+            "text": "<p>Bereit für den Winter? Unsere warm gefütterten Winterschuhe halten kleine Füsse wohlig warm und sehen dabei einfach toll aus! Ob im Schnee, auf dem Spielplatz oder in der Stadt: Dein Kind ist mit ihnen rundum gut gerüstet für kalte Tage.</p>",
+            "url": "shopify://pages/barfuss-schuhe-fur-kinder",
             "btn_name": "Jetzt entdecken"
           }
         },
@@ -276,24 +276,24 @@
         }
       },
       "block_order": [
-        "item_67rBEb",
-        "item_NthYMr",
         "item_bzRQfG",
         "item_DxngTX",
+        "item_67rBEb",
+        "item_NthYMr",
         "item_CVq4Tq",
         "item_wkJFCy",
-        "item_TYg9jc",
         "item_Jc9eFD",
-        "item_BTFeaX",
-        "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_PYBx6f",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_iFhkhf",
         "item_WxFtCe",
         "item_8xqrhQ",
+        "item_TYg9jc",
+        "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "item_f4JDnm",
         "item_c8wF6m",
+        "item_BTFeaX",
         "67bececa-9c31-424d-a18a-4a49adda00b5",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "item_wxaVcg"

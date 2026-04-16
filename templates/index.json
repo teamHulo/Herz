@@ -26,6 +26,7 @@
         },
         "item_NthYMr": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/unten_39aa0fd0-ed92-4fd6-b079-530f55ce2736.jpg",
             "img2": "shopify://shop_images/Mitte_e3aa8247-4845-4993-b01f-ee6b5f3575a7.jpg",

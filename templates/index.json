@@ -12,17 +12,17 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "item_f4JDnm": {
+        "item_NthYMr": {
           "type": "item",
           "disabled": true,
           "settings": {
-            "img1": "shopify://shop_images/Unten_ostern.jpg",
-            "img2": "shopify://shop_images/Mitte_Ostern.jpg",
-            "img3": "shopify://shop_images/Oben_Ostern.jpg",
-            "title": "Alles fürs Osterkörbchen",
-            "text": "<p>Für ein Osterkörbchen mit Sinn. Entdecke nachhaltige Spielsachen, die Kinder in ihrer Entwicklung unterstützen und über lange Zeit Freude bereiten. Von kleinen Überraschungen bis zu besonderen Lieblingsstücken ist alles dabei. Sorgfältig ausgewählt, hochwertig verarbeitet und gemacht, um zu bleiben.</p>",
-            "url": "shopify://collections/nachhaltige-spielsachen",
-            "btn_name": "Zu den Spielsachen"
+            "img1": "shopify://shop_images/Unten_a1c07fbf-4df5-4039-80f5-40d254a7afce.jpg",
+            "img2": "shopify://shop_images/Mitte_e3aa8247-4845-4993-b01f-ee6b5f3575a7.jpg",
+            "img3": "shopify://shop_images/Oben_ecf5c7cc-9829-43bd-874b-81e8dba0491c.jpg",
+            "title": "10% auf Stoffwindeln & Zubehör",
+            "text": "<p>Natürlich wickeln. Bewusst entscheiden. Liebevoll handeln – für heute und morgen. 🌿​</p><p>Zur Stoffwindelwoche 2025 schenken wir dir 10% Rabatt auf alle Stoffwindeln, Zubehör & Windelfrei-Produkte. Die Aktion läuft bis zum 26.4.26. Nicht verpassen!</p>",
+            "url": "shopify://collections/wickeln",
+            "btn_name": "Jetzt profitieren"
           }
         },
         "item_67rBEb": {
@@ -210,6 +210,19 @@
             "btn_name": "Jetzt profitieren"
           }
         },
+        "item_f4JDnm": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Unten_ostern.jpg",
+            "img2": "shopify://shop_images/Mitte_Ostern.jpg",
+            "img3": "shopify://shop_images/Oben_Ostern.jpg",
+            "title": "Alles fürs Osterkörbchen",
+            "text": "<p>Für ein Osterkörbchen mit Sinn. Entdecke nachhaltige Spielsachen, die Kinder in ihrer Entwicklung unterstützen und über lange Zeit Freude bereiten. Von kleinen Überraschungen bis zu besonderen Lieblingsstücken ist alles dabei. Sorgfältig ausgewählt, hochwertig verarbeitet und gemacht, um zu bleiben.</p>",
+            "url": "shopify://collections/nachhaltige-spielsachen",
+            "btn_name": "Zu den Spielsachen"
+          }
+        },
         "item_c8wF6m": {
           "type": "item",
           "disabled": true,
@@ -260,23 +273,10 @@
             "url": "shopify://collections/draussen-spielen",
             "btn_name": "Jetzt entdecken"
           }
-        },
-        "item_NthYMr": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Unten_a1c07fbf-4df5-4039-80f5-40d254a7afce.jpg",
-            "img2": "shopify://shop_images/Mitte_e3aa8247-4845-4993-b01f-ee6b5f3575a7.jpg",
-            "img3": "shopify://shop_images/Oben_ecf5c7cc-9829-43bd-874b-81e8dba0491c.jpg",
-            "title": "10% auf Stoffwindeln & Zubehör",
-            "text": "<p>Natürlich wickeln. Bewusst entscheiden. Liebevoll handeln – für heute und morgen. 🌿​</p><p>Zur Stoffwindelwoche 2025 schenken wir dir 10% Rabatt auf alle Stoffwindeln, Zubehör & Windelfrei-Produkte. Die Aktion läuft bis zum 4.5.25 – nicht verpassen!</p>",
-            "url": "shopify://collections/wickeln",
-            "btn_name": "Jetzt profitieren"
-          }
         }
       },
       "block_order": [
-        "item_f4JDnm",
+        "item_NthYMr",
         "item_67rBEb",
         "item_bzRQfG",
         "item_DxngTX",
@@ -292,11 +292,11 @@
         "item_iFhkhf",
         "item_WxFtCe",
         "item_8xqrhQ",
+        "item_f4JDnm",
         "item_c8wF6m",
         "67bececa-9c31-424d-a18a-4a49adda00b5",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
-        "item_wxaVcg",
-        "item_NthYMr"
+        "item_wxaVcg"
       ],
       "settings": {}
     },

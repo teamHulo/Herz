@@ -12,6 +12,18 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "item_NthYMr": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/unten_39aa0fd0-ed92-4fd6-b079-530f55ce2736.jpg",
+            "img2": "shopify://shop_images/Mitte_e3aa8247-4845-4993-b01f-ee6b5f3575a7.jpg",
+            "img3": "shopify://shop_images/Oben_726158d1-8a82-4f9b-bec0-aa827e501006.jpg",
+            "title": "10% auf Stoffwindeln & Zubehör",
+            "text": "<p>Die Stoffwindelwoche 2026 ist da und wir feiern mit dir nachhaltiges Wickeln im Familienalltag. Sichere dir jetzt 10% Rabatt auf alle Stoffwindeln, Zubehör und Windelfrei-Produkte und entdecke, wie einfach, schön und alltagstauglich nachhaltiges Wickeln sein kann.</p><p>Die Aktion läuft bis zum 26.4.26. Jetzt ist der perfekte Moment einzusteigen oder dein Stoffwindelsortiment zu erweitern.</p>",
+            "url": "shopify://collections/wickeln",
+            "btn_name": "Jetzt profitieren"
+          }
+        },
         "item_bzRQfG": {
           "type": "item",
           "settings": {
@@ -46,19 +58,6 @@
             "text": "<p>Der Alltag mit Kindern ist geprägt von kleinen Abenteuern, liebgewonnenen Ritualen und vielen besonderen Augenblicken. Wie du Geburtstage und andere Feste unvergesslich gestaltest und die Jahreszeiten auch zuhause erlebbar machst – und weshalb das so wertvoll ist – erklären wir dir hier.</p>",
             "url": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
             "btn_name": "Mehr erfahren"
-          }
-        },
-        "item_NthYMr": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/unten_39aa0fd0-ed92-4fd6-b079-530f55ce2736.jpg",
-            "img2": "shopify://shop_images/Mitte_e3aa8247-4845-4993-b01f-ee6b5f3575a7.jpg",
-            "img3": "shopify://shop_images/Oben_726158d1-8a82-4f9b-bec0-aa827e501006.jpg",
-            "title": "10% auf Stoffwindeln & Zubehör",
-            "text": "<p>Die Stoffwindelwoche 2026 ist da und wir feiern mit dir nachhaltiges Wickeln im Familienalltag. Sichere dir jetzt 10% Rabatt auf alle Stoffwindeln, Zubehör und Windelfrei-Produkte und entdecke, wie einfach, schön und alltagstauglich nachhaltiges Wickeln sein kann.</p><p>Die Aktion läuft bis zum 26.4.26. Jetzt ist der perfekte Moment einzusteigen oder dein Stoffwindelsortiment zu erweitern.</p>",
-            "url": "shopify://collections/wickeln",
-            "btn_name": "Jetzt profitieren"
           }
         },
         "item_CVq4Tq": {
@@ -276,10 +275,10 @@
         }
       },
       "block_order": [
+        "item_NthYMr",
         "item_bzRQfG",
         "item_DxngTX",
         "item_67rBEb",
-        "item_NthYMr",
         "item_CVq4Tq",
         "item_wkJFCy",
         "item_Jc9eFD",

@@ -18,7 +18,7 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "❄️ Grosser WINTER SALE ❄️",
+            "text": "STOFFWINDELWOCHE 🌱🌍",
             "link": ""
           }
         },
@@ -26,6 +26,13 @@
           "type": "announcement",
           "settings": {
             "text": "Herzlich Willkommen bei ❤️ an ❤️",
+            "link": ""
+          }
+        },
+        "announcement_wT4jk6": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
             "link": ""
           }
         },
@@ -41,6 +48,7 @@
       "block_order": [
         "announcement_9kMrpi",
         "announcement-bar-0",
+        "announcement_wT4jk6",
         "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c"
       ],
       "custom_css": [],

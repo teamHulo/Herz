@@ -16,14 +16,22 @@
       "blocks": {
         "announcement_9kMrpi": {
           "type": "announcement",
+          "settings": {
+            "text": "🌱 STOFFWINDELWOCHE 🌱",
+            "link": ""
+          }
+        },
+        "announcement_gbL8jV": {
+          "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "STOFFWINDELWOCHE 🌱🌍",
+            "text": "Welcome to our store",
             "link": ""
           }
         },
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Herzlich Willkommen bei ❤️ an ❤️",
             "link": ""
@@ -31,6 +39,7 @@
         },
         "announcement_wT4jk6": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Welcome to our store",
             "link": ""
@@ -47,6 +56,7 @@
       },
       "block_order": [
         "announcement_9kMrpi",
+        "announcement_gbL8jV",
         "announcement-bar-0",
         "announcement_wT4jk6",
         "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c"

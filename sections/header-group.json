@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_9kMrpi": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "🌱 STOFFWINDELWOCHE bei Herz an Herz 🌱",
             "link": ""
@@ -31,7 +32,6 @@
         },
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Herzlich Willkommen bei ❤️ an ❤️",
             "link": ""

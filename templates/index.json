@@ -14,6 +14,7 @@
       "blocks": {
         "item_kjyRwm": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Bild_unten_aedfbdbe-3a5c-48e2-ae00-ac81ae35a4fd.jpg",
             "img2": "shopify://shop_images/Bild_Mitte_c9b5e241-cf69-4a3e-8a09-823a849f430a.jpg",

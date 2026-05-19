@@ -24,6 +24,30 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_DxngTX": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Rechts.jpg",
+            "img2": "shopify://shop_images/MItte_9e029b0d-138d-4982-8eb5-cba1973b3155.jpg",
+            "img3": "shopify://shop_images/Links.jpg",
+            "title": "Den Frühling unter den Füssen spüren",
+            "text": "<p>Gerade bei Kindern, deren Füsse noch wachsen, ist es besonders wichtig, dass Schuhe die natürliche Entwicklung nicht einschränken. Unsere Frühlingsneuheiten erfüllen genau diese Anforderungen: Weich, flexibel und mit breiter Zehenbox für viel Bewegungsfreiheit. Ideal für Spielplatz, Wald und alle kleinen und grossen Frühlingsabenteuer.</p>",
+            "url": "shopify://collections/barfuss-schuhe",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_bzRQfG": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Cloby_Unten.jpg",
+            "img2": "shopify://shop_images/Mitte_Cloby.jpg",
+            "img3": "shopify://shop_images/Oben_Cloby.jpg",
+            "title": "Cloby: UV-Schutz mit Stil",
+            "text": "<p>Die neue Lieferung von Cloby ist da. Entdecke die vielseitige UV-Decke - unser absoluter Bestseller - sowie weitere durchdachte Essentials mit UV-Schutz für Baby und Kleinkind. Perfekt für unterwegs, im Kinderwagen oder beim Spielen draussen. </p>",
+            "url": "shopify://collections/cloby-fruhling-sommer",
+            "btn_name": "Sichere dir deine Favoriten"
+          }
+        },
         "item_kjyRwm": {
           "type": "item",
           "settings": {
@@ -58,30 +82,6 @@
             "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.</p>",
             "url": "shopify://pages/geschenke-zur-geburt",
             "btn_name": "Unsere Geschenktipps"
-          }
-        },
-        "item_DxngTX": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Rechts.jpg",
-            "img2": "shopify://shop_images/MItte_9e029b0d-138d-4982-8eb5-cba1973b3155.jpg",
-            "img3": "shopify://shop_images/Links.jpg",
-            "title": "Den Frühling unter den Füssen spüren",
-            "text": "<p>Gerade bei Kindern, deren Füsse noch wachsen, ist es besonders wichtig, dass Schuhe die natürliche Entwicklung nicht einschränken. Unsere Frühlingsneuheiten erfüllen genau diese Anforderungen: Weich, flexibel und mit breiter Zehenbox für viel Bewegungsfreiheit. Ideal für Spielplatz, Wald und alle kleinen und grossen Frühlingsabenteuer.</p>",
-            "url": "shopify://collections/barfuss-schuhe",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_bzRQfG": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Cloby_Unten.jpg",
-            "img2": "shopify://shop_images/Mitte_Cloby.jpg",
-            "img3": "shopify://shop_images/Oben_Cloby.jpg",
-            "title": "Cloby Neuheiten: UV-Schutz mit Stil",
-            "text": "<p>Die neue Lieferung von Cloby ist da. Entdecke die vielseitige UV-Decke - unser absoluter Bestseller - sowie weitere durchdachte Essentials mit UV-Schutz für Baby und Kleinkind. Perfekt für unterwegs, im Kinderwagen oder beim Spielen draussen. </p>",
-            "url": "shopify://collections/cloby-fruhling-sommer",
-            "btn_name": "Sichere dir deine Favoriten"
           }
         },
         "item_67rBEb": {
@@ -289,11 +289,11 @@
       },
       "block_order": [
         "item_c8wF6m",
+        "item_DxngTX",
+        "item_bzRQfG",
         "item_kjyRwm",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_iFhkhf",
-        "item_DxngTX",
-        "item_bzRQfG",
         "item_67rBEb",
         "item_CVq4Tq",
         "item_wkJFCy",

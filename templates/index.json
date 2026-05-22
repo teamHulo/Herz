@@ -12,6 +12,18 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "item_DxngTX": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Rechts.jpg",
+            "img2": "shopify://shop_images/Mitte_7a8d97c9-20d9-43e2-bfe6-cd5878e7e28b.jpg",
+            "img3": "shopify://shop_images/Oben_28b2f59b-b012-4f12-82c8-f87319725fcc.jpg",
+            "title": "Den Sommer unter den Füssen spüren",
+            "text": "<p>Gerade bei Kindern, deren Füsse noch wachsen, ist es besonders wichtig, dass Schuhe die natürliche Entwicklung nicht einschränken. Unsere Sommermodelle erfüllen genau diese Anforderungen: Weich, flexibel und mit breiter Zehenbox für viel Bewegungsfreiheit. Ideal für Spielplatz, Wald und alle kleinen und grossen Frühlingsabenteuer.</p>",
+            "url": "shopify://collections/barfuss-schuhe",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_c8wF6m": {
           "type": "item",
           "settings": {
@@ -21,18 +33,6 @@
             "title": "Sommerzeit bei Herz an Herz",
             "text": "<p>Entdecke unsere liebevoll ausgewählten Sommerartikel für Babys und Kinder: luftige Kleidung aus weichem Bambus und leichtem Leinen, schützende UV Bademode, natürliche Sonnencremen und bequeme Barfuss Sandalen für kleine Sommerabenteuer. Alles für warme Tage, Ferienmomente und unbeschwerte Stunden draussen mit deiner Familie.</p>",
             "url": "shopify://collections/aktuelle-kollektionen-zusammengestellt-aus-marke-und-tag-planung-hw23-24",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_DxngTX": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Rechts.jpg",
-            "img2": "shopify://shop_images/MItte_9e029b0d-138d-4982-8eb5-cba1973b3155.jpg",
-            "img3": "shopify://shop_images/Links.jpg",
-            "title": "Den Frühling unter den Füssen spüren",
-            "text": "<p>Gerade bei Kindern, deren Füsse noch wachsen, ist es besonders wichtig, dass Schuhe die natürliche Entwicklung nicht einschränken. Unsere Frühlingsneuheiten erfüllen genau diese Anforderungen: Weich, flexibel und mit breiter Zehenbox für viel Bewegungsfreiheit. Ideal für Spielplatz, Wald und alle kleinen und grossen Frühlingsabenteuer.</p>",
-            "url": "shopify://collections/barfuss-schuhe",
             "btn_name": "Jetzt entdecken"
           }
         },
@@ -288,8 +288,8 @@
         }
       },
       "block_order": [
-        "item_c8wF6m",
         "item_DxngTX",
+        "item_c8wF6m",
         "item_bzRQfG",
         "item_kjyRwm",
         "24910c9d-15a9-4196-9b65-cc074f34c723",

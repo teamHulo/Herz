@@ -592,6 +592,16 @@
     "eb12502c-a978-4a64-8794-299bf7d22d27": {
       "type": "section-our",
       "blocks": {
+        "item_yrPzyC": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnenhut.jpg",
+            "title": "Sonnenhüte",
+            "text": "<p>Ein guter Sonnenhut ist im Sommer das A und O. Ein Hut mit Nackenschutz oder sogar mit breiter Rundumkrempe wie beim beliebten <a href=\"/products/sonnenhut-feuerwehr\" target=\"_blank\" title=\"Sonnenhut FEUERWEHR\">Feuerwehrhut von Pickapooh</a> schützt gut beim Spielen und beim Tragen.</p>",
+            "url": "shopify://collections/sonnenhute",
+            "btn_name": "Sonnenhüte"
+          }
+        },
         "item_9FJAc4": {
           "type": "item",
           "settings": {
@@ -612,6 +622,16 @@
             "btn_name": "UV-Decken & -Kleidung"
           }
         },
+        "item_bPf7kc": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnencreme.jpg",
+            "title": "Sonnencreme",
+            "text": "<p>Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Daher haben wir nur Sonnencreme im Sortiment, die wir guten Gewissens empfehlen können. Sie kommen ohne bedenkliche Inhaltsstoffe aus und werden nachhaltig produziert.</p>",
+            "url": "shopify://collections/sonnencreme",
+            "btn_name": "Sonnencreme"
+          }
+        },
         "item_67Wce3": {
           "type": "item",
           "disabled": true,
@@ -622,34 +642,14 @@
             "url": "shopify://collections/manymonths-fruhling-sommer",
             "btn_name": "Zur Kollektion"
           }
-        },
-        "item_yrPzyC": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnenhut.jpg",
-            "title": "Sonnenhüte",
-            "text": "<p>Ein guter Sonnenhut ist im Sommer das A und O. Ein Hut mit Nackenschutz oder sogar mit breiter Rundumkrempe wie beim beliebten <a href=\"/products/sonnenhut-feuerwehr\" target=\"_blank\" title=\"Sonnenhut FEUERWEHR\">Feuerwehrhut von Pickapooh</a> schützt gut beim Spielen und beim Tragen.</p>",
-            "url": "shopify://collections/sonnenhute",
-            "btn_name": "Sonnenhüte"
-          }
-        },
-        "item_bPf7kc": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnencreme.jpg",
-            "title": "Sonnencreme",
-            "text": "<p>Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Daher haben wir nur Sonnencreme im Sortiment, die wir guten Gewissens empfehlen können. Sie kommen ohne bedenkliche Inhaltsstoffe aus und werden nachhaltig produziert.</p>",
-            "url": "shopify://collections/sonnencreme",
-            "btn_name": "Sonnencreme"
-          }
         }
       },
       "block_order": [
+        "item_yrPzyC",
         "item_9FJAc4",
         "item_JkwHwM",
-        "item_67Wce3",
-        "item_yrPzyC",
-        "item_bPf7kc"
+        "item_bPf7kc",
+        "item_67Wce3"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",

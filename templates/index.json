@@ -583,6 +583,7 @@
         "item_RDJDVL",
         "item_dK9gcB"
       ],
+      "disabled": true,
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Für eine unvergessliche Babyzeit"
@@ -591,6 +592,16 @@
     "eb12502c-a978-4a64-8794-299bf7d22d27": {
       "type": "section-our",
       "blocks": {
+        "item_9FJAc4": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Wolle-Seide-Babykleider.jpg",
+            "title": "Wolle-Seide Kleidung",
+            "text": "<p>Wir empfehlen Kleidung aus Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.</p>",
+            "url": "shopify://collections/wolle-seide-produkte",
+            "btn_name": "Wolle-Seide Produkte"
+          }
+        },
         "item_JkwHwM": {
           "type": "item",
           "settings": {
@@ -634,6 +645,7 @@
         }
       },
       "block_order": [
+        "item_9FJAc4",
         "item_JkwHwM",
         "item_67Wce3",
         "item_yrPzyC",

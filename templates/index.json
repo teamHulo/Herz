@@ -326,6 +326,16 @@
             "btn_name": "Sonnenhüte"
           }
         },
+        "item_Wy8ndG": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/sonnenhut-feuerwehr-strick-mit-uv-schutz-madchen-pickapooh.avif",
+            "title": "Leinenkleidung",
+            "text": "<p>Nachhaltige Kinderkleidung aus Portugal aus natürlichen Materialien. Leinen ist leicht, atmungsaktiv und sorgt für angenehmen Tragekomfort an warmen Tagen.</p>",
+            "url": "shopify://collections/play-up-fruhling-sommer",
+            "btn_name": "Leinenkleidung"
+          }
+        },
         "item_JkwHwM": {
           "type": "item",
           "settings": {
@@ -360,6 +370,7 @@
       },
       "block_order": [
         "item_yrPzyC",
+        "item_Wy8ndG",
         "item_JkwHwM",
         "item_bPf7kc",
         "item_67Wce3"

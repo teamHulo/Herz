@@ -716,6 +716,16 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_7UUQw8": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/301-29-X6-nemo-green-whale_1.jpg",
+            "title": "Sandalen",
+            "text": "<p>Entdecke unsere Auswahl an Sandalen aus Leder oder veganen Materialien, die Komfort und natürliche Bewegungsfreiheit vereinen. Sie sind ideal für warme Tage, bieten Schutz und bleiben dank atmungsaktiver Materialien angenehm zu tragen. Flexible Sohlen und ausreichend Platz im Zehenbereich unterstützen die natürliche Fussentwicklung und machen jede Bewegung mit. Perfekte Begleiter für aktive Kinder im Sommer.</p>",
+            "url": "shopify://collections/sandalen",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_wD89en": {
           "type": "item",
           "disabled": true,
@@ -731,6 +741,7 @@
       "block_order": [
         "item_CVbBDt",
         "item_R3wwin",
+        "item_7UUQw8",
         "item_wD89en"
       ],
       "settings": {}

@@ -366,6 +366,16 @@
             "btn_name": "UV-Bademode"
           }
         },
+        "item_EjGwPC": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/301-10-X6-nemo-vanilla-strawberry-skl_4_05dc11f4-3960-4b61-bcc2-26d0764c6abb.jpg",
+            "title": "Barfuss-Sandalen",
+            "text": "",
+            "url": "shopify://collections/sandalen",
+            "btn_name": "Sandalen"
+          }
+        },
         "item_67Wce3": {
           "type": "item",
           "disabled": true,
@@ -384,6 +394,7 @@
         "item_JkwHwM",
         "item_bPf7kc",
         "item_yrPzyC",
+        "item_EjGwPC",
         "item_67Wce3"
       ],
       "settings": {

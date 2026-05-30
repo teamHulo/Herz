@@ -319,6 +319,16 @@
         "item_yrPzyC": {
           "type": "item",
           "settings": {
+            "img": "shopify://shop_images/Popolini_UV_Shirt.jpg",
+            "title": "UV-Bademode",
+            "text": "",
+            "url": "shopify://collections/uv-bademode",
+            "btn_name": "UV-Bademode"
+          }
+        },
+        "item_Lteb8W": {
+          "type": "item",
+          "settings": {
             "img": "shopify://shop_images/sonnenhut-feuerwehr-strick-mit-uv-schutz-madchen-pickapooh.avif",
             "title": "Sonnenhüte",
             "text": "<p>Ein guter Sonnenhut ist im Sommer das A und O. Ein Hut mit Nackenschutz und mit breiter Rundumkrempe wie beim beliebten Feuerwehrhut von Pickapooh schützt gut beim Spielen und beim Tragen. Er sorgt für zuverlässigen Schutz von Kopf, Gesicht und Nacken an sonnigen Tagen.</p>",
@@ -370,6 +380,7 @@
       },
       "block_order": [
         "item_yrPzyC",
+        "item_Lteb8W",
         "item_Wy8ndG",
         "item_JkwHwM",
         "item_bPf7kc",

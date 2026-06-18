@@ -12,18 +12,6 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "item_DxngTX": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Rechts.jpg",
-            "img2": "shopify://shop_images/Mitte_7a8d97c9-20d9-43e2-bfe6-cd5878e7e28b.jpg",
-            "img3": "shopify://shop_images/Oben_28b2f59b-b012-4f12-82c8-f87319725fcc.jpg",
-            "title": "Mit Leichtigkeit durch den Sommer",
-            "text": "<p>Gerade im Sommer, wenn Kinderfüsse viel unterwegs sind, ist es besonders wichtig, dass Schuhe die natürliche Entwicklung nicht einschränken. Unsere Barfussschuhe sind leicht, weich und flexibel, mit breiter Zehenbox für maximale Bewegungsfreiheit. Perfekt für warme Tage auf dem Spielplatz, im Wald, am Wasser oder bei allen kleinen und grossen Sommerabenteuern.</p>",
-            "url": "shopify://collections/barfuss-schuhe",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
         "item_c8wF6m": {
           "type": "item",
           "settings": {
@@ -33,6 +21,18 @@
             "title": "Sommerzeit bei Herz an Herz",
             "text": "<p>Entdecke unsere liebevoll ausgewählten Sommerartikel für Babys und Kinder: luftige Kleidung aus weichem Bambus und leichtem Leinen, schützende UV Bademode, natürliche Sonnencremen und bequeme Barfuss Sandalen für kleine Sommerabenteuer. Alles für warme Tage, Ferienmomente und unbeschwerte Stunden draussen mit deiner Familie.</p>",
             "url": "shopify://collections/aktuelle-kollektionen-zusammengestellt-aus-marke-und-tag-planung-hw23-24",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_DxngTX": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Rechts.jpg",
+            "img2": "shopify://shop_images/Mitte_7a8d97c9-20d9-43e2-bfe6-cd5878e7e28b.jpg",
+            "img3": "shopify://shop_images/Oben_28b2f59b-b012-4f12-82c8-f87319725fcc.jpg",
+            "title": "Mit Leichtigkeit durch den Sommer",
+            "text": "<p>Gerade im Sommer, wenn Kinderfüsse viel unterwegs sind, ist es besonders wichtig, dass Schuhe die natürliche Entwicklung nicht einschränken. Unsere Barfussschuhe sind leicht, weich und flexibel, mit breiter Zehenbox für maximale Bewegungsfreiheit. Perfekt für warme Tage auf dem Spielplatz, im Wald, am Wasser oder bei allen kleinen und grossen Sommerabenteuern.</p>",
+            "url": "shopify://collections/barfuss-schuhe",
             "btn_name": "Jetzt entdecken"
           }
         },
@@ -46,6 +46,18 @@
             "text": "<p>Die neue Lieferung von Cloby ist da. Entdecke die vielseitige UV-Decke - unser absoluter Bestseller - sowie weitere durchdachte Essentials mit UV-Schutz für Baby und Kleinkind. Perfekt für unterwegs, im Kinderwagen oder beim Spielen draussen. </p>",
             "url": "shopify://collections/cloby-fruhling-sommer",
             "btn_name": "Sichere dir deine Favoriten"
+          }
+        },
+        "item_67rBEb": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/unten_9794b21d-4e36-4a08-8399-a404d6a0e60f.jpg",
+            "img2": "shopify://shop_images/Mitte_00151fbe-d2d3-4ada-90aa-238b66bc57b5.jpg",
+            "img3": "shopify://shop_images/Unten_Feste.jpg",
+            "title": "Feste und Rituale in der Familie",
+            "text": "<p>Der Alltag mit Kindern ist geprägt von kleinen Abenteuern, liebgewonnenen Ritualen und vielen besonderen Augenblicken. Wie du Geburtstage und andere Feste unvergesslich gestaltest und die Jahreszeiten auch zuhause erlebbar machst – und weshalb das so wertvoll ist – erklären wir dir hier.</p>",
+            "url": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
+            "btn_name": "Mehr erfahren"
           }
         },
         "item_kjyRwm": {
@@ -82,18 +94,6 @@
             "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.</p>",
             "url": "shopify://pages/geschenke-zur-geburt",
             "btn_name": "Unsere Geschenktipps"
-          }
-        },
-        "item_67rBEb": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/unten_9794b21d-4e36-4a08-8399-a404d6a0e60f.jpg",
-            "img2": "shopify://shop_images/Mitte_00151fbe-d2d3-4ada-90aa-238b66bc57b5.jpg",
-            "img3": "shopify://shop_images/Unten_Feste.jpg",
-            "title": "Feste und Rituale in der Familie",
-            "text": "<p>Der Alltag mit Kindern ist geprägt von kleinen Abenteuern, liebgewonnenen Ritualen und vielen besonderen Augenblicken. Wie du Geburtstage und andere Feste unvergesslich gestaltest und die Jahreszeiten auch zuhause erlebbar machst – und weshalb das so wertvoll ist – erklären wir dir hier.</p>",
-            "url": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
-            "btn_name": "Mehr erfahren"
           }
         },
         "item_CVq4Tq": {
@@ -288,13 +288,13 @@
         }
       },
       "block_order": [
-        "item_DxngTX",
         "item_c8wF6m",
+        "item_DxngTX",
         "item_bzRQfG",
+        "item_67rBEb",
         "item_kjyRwm",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_iFhkhf",
-        "item_67rBEb",
         "item_CVq4Tq",
         "item_wkJFCy",
         "item_Jc9eFD",

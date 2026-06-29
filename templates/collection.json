@@ -68,12 +68,6 @@
           "settings": {
             "menu_item": "geschenke"
           }
-        },
-        "sidebar_Gqew93": {
-          "type": "sidebar",
-          "settings": {
-            "menu_item": "sale-1"
-          }
         }
       },
       "block_order": [
@@ -84,8 +78,7 @@
         "sidebar_Yt6mCi",
         "sidebar_KB9RNm",
         "sidebar_nHRwri",
-        "sidebar_HyVYhz",
-        "sidebar_Gqew93"
+        "sidebar_HyVYhz"
       ],
       "settings": {
         "products_per_page": 24,

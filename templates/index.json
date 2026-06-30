@@ -24,18 +24,6 @@
             "btn_name": "Jetzt entdecken"
           }
         },
-        "item_8xqrhQ": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Sliderbild_rechts.jpg",
-            "img2": "shopify://shop_images/Sliderbild-Mitte.jpg",
-            "img3": "shopify://shop_images/Bild_unten_5422cf15-722b-4e1b-b10e-a8f42646eb16.jpg",
-            "title": "Der Sommer Sale ist da",
-            "text": "<p>Jetzt ist der perfekte Zeitpunkt, um deine Sommerfavoriten zu sichern. Entdecke hochwertige UV Bademode, Barfusssandalen, luftige Kindermode und vieles mehr. Jetzt <strong>30% reduziert</strong>.</p>",
-            "url": "shopify://collections/sale",
-            "btn_name": "Jetzt profitieren"
-          }
-        },
         "item_DxngTX": {
           "type": "item",
           "settings": {
@@ -106,6 +94,18 @@
             "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.</p>",
             "url": "shopify://pages/geschenke-zur-geburt",
             "btn_name": "Unsere Geschenktipps"
+          }
+        },
+        "item_8xqrhQ": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Sliderbild_rechts.jpg",
+            "img2": "shopify://shop_images/Sliderbild-Mitte.jpg",
+            "img3": "shopify://shop_images/Bild_unten_5422cf15-722b-4e1b-b10e-a8f42646eb16.jpg",
+            "title": "Der Sommer Sale ist da",
+            "text": "<p>Jetzt ist der perfekte Zeitpunkt, um deine Sommerfavoriten zu sichern. Entdecke hochwertige UV Bademode, Barfusssandalen, luftige Kindermode und vieles mehr. Jetzt <strong>30% reduziert</strong>.</p>",
+            "url": "shopify://collections/sale",
+            "btn_name": "Jetzt profitieren"
           }
         },
         "item_CVq4Tq": {
@@ -288,13 +288,13 @@
       },
       "block_order": [
         "item_c8wF6m",
-        "item_8xqrhQ",
         "item_DxngTX",
         "item_bzRQfG",
         "item_67rBEb",
         "item_kjyRwm",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_iFhkhf",
+        "item_8xqrhQ",
         "item_CVq4Tq",
         "item_wkJFCy",
         "item_Jc9eFD",

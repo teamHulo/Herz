@@ -24,6 +24,19 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_8xqrhQ": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Sommer_Sale_oben_ceccad4d-fa78-4f8c-bba2-79d079220c5c.jpg",
+            "img2": "shopify://shop_images/Sale_mitte.jpg",
+            "img3": "shopify://shop_images/Bild_unten_5422cf15-722b-4e1b-b10e-a8f42646eb16.jpg",
+            "title": "Ahoi Sommer Sale",
+            "text": "<p>Jetzt ist der perfekte Zeitpunkt, um deine Sommerfavoriten zu sichern. Entdecke hochwertige UV Bademode, Barfusssandalen, luftige Kindermode und vieles mehr. Jetzt <strong>30% reduziert</strong>.</p>",
+            "url": "shopify://collections/sale",
+            "btn_name": "Jetzt profitieren"
+          }
+        },
         "item_DxngTX": {
           "type": "item",
           "settings": {
@@ -183,19 +196,6 @@
             "btn_name": "Jetzt profitieren"
           }
         },
-        "item_8xqrhQ": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Sommer_Sale_oben_ceccad4d-fa78-4f8c-bba2-79d079220c5c.jpg",
-            "img2": "shopify://shop_images/Sale_mitte.jpg",
-            "img3": "shopify://shop_images/Bild_unten_5422cf15-722b-4e1b-b10e-a8f42646eb16.jpg",
-            "title": "Ahoi Sommer Sale",
-            "text": "<p>Der Sommer ist zurück und wie! Was lange auf sich warten liess, feiern wir jetzt umso mehr; mit unserem Sommer Sale. Wir werfen die Preise über Bord und bringen dich stilvoll durch den Rest des Sommers.</p>",
-            "url": "shopify://collections/sale",
-            "btn_name": "Jetzt profitieren"
-          }
-        },
         "item_TYg9jc": {
           "type": "item",
           "disabled": true,
@@ -289,6 +289,7 @@
       },
       "block_order": [
         "item_c8wF6m",
+        "item_8xqrhQ",
         "item_DxngTX",
         "item_bzRQfG",
         "item_67rBEb",
@@ -302,7 +303,6 @@
         "item_PYBx6f",
         "item_WxFtCe",
         "item_NthYMr",
-        "item_8xqrhQ",
         "item_TYg9jc",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "item_f4JDnm",

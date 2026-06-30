@@ -12,6 +12,19 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "item_8xqrhQ": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Prozentzeichen.jpg",
+            "img2": "shopify://shop_images/Sliderbild-Mitte_ec27b7b5-dd71-41db-9ced-0e669323368f.jpg",
+            "img3": "shopify://shop_images/Sliderbild_rechts.jpg",
+            "title": "Sommer Sale",
+            "text": "<p>Entdecke jetzt unsere schönsten Sommerfavoriten mit <strong>30% Rabatt</strong>. Von hochwertiger UV Bademode über Barfusssandalen bis hin zu luftiger Kindermode findest du alles für unbeschwerte Sommertage.</p>",
+            "url": "shopify://collections/sale",
+            "btn_name": "Jetzt profitieren"
+          }
+        },
         "item_c8wF6m": {
           "type": "item",
           "settings": {
@@ -94,19 +107,6 @@
             "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.</p>",
             "url": "shopify://pages/geschenke-zur-geburt",
             "btn_name": "Unsere Geschenktipps"
-          }
-        },
-        "item_8xqrhQ": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Prozentzeichen.jpg",
-            "img2": "shopify://shop_images/Sliderbild-Mitte_ec27b7b5-dd71-41db-9ced-0e669323368f.jpg",
-            "img3": "shopify://shop_images/Sliderbild_rechts.jpg",
-            "title": "Sommer Sale",
-            "text": "<p>Entdecke jetzt unsere schönsten Sommerfavoriten mit <strong>30% Rabatt</strong>. Von hochwertiger UV Bademode über Barfusssandalen bis hin zu luftiger Kindermode findest du alles für unbeschwerte Sommertage.</p>",
-            "url": "shopify://collections/sale",
-            "btn_name": "Jetzt profitieren"
           }
         },
         "item_CVq4Tq": {
@@ -288,6 +288,7 @@
         }
       },
       "block_order": [
+        "item_8xqrhQ",
         "item_c8wF6m",
         "item_DxngTX",
         "item_bzRQfG",
@@ -295,7 +296,6 @@
         "item_kjyRwm",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_iFhkhf",
-        "item_8xqrhQ",
         "item_CVq4Tq",
         "item_wkJFCy",
         "item_Jc9eFD",

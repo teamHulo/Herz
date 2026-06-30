@@ -98,13 +98,12 @@
         },
         "item_8xqrhQ": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Prozentzeichen.jpg",
-            "img2": "shopify://shop_images/Sliderbild-Mitte.jpg",
+            "img2": "shopify://shop_images/Sliderbild-Mitte_ec27b7b5-dd71-41db-9ced-0e669323368f.jpg",
             "img3": "shopify://shop_images/Sliderbild_rechts.jpg",
             "title": "Sommer Sale",
-            "text": "<p>Jetzt ist der perfekte Zeitpunkt, um deine Sommerfavoriten zu sichern. Entdecke hochwertige UV Bademode, Barfusssandalen, luftige Kindermode und vieles mehr. Jetzt <strong>30% reduziert</strong>.</p>",
+            "text": "<p>Entdecke jetzt unsere schönsten Sommerfavoriten mit <strong>30% Rabatt</strong>. Von hochwertiger UV Bademode über Barfusssandalen bis hin zu luftiger Kindermode findest du alles für unbeschwerte Sommertage.</p>",
             "url": "shopify://collections/sale",
             "btn_name": "Jetzt profitieren"
           }

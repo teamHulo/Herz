@@ -21,31 +21,33 @@
 
 {% assign metafield_products = product.metafields['shopify--discovery--product_recommendation'].complementary_products.value %}
 
-{% if metafield_products and metafield_products.size > 0 %}
+{% if metafield_products and metafield_products.size > 0 or dazuCollectionTag != null and dazuCollection.products.size > 0 %}
   <div class="section-dazu-collection container">
     <h2 style="margin-top: 0;">{{ section.settings.title }}</h2>
     <div class="swiper list-products-swiper-2">
       <div class="swiper-wrapper" style="height: 100%">
-        {% for product in metafield_products %}
-          <div class="swiper-slide" style="height: auto;">
-            {% render 'my-cart-item', section: section, product: product, show_contant: section.settings.show_contant, showButton: false %}
-          </div>
-        {% endfor %}
-      </div>
-    </div>
-    <div class="swiper-button-next" style="display: block;"></div>
-    <div class="swiper-button-prev" style="display: block;"></div>
-  </div>
-{% elsif dazuCollectionTag != null and dazuCollection.products.size > 0 %}
-  <div class="section-dazu-collection container">
-    <h2 style="margin-top: 0;">{{ section.settings.title }}</h2>
-    <div class="swiper list-products-swiper-2">
-      <div class="swiper-wrapper" style="height: 100%">
-        {% for product in dazuCollection.products %}
-          <div class="swiper-slide" style="height: auto;">
-            {% render 'my-cart-item', section: section, product: product, show_contant: section.settings.show_contant, showButton: false %}
-          </div>
-        {% endfor %}
+        {% if metafield_products and metafield_products.size > 0 %}
+          {% for product in metafield_products %}
+            <div class="swiper-slide" style="height: auto;">
+              {% render 'my-cart-item', section: section, product: product, show_contant: section.settings.show_contant, showButton: false %}
+            </div>
+          {% endfor %}
+        {% endif %}
+        {% if dazuCollectionTag != null %}
+          {% for col_product in dazuCollection.products %}
+            {% assign already_shown = false %}
+            {% for meta_product in metafield_products %}
+              {% if meta_product.id == col_product.id %}
+                {% assign already_shown = true %}
+              {% endif %}
+            {% endfor %}
+            {% unless already_shown %}
+              <div class="swiper-slide" style="height: auto;">
+                {% render 'my-cart-item', section: section, product: col_product, show_contant: section.settings.show_contant, showButton: false %}
+              </div>
+            {% endunless %}
+          {% endfor %}
+        {% endif %}
       </div>
     </div>
     <div class="swiper-button-next" style="display: block;"></div>

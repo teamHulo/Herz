@@ -18,7 +18,7 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "🌱 STOFFWINDELWOCHE bei Herz an Herz 🌱",
+            "text": "Sommer Sale bei ❤️ an ❤️",
             "link": ""
           }
         },
@@ -32,6 +32,7 @@
         },
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Herzlich Willkommen bei ❤️ an ❤️",
             "link": ""

@@ -12,16 +12,16 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "item_8xqrhQ": {
+        "item_wkJFCy": {
           "type": "item",
           "settings": {
-            "img1": "shopify://shop_images/Prozentzeichen.jpg",
-            "img2": "shopify://shop_images/Mitte_0ae1a30c-e6fe-4886-b504-5b0fffea380f.jpg",
-            "img3": "shopify://shop_images/rechts_970a950e-6094-4b7c-9d77-3b7130137380.jpg",
-            "title": "Sommer Sale",
-            "text": "<p>Die schönsten Sommertage sind noch nicht vorbei! In unserem Sale warten noch einzelne Sommerartikel auf dich, jetzt mit <strong>50 % Rabatt</strong>. Schnell sein lohnt sich.</p>",
-            "url": "shopify://collections/sale",
-            "btn_name": "Jetzt profitieren"
+            "img1": "shopify://shop_images/Bild_unten_d2abbec9-9ec5-428e-ab36-c286215d5d27.jpg",
+            "img2": "shopify://shop_images/Bild_Mitte_a8564d88-7a3f-4c03-b466-364b54a1f6e8.jpg",
+            "img3": "shopify://shop_images/Bild_oben_22990fa4-bd34-4469-9e80-2cc6652a49c4.jpg",
+            "title": "Wohlfühlzeit",
+            "text": "<p>Bei uns findest du alles, was dein Kind in den verschiedenen Phasen des Aufwachsens stärkt und begleitet. Von sorgfältig ausgewählten Produkten für Schlaf, Tragen, Essen und Spielen bis hin zu Wissen, <a href=\"https://www.herzanherz.ch/kurse/\" target=\"_blank\" title=\"https://www.herzanherz.ch/kurse/\">Kursen</a> und persönlicher <a href=\"https://www.herzanherz.ch/beratungen/\" target=\"_blank\" title=\"https://www.herzanherz.ch/beratungen/\">Beratung</a> : Wir denken Wohlbefinden ganzheitlich. Uns ist wichtig, dass Kinder sich sicher, gesehen und geborgen fühlen dürfen und dass Eltern im Alltag Unterstützung finden, die stärkt statt verunsichert. </p>",
+            "url": "https://herzanherz-shop.ch/collections/babyzeit",
+            "btn_name": "Alles für die Babyzeit"
           }
         },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
@@ -36,17 +36,28 @@
             "btn_name": "Mehr zum Thema erfahren"
           }
         },
-        "item_c8wF6m": {
+        "item_CVq4Tq": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "img1": "shopify://shop_images/Unten_58a30c08-814d-4cc1-bcd5-304a6bf250b2.jpg",
-            "img2": "shopify://shop_images/Mitte_35043e25-0a88-494f-94d7-a0590f732332.jpg",
-            "img3": "shopify://shop_images/oben_e3ee1d12-a1a2-466c-a823-a6ee3f67067f.jpg",
-            "title": "Sommerzeit bei Herz an Herz",
-            "text": "<p>Entdecke unsere liebevoll ausgewählten Sommerartikel für Babys und Kinder: luftige Kleidung aus weichem Bambus und leichtem Leinen, schützende UV Bademode, natürliche Sonnencremen und bequeme Barfuss Sandalen für kleine Sommerabenteuer. Alles für warme Tage, Ferienmomente und unbeschwerte Stunden draussen mit deiner Familie.</p>",
-            "url": "shopify://collections/aktuelle-kollektionen-zusammengestellt-aus-marke-und-tag-planung-hw23-24",
+            "img1": "shopify://shop_images/Slider_links.jpg",
+            "img2": "shopify://shop_images/Mitte_2_718a7d11-39e0-4947-8c32-6f188129dc89.jpg",
+            "img3": "shopify://shop_images/Oben_2_832d22da-5712-405d-a08e-c88c955b2e2b.jpg",
+            "title": "Mit allen Sinnen spielen",
+            "text": "<p>Spielen ist Lernen, Entdecken und Wachsen. In unserem sorgfältig ausgewählten Sortiment findest du nachhaltige Spielsachen für Babys und Kleinkinder, die Fantasie, Motorik und Selbstständigkeit fördern. Hochwertige Materialien, zeitloses Design und eine bewusste Auswahl stehen bei uns im Mittelpunkt. Für Spielmomente, die Freude machen und lange begleiten.</p>",
+            "url": "shopify://collections/nachhaltige-spielsachen",
             "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_8xqrhQ": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Prozentzeichen.jpg",
+            "img2": "shopify://shop_images/Mitte_0ae1a30c-e6fe-4886-b504-5b0fffea380f.jpg",
+            "img3": "shopify://shop_images/rechts_970a950e-6094-4b7c-9d77-3b7130137380.jpg",
+            "title": "Sommer Sale",
+            "text": "<p>Die schönsten Sommertage sind noch nicht vorbei! In unserem Sale warten noch einzelne Sommerartikel auf dich, jetzt mit <strong>50 % Rabatt</strong>. Schnell sein lohnt sich.</p>",
+            "url": "shopify://collections/sale",
+            "btn_name": "Jetzt profitieren"
           }
         },
         "item_DxngTX": {
@@ -59,19 +70,6 @@
             "text": "<p>Gerade im Sommer, wenn Kinderfüsse viel unterwegs sind, ist es besonders wichtig, dass Schuhe die natürliche Entwicklung nicht einschränken. Unsere Barfussschuhe sind leicht, weich und flexibel, mit breiter Zehenbox für maximale Bewegungsfreiheit. Perfekt für warme Tage auf dem Spielplatz, im Wald, am Wasser oder bei allen kleinen und grossen Sommerabenteuern.</p>",
             "url": "shopify://collections/barfuss-schuhe",
             "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_bzRQfG": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Cloby_Unten.jpg",
-            "img2": "shopify://shop_images/Mitte_Cloby.jpg",
-            "img3": "shopify://shop_images/Oben_Cloby.jpg",
-            "title": "Cloby: UV-Schutz mit Stil",
-            "text": "<p>Die neue Lieferung von Cloby ist da. Entdecke die vielseitige UV-Decke - unser absoluter Bestseller - sowie weitere durchdachte Essentials mit UV-Schutz für Baby und Kleinkind. Perfekt für unterwegs, im Kinderwagen oder beim Spielen draussen. </p>",
-            "url": "shopify://collections/cloby-fruhling-sommer",
-            "btn_name": "Sichere dir deine Favoriten"
           }
         },
         "item_67rBEb": {
@@ -122,28 +120,17 @@
             "btn_name": "Unsere Geschenktipps"
           }
         },
-        "item_CVq4Tq": {
+        "item_bzRQfG": {
           "type": "item",
+          "disabled": true,
           "settings": {
-            "img1": "shopify://shop_images/Slider_links.jpg",
-            "img2": "shopify://shop_images/Mitte_2_718a7d11-39e0-4947-8c32-6f188129dc89.jpg",
-            "img3": "shopify://shop_images/Oben_2_832d22da-5712-405d-a08e-c88c955b2e2b.jpg",
-            "title": "Mit allen Sinnen spielen",
-            "text": "<p>Spielen ist Lernen, Entdecken und Wachsen. In unserem sorgfältig ausgewählten Sortiment findest du nachhaltige Spielsachen für Babys und Kleinkinder, die Fantasie, Motorik und Selbstständigkeit fördern. Hochwertige Materialien, zeitloses Design und eine bewusste Auswahl stehen bei uns im Mittelpunkt. Für Spielmomente, die Freude machen und lange begleiten.</p>",
-            "url": "shopify://collections/nachhaltige-spielsachen",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_wkJFCy": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Bild_unten_d2abbec9-9ec5-428e-ab36-c286215d5d27.jpg",
-            "img2": "shopify://shop_images/Bild_Mitte_a8564d88-7a3f-4c03-b466-364b54a1f6e8.jpg",
-            "img3": "shopify://shop_images/Bild_oben_22990fa4-bd34-4469-9e80-2cc6652a49c4.jpg",
-            "title": "Wohlfühlzeit",
-            "text": "<p>Bei uns findest du alles, was dein Kind in den verschiedenen Phasen des Aufwachsens stärkt und begleitet. Von sorgfältig ausgewählten Produkten für Schlaf, Tragen, Essen und Spielen bis hin zu Wissen, <a href=\"https://www.herzanherz.ch/kurse/\" target=\"_blank\" title=\"https://www.herzanherz.ch/kurse/\">Kursen</a> und persönlicher <a href=\"https://www.herzanherz.ch/beratungen/\" target=\"_blank\" title=\"https://www.herzanherz.ch/beratungen/\">Beratung</a> : Wir denken Wohlbefinden ganzheitlich. Uns ist wichtig, dass Kinder sich sicher, gesehen und geborgen fühlen dürfen und dass Eltern im Alltag Unterstützung finden, die stärkt statt verunsichert. </p>",
-            "url": "https://herzanherz-shop.ch/collections/babyzeit",
-            "btn_name": "Alles für die Babyzeit"
+            "img1": "shopify://shop_images/Cloby_Unten.jpg",
+            "img2": "shopify://shop_images/Mitte_Cloby.jpg",
+            "img3": "shopify://shop_images/Oben_Cloby.jpg",
+            "title": "Cloby: UV-Schutz mit Stil",
+            "text": "<p>Die neue Lieferung von Cloby ist da. Entdecke die vielseitige UV-Decke - unser absoluter Bestseller - sowie weitere durchdachte Essentials mit UV-Schutz für Baby und Kleinkind. Perfekt für unterwegs, im Kinderwagen oder beim Spielen draussen. </p>",
+            "url": "shopify://collections/cloby-fruhling-sommer",
+            "btn_name": "Sichere dir deine Favoriten"
           }
         },
         "item_Jc9eFD": {
@@ -174,6 +161,7 @@
         },
         "item_WxFtCe": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Winterthur_Babyladen_Gutschein_Paarzeit-Kartenset-Paare-Sofasafari-2_66294_2.jpg",
             "img2": "shopify://shop_images/Couple_e8c016d3-0863-49ac-9ddc-d83c7b70e5fb.jpg",
@@ -195,6 +183,19 @@
             "text": "<p>Die Stoffwindelwoche 2026 ist da und wir feiern mit dir nachhaltiges Wickeln im Familienalltag. Sichere dir jetzt 10% Rabatt auf alle Stoffwindeln, Zubehör und Windelfrei-Produkte und entdecke, wie einfach, schön und alltagstauglich nachhaltiges Wickeln sein kann.</p><p>Die Aktion läuft bis zum 26.4.26. Jetzt ist der perfekte Moment einzusteigen oder dein Stoffwindelsortiment zu erweitern.</p>",
             "url": "shopify://collections/wickeln",
             "btn_name": "Jetzt profitieren"
+          }
+        },
+        "item_c8wF6m": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Unten_58a30c08-814d-4cc1-bcd5-304a6bf250b2.jpg",
+            "img2": "shopify://shop_images/Mitte_35043e25-0a88-494f-94d7-a0590f732332.jpg",
+            "img3": "shopify://shop_images/oben_e3ee1d12-a1a2-466c-a823-a6ee3f67067f.jpg",
+            "title": "Sommerzeit bei Herz an Herz",
+            "text": "<p>Entdecke unsere liebevoll ausgewählten Sommerartikel für Babys und Kinder: luftige Kleidung aus weichem Bambus und leichtem Leinen, schützende UV Bademode, natürliche Sonnencremen und bequeme Barfuss Sandalen für kleine Sommerabenteuer. Alles für warme Tage, Ferienmomente und unbeschwerte Stunden draussen mit deiner Familie.</p>",
+            "url": "shopify://collections/aktuelle-kollektionen-zusammengestellt-aus-marke-und-tag-planung-hw23-24",
+            "btn_name": "Jetzt entdecken"
           }
         },
         "item_TYg9jc": {
@@ -289,21 +290,21 @@
         }
       },
       "block_order": [
-        "item_8xqrhQ",
+        "item_wkJFCy",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
-        "item_c8wF6m",
+        "item_CVq4Tq",
+        "item_8xqrhQ",
         "item_DxngTX",
-        "item_bzRQfG",
         "item_67rBEb",
         "item_kjyRwm",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_iFhkhf",
-        "item_CVq4Tq",
-        "item_wkJFCy",
+        "item_bzRQfG",
         "item_Jc9eFD",
         "item_PYBx6f",
         "item_WxFtCe",
         "item_NthYMr",
+        "item_c8wF6m",
         "item_TYg9jc",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "item_f4JDnm",

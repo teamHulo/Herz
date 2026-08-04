@@ -24,6 +24,18 @@
             "btn_name": "Alles für die Babyzeit"
           }
         },
+        "item_8xqrhQ": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Prozentzeichen.jpg",
+            "img2": "shopify://shop_images/Mitte_0ae1a30c-e6fe-4886-b504-5b0fffea380f.jpg",
+            "img3": "shopify://shop_images/rechts_970a950e-6094-4b7c-9d77-3b7130137380.jpg",
+            "title": "Sommer Sale",
+            "text": "<p>Die schönsten Sommertage sind noch nicht vorbei! In unserem Sale warten noch einzelne Sommerartikel auf dich, jetzt mit <strong>50 % Rabatt</strong>. Schnell sein lohnt sich.</p>",
+            "url": "shopify://collections/sale",
+            "btn_name": "Jetzt profitieren"
+          }
+        },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
           "type": "item",
           "settings": {
@@ -46,18 +58,6 @@
             "text": "<p>Spielen ist Lernen, Entdecken und Wachsen. In unserem sorgfältig ausgewählten Sortiment findest du nachhaltige Spielsachen für Babys und Kleinkinder, die Fantasie, Motorik und Selbstständigkeit fördern. Hochwertige Materialien, zeitloses Design und eine bewusste Auswahl stehen bei uns im Mittelpunkt. Für Spielmomente, die Freude machen und lange begleiten.</p>",
             "url": "shopify://collections/nachhaltige-spielsachen",
             "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_8xqrhQ": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Prozentzeichen.jpg",
-            "img2": "shopify://shop_images/Mitte_0ae1a30c-e6fe-4886-b504-5b0fffea380f.jpg",
-            "img3": "shopify://shop_images/rechts_970a950e-6094-4b7c-9d77-3b7130137380.jpg",
-            "title": "Sommer Sale",
-            "text": "<p>Die schönsten Sommertage sind noch nicht vorbei! In unserem Sale warten noch einzelne Sommerartikel auf dich, jetzt mit <strong>50 % Rabatt</strong>. Schnell sein lohnt sich.</p>",
-            "url": "shopify://collections/sale",
-            "btn_name": "Jetzt profitieren"
           }
         },
         "item_67rBEb": {
@@ -292,9 +292,9 @@
       },
       "block_order": [
         "item_wkJFCy",
+        "item_8xqrhQ",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_CVq4Tq",
-        "item_8xqrhQ",
         "item_67rBEb",
         "item_kjyRwm",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
@@ -319,6 +319,16 @@
     "eb12502c-a978-4a64-8794-299bf7d22d27": {
       "type": "section-our",
       "blocks": {
+        "item_bPf7kc": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnencreme.jpg",
+            "title": "Sonnencreme",
+            "text": "<p>Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Daher haben wir nur Sonnencreme im Sortiment, die wir guten Gewissens empfehlen können. Sie kommen ohne bedenkliche Inhaltsstoffe aus und werden nachhaltig produziert.</p>",
+            "url": "shopify://collections/sonnencreme",
+            "btn_name": "Sonnencreme"
+          }
+        },
         "item_Lteb8W": {
           "type": "item",
           "settings": {
@@ -331,6 +341,7 @@
         },
         "item_Wy8ndG": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Bildschirmfoto_2026-05-30_um_16.10.14.png",
             "title": "Leinenkleidung",
@@ -347,16 +358,6 @@
             "text": "<p>Babys und Kleinkinder reagieren empfindlich auf Sonnenstrahlen. Darum ist ein guter UV-Schutz für sie besonders wichtig. UV-Decken für Tragehilfe und Kinderwagen sowie spezielle, dicht gewebte Kleidung schützen optimal.</p>",
             "url": "shopify://collections/uv-stampler-tucher",
             "btn_name": "UV-Decken & -Kleidung"
-          }
-        },
-        "item_bPf7kc": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnencreme.jpg",
-            "title": "Sonnencreme",
-            "text": "<p>Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Daher haben wir nur Sonnencreme im Sortiment, die wir guten Gewissens empfehlen können. Sie kommen ohne bedenkliche Inhaltsstoffe aus und werden nachhaltig produziert.</p>",
-            "url": "shopify://collections/sonnencreme",
-            "btn_name": "Sonnencreme"
           }
         },
         "item_yrPzyC": {
@@ -392,14 +393,15 @@
         }
       },
       "block_order": [
+        "item_bPf7kc",
         "item_Lteb8W",
         "item_Wy8ndG",
         "item_JkwHwM",
-        "item_bPf7kc",
         "item_yrPzyC",
         "item_EjGwPC",
         "item_67Wce3"
       ],
+      "disabled": true,
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Alles für entspannte Sommertage"

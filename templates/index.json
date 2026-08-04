@@ -60,18 +60,6 @@
             "btn_name": "Jetzt profitieren"
           }
         },
-        "item_DxngTX": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Rechts.jpg",
-            "img2": "shopify://shop_images/Mitte_7a8d97c9-20d9-43e2-bfe6-cd5878e7e28b.jpg",
-            "img3": "shopify://shop_images/Oben_28b2f59b-b012-4f12-82c8-f87319725fcc.jpg",
-            "title": "Mit Leichtigkeit durch den Sommer",
-            "text": "<p>Gerade im Sommer, wenn Kinderfüsse viel unterwegs sind, ist es besonders wichtig, dass Schuhe die natürliche Entwicklung nicht einschränken. Unsere Barfussschuhe sind leicht, weich und flexibel, mit breiter Zehenbox für maximale Bewegungsfreiheit. Perfekt für warme Tage auf dem Spielplatz, im Wald, am Wasser oder bei allen kleinen und grossen Sommerabenteuern.</p>",
-            "url": "shopify://collections/barfuss-schuhe",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
         "item_67rBEb": {
           "type": "item",
           "settings": {
@@ -118,6 +106,19 @@
             "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.</p>",
             "url": "shopify://pages/geschenke-zur-geburt",
             "btn_name": "Unsere Geschenktipps"
+          }
+        },
+        "item_DxngTX": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Rechts.jpg",
+            "img2": "shopify://shop_images/Mitte_7a8d97c9-20d9-43e2-bfe6-cd5878e7e28b.jpg",
+            "img3": "shopify://shop_images/Oben_28b2f59b-b012-4f12-82c8-f87319725fcc.jpg",
+            "title": "Mit Leichtigkeit durch den Sommer",
+            "text": "<p>Gerade im Sommer, wenn Kinderfüsse viel unterwegs sind, ist es besonders wichtig, dass Schuhe die natürliche Entwicklung nicht einschränken. Unsere Barfussschuhe sind leicht, weich und flexibel, mit breiter Zehenbox für maximale Bewegungsfreiheit. Perfekt für warme Tage auf dem Spielplatz, im Wald, am Wasser oder bei allen kleinen und grossen Sommerabenteuern.</p>",
+            "url": "shopify://collections/barfuss-schuhe",
+            "btn_name": "Jetzt entdecken"
           }
         },
         "item_bzRQfG": {
@@ -294,11 +295,11 @@
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_CVq4Tq",
         "item_8xqrhQ",
-        "item_DxngTX",
         "item_67rBEb",
         "item_kjyRwm",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_iFhkhf",
+        "item_DxngTX",
         "item_bzRQfG",
         "item_Jc9eFD",
         "item_PYBx6f",

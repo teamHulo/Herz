@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_9kMrpi": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "SOMMER SALE bei ❤️ an ❤️",
             "link": ""
@@ -29,9 +30,15 @@
             "link": ""
           }
         },
+        "announcement_xUYUmU": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Herzlich Willkommen bei ❤️ an ❤️",
             "link": ""
@@ -57,6 +64,7 @@
       "block_order": [
         "announcement_9kMrpi",
         "announcement_gbL8jV",
+        "announcement_xUYUmU",
         "announcement-bar-0",
         "announcement_wT4jk6",
         "c6ff20ea-ec23-4a85-8f27-36fe748d7b3c"

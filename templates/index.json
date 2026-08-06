@@ -419,36 +419,6 @@
     "section_our_aLKHkd": {
       "type": "section-our",
       "blocks": {
-        "item_taMpWb": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/WolleSeide_Engel.jpg",
-            "title": "Wolle-Seide Kleidung",
-            "text": "<p>Kleidung aus Wolle-Seide-Gemischen hält die Körpertemperatur des Kindes konstant. Das ist ein super Vorteil für die kühlere aber auch für die wärmere Jahreszeit! Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.</p>",
-            "url": "shopify://collections/wolle-seide-produkte",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_XRbJ6J": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Stulpen_Pickapooh.webp",
-            "title": "Praktische Accessoires",
-            "text": "<p>Stulpen, Loops und leichte Mützen aus Wolle/Seide sind das ideale Extra für wechselhafte Frühlingstage. Sie wärmen sanft, wenn es morgens noch frisch ist, und schützen empfindliche Haut vor Wind und kühler Luft. Dank der natürlichen Fasern sind sie besonders atmungsaktiv & temperaturausgleichend, sodass es weder zu warm noch zu kühl wird. Ein unkomplizierter Begleiter für Klein & Gross.</p>",
-            "url": "shopify://collections/wolle-seide-accessoires",
-            "btn_name": "Accessoires & mehr"
-          }
-        },
-        "item_6XDWwm": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Disana_Schlafsack.jpg",
-            "title": "Schlafsäcke",
-            "text": "<p>Wenn die Nächte wärmer werden, sind leichtere Schlafsäcke die ideale Wahl. Unsere Modelle aus Musselin, Bambusviskose oder Wolle sorgen für ein angenehmes Schlafklima und begleiten dein Baby sanft durch die Frühlings und Sommerzeit. Die atmungsaktiven Materialien wirken temperaturausgleichend und bieten Geborgenheit, ohne zu überhitzen. Für ruhige Nächte und erholsamen Schlaf, ganz natürlich.</p>",
-            "url": "shopify://collections/schlafsacke",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
         "item_RKNkGi": {
           "type": "item",
           "settings": {
@@ -477,6 +447,36 @@
             "text": "<p>Bei Füssen, die sich noch im Wachstum befinden, ist es besonders wichtig, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Babyschuhen berücksichtigt das. Sie sind weich, flexibel und erfüllen alle Kriterien eines Barfuss-Schuhs.</p>",
             "url": "shopify://collections/erste-schuhchen",
             "btn_name": "Babyschuhe entdecken"
+          }
+        },
+        "item_taMpWb": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/WolleSeide_Engel.jpg",
+            "title": "Wolle-Seide Kleidung",
+            "text": "<p>Kleidung aus Wolle-Seide-Gemischen hält die Körpertemperatur des Kindes konstant. Das ist ein super Vorteil für die kühlere aber auch für die wärmere Jahreszeit! Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.</p>",
+            "url": "shopify://collections/wolle-seide-produkte",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_XRbJ6J": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Stulpen_Pickapooh.webp",
+            "title": "Praktische Accessoires",
+            "text": "<p>Stulpen, Loops und leichte Mützen aus Wolle/Seide sind das ideale Extra für wechselhafte Frühlingstage. Sie wärmen sanft, wenn es morgens noch frisch ist, und schützen empfindliche Haut vor Wind und kühler Luft. Dank der natürlichen Fasern sind sie besonders atmungsaktiv & temperaturausgleichend, sodass es weder zu warm noch zu kühl wird. Ein unkomplizierter Begleiter für Klein & Gross.</p>",
+            "url": "shopify://collections/wolle-seide-accessoires",
+            "btn_name": "Accessoires & mehr"
+          }
+        },
+        "item_6XDWwm": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Disana_Schlafsack.jpg",
+            "title": "Schlafsäcke",
+            "text": "<p>Wenn die Nächte wärmer werden, sind leichtere Schlafsäcke die ideale Wahl. Unsere Modelle aus Musselin, Bambusviskose oder Wolle sorgen für ein angenehmes Schlafklima und begleiten dein Baby sanft durch die Frühlings und Sommerzeit. Die atmungsaktiven Materialien wirken temperaturausgleichend und bieten Geborgenheit, ohne zu überhitzen. Für ruhige Nächte und erholsamen Schlaf, ganz natürlich.</p>",
+            "url": "shopify://collections/schlafsacke",
+            "btn_name": "Jetzt entdecken"
           }
         },
         "item_z66qYR": {
@@ -536,12 +536,12 @@
         }
       },
       "block_order": [
-        "item_taMpWb",
-        "item_XRbJ6J",
-        "item_6XDWwm",
         "item_RKNkGi",
         "item_qcaWnE",
         "item_VrDnVb",
+        "item_taMpWb",
+        "item_XRbJ6J",
+        "item_6XDWwm",
         "item_z66qYR",
         "item_r87mja",
         "item_MDJQWT",

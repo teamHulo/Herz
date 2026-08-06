@@ -429,6 +429,16 @@
             "btn_name": "Wolle-Seide Produkte"
           }
         },
+        "item_MRqUzR": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Baby-Schlafsack.jpg",
+            "title": "Für guten Babyschlaf",
+            "text": "<p>Der Schlafplatz des Babys sollte kühl sein. Damit das Baby trotzdem warm hat, empfehlen wir flexible Schichten aus Wolle oder Wolle-Seide. Dazu gehört insbesondere ein passender <a href=\"/collections/schlafsacke\" target=\"_blank\" title=\"Schlafsäcke\">Schlafsack</a> und nach Bedarf eine warme <a href=\"/collections/babydecken\" target=\"_blank\" title=\"Babydecken\">Wolldecke</a>.</p>",
+            "url": "shopify://collections/schlafen",
+            "btn_name": "Alles für den Babyschlaf"
+          }
+        },
         "item_d3thnR": {
           "type": "item",
           "settings": {
@@ -447,16 +457,6 @@
             "text": "<p>Es muss nicht immer etwas Grosses sein. Kleine, ausgewählte Mitbringsel machen genauso viel Freude! Wie wäre es mit wunderhübschen, handgemachten Spängeli? Einem hochwertigen Holzkreisel? Oder einem Kindertattoo?</p>",
             "url": "shopify://collections/mitbringsel",
             "btn_name": "Mitbringsel finden"
-          }
-        },
-        "item_MRqUzR": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Baby-Schlafsack.jpg",
-            "title": "Für guten Babyschlaf",
-            "text": "<p>Der Schlafplatz des Babys sollte kühl sein. Damit das Baby trotzdem warm hat, empfehlen wir flexible Schichten aus Wolle oder Wolle-Seide. Dazu gehört insbesondere ein passender <a href=\"/collections/schlafsacke\" target=\"_blank\" title=\"Schlafsäcke\">Schlafsack</a> und nach Bedarf eine warme <a href=\"/collections/babydecken\" target=\"_blank\" title=\"Babydecken\">Wolldecke</a>.</p>",
-            "url": "shopify://collections/schlafen",
-            "btn_name": "Alles für den Babyschlaf"
           }
         },
         "item_RDJDVL": {
@@ -538,9 +538,9 @@
       },
       "block_order": [
         "item_YWtWKB",
+        "item_MRqUzR",
         "item_d3thnR",
         "item_DL76rn",
-        "item_MRqUzR",
         "item_RDJDVL",
         "item_8PeDTn",
         "item_kfnk9a",

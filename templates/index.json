@@ -429,6 +429,16 @@
             "btn_name": "Wolle-Seide Produkte"
           }
         },
+        "item_d3thnR": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Stillen-Stillkissen.jpg",
+            "title": "Stillkissen & Co",
+            "text": "<p>Fürs Stillen brauchst du Ruhe, Entspannung und Körperkontakt mit dem Baby. Ein Stillkissen sorgt für eine gemütliche Stillzeit. Für einfaches und diskretes Stillen auch unterwegs lohnt es sich, in passende Still-Mode zu investieren.</p>",
+            "url": "shopify://collections/stillen",
+            "btn_name": "Produkte rund ums Stillen"
+          }
+        },
         "item_DL76rn": {
           "type": "item",
           "settings": {
@@ -437,16 +447,6 @@
             "text": "<p>Es muss nicht immer etwas Grosses sein. Kleine, ausgewählte Mitbringsel machen genauso viel Freude! Wie wäre es mit wunderhübschen, handgemachten Spängeli? Einem hochwertigen Holzkreisel? Oder einem Kindertattoo?</p>",
             "url": "shopify://collections/mitbringsel",
             "btn_name": "Mitbringsel finden"
-          }
-        },
-        "item_RDJDVL": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
-            "title": "Weltenbau & stundenlanges freies Spiel",
-            "text": "<p>Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie. Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.</p>",
-            "url": "shopify://collections/freies-spiel",
-            "btn_name": "Alles fürs freie Spiel"
           }
         },
         "item_MRqUzR": {
@@ -459,14 +459,25 @@
             "btn_name": "Alles für den Babyschlaf"
           }
         },
-        "item_d3thnR": {
+        "item_RDJDVL": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Stillen-Stillkissen.jpg",
-            "title": "Stillkissen & Co",
-            "text": "<p>Fürs Stillen brauchst du Ruhe, Entspannung und Körperkontakt mit dem Baby. Ein Stillkissen sorgt für eine gemütliche Stillzeit. Für einfaches und diskretes Stillen auch unterwegs lohnt es sich, in passende Still-Mode zu investieren.</p>",
-            "url": "shopify://collections/stillen",
-            "btn_name": "Produkte rund ums Stillen"
+            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
+            "title": "Weltenbau & stundenlanges freies Spiel",
+            "text": "<p>Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie. Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.</p>",
+            "url": "shopify://collections/freies-spiel",
+            "btn_name": "Alles fürs freie Spiel"
+          }
+        },
+        "item_8PeDTn": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
+            "title": "Geschenke, die von Herzen kommen",
+            "text": "<p>Wir glauben daran, dass Geschenke nicht nur schön sein sollten, sondern auch sinnvoll: Aus Naturmaterialien, langlebig, schadstofffrei, entwicklungsfördernd. Genau das macht unsere Auswahl aus. Lass dich von uns inspirieren. </p>",
+            "url": "shopify://collections/weihnachtsgeschenke",
+            "btn_name": "Geschenke entdecken"
           }
         },
         "item_kfnk9a": {
@@ -502,17 +513,6 @@
             "btn_name": "Adventsrituale"
           }
         },
-        "item_8PeDTn": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
-            "title": "Geschenke, die von Herzen kommen",
-            "text": "<p>Wir glauben daran, dass Geschenke nicht nur schön sein sollten, sondern auch sinnvoll: Aus Naturmaterialien, langlebig, schadstofffrei, entwicklungsfördernd. Genau das macht unsere Auswahl aus. Lass dich von uns inspirieren. </p>",
-            "url": "shopify://collections/weihnachtsgeschenke",
-            "btn_name": "Geschenke entdecken"
-          }
-        },
         "item_jXDWYz": {
           "type": "item",
           "disabled": true,
@@ -538,14 +538,14 @@
       },
       "block_order": [
         "item_YWtWKB",
-        "item_DL76rn",
-        "item_RDJDVL",
-        "item_MRqUzR",
         "item_d3thnR",
+        "item_DL76rn",
+        "item_MRqUzR",
+        "item_RDJDVL",
+        "item_8PeDTn",
         "item_kfnk9a",
         "item_ENeina",
         "item_pdmF6i",
-        "item_8PeDTn",
         "item_jXDWYz",
         "item_dK9gcB"
       ],

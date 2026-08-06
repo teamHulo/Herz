@@ -318,6 +318,15 @@
     "eb12502c-a978-4a64-8794-299bf7d22d27": {
       "type": "section-our",
       "blocks": {
+        "item_JwPTxh": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "text": "",
+            "url": "",
+            "btn_name": "Read more"
+          }
+        },
         "item_bPf7kc": {
           "type": "item",
           "settings": {
@@ -392,6 +401,7 @@
         }
       },
       "block_order": [
+        "item_JwPTxh",
         "item_bPf7kc",
         "item_Lteb8W",
         "item_Wy8ndG",
@@ -437,6 +447,16 @@
             "text": "<p>Wir empfehlen Kleidung aus Wolle-Seide-Gemischen, denn diese Kleidung hält die Körpertemperatur des Babys konstant. Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.</p>",
             "url": "shopify://collections/wolle-seide-produkte",
             "btn_name": "Wolle-Seide Produkte"
+          }
+        },
+        "item_RDJDVL": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
+            "title": "Weltenbau & stundenlanges freies Spiel",
+            "text": "<p>Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie. Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.</p>",
+            "url": "shopify://collections/freies-spiel",
+            "btn_name": "Alles fürs freie Spiel"
           }
         },
         "item_DL76rn": {
@@ -504,16 +524,6 @@
             "btn_name": "Inspirieren lassen"
           }
         },
-        "item_RDJDVL": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
-            "title": "Weltenbau & stundenlanges freies Spiel",
-            "text": "<p>Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie. Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.</p>",
-            "url": "shopify://collections/freies-spiel",
-            "btn_name": "Alles fürs freie Spiel"
-          }
-        },
         "item_dK9gcB": {
           "type": "item",
           "disabled": true,
@@ -530,13 +540,13 @@
         "item_MRqUzR",
         "item_d3thnR",
         "item_YWtWKB",
+        "item_RDJDVL",
         "item_DL76rn",
         "item_kfnk9a",
         "item_ENeina",
         "item_pdmF6i",
         "item_8PeDTn",
         "item_jXDWYz",
-        "item_RDJDVL",
         "item_dK9gcB"
       ],
       "settings": {

@@ -14,7 +14,7 @@
 {% assign dazuCollectionTag = null %}
 {% for tag in product.tags %}
   {% if tag contains 'Dazu passt Collection' %}
-    {% assign dazuCollectionTag = tag | replace: 'Dazu passt Collection:', '' | handle %}
+    {% assign dazuCollectionTag = tag | replace: 'Dazu passt Collection:', '' | strip | handle %}
   {% endif %}
 {% endfor %}
 {% assign dazuCollection = collections[dazuCollectionTag] %}

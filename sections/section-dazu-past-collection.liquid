@@ -21,7 +21,15 @@
 
 {% assign metafield_products = product.metafields['shopify--discovery--product_recommendation'].complementary_products.value %}
 
-{% if metafield_products and metafield_products.size > 0 or dazuCollectionTag != null and dazuCollection.products.size > 0 %}
+{% if metafield_products and metafield_products.size > 0 %}
+  {% assign show_section = true %}
+{% elsif dazuCollection != null and dazuCollection.products.size > 0 %}
+  {% assign show_section = true %}
+{% else %}
+  {% assign show_section = false %}
+{% endif %}
+
+{% if show_section %}
   <div class="section-dazu-collection container">
     <h2 style="margin-top: 0;">{{ section.settings.title }}</h2>
     <div class="swiper list-products-swiper-2">
@@ -33,7 +41,7 @@
             </div>
           {% endfor %}
         {% endif %}
-        {% if dazuCollectionTag != null %}
+        {% if dazuCollection != null %}
           {% for col_product in dazuCollection.products %}
             {% assign already_shown = false %}
             {% for meta_product in metafield_products %}

@@ -81,23 +81,9 @@
             {% endform %}
           </div>
         {% endif %}
-        {% if show_option %}
-          {% assign opt = product.options | size %}
-          {% assign counter = 0 %}
-          {% for option in product.options %}
-            {% assign option_name = option | downcase %}
-            {% if option_name == 'farbe' %}
-                {% assign counter = counter | plus: 1 %}
-            {% elsif option_name == 'größe' or option_name == 'grösse'%}
-              {% assign counter = counter | plus: 1 %}
-            {% endif %}
-          {% endfor %}
-          {% if opt > 2 %}
-             <a href="{{product.url}}" class="option-btn">
-              <span>optionen+</span>
-            </a>
-          {% elsif opt == 2 and counter != 2 %}
-             <a href="{{product.url}}" class="option-btn">
+                {% if show_option %}
+          {% if product.variants.size > 1 %}
+            <a href="{{product.url}}" class="option-btn">
               <span>optionen+</span>
             </a>
           {% endif %}

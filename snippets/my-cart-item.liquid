@@ -81,8 +81,15 @@
             {% endform %}
           </div>
         {% endif %}
-                {% if show_option %}
-          {% if product.variants.size > 1 %}
+        {% if show_option %}
+          {% assign has_color = false %}
+          {% for option in product.options %}
+            {% assign option_lower = option | downcase %}
+            {% if option_lower == 'farbe' or option_lower == 'color' %}
+              {% assign has_color = true %}
+            {% endif %}
+          {% endfor %}
+          {% if product.variants.size > 1 and has_color == false %}
             <a href="{{product.url}}" class="option-btn">
               <span>optionen+</span>
             </a>

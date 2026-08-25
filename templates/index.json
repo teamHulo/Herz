@@ -38,6 +38,7 @@
         },
         "item_8xqrhQ": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Prozentzeichen.jpg",
             "img2": "shopify://shop_images/Mitte_0ae1a30c-e6fe-4886-b504-5b0fffea380f.jpg",

@@ -316,114 +316,13 @@
       ],
       "settings": {}
     },
-    "eb12502c-a978-4a64-8794-299bf7d22d27": {
-      "type": "section-our",
-      "blocks": {
-        "item_JwPTxh": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "text": "",
-            "url": "",
-            "btn_name": "Read more"
-          }
-        },
-        "item_bPf7kc": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnencreme.jpg",
-            "title": "Sonnencreme",
-            "text": "<p>Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Daher haben wir nur Sonnencreme im Sortiment, die wir guten Gewissens empfehlen können. Sie kommen ohne bedenkliche Inhaltsstoffe aus und werden nachhaltig produziert.</p>",
-            "url": "shopify://collections/sonnencreme",
-            "btn_name": "Sonnencreme"
-          }
-        },
-        "item_Lteb8W": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/sonnenhut-feuerwehr-strick-mit-uv-schutz-madchen-pickapooh.avif",
-            "title": "Sonnenhüte",
-            "text": "<p>Ein guter Sonnenhut ist im Sommer das A und O. Ein Hut mit Nackenschutz und mit breiter Rundumkrempe wie beim beliebten Feuerwehrhut von Pickapooh schützt gut beim Spielen und beim Tragen. Er sorgt für zuverlässigen Schutz von Kopf, Gesicht und Nacken an sonnigen Tagen.</p>",
-            "url": "shopify://collections/sonnenhute",
-            "btn_name": "Sonnenhüte"
-          }
-        },
-        "item_Wy8ndG": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Bildschirmfoto_2026-05-30_um_16.10.14.png",
-            "title": "Leinenkleidung",
-            "text": "<p>Nachhaltige Kinderkleidung aus Portugal aus natürlichen Materialien. Leinen ist leicht, atmungsaktiv und sorgt für angenehmen Tragekomfort an warmen Tagen. Zeitlose Designs machen die Stücke zu langlebigen Lieblingsbegleitern im Alltag.</p>",
-            "url": "shopify://collections/play-up-fruhling-sommer",
-            "btn_name": "Kleidung von Play Up"
-          }
-        },
-        "item_JkwHwM": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Cloby-UV-Decke-olive2.jpg",
-            "title": "UV-Decke & Kleidung",
-            "text": "<p>Babys und Kleinkinder reagieren empfindlich auf Sonnenstrahlen. Darum ist ein guter UV-Schutz für sie besonders wichtig. UV-Decken für Tragehilfe und Kinderwagen sowie spezielle, dicht gewebte Kleidung schützen optimal.</p>",
-            "url": "shopify://collections/uv-stampler-tucher",
-            "btn_name": "UV-Decken & -Kleidung"
-          }
-        },
-        "item_yrPzyC": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Popolini_UV_Shirt_8b8eec66-8ca4-4dea-8535-b47835a18711.jpg",
-            "title": "UV-Bademode",
-            "text": "<p>UV-Bademode bietet zuverlässigen Schutz an sonnigen Tagen im Wasser und an Land. Unsere Bademode überzeugt durch hohen UV-Schutz und sorgt so für ein sicheres Gefühl beim Spielen und Planschen. Leichte, bequeme Materialien machen sie zum idealen Begleiter.</p>",
-            "url": "shopify://collections/uv-bademode",
-            "btn_name": "UV-Bademode"
-          }
-        },
-        "item_EjGwPC": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/301-10-X6-nemo-vanilla-strawberry-skl_1_6c861873-6d38-4c6d-81c7-24027705a2da.jpg",
-            "title": "Barfuss-Sandalen",
-            "text": "<p>Barfuss-Sandalen fördern ein natürliches Laufgefühl und unterstützen die gesunde Entwicklung der Kinderfüsse. Unsere Sandalen sind leicht, flexibel und bieten gleichzeitig Schutz und Halt im Alltag und beim Spielen. Perfekt für warme Tage draussen.</p>",
-            "url": "shopify://collections/sandalen",
-            "btn_name": "Zu den Sandalen"
-          }
-        },
-        "item_67Wce3": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Sommer-Manymonths-Hempies-Hanf.jpg",
-            "title": "Hanf-Kleidung",
-            "text": "<p>Hanf ist von Natur aus UV-beständig, atmungsaktiv und schnell trocknend. Hanf fühlt sich in der Hitze kühl an, aber bei kaltem Wetter erwärmt sich die in den Fasern eingeschlossene Luft vom Körper und macht ihn natürlich warm.</p>",
-            "url": "shopify://collections/manymonths-fruhling-sommer",
-            "btn_name": "Zur Kollektion"
-          }
-        }
-      },
-      "block_order": [
-        "item_JwPTxh",
-        "item_bPf7kc",
-        "item_Lteb8W",
-        "item_Wy8ndG",
-        "item_JkwHwM",
-        "item_yrPzyC",
-        "item_EjGwPC",
-        "item_67Wce3"
-      ],
-      "disabled": true,
-      "settings": {
-        "name": "UNSERE EMPFEHLUNGEN",
-        "title": "Alles für entspannte Sommertage"
-      }
-    },
     "section_our_aLKHkd": {
       "type": "section-our",
       "blocks": {
         "item_taMpWb": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/WolleSeide_Engel.jpg",
+            "img": "shopify://shop_images/Engel_Startseite.jpg",
             "title": "Wolle-Seide Kleidung",
             "text": "<p>Kleidung aus Wolle-Seide-Gemischen hält die Körpertemperatur des Kindes konstant. Das ist ein super Vorteil für die kühlere aber auch für die wärmere Jahreszeit! Seide ist angenehm fein auf der Haut. Wolle wärmt auch wenn sie nass wird, was hilfreich ist, wenn das Baby viel spuckt oder sabbert. Da das Material sich durch Auslüften regeneriert, muss es nur selten gewaschen werden - es braucht dadurch weniger davon.</p>",
             "url": "shopify://collections/wolle-seide-produkte",
@@ -692,6 +591,107 @@
         "title": "Für eine unvergessliche Babyzeit"
       }
     },
+    "eb12502c-a978-4a64-8794-299bf7d22d27": {
+      "type": "section-our",
+      "blocks": {
+        "item_JwPTxh": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "text": "",
+            "url": "",
+            "btn_name": "Read more"
+          }
+        },
+        "item_bPf7kc": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Sommer-Sonnencreme.jpg",
+            "title": "Sonnencreme",
+            "text": "<p>Babyhaut ist sehr empfindlich und sollte nicht unnötig belastet werden. Daher haben wir nur Sonnencreme im Sortiment, die wir guten Gewissens empfehlen können. Sie kommen ohne bedenkliche Inhaltsstoffe aus und werden nachhaltig produziert.</p>",
+            "url": "shopify://collections/sonnencreme",
+            "btn_name": "Sonnencreme"
+          }
+        },
+        "item_Lteb8W": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/sonnenhut-feuerwehr-strick-mit-uv-schutz-madchen-pickapooh.avif",
+            "title": "Sonnenhüte",
+            "text": "<p>Ein guter Sonnenhut ist im Sommer das A und O. Ein Hut mit Nackenschutz und mit breiter Rundumkrempe wie beim beliebten Feuerwehrhut von Pickapooh schützt gut beim Spielen und beim Tragen. Er sorgt für zuverlässigen Schutz von Kopf, Gesicht und Nacken an sonnigen Tagen.</p>",
+            "url": "shopify://collections/sonnenhute",
+            "btn_name": "Sonnenhüte"
+          }
+        },
+        "item_Wy8ndG": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Bildschirmfoto_2026-05-30_um_16.10.14.png",
+            "title": "Leinenkleidung",
+            "text": "<p>Nachhaltige Kinderkleidung aus Portugal aus natürlichen Materialien. Leinen ist leicht, atmungsaktiv und sorgt für angenehmen Tragekomfort an warmen Tagen. Zeitlose Designs machen die Stücke zu langlebigen Lieblingsbegleitern im Alltag.</p>",
+            "url": "shopify://collections/play-up-fruhling-sommer",
+            "btn_name": "Kleidung von Play Up"
+          }
+        },
+        "item_JkwHwM": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Cloby-UV-Decke-olive2.jpg",
+            "title": "UV-Decke & Kleidung",
+            "text": "<p>Babys und Kleinkinder reagieren empfindlich auf Sonnenstrahlen. Darum ist ein guter UV-Schutz für sie besonders wichtig. UV-Decken für Tragehilfe und Kinderwagen sowie spezielle, dicht gewebte Kleidung schützen optimal.</p>",
+            "url": "shopify://collections/uv-stampler-tucher",
+            "btn_name": "UV-Decken & -Kleidung"
+          }
+        },
+        "item_yrPzyC": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Popolini_UV_Shirt_8b8eec66-8ca4-4dea-8535-b47835a18711.jpg",
+            "title": "UV-Bademode",
+            "text": "<p>UV-Bademode bietet zuverlässigen Schutz an sonnigen Tagen im Wasser und an Land. Unsere Bademode überzeugt durch hohen UV-Schutz und sorgt so für ein sicheres Gefühl beim Spielen und Planschen. Leichte, bequeme Materialien machen sie zum idealen Begleiter.</p>",
+            "url": "shopify://collections/uv-bademode",
+            "btn_name": "UV-Bademode"
+          }
+        },
+        "item_EjGwPC": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/301-10-X6-nemo-vanilla-strawberry-skl_1_6c861873-6d38-4c6d-81c7-24027705a2da.jpg",
+            "title": "Barfuss-Sandalen",
+            "text": "<p>Barfuss-Sandalen fördern ein natürliches Laufgefühl und unterstützen die gesunde Entwicklung der Kinderfüsse. Unsere Sandalen sind leicht, flexibel und bieten gleichzeitig Schutz und Halt im Alltag und beim Spielen. Perfekt für warme Tage draussen.</p>",
+            "url": "shopify://collections/sandalen",
+            "btn_name": "Zu den Sandalen"
+          }
+        },
+        "item_67Wce3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Sommer-Manymonths-Hempies-Hanf.jpg",
+            "title": "Hanf-Kleidung",
+            "text": "<p>Hanf ist von Natur aus UV-beständig, atmungsaktiv und schnell trocknend. Hanf fühlt sich in der Hitze kühl an, aber bei kaltem Wetter erwärmt sich die in den Fasern eingeschlossene Luft vom Körper und macht ihn natürlich warm.</p>",
+            "url": "shopify://collections/manymonths-fruhling-sommer",
+            "btn_name": "Zur Kollektion"
+          }
+        }
+      },
+      "block_order": [
+        "item_JwPTxh",
+        "item_bPf7kc",
+        "item_Lteb8W",
+        "item_Wy8ndG",
+        "item_JkwHwM",
+        "item_yrPzyC",
+        "item_EjGwPC",
+        "item_67Wce3"
+      ],
+      "disabled": true,
+      "settings": {
+        "name": "UNSERE EMPFEHLUNGEN",
+        "title": "Alles für entspannte Sommertage"
+      }
+    },
     "section_with_text_btn_ECAitC": {
       "type": "section-with-text-btn",
       "settings": {
@@ -920,9 +920,9 @@
   },
   "order": [
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee",
-    "eb12502c-a978-4a64-8794-299bf7d22d27",
     "section_our_aLKHkd",
     "section_our_hW8Uw7",
+    "eb12502c-a978-4a64-8794-299bf7d22d27",
     "section_with_text_btn_ECAitC",
     "section_full_image_EqfEhU",
     "section_slider_ennB3g",

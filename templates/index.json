@@ -349,6 +349,16 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_z66qYR": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Disana.jpg",
+            "title": "Wollkleidung von Disana",
+            "text": "<p>Disana steht für hochwertige Wollkleidung, die Kinder zuverlässig durch kühlere Tage begleitet. Die natürlichen Eigenschaften der Wolle sorgen für ein ausgeglichenes Körperklima. Sie wärmt angenehm, ist atmungsaktiv und gleicht Temperaturschwankungen aus. So fühlt sich dein Kind draussen wie drinnen rundum wohl</p>",
+            "url": "shopify://collections/disana-herbst-winter",
+            "btn_name": "Zu Disana"
+          }
+        },
         "item_6XDWwm": {
           "type": "item",
           "settings": {
@@ -387,16 +397,6 @@
             "text": "<p>Bei Füssen, die sich noch im Wachstum befinden, ist es besonders wichtig, dass die Schuhe die natürliche Entwicklung nicht einschränken. Unsere Auswahl an Babyschuhen berücksichtigt das. Sie sind weich, flexibel und erfüllen alle Kriterien eines Barfuss-Schuhs.</p>",
             "url": "shopify://collections/erste-schuhchen",
             "btn_name": "Babyschuhe entdecken"
-          }
-        },
-        "item_z66qYR": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
-            "title": "Wollkleidung von Disana",
-            "text": "<p>Disana steht für hochwertige Wollkleidung, die Kinder zuverlässig durch kühlere Tage begleitet. Die natürlichen Eigenschaften der Wolle sorgen für ein ausgeglichenes Körperklima. Sie wärmt angenehm, ist atmungsaktiv und gleicht Temperaturschwankungen aus. So fühlt sich dein Kind draussen wie drinnen rundum wohl</p>",
-            "url": "shopify://collections/disana-herbst-winter",
-            "btn_name": "Zu Disana"
           }
         },
         "item_r87mja": {
@@ -448,11 +448,11 @@
         "item_taMpWb",
         "item_XRbJ6J",
         "item_MLNJjD",
+        "item_z66qYR",
         "item_6XDWwm",
         "item_RKNkGi",
         "item_qcaWnE",
         "item_VrDnVb",
-        "item_z66qYR",
         "item_r87mja",
         "item_MDJQWT",
         "item_DYBGiU",

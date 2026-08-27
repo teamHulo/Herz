@@ -381,11 +381,10 @@
         },
         "item_z66qYR": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
             "title": "Wollkleidung von Disana",
-            "text": "<p>Disana ist DIE Marke, wenn es um funktionale Wollkleidung geht. Wolle passt sich schwankenden Temperaturen perfekt an und hält die Körpertemperatur konstant. Das Kind fühlt sich bei jedem Wetter genau richtig warm.</p>",
+            "text": "<p>Disana steht für hochwertige Wollkleidung, die Kinder zuverlässig durch kühlere Tage begleitet. Die natürlichen Eigenschaften der Wolle sorgen für ein ausgeglichenes Körperklima. Sie wärmt angenehm, ist atmungsaktiv und gleicht Temperaturschwankungen aus. So fühlt sich dein Kind draussen wie drinnen rundum wohl</p>",
             "url": "shopify://collections/disana-herbst-winter",
             "btn_name": "Zu Disana"
           }

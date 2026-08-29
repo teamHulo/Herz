@@ -510,19 +510,19 @@
             "btn_name": "Alles für den Babyschlaf"
           }
         },
-        "item_YWtWKB": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Engel_Startseite_d11503df-98a5-4ae0-aff0-944e93c110d3.jpg",
-            "title": "Sanft zur Babyhaut",
-            "text": "<p>Zarte Babyhaut fühlt sich in Wolle-Seide besonders wohl. Die feinen Naturfasern sind atmungsaktiv, temperaturausgleichend und angenehm weich. Wolle wärmt auch in feuchtem Zustand, während Seide sanft auf der Haut liegt. Durch regelmässiges Auslüften muss die Kleidung zudem nur selten gewaschen werden.</p>",
-            "url": "shopify://collections/wolle-seide-produkte",
-            "btn_name": "Wolle-Seide entdecken"
-          }
-        },
         "item_yGB6Yc": {
           "type": "item",
           "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Tragen_Startseite.jpg",
+            "title": "Nah bei dir",
+            "text": "<p>Beim Tragen erlebt dein Baby Nähe, Wärme und Geborgenheit, während du im Alltag die Hände frei hast. Eine passende Babytrage oder ein Tragetuch sorgt für eine bequeme und gut gestützte Haltung. Bei uns findest du verschiedene Modelle für eure individuellen Bedürfnisse.</p>",
+            "url": "shopify://collections/tragen",
+            "btn_name": "Tragesortiment entdecken"
+          }
+        },
+        "item_YWtWKB": {
+          "type": "item",
           "settings": {
             "img": "shopify://shop_images/Engel_Startseite_d11503df-98a5-4ae0-aff0-944e93c110d3.jpg",
             "title": "Sanft zur Babyhaut",
@@ -621,8 +621,8 @@
       "block_order": [
         "item_d3thnR",
         "item_MRqUzR",
-        "item_YWtWKB",
         "item_yGB6Yc",
+        "item_YWtWKB",
         "item_DL76rn",
         "item_RDJDVL",
         "item_8PeDTn",

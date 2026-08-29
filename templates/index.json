@@ -12,6 +12,19 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "beb1387a-20df-4238-a01b-69c08fe7ba72": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
+            "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
+            "img3": "shopify://shop_images/Infobild-Handschuhe.jpg",
+            "title": "Bereit für den Herbst",
+            "text": "<p>Was soll ich meinem Kind nur anziehen? Gerade wenn die Temperaturen wieder sinken, fragen sich viele Eltern, ob ihr Kind warm genug eingepackt ist. Wir konnten über die Jahre hinweg zahlreiche Produkte und Materialien an unseren mittlerweile mehr als 10 eigenen Kindern testen und viele wertvolle Erfahrungen sammeln</p>",
+            "url": "shopify://pages/warm-durch-herbst-winter",
+            "btn_name": "Unsere Tipps"
+          }
+        },
         "item_BTFeaX": {
           "type": "item",
           "settings": {
@@ -34,19 +47,6 @@
             "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Möchtest du wissen, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind?</p>",
             "url": "shopify://pages/barfuss-schuhe-fur-kinder",
             "btn_name": "Mehr zum Thema erfahren"
-          }
-        },
-        "item_8xqrhQ": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Prozentzeichen.jpg",
-            "img2": "shopify://shop_images/Mitte_0ae1a30c-e6fe-4886-b504-5b0fffea380f.jpg",
-            "img3": "shopify://shop_images/rechts_970a950e-6094-4b7c-9d77-3b7130137380.jpg",
-            "title": "Sommer Sale",
-            "text": "<p>Die schönsten Sommertage sind noch nicht vorbei! In unserem Sale warten noch einzelne Sommerartikel auf dich, jetzt mit <strong>50 % Rabatt</strong>. Schnell sein lohnt sich.</p>",
-            "url": "shopify://collections/sale",
-            "btn_name": "Jetzt profitieren"
           }
         },
         "item_wkJFCy": {
@@ -147,6 +147,19 @@
             "btn_name": "Sichere dir deine Favoriten"
           }
         },
+        "item_8xqrhQ": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Prozentzeichen.jpg",
+            "img2": "shopify://shop_images/Mitte_0ae1a30c-e6fe-4886-b504-5b0fffea380f.jpg",
+            "img3": "shopify://shop_images/rechts_970a950e-6094-4b7c-9d77-3b7130137380.jpg",
+            "title": "Sommer Sale",
+            "text": "<p>Die schönsten Sommertage sind noch nicht vorbei! In unserem Sale warten noch einzelne Sommerartikel auf dich, jetzt mit <strong>50 % Rabatt</strong>. Schnell sein lohnt sich.</p>",
+            "url": "shopify://collections/sale",
+            "btn_name": "Jetzt profitieren"
+          }
+        },
         "item_Jc9eFD": {
           "type": "item",
           "disabled": true,
@@ -225,19 +238,6 @@
             "btn_name": "Jetzt profitieren"
           }
         },
-        "beb1387a-20df-4238-a01b-69c08fe7ba72": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
-            "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
-            "img3": "shopify://shop_images/Infobild-Handschuhe.jpg",
-            "title": "Warm durch den Winter",
-            "text": "<p>Was soll ich meinem Kind nur anziehen? Gerade wenn die Temperaturen wieder sinken, fragen sich viele Eltern, ob ihr Kind warm genug eingepackt ist. Wir konnten über die Jahre hinweg zahlreiche Produkte und Materialien an unseren mittlerweile mehr als 10 eigenen Kindern testen und viele wertvolle Erfahrungen sammeln</p>",
-            "url": "shopify://pages/warm-durch-herbst-winter",
-            "btn_name": "Unsere Tipps"
-          }
-        },
         "item_f4JDnm": {
           "type": "item",
           "disabled": true,
@@ -291,9 +291,9 @@
         }
       },
       "block_order": [
+        "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "item_BTFeaX",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
-        "item_8xqrhQ",
         "item_wkJFCy",
         "item_CVq4Tq",
         "item_67rBEb",
@@ -302,13 +302,13 @@
         "item_iFhkhf",
         "item_DxngTX",
         "item_bzRQfG",
+        "item_8xqrhQ",
         "item_Jc9eFD",
         "item_PYBx6f",
         "item_WxFtCe",
         "item_NthYMr",
         "item_c8wF6m",
         "item_TYg9jc",
-        "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "item_f4JDnm",
         "67bececa-9c31-424d-a18a-4a49adda00b5",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",

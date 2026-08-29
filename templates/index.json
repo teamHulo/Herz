@@ -14,11 +14,10 @@
       "blocks": {
         "beb1387a-20df-4238-a01b-69c08fe7ba72": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
-            "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
-            "img3": "shopify://shop_images/Infobild-Handschuhe.jpg",
+            "img1": "shopify://shop_images/oben_7cf82c4b-d24b-4143-be8c-a80d83b16d81.jpg",
+            "img2": "shopify://shop_images/Mitte_fdc02813-baec-4113-beb8-eebdac8d30c0.jpg",
+            "img3": "shopify://shop_images/Unten_68f54346-43ec-4cfd-842c-5c2d49292686.jpg",
             "title": "Bereit für den Herbst",
             "text": "<p>Was ziehe ich meinem Kind im Herbst am besten an? Wenn die Tage kühler und das Wetter wechselhafter werden, fragen sich viele Eltern, ob ihr Kind passend angezogen ist. Dank unserer langjährigen Erfahrung wissen wir, welche Materialien und Kleidungsstücke sich in der Übergangszeit besonders bewährt haben.</p>",
             "url": "shopify://collections/aktuelle-kollektionen_hw26-27",
@@ -173,6 +172,19 @@
             "btn_name": "Mehr erfahren"
           }
         },
+        "item_FxqWar": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Infobild-WarmDurchHerbstWinter.jpg",
+            "img2": "shopify://shop_images/Infobild-WarmDurchHerbstWinter1.jpg",
+            "img3": "shopify://shop_images/Infobild-Handschuhe.jpg",
+            "title": "Bereit für den Herbst",
+            "text": "<p>Was ziehe ich meinem Kind im Herbst am besten an? Wenn die Tage kühler und das Wetter wechselhafter werden, fragen sich viele Eltern, ob ihr Kind passend angezogen ist. Dank unserer langjährigen Erfahrung wissen wir, welche Materialien und Kleidungsstücke sich in der Übergangszeit besonders bewährt haben.</p>",
+            "url": "shopify://collections/aktuelle-kollektionen_hw26-27",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_PYBx6f": {
           "type": "item",
           "disabled": true,
@@ -304,6 +316,7 @@
         "item_bzRQfG",
         "item_8xqrhQ",
         "item_Jc9eFD",
+        "item_FxqWar",
         "item_PYBx6f",
         "item_WxFtCe",
         "item_NthYMr",

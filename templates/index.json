@@ -336,7 +336,7 @@
           "type": "item",
           "settings": {
             "img": "shopify://shop_images/Engel_Startseite.jpg",
-            "title": "Wolle-Seide Kleidung",
+            "title": "Wolle-Seide-Kleidung",
             "text": "<p>Kleidung aus Wolle und Seide hält angenehm warm, ohne dass dein Kind dabei ins Schwitzen kommt. Die feinen Naturfasern sind atmungsaktiv, temperaturausgleichend und besonders sanft zur Haut. Da sich Wolle durch Auslüften regeneriert, muss sie zudem nur selten gewaschen werden. Ideal für wechselhafte Herbsttage.</p>",
             "url": "shopify://collections/wolle-seide-produkte",
             "btn_name": "Jetzt entdecken"
@@ -347,7 +347,7 @@
           "settings": {
             "img": "shopify://shop_images/Stulpen_Pickapooh.webp",
             "title": "Praktische Accessoires",
-            "text": "<p>Stulpen, Loops und leichte Mützen aus Wolle und Seide sind praktische Begleiter für wechselhafte Herbsttage. Sie wärmen sanft, schützen vor Wind und lassen sich bei Bedarf schnell an- und ausziehen. Dank ihrer temperaturausgleichenden Eigenschaften sorgen sie für ein angenehmes Körperklima, unterwegs und im Alltag.</p>",
+            "text": "<p>Stulpen, Loops und leichte Mützen aus Wolle und Seide sind praktische Begleiter für wechselhafte Herbsttage. Sie wärmen sanft, schützen vor Wind und lassen sich bei Bedarf schnell an- und ausziehen. Dank ihrer temperaturausgleichenden Eigenschaften sorgen sie für ein angenehmes Körperklima unterwegs und im Alltag.</p>",
             "url": "shopify://collections/wolle-seide-accessoires",
             "btn_name": "Jetzt entdecken"
           }

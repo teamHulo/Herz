@@ -512,7 +512,6 @@
         },
         "item_yGB6Yc": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Tragen_Startseite.jpg",
             "title": "Nah bei dir",

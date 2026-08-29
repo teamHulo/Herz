@@ -490,14 +490,14 @@
     "section_our_hW8Uw7": {
       "type": "section-our",
       "blocks": {
-        "item_YWtWKB": {
+        "item_d3thnR": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/Engel_Startseite_d11503df-98a5-4ae0-aff0-944e93c110d3.jpg",
-            "title": "Sanft zur Babyhaut",
-            "text": "<p>Zarte Babyhaut fühlt sich in Wolle-Seide besonders wohl. Die feinen Naturfasern sind atmungsaktiv, temperaturausgleichend und angenehm weich. Wolle wärmt auch in feuchtem Zustand, während Seide sanft auf der Haut liegt. Durch regelmässiges Auslüften muss die Kleidung zudem nur selten gewaschen werden.</p>",
-            "url": "shopify://collections/wolle-seide-produkte",
-            "btn_name": "Wolle-Seide entdecken"
+            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Stillen-Stillkissen.jpg",
+            "title": "Entspannt stillen",
+            "text": "<p>Ruhe, Nähe und eine bequeme Position machen die Stillzeit für dich und dein Baby angenehmer. Ein Stillkissen unterstützt eine entspannte Haltung und schenkt euch zusätzlichen Komfort. Für unterwegs findest du bei uns ausserdem praktische Stillkleidung und hilfreiche Begleiter.</p>",
+            "url": "shopify://collections/stillen",
+            "btn_name": "Produkte rund ums Stillen"
           }
         },
         "item_MRqUzR": {
@@ -510,14 +510,25 @@
             "btn_name": "Alles für den Babyschlaf"
           }
         },
-        "item_d3thnR": {
+        "item_YWtWKB": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Stillen-Stillkissen.jpg",
-            "title": "Entspannt stillen",
-            "text": "<p>Ruhe, Nähe und eine bequeme Position machen die Stillzeit für dich und dein Baby angenehmer. Ein Stillkissen unterstützt eine entspannte Haltung und schenkt euch zusätzlichen Komfort. Für unterwegs findest du bei uns ausserdem praktische Stillkleidung und hilfreiche Begleiter.</p>",
-            "url": "shopify://collections/stillen",
-            "btn_name": "Produkte rund ums Stillen"
+            "img": "shopify://shop_images/Engel_Startseite_d11503df-98a5-4ae0-aff0-944e93c110d3.jpg",
+            "title": "Sanft zur Babyhaut",
+            "text": "<p>Zarte Babyhaut fühlt sich in Wolle-Seide besonders wohl. Die feinen Naturfasern sind atmungsaktiv, temperaturausgleichend und angenehm weich. Wolle wärmt auch in feuchtem Zustand, während Seide sanft auf der Haut liegt. Durch regelmässiges Auslüften muss die Kleidung zudem nur selten gewaschen werden.</p>",
+            "url": "shopify://collections/wolle-seide-produkte",
+            "btn_name": "Wolle-Seide entdecken"
+          }
+        },
+        "item_yGB6Yc": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Engel_Startseite_d11503df-98a5-4ae0-aff0-944e93c110d3.jpg",
+            "title": "Sanft zur Babyhaut",
+            "text": "<p>Zarte Babyhaut fühlt sich in Wolle-Seide besonders wohl. Die feinen Naturfasern sind atmungsaktiv, temperaturausgleichend und angenehm weich. Wolle wärmt auch in feuchtem Zustand, während Seide sanft auf der Haut liegt. Durch regelmässiges Auslüften muss die Kleidung zudem nur selten gewaschen werden.</p>",
+            "url": "shopify://collections/wolle-seide-produkte",
+            "btn_name": "Wolle-Seide entdecken"
           }
         },
         "item_DL76rn": {
@@ -608,9 +619,10 @@
         }
       },
       "block_order": [
-        "item_YWtWKB",
-        "item_MRqUzR",
         "item_d3thnR",
+        "item_MRqUzR",
+        "item_YWtWKB",
+        "item_yGB6Yc",
         "item_DL76rn",
         "item_RDJDVL",
         "item_8PeDTn",

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -13,7 +22,7 @@
       "settings": {
         "padding_top": 60,
         "padding_bottom": 60,
-        "logo": "shopify:\/\/shop_images\/Group.png",
+        "logo": "shopify://shop_images/Group.png",
         "title": "Geschenke zur Geburt",
         "text": "",
         "max_width": 1050
@@ -25,7 +34,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h4>Was schenken zur Geburt?<\/h4><p>Du bist auf der Suche nach einem passenden Geschenk für frischgebackene junge Familien? Wir zeigen dir, worauf es ankommt und haben unsere besten Ideen für dich zusammengestellt.<\/p>",
+            "text": "<h4>Was schenken zur Geburt?</h4><p>Du bist auf der Suche nach einem passenden Geschenk für frischgebackene junge Familien? Wir zeigen dir, worauf es ankommt und haben unsere besten Ideen für dich zusammengestellt.</p>",
             "text_style": "body"
           }
         }
@@ -34,7 +43,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-geschenk.jpg",
+        "image": "shopify://shop_images/infobild-geschenk.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -54,7 +63,7 @@
         "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
           "type": "text",
           "settings": {
-            "text": "<h2>Sinnvolle Geschenke<\/h2><p>Ein Baby erblickt das Licht der Welt. Eine Frau wird zur Mutter, ein Mann wird zum Vater, ein Kind wird grosser Bruder oder grosse Schwester. So viele Gründe zum Feiern! Aber es kann auch eine ganz schön herausfordernde Zeit sein für die ganze Familie...<\/p><p>Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Unsere Geschenkideen sind dazu gedacht, lange Freude zu bereiten. Mit einem Geburtstagsring beispielsweise werden alle weiteren Geburtstage des Kindes zu einem traditionsreichen Fest. Und mit einer Unterstützung fürs Wochenbett sorgst du dafür, dass die Mama sich in diesen prägenden ersten Wochen rundum wohl und unterstützt fühlt, so dass sich die Stillbeziehung gut einpendeln und die Bindung zum Baby sich voll entfalten kann.<\/p>"
+            "text": "<h2>Sinnvolle Geschenke</h2><p>Ein Baby erblickt das Licht der Welt. Eine Frau wird zur Mutter, ein Mann wird zum Vater, ein Kind wird grosser Bruder oder grosse Schwester. So viele Gründe zum Feiern! Aber es kann auch eine ganz schön herausfordernde Zeit sein für die ganze Familie...</p><p>Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Unsere Geschenkideen sind dazu gedacht, lange Freude zu bereiten. Mit einem Geburtstagsring beispielsweise werden alle weiteren Geburtstage des Kindes zu einem traditionsreichen Fest. Und mit einer Unterstützung fürs Wochenbett sorgst du dafür, dass die Mama sich in diesen prägenden ersten Wochen rundum wohl und unterstützt fühlt, so dass sich die Stillbeziehung gut einpendeln und die Bindung zum Baby sich voll entfalten kann.</p>"
           }
         }
       },
@@ -83,7 +92,7 @@
         "template--21510548521275__d9d26fc9-a25d-4077-9aad-6466edd663a3-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Wochenbett-Korb<\/h2><p>In der Zeit nach der Geburt ist für Mama und Baby erstmal für ein paar Wochen schonen angesagt. Der Körper muss sich erholen, die Beziehung zum Baby darf sich entfalten, der neue Alltag sich sanft einpendeln.<\/p><p>Verschenke einen Wochenbettkorb voller nährender Produkte fürs Wochenbett: Stärkende Snacks, Kraftbrühen, regenerierende Balsame, Mama-Baby-Bäder, leckere Stilltees, Stillkugeln, Stilleinlagen, ein alufreies Still-Deo, Seifen ohne Parfüm, wohltuende Pflege für Bauch und Intimbereich,... Wir beraten dich gerne und stellen auf Wunsch auch einen Wochenbettkorb für dich zusammen - ganz nach deinen Wünschen und deinem Budget.<\/p>",
+            "text": "<h2>Wochenbett-Korb</h2><p>In der Zeit nach der Geburt ist für Mama und Baby erstmal für ein paar Wochen schonen angesagt. Der Körper muss sich erholen, die Beziehung zum Baby darf sich entfalten, der neue Alltag sich sanft einpendeln.</p><p>Verschenke einen Wochenbettkorb voller nährender Produkte fürs Wochenbett: Stärkende Snacks, Kraftbrühen, regenerierende Balsame, Mama-Baby-Bäder, leckere Stilltees, Stillkugeln, Stilleinlagen, ein alufreies Still-Deo, Seifen ohne Parfüm, wohltuende Pflege für Bauch und Intimbereich,... Wir beraten dich gerne und stellen auf Wunsch auch einen Wochenbettkorb für dich zusammen - ganz nach deinen Wünschen und deinem Budget.</p>",
             "text_style": "body"
           }
         },
@@ -91,7 +100,7 @@
           "type": "button",
           "settings": {
             "button_label": "Fülle einen Wochenbettkorb",
-            "button_link": "shopify:\/\/collections\/geschenke-fur-den-wochenbettkorb",
+            "button_link": "shopify://collections/geschenke-fur-den-wochenbettkorb",
             "button_style_secondary": false
           }
         }
@@ -102,7 +111,7 @@
         "button_7zRdRV"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-geschenke-zur-geburt.jpg",
+        "image": "shopify://shop_images/infobild-geschenke-zur-geburt.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -129,7 +138,7 @@
         "text_TMfEyE": {
           "type": "text",
           "settings": {
-            "text": "<h2>Trageberatung<\/h2><p>Gerade, wenn man zum ersten Mal Eltern wird, wird man mit vielen Fragen konfrontiert - und oft mit ebensovielen Meinungen. Alle wollen einem sagen, wie man es \"richtig\" macht. Das kann ganz schön nerven und ist eher verwirrend als hilfreich.<\/p><p>Wir von Herz an Herz zeigen jungen Eltern, wie der natürliche Umgang mit dem Baby das Leben erleichtern kann. Unsere Beraterinnen haben ein grosses, fundiertes und aktuelles Wissen darüber, wie ein Baby sich seiner Natur gemäss entwickelt, und wie Eltern es entsprechend unterstützen können.<\/p><p>Am beliebtesten als Geschenk zur Geburt ist die Trageberatung. Hier erfahren die Eltern, wie sie ihr Baby sicher und bequem tragen & welche Tragehilfe für sie geeignet ist.<\/p>",
+            "text": "<h2>Trageberatung</h2><p>Gerade, wenn man zum ersten Mal Eltern wird, wird man mit vielen Fragen konfrontiert - und oft mit ebensovielen Meinungen. Alle wollen einem sagen, wie man es \"richtig\" macht. Das kann ganz schön nerven und ist eher verwirrend als hilfreich.</p><p>Wir von Herz an Herz zeigen jungen Eltern, wie der natürliche Umgang mit dem Baby das Leben erleichtern kann. Unsere Beraterinnen haben ein grosses, fundiertes und aktuelles Wissen darüber, wie ein Baby sich seiner Natur gemäss entwickelt, und wie Eltern es entsprechend unterstützen können.</p><p>Am beliebtesten als Geschenk zur Geburt ist die Trageberatung. Hier erfahren die Eltern, wie sie ihr Baby sicher und bequem tragen & welche Tragehilfe für sie geeignet ist.</p>",
             "text_style": "body"
           }
         },
@@ -137,7 +146,7 @@
           "type": "button",
           "settings": {
             "button_label": "Gutschein für unsere Beratungen",
-            "button_link": "shopify:\/\/collections\/gutscheine",
+            "button_link": "shopify://collections/gutscheine",
             "button_style_secondary": false
           }
         }
@@ -148,7 +157,7 @@
         "button_hMcw6x"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/infobild-tragebaby.jpg",
+        "image": "shopify://shop_images/infobild-tragebaby.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -175,7 +184,7 @@
         "text_A9AVeP": {
           "type": "text",
           "settings": {
-            "text": "<h2>Erstausstattung<\/h2><p>Möchtest du etwas für die Erstausstattung verschenken, dann wähle etwas, das über längere Zeit Freude macht und nebenbei noch extra Komfort bietet: Kleidung aus Wolle oder Seide hält die Temperatur konstant, ist antibakteriell und muss selten gewaschen werden. Und weil Neugeborene unglaublich schnell grösser werden, ist es umso schöner, wenn die Kleidung mitwächst und auch nach mehreren Monaten noch passt.<\/p><p>Wir empfehlen: Einen mitwachsenden <a href=\"\/collections\/body-langarm\" target=\"_blank\" title=\"Body langarm\">Body<\/a> von Minimalisma oder ManyMonths, ein <a href=\"\/products\/pickapooh-newborn-knotenmutze-paula\" target=\"_blank\" title=\"Newborn Knotenmütze aus Wolle-Seide PAULA uni\">Knotenmützchen<\/a> von Pickapooh oder ein buntes, handgenähtes <a href=\"\/products\/bettmaus-pumphosen\" target=\"_blank\" title=\"Pumphösli aus Bio-Baumwolle\">Bio-Pumphösli<\/a>. Ergänze das Geschenk mit einem hübschen <a href=\"\/collections\/greiflinge-beissringe-rasseln\" target=\"_blank\" title=\"Greiflinge & Beissringe & Rasseln\">Holz-Greifling<\/a>, einer <a href=\"\/collections\/babydecken\" target=\"_blank\" title=\"Babydecken\">Babydecke<\/a> oder einem <a href=\"\/collections\/nuschis-sabberlatzli\" target=\"_blank\" title=\"Nuschis & Sabberlätzli\">Nuschi<\/a>.<\/p>",
+            "text": "<h2>Erstausstattung</h2><p>Möchtest du etwas für die Erstausstattung verschenken, dann wähle etwas, das über längere Zeit Freude macht und nebenbei noch extra Komfort bietet: Kleidung aus Wolle oder Seide hält die Temperatur konstant, ist antibakteriell und muss selten gewaschen werden. Und weil Neugeborene unglaublich schnell grösser werden, ist es umso schöner, wenn die Kleidung mitwächst und auch nach mehreren Monaten noch passt.</p><p>Wir empfehlen: Einen mitwachsenden <a href=\"/collections/body-langarm\" target=\"_blank\" title=\"Body langarm\">Body</a> von Minimalisma oder ManyMonths, ein <a href=\"/products/pickapooh-newborn-knotenmutze-paula\" target=\"_blank\" title=\"Newborn Knotenmütze aus Wolle-Seide PAULA uni\">Knotenmützchen</a> von Pickapooh oder ein buntes, handgenähtes <a href=\"/products/bettmaus-pumphosen\" target=\"_blank\" title=\"Pumphösli aus Bio-Baumwolle\">Bio-Pumphösli</a>. Ergänze das Geschenk mit einem hübschen <a href=\"/collections/greiflinge-beissringe-rasseln\" target=\"_blank\" title=\"Greiflinge & Beissringe & Rasseln\">Holz-Greifling</a>, einer <a href=\"/collections/babydecken\" target=\"_blank\" title=\"Babydecken\">Babydecke</a> oder einem <a href=\"/collections/nuschis-sabberlatzli\" target=\"_blank\" title=\"Nuschis & Sabberlätzli\">Nuschi</a>.</p>",
             "text_style": "body"
           }
         },
@@ -183,7 +192,7 @@
           "type": "button",
           "settings": {
             "button_label": "Mehr über die Erstausstattung erfahren",
-            "button_link": "shopify:\/\/pages\/erstausstattung",
+            "button_link": "shopify://pages/erstausstattung",
             "button_style_secondary": false
           }
         }
@@ -194,7 +203,7 @@
         "button_eDpcW6"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Slider-Bild-Erstausstattung-Wolle-Seide-Babykleider.jpg",
+        "image": "shopify://shop_images/Slider-Bild-Erstausstattung-Wolle-Seide-Babykleider.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -221,7 +230,7 @@
         "text_mwJzBg": {
           "type": "text",
           "settings": {
-            "text": "<h2>Geburtstagsring<\/h2><p>Feste und Rituale in der Familie sind etwas wunderschönes. Sie geben dem Kind Orientierung und schaffen zauberhafte Erinnerungen. Mit einem <a href=\"\/collections\/festtagsring-zubehor\" target=\"_blank\" title=\"Festtagsring & Zubehör\">Geburtstagsring<\/a> (den du natürlich zu allen anderen Festtagen oder auch im Alltag als Dekoration verwenden kannst) legst du den Grundstein für eine schöne und ebenso nachhaltige Geburtstags-Tradition, denn er kann jedes Jahr wieder verwendet und neu geschmückt werden.<\/p><p>Verschenke einen Festtagsring oder eine Festtagsspirale und einen passenden Grundstock an Steckfiguren, Kerzen und Bilderhalter. Dazu eine Krone fürs Geburtstagskind, eine <a href=\"\/products\/grimms-wimpelkette\" target=\"_blank\" title=\"Wimpelkette aus Holz\">Wimpelkette<\/a> und <a href=\"\/products\/grimms-konfettitaler\" target=\"_blank\" title=\"Konfettitaler aus Holz\">Konfetti-Taler<\/a> aus Holz. Mit diesem Geschenk sorgst du dafür, dass alle weiteren Geburtstage (sowie alle anderen Feste und Feiertage wie Ostern, Weihnachten, Fasnacht...) in der Familie unvergesslich werden.<\/p>",
+            "text": "<h2>Geburtstagsring</h2><p>Feste und Rituale in der Familie sind etwas wunderschönes. Sie geben dem Kind Orientierung und schaffen zauberhafte Erinnerungen. Mit einem <a href=\"/collections/festtagsring-zubehor\" target=\"_blank\" title=\"Festtagsring & Zubehör\">Geburtstagsring</a> (den du natürlich zu allen anderen Festtagen oder auch im Alltag als Dekoration verwenden kannst) legst du den Grundstein für eine schöne und ebenso nachhaltige Geburtstags-Tradition, denn er kann jedes Jahr wieder verwendet und neu geschmückt werden.</p><p>Verschenke einen Festtagsring oder eine Festtagsspirale und einen passenden Grundstock an Steckfiguren, Kerzen und Bilderhalter. Dazu eine Krone fürs Geburtstagskind, eine <a href=\"/products/grimms-wimpelkette\" target=\"_blank\" title=\"Wimpelkette aus Holz\">Wimpelkette</a> und <a href=\"/products/grimms-konfettitaler\" target=\"_blank\" title=\"Konfettitaler aus Holz\">Konfetti-Taler</a> aus Holz. Mit diesem Geschenk sorgst du dafür, dass alle weiteren Geburtstage (sowie alle anderen Feste und Feiertage wie Ostern, Weihnachten, Fasnacht...) in der Familie unvergesslich werden.</p>",
             "text_style": "body"
           }
         },
@@ -229,7 +238,7 @@
           "type": "button",
           "settings": {
             "button_label": "Geburtstagsring & Zubehör entdecken",
-            "button_link": "shopify:\/\/collections\/festtagsring-zubehor",
+            "button_link": "shopify://collections/festtagsring-zubehor",
             "button_style_secondary": false
           }
         }
@@ -240,7 +249,7 @@
         "button_CLK4Vn"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Grimms-Geburtstagsring.jpg",
+        "image": "shopify://shop_images/Infobild-Grimms-Geburtstagsring.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -267,7 +276,7 @@
         "text_i4Yck7": {
           "type": "text",
           "settings": {
-            "text": "<h2>Indoor Babyschaukel<\/h2><p>Schaukeln ist wohl etwas, das alle Kinder mögen. Es zaubert schon dem kleinsten Kind ein Lachen ins Gesicht und entlockt ihm so manchen Freudenquietscher.<\/p><p>Diese handgemachten Schaukeln sind ein tolles Geschenk zur Geburt. Das Neugeborene darf zwar noch nicht hinein, aber das findet es sowieso bei Mama und Papa am schönsten. Dafür bereitet die Schaukel dann noch bis ins Kleinkindalter viel Freude!<\/p>",
+            "text": "<h2>Indoor Babyschaukel</h2><p>Schaukeln ist wohl etwas, das alle Kinder mögen. Es zaubert schon dem kleinsten Kind ein Lachen ins Gesicht und entlockt ihm so manchen Freudenquietscher.</p><p>Diese handgemachten Schaukeln sind ein tolles Geschenk zur Geburt. Das Neugeborene darf zwar noch nicht hinein, aber das findet es sowieso bei Mama und Papa am schönsten. Dafür bereitet die Schaukel dann noch bis ins Kleinkindalter viel Freude!</p>",
             "text_style": "body"
           }
         },
@@ -275,7 +284,7 @@
           "type": "button",
           "settings": {
             "button_label": "Zur Babyschaukel",
-            "button_link": "shopify:\/\/products\/swingsanddreams-babyschaukel",
+            "button_link": "shopify://products/swingsanddreams-babyschaukel",
             "button_style_secondary": false
           }
         }
@@ -286,7 +295,7 @@
         "button_iRDNrh"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Baby-Schaukel.jpg",
+        "image": "shopify://shop_images/Infobild-Baby-Schaukel.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -313,7 +322,7 @@
         "text_pqpzbb": {
           "type": "text",
           "settings": {
-            "text": "<h2>Babys Name in Holzbuchstaben<\/h2><p>Auch wenn das Neugeborene noch lange kein eigenes Zimmer braucht - den eigenen Namen in hübschen und angenehm nach Arven duftenden Buchstaben geschenkt zu bekommen, ist eine ganz besondere Ehre.<\/p><p>Die Buchstaben werden in Winterthur aus einheimischem Holz hergestellt. Wir haben übrigens viele lokal handgemachte Produkte: Wie wäre es mit einer bunt gemusterten Bettmaus, einem Knistertuch oder handgenähten Wolle-Seide-Body?<\/p>",
+            "text": "<h2>Babys Name in Holzbuchstaben</h2><p>Auch wenn das Neugeborene noch lange kein eigenes Zimmer braucht - den eigenen Namen in hübschen und angenehm nach Arven duftenden Buchstaben geschenkt zu bekommen, ist eine ganz besondere Ehre.</p><p>Die Buchstaben werden in Winterthur aus einheimischem Holz hergestellt. Wir haben übrigens viele lokal handgemachte Produkte: Wie wäre es mit einer bunt gemusterten Bettmaus, einem Knistertuch oder handgenähten Wolle-Seide-Body?</p>",
             "text_style": "body"
           }
         },
@@ -321,7 +330,7 @@
           "type": "button",
           "settings": {
             "button_label": "Zu den Buchstaben",
-            "button_link": "shopify:\/\/products\/woodletters-buchstaben",
+            "button_link": "shopify://products/woodletters-buchstaben",
             "button_style_secondary": false
           }
         }
@@ -332,7 +341,7 @@
         "button_8Tgb9U"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Holz-Buchstaben.jpg",
+        "image": "shopify://shop_images/Infobild-Holz-Buchstaben.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -359,7 +368,7 @@
         "text_tkLxL4": {
           "type": "text",
           "settings": {
-            "text": "<h2>Mitbringsel für die Geschwister<\/h2><p>Wenn das neue Baby so viel Aufmerksamkeit und dann auch noch die ganzen Geschenke bekommt, kann sich das für ein Geschwisterkind sehr schwierig anfühlen. Eine liebe Aufmerksamkeit tut da dem aufgewühlten Kinderherz gut!<\/p><p>Eine <a href=\"\/collections\/puppen-tragehilfen\" target=\"_blank\" title=\"Puppen-Tragehilfen\">Puppen-Tragehilfe<\/a> ist ein passendes Geschenk - so kann die Puppe oder der Teddy herumgetragen werden, genauso wie Mama das mit dem Baby macht. Was auch immer geht: Ein <a href=\"\/collections\/kinderbucher\" target=\"_blank\" title=\"Kinderbücher\">Büechli<\/a> - zum Vorlesen während dem Stillen des Babys.<\/p>",
+            "text": "<h2>Mitbringsel für die Geschwister</h2><p>Wenn das neue Baby so viel Aufmerksamkeit und dann auch noch die ganzen Geschenke bekommt, kann sich das für ein Geschwisterkind sehr schwierig anfühlen. Eine liebe Aufmerksamkeit tut da dem aufgewühlten Kinderherz gut!</p><p>Eine <a href=\"/collections/puppen-tragehilfen\" target=\"_blank\" title=\"Puppen-Tragehilfen\">Puppen-Tragehilfe</a> ist ein passendes Geschenk - so kann die Puppe oder der Teddy herumgetragen werden, genauso wie Mama das mit dem Baby macht. Was auch immer geht: Ein <a href=\"/collections/kinderbucher\" target=\"_blank\" title=\"Kinderbücher\">Büechli</a> - zum Vorlesen während dem Stillen des Babys.</p>",
             "text_style": "body"
           }
         },
@@ -367,7 +376,7 @@
           "type": "button",
           "settings": {
             "button_label": "Geschenke für werdende Geschwister",
-            "button_link": "shopify:\/\/collections\/geschenke-fur-werdende-geschwister",
+            "button_link": "shopify://collections/geschenke-fur-werdende-geschwister",
             "button_style_secondary": false
           }
         }
@@ -378,7 +387,7 @@
         "button_pXnQrP"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Puppen-Tragehilfe.jpg",
+        "image": "shopify://shop_images/Guide_Bild.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -405,7 +414,7 @@
         "text_rhhxTU": {
           "type": "text",
           "settings": {
-            "text": "<h2>Geschenkgutschein<\/h2><p>Die Familie soll lieber selber auswählen? Dann verschenke ganz einfach einen Herz an Herz Geschenkgutschein. Er kann im Laden oder Onlineshop eingelöst werden und ist auch für alle unsere Beratungen gültig.<\/p>",
+            "text": "<h2>Geschenkgutschein</h2><p>Die Familie soll lieber selber auswählen? Dann verschenke ganz einfach einen Herz an Herz Geschenkgutschein. Er kann im Laden oder Onlineshop eingelöst werden und ist auch für alle unsere Beratungen gültig.</p>",
             "text_style": "body"
           }
         },
@@ -413,7 +422,7 @@
           "type": "button",
           "settings": {
             "button_label": "Gutschein kaufen",
-            "button_link": "shopify:\/\/collections\/gutscheine",
+            "button_link": "shopify://collections/gutscheine",
             "button_style_secondary": false
           }
         }
@@ -424,7 +433,7 @@
         "button_iBfiJf"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-Gutschein.jpg",
+        "image": "shopify://shop_images/Infobild-Gutschein.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",

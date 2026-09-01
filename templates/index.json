@@ -540,6 +540,16 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_TEeLyH": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Pflege.jpg",
+            "title": "Liebevolle Pflege von Anfang an",
+            "text": "<p>Zarte Babyhaut braucht nicht viel, dafür eine besonders sorgfältige Pflege. In unserem Sortiment findest du ausgewählte Pflegeöle und Balsame auf Pflanzenbasis, praktisches Badezubehör sowie sanfte Begleiter fürs Zahnen und die Babygesundheit. Für wohltuende Pflegemomente von Anfang an.</p>",
+            "url": "shopify://collections/babypflege",
+            "btn_name": "Babypflege entdecken"
+          }
+        },
         "item_jf89B9": {
           "type": "item",
           "disabled": true,
@@ -553,6 +563,7 @@
         },
         "item_RDJDVL": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
             "title": "Weltenbau & stundenlanges freies Spiel",
@@ -634,6 +645,7 @@
         "item_yGB6Yc",
         "item_YWtWKB",
         "item_DL76rn",
+        "item_TEeLyH",
         "item_jf89B9",
         "item_RDJDVL",
         "item_8PeDTn",

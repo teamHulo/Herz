@@ -533,6 +533,17 @@
         "item_DL76rn": {
           "type": "item",
           "settings": {
+            "img": "shopify://shop_images/Pfege.jpg",
+            "title": "Natürlich gewickelt",
+            "text": "<p>Stoffwindeln sind eine nachhaltige und vielseitige Alternative für den Wickelalltag. Sie sind wiederverwendbar, angenehm weich und lassen sich individuell an dein Baby anpassen. Bei uns findest du verschiedene Systeme, passendes Zubehör und alles, was du für einen unkomplizierten Start benötigst.</p>",
+            "url": "shopify://collections/wickeln",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_jf89B9": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
             "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Fridahild-Haarschmuck-Kinder-Haargummi-Haarschmuck-Stoff-1.webp",
             "title": "Hübsche Mitbringsel",
             "text": "<p>Es muss nicht immer etwas Grosses sein. Kleine, ausgewählte Mitbringsel machen genauso viel Freude! Wie wäre es mit wunderhübschen, handgemachten Spängeli? Einem hochwertigen Holzkreisel? Oder einem Kindertattoo?</p>",
@@ -623,6 +634,7 @@
         "item_yGB6Yc",
         "item_YWtWKB",
         "item_DL76rn",
+        "item_jf89B9",
         "item_RDJDVL",
         "item_8PeDTn",
         "item_kfnk9a",

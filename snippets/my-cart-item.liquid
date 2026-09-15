@@ -18,12 +18,18 @@
         {% if product.images.size > 0 %}
             <img  src="{{ product.images[0].src | product_img_url: 'large' }}" alt="{{ product.title }}">
         {% endif %}
-        {% if product.compare_at_price > product.price %}
-          <span class="sale-label">Sale</span>
-        {% endif %}
-        {% if product.available == false %}
-          <span class="sold-label">Ausverkauft</span>
-        {% endif %}
+{% if product.tags contains 'New in' %}
+  <span class="new-label">NEU</span>
+{% endif %}
+
+{% if product.compare_at_price > product.price %}
+  <span class="sale-label">Sale</span>
+{% endif %}
+
+{% if product.available == false %}
+  <span class="sold-label">Ausverkauft</span>
+{% endif %}
+
       </div>
     </a>
     {% if show_contant != false %}

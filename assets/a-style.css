@@ -846,6 +846,19 @@ button {
   top: 5px;
   border-radius: 2px;
 }
+.product-image-wrap .new-label {
+  color: #1d2125;
+  background: transparent;
+  position: absolute;
+  left: 5px;
+  padding: 3px 10px;
+  z-index: 9;
+  top: 5px;
+  border-radius: 2px;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+}
 .product_image-wrap .sold-label {
   color: #F0F0F0;
   background: #989898;

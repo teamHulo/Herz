@@ -846,7 +846,7 @@ button {
   top: 5px;
   border-radius: 2px;
 }
-.product-image-wrap .new-label {
+.product_image-wrap .new-label {
   color: #1d2125;
   background: transparent;
   position: absolute;

@@ -18,7 +18,7 @@
         {% if product.images.size > 0 %}
             <img  src="{{ product.images[0].src | product_img_url: 'large' }}" alt="{{ product.title }}">
         {% endif %}
-{% if product.tags contains 'New in' %}
+{% if product.tags contains 'AKTUALITÄT:New in' %}
   <span class="new-label">NEU</span>
 {% endif %}
 

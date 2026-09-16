@@ -847,17 +847,24 @@ button {
   border-radius: 2px;
 }
 .product_image-wrap .new-label {
-  color: #1d2125;
-  background: transparent;
   position: absolute;
   left: 5px;
-  padding: 3px 10px;
-  z-index: 9;
   top: 5px;
-  border-radius: 2px;
-  font-size: 10px;
+  z-index: 9;
+
+  padding: 5px 12px;
+  background: #1d2125;
+  color: #ffffff;
+
+  border-radius: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
   font-weight: 600;
-  letter-spacing: 0.06em;
+  line-height: 1.2;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 }
 .product_image-wrap .sold-label {
   color: #F0F0F0;

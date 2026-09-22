@@ -463,27 +463,11 @@
             "url": ""
           }
         },
-        "91d414e8-b232-4c6d-b2c5-54cf5819b6fa": {
-          "type": "brand",
-          "settings": {
-            "title": "kruut",
-            "text": "<p>Kruut steht für einen Schritt zurück zur nährstoffreichen Natur und dem Wissen, wie man diese nutzt. Hergestellt mit Werten, die heute oft zu kurz kommen: Zeit & Hingabe.</p><p>„Dat ole Kruut mutt rut“ - Mit diesem plattdeutschen Ausspruch wurden die Gründer von kruut in ihrer Kindheit vom Opa in den Garten geschickt. Nicht um das Unkraut einfach zu jäten - nein, um es zu nutzen. </p><p>kruut möchte kraftvolle Wildkräuter zurück in unseren modernen Alltag holen. Die Rezepturen basieren auf dem jahrtausendealten Wissen der Pflanzenheilkunde. Für naturnahe Rituale und wilden Genuss.</p>",
-            "url": ""
-          }
-        },
         "62f8b106-488e-4b57-a301-9f6146dc1ae9": {
           "type": "brand",
           "settings": {
             "title": "Love Radius",
             "text": "<p>Love Radius wurde 2007 in Paris gegründet und ist die französische Marke, die das Tragen aus praktischen Gründen, aber auch wegen der Nähe zu Ihrem Baby fördert.</p><p>Alle Produkte werden in Frankreich geplant und in der EU hergestellt.</p>",
-            "url": ""
-          }
-        },
-        "3b0b8a34-752b-4f9e-9cea-892adfaa3928": {
-          "type": "brand",
-          "settings": {
-            "title": "made with love by nici",
-            "text": "<p>Die Produkte von made with love by nici werden alle von Nicole Wegmüller persönlich handgefertigt.</p>",
             "url": ""
           }
         },
@@ -579,9 +563,7 @@
       "block_order": [
         "783fd72d-9da2-4527-91ab-b635c97f9545",
         "74d6784e-62bd-4057-aaee-67136bffb591",
-        "91d414e8-b232-4c6d-b2c5-54cf5819b6fa",
         "62f8b106-488e-4b57-a301-9f6146dc1ae9",
-        "3b0b8a34-752b-4f9e-9cea-892adfaa3928",
         "4c94cb0f-fab0-4f32-aa82-07d86d8150be",
         "68ce22e2-5d42-4b2d-ad9e-bf9b35864b62",
         "deea0d72-6f32-4db4-8a46-adfdde08241e",
@@ -935,14 +917,6 @@
             "url": ""
           }
         },
-        "265bccc3-00ef-4e9c-9ce7-8943f80825ec": {
-          "type": "brand",
-          "settings": {
-            "title": "Walkiddy",
-            "text": "<p>Walkiddy ist eine Baby- und Kindermodenmarke, für die Nachhaltigkeit an erster Stelle steht. Walkiddy beobachtet stets die internationalen Standards für Bio-Baumwolle und produziert mit hochwertigen nachhaltigen Stoffen Kleidung, die die Haut der Kleinen schützt. Die Designs sind inspiriert von der Natur und faszinierenden Wesen. Sie schaffen Kollektionen durch welche die Kinder die märchenhafte Schönheit der Natur entdecken können.</p><p>Walkiddy wie auch wir sind überzeugt, dass die Zukunft unseres Planeten, die Zukunft unserer Kinder ist. Der Fortbestand des Öko-Systems ist lediglich mit Nachhaltigkeit möglich. Heutzutage produzieren viele Unternehmen für Bekleidung niedrigpreisig mehr Kleidung als benötigt wird. Dies führt zu Verschwendung. Mehr Produktion, mehr Wasser und mehr Lieferungen sind Einflussfaktoren, die den Kohlenstoffdioxid-Ausstoss steigern. Übrigens vernichten viele Unternehmen die überproduzierte, übriggebliebene Ware zum Ende der Saison. - Walkiddy nicht und auch wir von Herz an Herz werfen niemals Ware weg.</p><p>Auf eine Zukunft, in der anstelle von Verschwendung Nachhaltigkeit tritt und unsere Kinder in einer hoffnungsvollen Welt ihre eigenen Schritte machen können.</p>",
-            "url": ""
-          }
-        },
         "0490fcb4-0302-4e3c-855a-4979e904fb12": {
           "type": "brand",
           "settings": {
@@ -1021,7 +995,6 @@
         "ca697107-8d6b-4cc8-b1bf-c416ac07b3bd",
         "11d5c7c4-bd86-4275-b674-32dc123e9cbb",
         "brand_TnYNFa",
-        "265bccc3-00ef-4e9c-9ce7-8943f80825ec",
         "0490fcb4-0302-4e3c-855a-4979e904fb12",
         "f9789320-720f-4e91-9e8e-d4df347cfe8e",
         "b2c245c1-8b62-4249-b410-0c9f7c4647a1",

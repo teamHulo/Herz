@@ -28,22 +28,6 @@
             "url": ""
           }
         },
-        "dcc3d9ca-1ffa-4b3f-81e0-1c58f24c8855": {
-          "type": "brand",
-          "settings": {
-            "title": "Aniball",
-            "text": "<p>Der Aniball wurde von Renate Zich- einer zweifachen Mutter – mit dem Ziel entwickelt, Frauen zu helfen, eine natürliche Geburt zu erleben. Die Geburt ist ein natürlicher Bestandteil des Lebens. Sie sollte in Ruhe und ohne Angst verlaufen und nebst einem bedeutungsvollen und einzigartigen auch zu einem schönen Erlebnis werden. Der Aniball Beckenboden- und Geburtstrainer wurde mit Gynäkologen, Hebammen und Schwangeren entwickelt.</p>",
-            "url": ""
-          }
-        },
-        "83cbc6ca-d35d-4b22-b1aa-0252967e9f9f": {
-          "type": "brand",
-          "settings": {
-            "title": "Ardo",
-            "text": "<p>Ardo entwickelt, produziert und vertreibt seit über 25 Jahren Produkte, welche die Menschen auf ihrer Reise durchs Leben begleiten. Sie unterstützen Früh- und Neugeborene in der Entwicklung, begleiten die Mutter durch Schwangerschaft, Geburt und Stillzeit und schenken Patientinnen und Patienten Sicherheit und Komfort. Die Zuverlässigkeit der Ardo Produkte im Bereich der Stillhilfen, sowie die Bedürfnisse der Anwenderinnen und Anwender der Produkte stehen dabei immer im Mittelpunkt. Die Ardo medical AG ist ein Schweizer Familienunternehmen in zweiter Generation. Das Unternehmen hat seinen Hauptsitz in Unterägeri und vertreibt ihre hochwertigen Produkte in über 50 Ländern.</p>",
-            "url": ""
-          }
-        },
         "8155f92d-d0f4-45aa-b04c-e6e16ce98027": {
           "type": "brand",
           "settings": {
@@ -81,14 +65,6 @@
           "settings": {
             "title": "Bijde Hansje",
             "text": "<p>Die Karten von Bijdehansje haben einzigartige Designs. Schön zum Versenden mit einem persönlichen Wunsch oder Gruß an jemand anderen, aber auch schön auf dem saisonalen Tisch. Die Karten passen gut zu den Jahreszeiten und den jährlichen Festen und Feiern. Die magischen, märchenhaften Designs von Bijdehansje entführen dich in die Kindheit.</p>",
-            "url": ""
-          }
-        },
-        "6c4147a0-56f4-4cf3-bd2f-92975aabdf1a": {
-          "type": "brand",
-          "settings": {
-            "title": "bluu",
-            "text": "<p>Hinter bluu stecken Marko und Roman aus Zürich, die sich zum Ziel gesetzt haben, nachhaltige und gleichzeitig praktische Alternativen von Haushaltsartikeln zu entwickeln. Als Umwelt-Fans und Zero-Waste-Befürworter wollen Marko und Roman mit bluu eine Lösung anbieten, die zu einer plastikfreieren Welt beiträgt und die Waschen mit gutem Gewissen ermöglicht.Ein nachhaltiges Waschmittel ohne jegliches Plastik, mit einer umweltfreundlichen und einfach zu transportierenden Verpackung.</p>",
             "url": ""
           }
         },
@@ -199,14 +175,11 @@
       },
       "block_order": [
         "0307bdd9-f341-4fe4-b5b0-ef367a454128",
-        "dcc3d9ca-1ffa-4b3f-81e0-1c58f24c8855",
-        "83cbc6ca-d35d-4b22-b1aa-0252967e9f9f",
         "8155f92d-d0f4-45aa-b04c-e6e16ce98027",
         "07216a81-9dfd-4c9d-9603-31a595862f12",
         "b3b5d90c-44a3-4b12-b660-a92891a7ef2a",
         "26d417aa-9c1c-4c75-87a4-86a852e72866",
         "6c1d5aaa-1cf3-4aee-9153-2eab3bd45a68",
-        "6c4147a0-56f4-4cf3-bd2f-92975aabdf1a",
         "939792a0-9073-4302-97c3-f42155758858",
         "250a15f5-3be3-4dc8-a19f-758b519734bf",
         "6ce449a0-ebc2-4842-8232-2f3dfb5a8616",

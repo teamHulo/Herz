@@ -164,14 +164,6 @@
             "url": ""
           }
         },
-        "4fd0ca2c-9314-480d-bf8c-fc67ef6303e5": {
-          "type": "brand",
-          "settings": {
-            "title": "die hebamme in wien",
-            "text": "<p>Die Hebamme in Wien: Eine Naturkosmetiklinie - natürlich, praktisch, multifunktional. Die Produkte sind abgestimmt auf die besonderen Bedürfnisse der Frauen in der Schwangerschaft, im Wochenbett und in der Stillzeit.</p>",
-            "url": ""
-          }
-        },
         "c5df051b-0844-4ffd-ad29-aeb6ea4d3163": {
           "type": "brand",
           "settings": {
@@ -195,6 +187,14 @@
             "text": "<p>Spielen und Toben im Freien bei jedem Wetter - mit der Funktionsbekleidung von Ducksday ist das kein Problem! Die belgische Marke hat es sich zur Aufgabe gemacht, schöne und funktionale Outdoor-Bekleidung für Kids zu entwerfen.<br/></p>",
             "url": ""
           }
+        },
+        "4fd0ca2c-9314-480d-bf8c-fc67ef6303e5": {
+          "type": "brand",
+          "settings": {
+            "title": "die hebamme in wien",
+            "text": "<p>Die Hebamme in Wien: Eine Naturkosmetiklinie - natürlich, praktisch, multifunktional. Die Produkte sind abgestimmt auf die besonderen Bedürfnisse der Frauen in der Schwangerschaft, im Wochenbett und in der Stillzeit.</p>",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -216,10 +216,10 @@
         "932d7fc6-feec-4def-8a63-76acdb33a83f",
         "ff5f1934-3b7f-4a9d-be06-4e69ae8640c9",
         "a150fbc1-bb9f-4d32-b112-bcbc83cf0ad5",
-        "4fd0ca2c-9314-480d-bf8c-fc67ef6303e5",
         "c5df051b-0844-4ffd-ad29-aeb6ea4d3163",
         "914fce0d-c5ce-443e-a2fb-b24d2b5005f4",
-        "brand_pBar6D"
+        "brand_pBar6D",
+        "4fd0ca2c-9314-480d-bf8c-fc67ef6303e5"
       ],
       "settings": {
         "padding_top": 60,
@@ -229,14 +229,6 @@
     "44bac72d-a447-44da-ae70-c2d30bc135ca": {
       "type": "section-brands-list",
       "blocks": {
-        "brand_M4PTXf": {
-          "type": "brand",
-          "settings": {
-            "title": "Hebamme in Wien",
-            "text": "<p>Hebamme in Wien begleitet werdende Eltern mit viel Herz, Erfahrung und Fachwissen durch Schwangerschaft, Geburt und die erste Zeit mit dem Baby. Die Marke steht für einfühlsame Unterstützung, wertvolle Tipps und ausgewählte Produkte, die Familien im neuen Alltag stärken.</p>",
-            "url": ""
-          }
-        },
         "brand_qWDYUL": {
           "type": "brand",
           "settings": {
@@ -381,6 +373,14 @@
             "url": ""
           }
         },
+        "brand_M4PTXf": {
+          "type": "brand",
+          "settings": {
+            "title": "Die Hebamme in Wien",
+            "text": "<p>Hebamme in Wien begleitet werdende Eltern mit viel Herz, Erfahrung und Fachwissen durch Schwangerschaft, Geburt und die erste Zeit mit dem Baby. Die Marke steht für einfühlsame Unterstützung, wertvolle Tipps und ausgewählte Produkte, die Familien im neuen Alltag stärken.</p>",
+            "url": ""
+          }
+        },
         "23173d81-665a-462d-aed8-af27fb51978e": {
           "type": "brand",
           "settings": {
@@ -447,7 +447,6 @@
         }
       },
       "block_order": [
-        "brand_M4PTXf",
         "brand_qWDYUL",
         "eab70983-7a6c-4b4b-afea-815b20de050f",
         "4f0e7359-4b97-4101-85af-b60caf5787a3",
@@ -466,6 +465,7 @@
         "69f93b2e-3b33-4e7f-a635-e2dcee4305d7",
         "181ad3b4-a0aa-4b0a-a2f5-6a927b18aab0",
         "bb29c43a-d3b9-4582-90ac-2d558dc23335",
+        "brand_M4PTXf",
         "23173d81-665a-462d-aed8-af27fb51978e",
         "de439c7c-f250-4bb3-9a04-eb2275af5756",
         "91a9b7d3-7e93-413d-aee2-446542fac392",

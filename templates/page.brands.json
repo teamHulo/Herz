@@ -237,6 +237,14 @@
             "url": ""
           }
         },
+        "brand_M4PTXf": {
+          "type": "brand",
+          "settings": {
+            "title": "Die Hebamme in Wien",
+            "text": "<p>Hebamme in Wien begleitet werdende Eltern mit viel Herz, Erfahrung und Fachwissen durch Schwangerschaft, Geburt und die erste Zeit mit dem Baby. Die Marke steht für einfühlsame Unterstützung, wertvolle Tipps und ausgewählte Produkte, die Familien im neuen Alltag stärken.</p>",
+            "url": ""
+          }
+        },
         "eab70983-7a6c-4b4b-afea-815b20de050f": {
           "type": "brand",
           "settings": {
@@ -373,14 +381,6 @@
             "url": ""
           }
         },
-        "brand_M4PTXf": {
-          "type": "brand",
-          "settings": {
-            "title": "Die Hebamme in Wien",
-            "text": "<p>Hebamme in Wien begleitet werdende Eltern mit viel Herz, Erfahrung und Fachwissen durch Schwangerschaft, Geburt und die erste Zeit mit dem Baby. Die Marke steht für einfühlsame Unterstützung, wertvolle Tipps und ausgewählte Produkte, die Familien im neuen Alltag stärken.</p>",
-            "url": ""
-          }
-        },
         "23173d81-665a-462d-aed8-af27fb51978e": {
           "type": "brand",
           "settings": {
@@ -448,6 +448,7 @@
       },
       "block_order": [
         "brand_qWDYUL",
+        "brand_M4PTXf",
         "eab70983-7a6c-4b4b-afea-815b20de050f",
         "4f0e7359-4b97-4101-85af-b60caf5787a3",
         "aace67a0-ad3b-46b1-bed0-4f94f1454e4a",
@@ -465,7 +466,6 @@
         "69f93b2e-3b33-4e7f-a635-e2dcee4305d7",
         "181ad3b4-a0aa-4b0a-a2f5-6a927b18aab0",
         "bb29c43a-d3b9-4582-90ac-2d558dc23335",
-        "brand_M4PTXf",
         "23173d81-665a-462d-aed8-af27fb51978e",
         "de439c7c-f250-4bb3-9a04-eb2275af5756",
         "91a9b7d3-7e93-413d-aee2-446542fac392",

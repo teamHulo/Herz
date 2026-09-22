@@ -172,6 +172,14 @@
             "url": ""
           }
         },
+        "4fd0ca2c-9314-480d-bf8c-fc67ef6303e5": {
+          "type": "brand",
+          "settings": {
+            "title": "Die Hebamme in Wien",
+            "text": "<p>Die Hebamme in Wien: Eine Naturkosmetiklinie - natürlich, praktisch, multifunktional. Die Produkte sind abgestimmt auf die besonderen Bedürfnisse der Frauen in der Schwangerschaft, im Wochenbett und in der Stillzeit.</p>",
+            "url": ""
+          }
+        },
         "914fce0d-c5ce-443e-a2fb-b24d2b5005f4": {
           "type": "brand",
           "settings": {
@@ -185,14 +193,6 @@
           "settings": {
             "title": "Ducksday",
             "text": "<p>Spielen und Toben im Freien bei jedem Wetter - mit der Funktionsbekleidung von Ducksday ist das kein Problem! Die belgische Marke hat es sich zur Aufgabe gemacht, schöne und funktionale Outdoor-Bekleidung für Kids zu entwerfen.<br/></p>",
-            "url": ""
-          }
-        },
-        "4fd0ca2c-9314-480d-bf8c-fc67ef6303e5": {
-          "type": "brand",
-          "settings": {
-            "title": "Die hebamme in wien",
-            "text": "<p>Die Hebamme in Wien: Eine Naturkosmetiklinie - natürlich, praktisch, multifunktional. Die Produkte sind abgestimmt auf die besonderen Bedürfnisse der Frauen in der Schwangerschaft, im Wochenbett und in der Stillzeit.</p>",
             "url": ""
           }
         }
@@ -217,9 +217,9 @@
         "ff5f1934-3b7f-4a9d-be06-4e69ae8640c9",
         "a150fbc1-bb9f-4d32-b112-bcbc83cf0ad5",
         "c5df051b-0844-4ffd-ad29-aeb6ea4d3163",
+        "4fd0ca2c-9314-480d-bf8c-fc67ef6303e5",
         "914fce0d-c5ce-443e-a2fb-b24d2b5005f4",
-        "brand_pBar6D",
-        "4fd0ca2c-9314-480d-bf8c-fc67ef6303e5"
+        "brand_pBar6D"
       ],
       "settings": {
         "padding_top": 60,

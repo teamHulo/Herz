@@ -36,18 +36,6 @@
             "btn_name": "Jetzt entdecken"
           }
         },
-        "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Infobild-Barfuss-Schuhe.jpg",
-            "img2": "shopify://shop_images/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
-            "img3": "shopify://shop_images/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
-            "title": "Unser Barfussschuh-Guide",
-            "text": "<p>Was zeichnet gute Barfussschuhe aus und worauf solltest du bei der Auswahl achten? In unserem Guide erfährst du, welche Vorteile Barfussschuhe für Kinderfüsse bieten und wie du das passende Modell für dein Kind findest.</p>",
-            "url": "shopify://pages/barfuss-schuhe-fur-kinder",
-            "btn_name": "Zum Barfussschuh-Guide"
-          }
-        },
         "item_wkJFCy": {
           "type": "item",
           "settings": {
@@ -60,28 +48,16 @@
             "btn_name": "Alles für die Babyzeit"
           }
         },
-        "item_CVq4Tq": {
+        "item_iFhkhf": {
           "type": "item",
           "settings": {
-            "img1": "shopify://shop_images/Slider_links.jpg",
-            "img2": "shopify://shop_images/Mitte_2_718a7d11-39e0-4947-8c32-6f188129dc89.jpg",
-            "img3": "shopify://shop_images/Oben_2_832d22da-5712-405d-a08e-c88c955b2e2b.jpg",
-            "title": "Mit allen Sinnen spielen",
-            "text": "<p>Spielen ist Lernen, Entdecken und Wachsen. In unserem sorgfältig ausgewählten Sortiment findest du nachhaltige Spielsachen für Babys und Kleinkinder, die Fantasie, Motorik und Selbstständigkeit fördern. Hochwertige Materialien, zeitloses Design und eine bewusste Auswahl stehen bei uns im Mittelpunkt. Für Spielmomente, die Freude machen und lange begleiten.</p>",
-            "url": "shopify://collections/nachhaltige-spielsachen",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_PYBx6f": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Oben_Feste.jpg",
-            "img2": "shopify://shop_images/Mitte_Feste.jpg",
-            "img3": "shopify://shop_images/Unten_Feste.jpg",
-            "title": "Feste und Rituale in der Familie",
-            "text": "<p>Der Alltag mit Kindern ist geprägt von kleinen Abenteuern, liebgewonnenen Ritualen und vielen besonderen Augenblicken. Wie du Geburtstage und andere Feste unvergesslich gestaltest und die Jahreszeiten auch zuhause erlebbar machst – und weshalb das so wertvoll ist – erklären wir dir hier.</p>",
-            "url": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
-            "btn_name": "Mehr erfahren"
+            "img1": "shopify://shop_images/Unten_62fe7837-ab7d-4186-abe7-d24fe1882d94.jpg",
+            "img2": "shopify://shop_images/Mitte_f4f95883-ada7-403a-9744-69ec349dfce6.jpg",
+            "img3": "shopify://shop_images/Oben_2c8039ca-d1bf-419a-a6bb-0a308b0be11d.jpg",
+            "title": "Geschenke zur Geburt",
+            "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.</p>",
+            "url": "shopify://pages/geschenke-zur-geburt",
+            "btn_name": "Unsere Geschenktipps"
           }
         },
         "item_kjyRwm": {
@@ -108,6 +84,42 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_PYBx6f": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Oben_Feste.jpg",
+            "img2": "shopify://shop_images/Mitte_Feste.jpg",
+            "img3": "shopify://shop_images/Unten_Feste.jpg",
+            "title": "Feste und Rituale in der Familie",
+            "text": "<p>Der Alltag mit Kindern ist geprägt von kleinen Abenteuern, liebgewonnenen Ritualen und vielen besonderen Augenblicken. Wie du Geburtstage und andere Feste unvergesslich gestaltest und die Jahreszeiten auch zuhause erlebbar machst – und weshalb das so wertvoll ist – erklären wir dir hier.</p>",
+            "url": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
+            "btn_name": "Mehr erfahren"
+          }
+        },
+        "item_CVq4Tq": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Slider_links.jpg",
+            "img2": "shopify://shop_images/Mitte_2_718a7d11-39e0-4947-8c32-6f188129dc89.jpg",
+            "img3": "shopify://shop_images/Oben_2_832d22da-5712-405d-a08e-c88c955b2e2b.jpg",
+            "title": "Mit allen Sinnen spielen",
+            "text": "<p>Spielen ist Lernen, Entdecken und Wachsen. In unserem sorgfältig ausgewählten Sortiment findest du nachhaltige Spielsachen für Babys und Kleinkinder, die Fantasie, Motorik und Selbstständigkeit fördern. Hochwertige Materialien, zeitloses Design und eine bewusste Auswahl stehen bei uns im Mittelpunkt. Für Spielmomente, die Freude machen und lange begleiten.</p>",
+            "url": "shopify://collections/nachhaltige-spielsachen",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
+        "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Infobild-Barfuss-Schuhe.jpg",
+            "img2": "shopify://shop_images/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",
+            "img3": "shopify://shop_images/Slider-Bild-Barfuss-Babys-Erste-Schuhe.jpg",
+            "title": "Unser Barfussschuh-Guide",
+            "text": "<p>Was zeichnet gute Barfussschuhe aus und worauf solltest du bei der Auswahl achten? In unserem Guide erfährst du, welche Vorteile Barfussschuhe für Kinderfüsse bieten und wie du das passende Modell für dein Kind findest.</p>",
+            "url": "shopify://pages/barfuss-schuhe-fur-kinder",
+            "btn_name": "Zum Barfussschuh-Guide"
+          }
+        },
         "item_67rBEb": {
           "type": "item",
           "disabled": true,
@@ -119,18 +131,6 @@
             "text": "<p>Der Alltag mit Kindern ist geprägt von kleinen Abenteuern, liebgewonnenen Ritualen und vielen besonderen Augenblicken. Wie du Geburtstage und andere Feste unvergesslich gestaltest und die Jahreszeiten auch zuhause erlebbar machst – und weshalb das so wertvoll ist – erklären wir dir hier.</p>",
             "url": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
             "btn_name": "Mehr erfahren"
-          }
-        },
-        "item_iFhkhf": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Unten_62fe7837-ab7d-4186-abe7-d24fe1882d94.jpg",
-            "img2": "shopify://shop_images/Mitte_f4f95883-ada7-403a-9744-69ec349dfce6.jpg",
-            "img3": "shopify://shop_images/Oben_2c8039ca-d1bf-419a-a6bb-0a308b0be11d.jpg",
-            "title": "Geschenke zur Geburt",
-            "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.</p>",
-            "url": "shopify://pages/geschenke-zur-geburt",
-            "btn_name": "Unsere Geschenktipps"
           }
         },
         "item_DxngTX": {
@@ -305,14 +305,14 @@
       "block_order": [
         "item_BTFeaX",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
-        "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_wkJFCy",
-        "item_CVq4Tq",
-        "item_PYBx6f",
+        "item_iFhkhf",
         "item_kjyRwm",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
+        "item_PYBx6f",
+        "item_CVq4Tq",
+        "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_67rBEb",
-        "item_iFhkhf",
         "item_DxngTX",
         "item_bzRQfG",
         "item_8xqrhQ",

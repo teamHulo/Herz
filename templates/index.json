@@ -72,28 +72,16 @@
             "btn_name": "Zeit zu zweit entdecken"
           }
         },
-        "item_wkJFCy": {
+        "item_PYBx6f": {
           "type": "item",
           "settings": {
-            "img1": "shopify://shop_images/Bild_unten_d2abbec9-9ec5-428e-ab36-c286215d5d27.jpg",
-            "img2": "shopify://shop_images/Bild_Mitte_a8564d88-7a3f-4c03-b466-364b54a1f6e8.jpg",
-            "img3": "shopify://shop_images/Bild_oben_22990fa4-bd34-4469-9e80-2cc6652a49c4.jpg",
-            "title": "Wohlfühlzeit",
-            "text": "<p>Bei uns findest du alles, was dein Kind in den verschiedenen Phasen des Aufwachsens stärkt und begleitet. Von sorgfältig ausgewählten Produkten für Schlaf, Tragen, Essen und Spielen bis hin zu Wissen, <a href=\"https://www.herzanherz.ch/kurse/\" target=\"_blank\" title=\"https://www.herzanherz.ch/kurse/\">Kursen</a> und persönlicher <a href=\"https://www.herzanherz.ch/beratungen/\" target=\"_blank\" title=\"https://www.herzanherz.ch/beratungen/\">Beratung</a> : Wir denken Wohlbefinden ganzheitlich. Uns ist wichtig, dass Kinder sich sicher, gesehen und geborgen fühlen dürfen und dass Eltern im Alltag Unterstützung finden, die stärkt statt verunsichert.&nbsp;</p>",
-            "url": "https://herzanherz-shop.ch/collections/babyzeit",
-            "btn_name": "Alles für die Babyzeit"
-          }
-        },
-        "item_iFhkhf": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Unten_62fe7837-ab7d-4186-abe7-d24fe1882d94.jpg",
-            "img2": "shopify://shop_images/Mitte_f4f95883-ada7-403a-9744-69ec349dfce6.jpg",
-            "img3": "shopify://shop_images/Oben_2c8039ca-d1bf-419a-a6bb-0a308b0be11d.jpg",
-            "title": "Geschenke zur Geburt",
-            "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest&nbsp;du eine&nbsp;tolle&nbsp;Auswahl an persönlichen, nachhaltigen & &nbsp;nützlichen Geschenken zur Geburt.</p>",
-            "url": "shopify://pages/geschenke-zur-geburt",
-            "btn_name": "Unsere Geschenktipps"
+            "img1": "shopify://shop_images/Oben_Feste.jpg",
+            "img2": "shopify://shop_images/Mitte_Feste.jpg",
+            "img3": "shopify://shop_images/Unten_Feste.jpg",
+            "title": "Feste und Rituale in der Familie",
+            "text": "<p>Der Alltag mit Kindern ist geprägt von kleinen Abenteuern, liebgewonnenen Ritualen und vielen besonderen Augenblicken. Wie du Geburtstage und andere Feste unvergesslich gestaltest und die Jahreszeiten auch zuhause erlebbar machst – und weshalb das so wertvoll ist – erklären wir dir hier.</p>",
+            "url": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
+            "btn_name": "Mehr erfahren"
           }
         },
         "item_kjyRwm": {
@@ -108,6 +96,18 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_iFhkhf": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Unten_62fe7837-ab7d-4186-abe7-d24fe1882d94.jpg",
+            "img2": "shopify://shop_images/Mitte_f4f95883-ada7-403a-9744-69ec349dfce6.jpg",
+            "img3": "shopify://shop_images/Oben_2c8039ca-d1bf-419a-a6bb-0a308b0be11d.jpg",
+            "title": "Geschenke zur Geburt",
+            "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest&nbsp;du eine&nbsp;tolle&nbsp;Auswahl an persönlichen, nachhaltigen & &nbsp;nützlichen Geschenken zur Geburt.</p>",
+            "url": "shopify://pages/geschenke-zur-geburt",
+            "btn_name": "Unsere Geschenktipps"
+          }
+        },
         "24910c9d-15a9-4196-9b65-cc074f34c723": {
           "type": "item",
           "settings": {
@@ -120,16 +120,16 @@
             "btn_name": "Jetzt entdecken"
           }
         },
-        "item_PYBx6f": {
+        "item_wkJFCy": {
           "type": "item",
           "settings": {
-            "img1": "shopify://shop_images/Oben_Feste.jpg",
-            "img2": "shopify://shop_images/Mitte_Feste.jpg",
-            "img3": "shopify://shop_images/Unten_Feste.jpg",
-            "title": "Feste und Rituale in der Familie",
-            "text": "<p>Der Alltag mit Kindern ist geprägt von kleinen Abenteuern, liebgewonnenen Ritualen und vielen besonderen Augenblicken. Wie du Geburtstage und andere Feste unvergesslich gestaltest und die Jahreszeiten auch zuhause erlebbar machst – und weshalb das so wertvoll ist – erklären wir dir hier.</p>",
-            "url": "shopify://pages/jahreszeiten-feste-rituale-in-der-familie",
-            "btn_name": "Mehr erfahren"
+            "img1": "shopify://shop_images/Bild_unten_d2abbec9-9ec5-428e-ab36-c286215d5d27.jpg",
+            "img2": "shopify://shop_images/Bild_Mitte_a8564d88-7a3f-4c03-b466-364b54a1f6e8.jpg",
+            "img3": "shopify://shop_images/Bild_oben_22990fa4-bd34-4469-9e80-2cc6652a49c4.jpg",
+            "title": "Wohlfühlzeit",
+            "text": "<p>Bei uns findest du alles, was dein Kind in den verschiedenen Phasen des Aufwachsens stärkt und begleitet. Von sorgfältig ausgewählten Produkten für Schlaf, Tragen, Essen und Spielen bis hin zu Wissen, <a href=\"https://www.herzanherz.ch/kurse/\" target=\"_blank\" title=\"https://www.herzanherz.ch/kurse/\">Kursen</a> und persönlicher <a href=\"https://www.herzanherz.ch/beratungen/\" target=\"_blank\" title=\"https://www.herzanherz.ch/beratungen/\">Beratung</a> : Wir denken Wohlbefinden ganzheitlich. Uns ist wichtig, dass Kinder sich sicher, gesehen und geborgen fühlen dürfen und dass Eltern im Alltag Unterstützung finden, die stärkt statt verunsichert.&nbsp;</p>",
+            "url": "https://herzanherz-shop.ch/collections/babyzeit",
+            "btn_name": "Alles für die Babyzeit"
           }
         },
         "item_CVq4Tq": {
@@ -333,11 +333,11 @@
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "item_BTFeaX",
         "item_WxFtCe",
-        "item_wkJFCy",
-        "item_iFhkhf",
-        "item_kjyRwm",
-        "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_PYBx6f",
+        "item_kjyRwm",
+        "item_iFhkhf",
+        "24910c9d-15a9-4196-9b65-cc074f34c723",
+        "item_wkJFCy",
         "item_CVq4Tq",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_Jc9eFD",

@@ -48,18 +48,6 @@
             "btn_name": "Jetzt entdecken"
           }
         },
-        "item_WxFtCe": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Bild_rechts_Partnerschaft.jpg",
-            "img2": "shopify://shop_images/Bild_Mitte_Partnerschaft.jpg",
-            "img3": "shopify://shop_images/Bild_links_Partnerschaft.jpg",
-            "title": "Für mehr Zweisamkeit",
-            "text": "<p>Zwischen Wickeln, Spielen und Wäschebergen bleibt die Zeit zu zweit manchmal auf der Strecke. Der beliebte Adventskalender und die Kartensets von Paarzeit laden euch zum Reden, Lachen und gemeinsamen Entdecken ein. Dazu findest du bei uns weitere liebevolle Ideen für mehr Nähe und vertraute Momente im Familienalltag.</p>",
-            "url": "shopify://collections/partnerschaft",
-            "btn_name": "Zeit zu zweit entdecken"
-          }
-        },
         "item_BTFeaX": {
           "type": "item",
           "settings": {
@@ -70,6 +58,18 @@
             "text": "<p>Mit den passenden Schuhen macht jedes Herbstabenteuer noch mehr Freude. Unsere neuen Modelle in den Grössen 19 bis 34 bieten viel Bewegungsfreiheit, hohen Tragekomfort und eine optimale Passform für wachsende Kinderfüsse.</p>",
             "url": "shopify://collections/halb-turnschuhe",
             "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_WxFtCe": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Bild_rechts_Partnerschaft.jpg",
+            "img2": "shopify://shop_images/Bild_Mitte_Partnerschaft.jpg",
+            "img3": "shopify://shop_images/Bild_links_Partnerschaft.jpg",
+            "title": "Für mehr Zweisamkeit",
+            "text": "<p>Zwischen Wickeln, Spielen und Wäschebergen bleibt die Zeit zu zweit manchmal auf der Strecke. Der beliebte Adventskalender und die Kartensets von Paarzeit laden euch zum Reden, Lachen und gemeinsamen Entdecken ein. Dazu findest du bei uns weitere liebevolle Ideen für mehr Nähe und vertraute Momente im Familienalltag.</p>",
+            "url": "shopify://collections/partnerschaft",
+            "btn_name": "Zeit zu zweit entdecken"
           }
         },
         "item_wkJFCy": {
@@ -331,8 +331,8 @@
         "item_JpLrNn",
         "item_QbwG84",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
-        "item_WxFtCe",
         "item_BTFeaX",
+        "item_WxFtCe",
         "item_wkJFCy",
         "item_iFhkhf",
         "item_kjyRwm",

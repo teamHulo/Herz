@@ -12,6 +12,18 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "beb1387a-20df-4238-a01b-69c08fe7ba72": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/oben_7cf82c4b-d24b-4143-be8c-a80d83b16d81.jpg",
+            "img2": "shopify://shop_images/Mitte_fdc02813-baec-4113-beb8-eebdac8d30c0.jpg",
+            "img3": "shopify://shop_images/Unten_68f54346-43ec-4cfd-842c-5c2d49292686.jpg",
+            "title": "Natürlich warm mit Wolle",
+            "text": "<p>Was braucht mein Kind für den Herbst? Wenn die Temperaturen sinken und das Wetter wechselhafter wird, kommt es auf die richtigen Materialien und Kleidungsstücke an. In unserem sorgfältig ausgewählten Sortiment findest du alles, was dein Kind angenehm warm hält, ohne zu überhitzen, und gut durch die Übergangszeit begleitet.</p>",
+            "url": "shopify://collections/aktuelle-kollektionen_hw26-27",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_WxFtCe": {
           "type": "item",
           "settings": {
@@ -33,18 +45,6 @@
             "title": "Herbstschritte leicht gemacht",
             "text": "<p>Mit den passenden Schuhen macht jedes Herbstabenteuer noch mehr Freude. Unsere neuen Modelle in den Grössen 19 bis 34 bieten viel Bewegungsfreiheit, hohen Tragekomfort und eine optimale Passform für wachsende Kinderfüsse.</p>",
             "url": "shopify://collections/halb-turnschuhe",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "beb1387a-20df-4238-a01b-69c08fe7ba72": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/oben_7cf82c4b-d24b-4143-be8c-a80d83b16d81.jpg",
-            "img2": "shopify://shop_images/Mitte_fdc02813-baec-4113-beb8-eebdac8d30c0.jpg",
-            "img3": "shopify://shop_images/Unten_68f54346-43ec-4cfd-842c-5c2d49292686.jpg",
-            "title": "Natürlich warm mit Wolle",
-            "text": "<p>Was braucht mein Kind für den Herbst? Wenn die Temperaturen sinken und das Wetter wechselhafter wird, kommt es auf die richtigen Materialien und Kleidungsstücke an. In unserem sorgfältig ausgewählten Sortiment findest du alles, was dein Kind angenehm warm hält, ohne zu überhitzen, und gut durch die Übergangszeit begleitet.</p>",
-            "url": "shopify://collections/aktuelle-kollektionen_hw26-27",
             "btn_name": "Jetzt entdecken"
           }
         },
@@ -82,18 +82,6 @@
             "text": "<p>Entdecke liebevoll ausgewählte Umstands- und Stillmode sowie tolle Basics, die dich durch Schwangerschaft und Stillzeit begleiten. Bequem, nachhaltig und wunderschön.</p>",
             "url": "shopify://collections/umstands-stillmode",
             "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_Jc9eFD": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
-            "img2": "shopify://shop_images/info-erkaeltung-kind_Klein.jpg",
-            "img3": "shopify://shop_images/infobild-mama-baby-nackt_Kopie.jpg",
-            "title": "Erkältungen natürlich begleiten",
-            "text": "<p>Wenn kleine Kinder erkältet sind, ist das für uns Eltern oft schlimm mitanzusehen. Die Naturheilkunde bietet sanfte Möglichkeiten dein Kind bei einer Erkältung zu unterstützen. Wir haben für euch unsere besten Tipps zusammengestellt.</p>",
-            "url": "https://herzanherz-shop.ch/pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
-            "btn_name": "Mehr erfahren"
           }
         },
         "24910c9d-15a9-4196-9b65-cc074f34c723": {
@@ -142,6 +130,19 @@
             "text": "<p>Was zeichnet gute Barfussschuhe aus und worauf solltest du bei der Auswahl achten? In unserem Guide erfährst du, welche Vorteile Barfussschuhe für Kinderfüsse bieten und wie du das passende Modell für dein Kind findest.</p>",
             "url": "shopify://pages/barfuss-schuhe-fur-kinder",
             "btn_name": "Zum Barfussschuh-Guide"
+          }
+        },
+        "item_Jc9eFD": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
+            "img2": "shopify://shop_images/info-erkaeltung-kind_Klein.jpg",
+            "img3": "shopify://shop_images/infobild-mama-baby-nackt_Kopie.jpg",
+            "title": "Erkältungen natürlich begleiten",
+            "text": "<p>Wenn kleine Kinder erkältet sind, ist das für uns Eltern oft schlimm mitanzusehen. Die Naturheilkunde bietet sanfte Möglichkeiten dein Kind bei einer Erkältung zu unterstützen. Wir haben für euch unsere besten Tipps zusammengestellt.</p>",
+            "url": "https://herzanherz-shop.ch/pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
+            "btn_name": "Mehr erfahren"
           }
         },
         "item_67rBEb": {
@@ -301,17 +302,17 @@
         }
       },
       "block_order": [
+        "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "item_WxFtCe",
         "item_BTFeaX",
-        "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "item_wkJFCy",
         "item_iFhkhf",
         "item_kjyRwm",
-        "item_Jc9eFD",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_PYBx6f",
         "item_CVq4Tq",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
+        "item_Jc9eFD",
         "item_67rBEb",
         "item_DxngTX",
         "item_bzRQfG",

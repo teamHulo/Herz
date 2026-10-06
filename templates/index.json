@@ -21,7 +21,7 @@
             "title": "Für mehr Zweisamkeit",
             "text": "<p>Zwischen Wickeln, Spielen und Wäschebergen bleibt die Zeit zu zweit manchmal auf der Strecke. Der beliebte Adventskalender und die Kartensets von Paarzeit laden euch zum Reden, Lachen und gemeinsamen Entdecken ein. Dazu findest du bei uns weitere liebevolle Ideen für mehr Nähe und vertraute Momente im Familienalltag.</p>",
             "url": "shopify://collections/partnerschaft",
-            "btn_name": "LIEBEvolle Produkte entdecken"
+            "btn_name": "Zeit zu zweit entdecken"
           }
         },
         "item_BTFeaX": {
@@ -82,6 +82,18 @@
             "text": "<p>Entdecke liebevoll ausgewählte Umstands- und Stillmode sowie tolle Basics, die dich durch Schwangerschaft und Stillzeit begleiten. Bequem, nachhaltig und wunderschön.</p>",
             "url": "shopify://collections/umstands-stillmode",
             "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_Jc9eFD": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
+            "img2": "shopify://shop_images/info-erkaeltung-kind_Klein.jpg",
+            "img3": "shopify://shop_images/infobild-mama-baby-nackt_Kopie.jpg",
+            "title": "Erkältungen natürlich begleiten",
+            "text": "<p>Wenn kleine Kinder erkältet sind, ist das für uns Eltern oft schlimm mitanzusehen. Die Naturheilkunde bietet sanfte Möglichkeiten dein Kind bei einer Erkältung zu unterstützen. Wir haben für euch unsere besten Tipps zusammengestellt.</p>",
+            "url": "https://herzanherz-shop.ch/pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
+            "btn_name": "Mehr erfahren"
           }
         },
         "24910c9d-15a9-4196-9b65-cc074f34c723": {
@@ -182,19 +194,6 @@
             "text": "<p>Die schönsten Sommertage sind noch nicht vorbei! In unserem Sale warten noch einzelne Sommerartikel auf dich, jetzt mit <strong>50 % Rabatt</strong>. Schnell sein lohnt sich.</p>",
             "url": "shopify://collections/sale",
             "btn_name": "Jetzt profitieren"
-          }
-        },
-        "item_Jc9eFD": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img1": "shopify://shop_images/ein_dufter_Laden_Bienenwachswickelset_Wickel_Kinder_Erkaeltung_Hausmittel2_Kopie.jpg",
-            "img2": "shopify://shop_images/info-erkaeltung-kind_Klein.jpg",
-            "img3": "shopify://shop_images/infobild-mama-baby-nackt_Kopie.jpg",
-            "title": "Erkältungen natürlich begleiten",
-            "text": "<p>Wenn kleine Kinder erkältet sind, ist das für uns Eltern oft schlimm mitanzusehen. Die Naturheilkunde bietet sanfte Möglichkeiten dein Kind bei einer Erkältung zu unterstützen. Wir haben für euch unsere besten Tipps zusammengestellt.</p>",
-            "url": "https://herzanherz-shop.ch/pages/kinder-bei-erkaltungen-fieber-naturlich-begleiten",
-            "btn_name": "Mehr erfahren"
           }
         },
         "item_FxqWar": {
@@ -308,6 +307,7 @@
         "item_wkJFCy",
         "item_iFhkhf",
         "item_kjyRwm",
+        "item_Jc9eFD",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_PYBx6f",
         "item_CVq4Tq",
@@ -316,7 +316,6 @@
         "item_DxngTX",
         "item_bzRQfG",
         "item_8xqrhQ",
-        "item_Jc9eFD",
         "item_FxqWar",
         "item_NthYMr",
         "item_c8wF6m",

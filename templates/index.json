@@ -134,6 +134,7 @@
         },
         "item_CVq4Tq": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Slider_links.jpg",
             "img2": "shopify://shop_images/Mitte_2_718a7d11-39e0-4947-8c32-6f188129dc89.jpg",
@@ -146,6 +147,7 @@
         },
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Infobild-Barfuss-Schuhe.jpg",
             "img2": "shopify://shop_images/Slider-Bild-Barfuss-Kinder-Uebergangs-Schuhe.jpg",

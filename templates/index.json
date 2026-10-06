@@ -24,6 +24,18 @@
             "btn_name": "Vivobarfoot entdecken"
           }
         },
+        "item_QbwG84": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Fun_links.jpg",
+            "img2": "shopify://shop_images/Fun_mitte.jpg",
+            "img3": "shopify://shop_images/Fun_rechts.jpg",
+            "title": "Nah bei dir, auch draussen",
+            "text": "<p>Mit den Tragejacken von Fun2beMum geniesst ihr gemeinsame Ausflüge und die Nähe zueinander. Entdecke unterschiedliche Modelle und Farben für Mamas und Papas. Alle Tragejacken eignen sich sowohl fürs Tragen vorne als auch fürs Rückentragen. So bleibt dein Kind nah bei dir, während ihr zusammen die Welt entdeckt.</p>",
+            "url": "shopify://collections/umstands-tragejacken",
+            "btn_name": "Fun2beMum entdecken"
+          }
+        },
         "beb1387a-20df-4238-a01b-69c08fe7ba72": {
           "type": "item",
           "settings": {
@@ -315,6 +327,7 @@
       },
       "block_order": [
         "item_JpLrNn",
+        "item_QbwG84",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "item_WxFtCe",
         "item_BTFeaX",

@@ -12,6 +12,18 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "item_WxFtCe": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Bild_rechts_Partnerschaft.jpg",
+            "img2": "shopify://shop_images/Bild_Mitte_Partnerschaft.jpg",
+            "img3": "shopify://shop_images/Bild_links_Partnerschaft.jpg",
+            "title": "Für mehr Zweisamkeit",
+            "text": "<p>Zwischen Wickeln, Spielen und Wäschebergen bleibt die Zeit zu zweit manchmal auf der Strecke. Der beliebte Adventskalender und die Kartensets von Paarzeit laden euch zum Reden, Lachen und gemeinsamen Entdecken ein. Dazu findest du bei uns weitere liebevolle Ideen für mehr Nähe und vertraute Momente im Familienalltag.</p>",
+            "url": "shopify://collections/partnerschaft",
+            "btn_name": "LIEBEvolle Produkte entdecken"
+          }
+        },
         "item_BTFeaX": {
           "type": "item",
           "settings": {
@@ -58,18 +70,6 @@
             "text": "<p>Ein Baby erblickt das Licht der Welt. Ein einmaliger Grund zum Feiern. Mit einem wohl überlegten, sinnvollen Geschenk machst du den frischgebackenen Eltern in dieser speziellen Zeit eine ganz besondere Freude. Bei Herz an Herz findest du eine tolle Auswahl an persönlichen, nachhaltigen &  nützlichen Geschenken zur Geburt.</p>",
             "url": "shopify://pages/geschenke-zur-geburt",
             "btn_name": "Unsere Geschenktipps"
-          }
-        },
-        "item_WxFtCe": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Bild_rechts_Partnerschaft.jpg",
-            "img2": "shopify://shop_images/Bild_Mitte_Partnerschaft.jpg",
-            "img3": "shopify://shop_images/Bild_links_Partnerschaft.jpg",
-            "title": "Für mehr Zweisamkeit",
-            "text": "<p>Das Leben mit kleinen Kindern kann ganz schön hektisch sein. Da ist es umso wichtiger, sich bewusst Zeit für die Partnerschaft zu nehmen. Die klimaneutral gefertigten Paarzeit Produkte schenken euch wunderbare Momente tiefer Verbundenheit. Für mehr Liebe & Achtsamkeit im Familienalltag.</p>",
-            "url": "shopify://collections/partnerschaft",
-            "btn_name": "LIEBEvolle Produkte entdecken"
           }
         },
         "item_kjyRwm": {
@@ -302,11 +302,11 @@
         }
       },
       "block_order": [
+        "item_WxFtCe",
         "item_BTFeaX",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "item_wkJFCy",
         "item_iFhkhf",
-        "item_WxFtCe",
         "item_kjyRwm",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_PYBx6f",

@@ -790,6 +790,7 @@
     },
     "section_with_text_btn_ECAitC": {
       "type": "section-with-text-btn",
+      "disabled": true,
       "settings": {
         "title": "Barfuss-Schuhe",
         "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie &nbsp;haben viele Vorteile für die gesunde Fussentwicklung von Kindern.&nbsp;</p>",
@@ -799,7 +800,6 @@
     },
     "section_with_text_btn_rEGwyf": {
       "type": "section-with-text-btn",
-      "disabled": true,
       "settings": {
         "title": "Tragejacken für Herbst & Winter",
         "text": "<p>Beim Tragen profitiert dein Baby direkt von deiner Körperwärme. Damit ihr auch beim kühlerem Wetter. gut angezogen seid, gibt es Tragejacke- und Pullis, die den Wärmeaustausch optimal unterstützen.&nbsp;</p>",
@@ -809,6 +809,7 @@
     },
     "section_full_image_EqfEhU": {
       "type": "section-full-image",
+      "disabled": true,
       "settings": {
         "img": "shopify://shop_images/Section-Full-Image_Barfuss-Kinder.jpg"
       }
@@ -817,7 +818,7 @@
       "type": "section-full-image",
       "disabled": true,
       "settings": {
-        "img": "shopify://shop_images/Section-Full-Image_Barfuss-Kinder.jpg"
+        "img": "shopify://shop_images/Full_Section.jpg"
       }
     },
     "section_slider_ennB3g": {
@@ -871,6 +872,7 @@
         "item_7UUQw8",
         "item_wD89en"
       ],
+      "disabled": true,
       "settings": {}
     },
     "3042eba3-91b9-4a6e-9e08-4e8237a86bf5": {

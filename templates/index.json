@@ -792,13 +792,30 @@
       "type": "section-with-text-btn",
       "settings": {
         "title": "Barfuss-Schuhe",
-        "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie  haben viele Vorteile für die gesunde Fussentwicklung von Kindern. </p>",
+        "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie &nbsp;haben viele Vorteile für die gesunde Fussentwicklung von Kindern.&nbsp;</p>",
+        "url": "shopify://pages/barfuss-schuhe-fur-kinder",
+        "btn_name": "Alles über Barfuss-Schuhe"
+      }
+    },
+    "section_with_text_btn_rEGwyf": {
+      "type": "section-with-text-btn",
+      "disabled": true,
+      "settings": {
+        "title": "Barfuss-Schuhe",
+        "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie &nbsp;haben viele Vorteile für die gesunde Fussentwicklung von Kindern.&nbsp;</p>",
         "url": "shopify://pages/barfuss-schuhe-fur-kinder",
         "btn_name": "Alles über Barfuss-Schuhe"
       }
     },
     "section_full_image_EqfEhU": {
       "type": "section-full-image",
+      "settings": {
+        "img": "shopify://shop_images/Section-Full-Image_Barfuss-Kinder.jpg"
+      }
+    },
+    "section_full_image_UdRxgp": {
+      "type": "section-full-image",
+      "disabled": true,
       "settings": {
         "img": "shopify://shop_images/Section-Full-Image_Barfuss-Kinder.jpg"
       }
@@ -1020,7 +1037,9 @@
     "section_our_hW8Uw7",
     "eb12502c-a978-4a64-8794-299bf7d22d27",
     "section_with_text_btn_ECAitC",
+    "section_with_text_btn_rEGwyf",
     "section_full_image_EqfEhU",
+    "section_full_image_UdRxgp",
     "section_slider_ennB3g",
     "3042eba3-91b9-4a6e-9e08-4e8237a86bf5",
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba",

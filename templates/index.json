@@ -782,7 +782,6 @@
         "item_EjGwPC",
         "item_67Wce3"
       ],
-      "disabled": true,
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
         "title": "Alles für entspannte Sommertage"
@@ -790,7 +789,6 @@
     },
     "section_with_text_btn_ECAitC": {
       "type": "section-with-text-btn",
-      "disabled": true,
       "settings": {
         "title": "Barfuss-Schuhe",
         "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie &nbsp;haben viele Vorteile für die gesunde Fussentwicklung von Kindern.&nbsp;</p>",
@@ -809,13 +807,13 @@
     },
     "section_full_image_EqfEhU": {
       "type": "section-full-image",
-      "disabled": true,
       "settings": {
         "img": "shopify://shop_images/Section-Full-Image_Barfuss-Kinder.jpg"
       }
     },
     "section_full_image_UdRxgp": {
       "type": "section-full-image",
+      "disabled": true,
       "settings": {
         "img": "shopify://shop_images/Full_Section.jpg"
       }

@@ -823,6 +823,16 @@
     "section_slider_ennB3g": {
       "type": "section-slider",
       "blocks": {
+        "item_wD89en": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Infobild-Barfuss-Schuhe-Winter.jpg",
+            "title": "Warme Schuhe",
+            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.</p>",
+            "url": "shopify://collections/warme-schuhe",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_R3wwin": {
           "type": "item",
           "settings": {
@@ -845,6 +855,7 @@
         },
         "item_7UUQw8": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/301-10-X6-nemo-vanilla-strawberry-skl_1_6c861873-6d38-4c6d-81c7-24027705a2da.jpg",
             "title": "Sandalen",
@@ -852,24 +863,13 @@
             "url": "shopify://collections/sandalen",
             "btn_name": "Jetzt entdecken"
           }
-        },
-        "item_wD89en": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Barfuss-Schuhe-Winter.jpg",
-            "title": "Warme Schuhe",
-            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.</p>",
-            "url": "shopify://collections/warme-schuhe",
-            "btn_name": "Jetzt entdecken"
-          }
         }
       },
       "block_order": [
+        "item_wD89en",
         "item_R3wwin",
         "item_CVbBDt",
-        "item_7UUQw8",
-        "item_wD89en"
+        "item_7UUQw8"
       ],
       "settings": {}
     },

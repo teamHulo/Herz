@@ -12,18 +12,6 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "item_JpLrNn": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Bild_unte_Vivo.jpg",
-            "img2": "shopify://shop_images/Bild_Mitte_Vivo.jpg",
-            "img3": "shopify://shop_images/Bild_oben_Vivo.jpg",
-            "title": "Mit Vivobarefoot ins Abenteuer",
-            "text": "<p>Ob auf dem Spielplatz, im Wald oder unterwegs durch die Stadt: Die Neuheiten von Vivobarefoot machen Lust aufs Entdecken. Der Gobi Sneaker begleitet dein Kind im Alltag, der Tracker Boot als Winterstiefel bei seinen Abenteuern in der kalten Jahreszeit. Entdecke beide Modelle in verschiedenen Farben und den Grössen 20–34.</p>",
-            "url": "shopify://collections/vivobarefoot",
-            "btn_name": "Vivobarfoot entdecken"
-          }
-        },
         "item_QbwG84": {
           "type": "item",
           "settings": {
@@ -34,6 +22,18 @@
             "text": "<p>Mit den Umstands- & Tragejacken von Fun2beMum geniesst ihr gemeinsame Ausflüge und die Nähe zueinander. Entdecke unterschiedliche Modelle und Farben für Mamas und Papas. Alle Tragejacken eignen sich sowohl fürs Tragen vorne als auch fürs Rückentragen. So bleibt dein Kind nah bei dir, während ihr zusammen die Welt entdeckt.</p>",
             "url": "shopify://collections/umstands-tragejacken",
             "btn_name": "Fun2beMum entdecken"
+          }
+        },
+        "item_JpLrNn": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Bild_unte_Vivo.jpg",
+            "img2": "shopify://shop_images/Bild_Mitte_Vivo.jpg",
+            "img3": "shopify://shop_images/Bild_oben_Vivo.jpg",
+            "title": "Mit Vivobarefoot ins Abenteuer",
+            "text": "<p>Ob auf dem Spielplatz, im Wald oder unterwegs durch die Stadt: Die Neuheiten von Vivobarefoot machen Lust aufs Entdecken. Der Gobi Sneaker begleitet dein Kind im Alltag, der Tracker Boot als Winterstiefel bei seinen Abenteuern in der kalten Jahreszeit. Entdecke beide Modelle in verschiedenen Farben und den Grössen 20–34.</p>",
+            "url": "shopify://collections/vivobarefoot",
+            "btn_name": "Vivobarfoot entdecken"
           }
         },
         "beb1387a-20df-4238-a01b-69c08fe7ba72": {
@@ -328,8 +328,8 @@
         }
       },
       "block_order": [
-        "item_JpLrNn",
         "item_QbwG84",
+        "item_JpLrNn",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "item_BTFeaX",
         "item_WxFtCe",

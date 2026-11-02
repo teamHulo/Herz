@@ -28,14 +28,6 @@
             "url": ""
           }
         },
-        "8155f92d-d0f4-45aa-b04c-e6e16ce98027": {
-          "type": "brand",
-          "settings": {
-            "title": "Attipas",
-            "text": "<p>Attipas sind ergonomische Barfussschuhe. Diese Lauflernschuhe sind speziell auf die Bedürfnisse von Kinderfüssen abgestimmt. Durch den grossen Spielraum werden die noch weichen Zehen von Babys nicht unnötig oder unangenehm eingedrückt. Durch 24 kleine Luftlöcher in der Sohle wird der Hitzestau vermieden. Die Attipas sind extrem leicht, was das Gefühl des Barfusslaufens vermittelt. Dank der flexiblen Laufsohle können Kinder den Untergrund auf dem sie laufen sehr gut spüren. Je besser Kinder den Untergrund spüren, desto mehr Reize erhält das Gehirn. Wir sind Fan von Attipas, weil sie dem natürlichen Barfusslaufen sehr nahe kommen und sich die Füsse der Kleinsten optimal entwickeln können.</p>",
-            "url": ""
-          }
-        },
         "07216a81-9dfd-4c9d-9603-31a595862f12": {
           "type": "brand",
           "settings": {
@@ -66,6 +58,15 @@
             "title": "Bijde Hansje",
             "text": "<p>Die Karten von Bijdehansje haben einzigartige Designs. Schön zum Versenden mit einem persönlichen Wunsch oder Gruß an jemand anderen, aber auch schön auf dem saisonalen Tisch. Die Karten passen gut zu den Jahreszeiten und den jährlichen Festen und Feiern. Die magischen, märchenhaften Designs von Bijdehansje entführen dich in die Kindheit.</p>",
             "url": ""
+          }
+        },
+        "brand_KpEkyK": {
+          "type": "brand",
+          "settings": {
+            "title": "Boob Design",
+            "text": "<p>Boob Design ist ein schwedisches Modelabel für funktionale und stilvolle Schwangerschafts- und Stillmode. Die durchdachten Kleidungsstücke mit cleveren Stillöffnungen begleiten dich während der Schwangerschaft, Stillzeit und darüber hinaus. Dabei legt Boob Design grossen Wert auf nachhaltige Materialien, faire Produktionsbedingungen und langlebige Qualität.</p>",
+            "url": "",
+            "logo": "shopify://shop_images/boob-logo.svg"
           }
         },
         "939792a0-9073-4302-97c3-f42155758858": {
@@ -124,14 +125,6 @@
             "url": ""
           }
         },
-        "ff5f1934-3b7f-4a9d-be06-4e69ae8640c9": {
-          "type": "brand",
-          "settings": {
-            "title": "Das Brett",
-            "text": "<p>Das in Deutschland von der Manufaktur TicToys hergestellte Balance Board »das.Brett« ist eine Kombination aus einem kreativen Spielobjekt sowie einem vielseitigen und federnden Fitnessgerät. Zusätzlich ist »das.Brett« geölt was es widerstandsfähiger, schmutz- und wasserabweisend macht. Dafür verwenden die Hersteller ausschliesslich einheimisches Buchenholz aus nachhaltiger Forstwirtschaft und lösemittelfreie, dermatologisch geprüfte und lebensmittelechte Naturöle aus der schwäbischen Alb.</p>",
-            "url": ""
-          }
-        },
         "a150fbc1-bb9f-4d32-b112-bcbc83cf0ad5": {
           "type": "brand",
           "settings": {
@@ -175,11 +168,11 @@
       },
       "block_order": [
         "0307bdd9-f341-4fe4-b5b0-ef367a454128",
-        "8155f92d-d0f4-45aa-b04c-e6e16ce98027",
         "07216a81-9dfd-4c9d-9603-31a595862f12",
         "b3b5d90c-44a3-4b12-b660-a92891a7ef2a",
         "26d417aa-9c1c-4c75-87a4-86a852e72866",
         "6c1d5aaa-1cf3-4aee-9153-2eab3bd45a68",
+        "brand_KpEkyK",
         "939792a0-9073-4302-97c3-f42155758858",
         "250a15f5-3be3-4dc8-a19f-758b519734bf",
         "6ce449a0-ebc2-4842-8232-2f3dfb5a8616",
@@ -187,7 +180,6 @@
         "a5aba5bc-8529-4823-9b13-c4a2a9eb67bf",
         "04c3acab-0f14-4da3-8073-3c1ccb0202c2",
         "932d7fc6-feec-4def-8a63-76acdb33a83f",
-        "ff5f1934-3b7f-4a9d-be06-4e69ae8640c9",
         "a150fbc1-bb9f-4d32-b112-bcbc83cf0ad5",
         "c5df051b-0844-4ffd-ad29-aeb6ea4d3163",
         "4fd0ca2c-9314-480d-bf8c-fc67ef6303e5",
@@ -215,22 +207,6 @@
           "settings": {
             "title": "Easypisi",
             "text": "<p>Easypisi - die nachhaltige Lösung anstelle von Einweg-Windeln.</p><p>Als Ignaz im Juli 2018 Vater wurde, hat er sich gefragt, ob es eine Alternative gibt zu 6000 Windeln, die ein Baby bis zum Trockenwerden verbraucht. Nach kurzer Recherche fanden er und seine Frau Lena das sogenannte \"Abhalten\", bei dem man das Baby ganz ohne Windeln aufziehen kann. Das einzige, was man dafür brauchte, war ein Töpfchen. Und so begann die Story von Easypisi.</p><p>Die Töpfchen von Easypisi sind 100% Germany made, von der Planung bis zur Produktion.</p>",
-            "url": ""
-          }
-        },
-        "4f0e7359-4b97-4101-85af-b60caf5787a3": {
-          "type": "brand",
-          "settings": {
-            "title": "Ein dufter Laden",
-            "text": "<p>Ein dufter Laden ist auf dem Hof Liebergott im luzernischen Oberkirch zuhause. Sabrina Estermann liebt es, mit Düften zu arbeiten und immer wieder zu erleben wie wunderbar wirksam die Natur ist und uns im Alltag unterstützt. Düfte sind so heilsam – für Körper und Seele. Ob beim Aus- oder Verräuchern, als Anwendung mit ätherischen Ölen oder Wickel. Sabrina gibt ihr Wissen in Kursen weiter. In der Duftküche von Ein dufter Laden besteht die Möglichkeit selber Raumbeduftung, Alltagshelfer, Naturkosmetik, Räuchermischungen, Duftegeschenke oder andere duftende Sachen herzustellen. Sie fertigt für den Verkauf verschiedene duftende Produkte.</p>",
-            "url": ""
-          }
-        },
-        "aace67a0-ad3b-46b1-bed0-4f94f1454e4a": {
-          "type": "brand",
-          "settings": {
-            "title": "einhorn",
-            "text": "<p>einhorn ist nicht nur nachhaltig, sondern fair. Ein Unternehmen mit einer Vision, mit tollen Werten. Eine Firma, die sich einbringt in die Community, die Kultur, die Gesellschaft, die Politik. einhorn tut Gutes und verbindet das auch noch mit witzigem, sexy Design und tollen Produkten.</p>",
             "url": ""
           }
         },
@@ -271,14 +247,6 @@
           "settings": {
             "title": "Fresk",
             "text": "<p>Fresk ist eine holländische Bio-Baby-Lifestyle-Marke mit frischem, niedlichen Design und einem Hauch Vintage.</p><p>Fresk möchte nachhaltige und faire Produkte herstellen, weshalb sie 100% Bio-Baumwolle verwenden. Alle Artikel werden in Holland entworfen. Die Kleidung wird in der Türkei, die anderen Produkte unter streng kontrollierten und fairen Bedingungen in Indien oder China produziert.</p><p>Viele Fresk Produkte haben das GOTS-Gütesiegel erhalten, welches als weltweites Qualitätszeichen gilt - nicht nur für das Material sondern auch für den Herstellungsprozess und die gesamte Lieferkette.</p>",
-            "url": ""
-          }
-        },
-        "15155f04-b283-4f56-869e-de5075e3ecf6": {
-          "type": "brand",
-          "settings": {
-            "title": "Fridahild",
-            "text": "<p>Fridahild: Das ist liebevoll handgefertigter Haarschmuck in zeitlosem Design und aus hochwertigen Materialien und einem Hauch Nostalgie. Bei Fridahild gibt es aussergewöhnliche und ganz besondere Haaraccessoires zu entdecken, die in Wien von Hand gefertigt werden. Aus exklusiven Liberty London-, Leinen- und ausgewählten Motivstoffen werden Haarspangen, Zopfgummis und Schleifen gezaubert, die garantiert auffallen.</p>",
             "url": ""
           }
         },
@@ -414,14 +382,11 @@
       "block_order": [
         "brand_qWDYUL",
         "eab70983-7a6c-4b4b-afea-815b20de050f",
-        "4f0e7359-4b97-4101-85af-b60caf5787a3",
-        "aace67a0-ad3b-46b1-bed0-4f94f1454e4a",
         "b40312e0-43b8-4ed1-94e6-01c514b6c625",
         "9b60bd2b-2000-449e-a3cb-e4082e0e9df0",
         "4425d589-b0e5-4d0c-8eda-4e0e2f8b4c1e",
         "da0c2267-22ea-46f8-ba2b-40e93966eaf2",
         "949bc0aa-bb91-4575-9f1a-535c333b23cd",
-        "15155f04-b283-4f56-869e-de5075e3ecf6",
         "c9102d9a-4f26-4a83-afb7-bf3d470c2b72",
         "5e1a5b19-5f0d-41bd-827b-639200e9725f",
         "brand_czwwLQ",
@@ -535,14 +500,6 @@
             "url": ""
           }
         },
-        "3b9ac97b-c6c5-4049-a0ab-49d2624328fb": {
-          "type": "brand",
-          "settings": {
-            "title": "Moose-li",
-            "text": "<p>Moose-li wurde von Nadine aus Rorbas ins Leben gerufen. Zusammen mit Hilfe von ihrer ganzen Familie betreibt sie ihr kleines Unternehmen. Bei Moose-li findet man kleine Geschenke und Mitbringsel für Kinder und Erwachsene.</p><p>Gewisse Produkte werden von Nadine selbst hergestellt und andere werden von Produzenten hergestellt, die grossen Wert auf Nachhaltigkeit legen und soziale Projekte unterstützen.</p>",
-            "url": ""
-          }
-        },
         "1be4ca22-1222-42a5-8dd2-43ac61030435": {
           "type": "brand",
           "settings": {
@@ -572,7 +529,6 @@
         "dbc56b2e-e09e-45cf-be46-44de428436de",
         "69926878-6149-4949-ae5a-b5164a37175c",
         "8c5e23a7-9dfb-469d-8133-ceebbc8db071",
-        "3b9ac97b-c6c5-4049-a0ab-49d2624328fb",
         "1be4ca22-1222-42a5-8dd2-43ac61030435",
         "bad181d1-f221-4b78-a507-f72cff21bea6"
       ],
@@ -629,14 +585,6 @@
           "settings": {
             "title": "Noppies",
             "text": "<p>Noppies ist die Marke für schwangere Frauen und Mütter. Seit mehr als zwanzig Jahren sorgt Noppies dafür, dass stilbewusste Frauen sich während der Höhepunkte und Herausforderungen ihrer Schwangerschaft und Stillzeit ihrer selbst sicher fühlen können.</p><p>Noppies engagiert sich auf verschiedenen Ebenen für Nachhaltigkeit, unter anderem durch Mitgliedschaft im Niederländischen Abkommen über nachhaltige Mode und Textilien. Zudem verpflichtet Noppies sich zur Einhaltung verantwortungsvoller Geschäftspraktiken und zur Optimierung der Arbeitsbedingungen entlang der gesamten Wertschöpfungskette.</p>",
-            "url": ""
-          }
-        },
-        "663c82fa-dc0a-4ee7-8b22-3bc8ef36a663": {
-          "type": "brand",
-          "settings": {
-            "title": "ökoNORM",
-            "text": "<p>ökoNORM steht für ökologisch sinnvolle Produkte, die in Herstellung, Gebrauch und Entsorgung den Menschen und der Umwelt so wenig wie möglich schaden.</p><p>Die Firmengründer Ellen Schahn und Albert Krohn waren schon vor der Firmengründung 1989 in Frankfurt/Main im Umweltschutz, in Bürgerinitiativen und gesellschaftspolitisch aktiv. Sie haben sich über diese Themenfelder kennengelernt und in ökologisch orientierten Firmen zusammen gearbeitet.</p><p>ökoNORM engagiert sich für die konsequente Entwicklung von Produkten aus nachwachsenden Rohstoffen.</p>",
             "url": ""
           }
         },
@@ -760,14 +708,6 @@
             "url": ""
           }
         },
-        "a5ed4d76-8dec-4c1c-9a98-8a339bd56b41": {
-          "type": "brand",
-          "settings": {
-            "title": "Rosenfellner Mühle",
-            "text": "<p>Seit 1998 führt Monika Rosenfellner in dritter Generation den Betrieb in Niederösterreich. Der Sinn für die Verarbeitung von heimischen Getreide, die Sortenvielfalt und der Aspekt der Nachhaltigkeit stammen von ihrem Großvater. Ihnen ist es stets wichtig, das Getreide von nahen Bauern und aus fairer Landwirtschaft zu beziehen. Die Mühle verfügt über eine eigene Wasserkraftanlage für die Produktion, somit werden ihre Produkte weitestgehend mit der ganzen Kraft des Wassers hergestellt oder mit Strom aus erneuerbarer Energien. Sie arbeiten gemeinsam und im Einklang mit der Natur.</p><p>Die Produkte der Rosenfellner Mühle sind ausschließlich biologisch und somit frei von chemischen Zusatzstoffen.</p>",
-            "url": ""
-          }
-        },
         "c7cff984-3912-40f5-b9cc-310bf0ac4038": {
           "type": "brand",
           "settings": {
@@ -800,7 +740,6 @@
         "e29ebee3-d91a-442d-bbb3-28bcc5be7648",
         "beb220c9-7918-4238-8851-3ece1f59ad12",
         "b2224f8d-7c56-47d7-be10-d19d0cc63738",
-        "663c82fa-dc0a-4ee7-8b22-3bc8ef36a663",
         "19fdb28a-1c5d-447a-a474-8bbaecc0b9f7",
         "88a593d9-9ed3-4654-a857-9cc45c0a9cad",
         "96fd7ffa-ba5d-4d81-b8d8-b7248b442032",
@@ -816,7 +755,6 @@
         "c765f1ae-334b-496b-bbee-247fbdd38f67",
         "f7f17304-b089-43b4-8004-9e1539c04679",
         "c47c37b6-ed65-4baf-b48f-939518cd6989",
-        "a5ed4d76-8dec-4c1c-9a98-8a339bd56b41",
         "c7cff984-3912-40f5-b9cc-310bf0ac4038",
         "8daac7b1-35e8-40d3-8d23-e5776cd9c801",
         "08906bcd-4b78-4ffe-9862-bb2b5940078b"
@@ -837,14 +775,6 @@
             "url": ""
           }
         },
-        "d3f1d5cb-150d-4a91-a848-5608c613e7fd": {
-          "type": "brand",
-          "settings": {
-            "title": "Smallstuff",
-            "text": "<p>Smallstuff ist eine dänische Marke und wurde 2006 gegründet. Smallstuff liebt Farben und schöne Designs. Für alle Produkte werden natürliche Materialien wie Baumwolle, Wolle und Holz verwendet. Die Wolle ist OEKO-TEX-zertifiziert. Smallstuff stellt gut sitzende Kleidung her, die gleichzeitig weich und angenehm zu tragen ist.</p>",
-            "url": ""
-          }
-        },
         "d7f002b1-af96-4cae-9a05-bdf3f7dde2c1": {
           "type": "brand",
           "settings": {
@@ -858,22 +788,6 @@
           "settings": {
             "title": "Sonnentor",
             "text": "<p>Die Firma Sonnentor ist ein österreichisches Unternehmen mit Sitz in Sprögnitz, das auf die Herstellung und Vermarktung von Kräutern, Tees und Gewürzen aus biologischem und fairen Anbau spezialisiert ist.</p>",
-            "url": ""
-          }
-        },
-        "b6ab65f8-d76b-47b0-b238-d1101e43fc17": {
-          "type": "brand",
-          "settings": {
-            "title": "Stillfashion",
-            "text": "<p>Stillfashion ist ein österreichisches Unternehmen und entwickelt nachhaltige Mode für die Schwangerschaft, die Stillzeit und die Zeit danach (oder davor). Die Mode soll möglichst lange in Verwendung sein und dich auch noch nach den besonderen Lebensphasen der Schwangerschaft und Stillzeit begleiten. Deshalb sind oft viele Funktionen in einem simpel wirkenden Schnitt verpackt.</p><p>Stillfashion setzt auf sanfte und robuste Stoffe, auf besondere Materialien wie Bio-Baumwolle und Tencel. Hergestellt wird die Mode aus nachhaltigen Materialien und in sozialen Produktionsstätten.</p>",
-            "url": ""
-          }
-        },
-        "2f715e1c-7983-4037-a6d5-59c2346a47e9": {
-          "type": "brand",
-          "settings": {
-            "title": "Stockmar",
-            "text": "<p>Seit 100 Jahren steht der Name Stockmar für hochwertige Kreativ-Produkte. Zu ihrem Qualitätsverständnis gehört der Anspruch, künstlerische Freiräume zu eröffnen, die wohltuend auf die individuelle kindliche Entwicklung wirken. Die Qualität stellen sie durch die sorgfältige Auswahl der Rohstoffe, erstklassige Verarbeitung sowie hervorragende Farb-, Mal- und Modelliereigenschaften sicher.</p><p>Stockmar Produkte sind für Gesundheit und Umwelt unbedenklich.</p>",
             "url": ""
           }
         },
@@ -985,11 +899,8 @@
       },
       "block_order": [
         "0e318fd7-9ce4-43b7-9e09-9e24b68d009b",
-        "d3f1d5cb-150d-4a91-a848-5608c613e7fd",
         "d7f002b1-af96-4cae-9a05-bdf3f7dde2c1",
         "31a0a2d8-c5a0-4329-a917-9085d4923d8f",
-        "b6ab65f8-d76b-47b0-b238-d1101e43fc17",
-        "2f715e1c-7983-4037-a6d5-59c2346a47e9",
         "d6c46637-2a53-418f-913c-8c25b0b79fbc",
         "3bf1bde4-27ef-43ee-b65d-086890875e7c",
         "ca697107-8d6b-4cc8-b1bf-c416ac07b3bd",

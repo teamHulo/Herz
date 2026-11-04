@@ -372,6 +372,26 @@
     "section_our_aLKHkd": {
       "type": "section-our",
       "blocks": {
+        "item_z66qYR": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Disana.jpg",
+            "title": "Natürlich warm mit Disana",
+            "text": "<p>Disana steht für hochwertige Wollkleidung, die Kinder zuverlässig durch kühlere Tage begleitet. Die natürlichen Eigenschaften der Wolle sorgen für ein ausgeglichenes Körperklima. Sie wärmt angenehm, ist atmungsaktiv und gleicht Temperaturschwankungen aus. So fühlt sich dein Kind drinnen und draussen rundum wohl.</p>",
+            "url": "shopify://collections/disana-herbst-winter",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_Kxm3Pt": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Wollfleece_gross.jpg",
+            "title": "Für kleine Entdecker",
+            "text": "<p>Die weiche Wollfleecekleidung von Engel hält Kinder bei ihren Abenteuern angenehm warm und schenkt viel Bewegungsfreiheit. Das leichte Naturmaterial ist atmungsaktiv und temperaturausgleichend. Ideal für Spaziergänge, den Spielplatz und kleine Entdeckungstouren an kühleren Herbsttagen.</p>",
+            "url": "shopify://collections/engel-herbst-winter",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_taMpWb": {
           "type": "item",
           "settings": {
@@ -399,26 +419,6 @@
             "title": "Warm von Kopf bis Fuss",
             "text": "<p>Der kuschelige Wollfleece-Overall von Engel hält dein Baby wohlig warm, ohne zu überhitzen. Kapuze und umklappbare Arm- und Beinabschlüsse schützen zusätzlich vor kühler Luft. Ideal für den Kinderwagen, die Trage und kleine Ausflüge an frischen Herbsttagen.</p>",
             "url": "shopify://collections/engel-herbst-winter",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_Kxm3Pt": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Wollfleece_gross.jpg",
-            "title": "Für kleine Entdecker",
-            "text": "<p>Die weiche Wollfleecekleidung von Engel hält Kinder bei ihren Abenteuern angenehm warm und schenkt viel Bewegungsfreiheit. Das leichte Naturmaterial ist atmungsaktiv und temperaturausgleichend. Ideal für Spaziergänge, den Spielplatz und kleine Entdeckungstouren an kühleren Herbsttagen.</p>",
-            "url": "shopify://collections/engel-herbst-winter",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_z66qYR": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Disana.jpg",
-            "title": "Natürlich warm mit Disana",
-            "text": "<p>Disana steht für hochwertige Wollkleidung, die Kinder zuverlässig durch kühlere Tage begleitet. Die natürlichen Eigenschaften der Wolle sorgen für ein ausgeglichenes Körperklima. Sie wärmt angenehm, ist atmungsaktiv und gleicht Temperaturschwankungen aus. So fühlt sich dein Kind drinnen und draussen rundum wohl.</p>",
-            "url": "shopify://collections/disana-herbst-winter",
             "btn_name": "Jetzt entdecken"
           }
         },
@@ -508,11 +508,11 @@
         }
       },
       "block_order": [
+        "item_z66qYR",
+        "item_Kxm3Pt",
         "item_taMpWb",
         "item_XRbJ6J",
         "item_MLNJjD",
-        "item_Kxm3Pt",
-        "item_z66qYR",
         "item_6XDWwm",
         "item_RKNkGi",
         "item_qcaWnE",

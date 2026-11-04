@@ -392,6 +392,16 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_MLNJjD": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Engel-Wollfleece.jpg",
+            "title": "Warm von Kopf bis Fuss",
+            "text": "<p>Der kuschelige Wollfleece-Overall von Engel hält dein Baby wohlig warm, ohne zu überhitzen. Kapuze und umklappbare Arm- und Beinabschlüsse schützen zusätzlich vor kühler Luft. Ideal für den Kinderwagen, die Trage und kleine Ausflüge an frischen Herbsttagen.</p>",
+            "url": "shopify://collections/engel-herbst-winter",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_taMpWb": {
           "type": "item",
           "settings": {
@@ -409,16 +419,6 @@
             "title": "Praktische Accessoires",
             "text": "<p>Stulpen, Loops und leichte Mützen aus Wolle und Seide sind praktische Begleiter für wechselhafte Herbsttage. Sie wärmen sanft, schützen vor Wind und lassen sich bei Bedarf schnell an- und ausziehen. Dank ihrer temperaturausgleichenden Eigenschaften sorgen sie für ein angenehmes Körperklima unterwegs und im Alltag.</p>",
             "url": "shopify://collections/wolle-seide-accessoires",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_MLNJjD": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Engel-Wollfleece.jpg",
-            "title": "Warm von Kopf bis Fuss",
-            "text": "<p>Der kuschelige Wollfleece-Overall von Engel hält dein Baby wohlig warm, ohne zu überhitzen. Kapuze und umklappbare Arm- und Beinabschlüsse schützen zusätzlich vor kühler Luft. Ideal für den Kinderwagen, die Trage und kleine Ausflüge an frischen Herbsttagen.</p>",
-            "url": "shopify://collections/engel-herbst-winter",
             "btn_name": "Jetzt entdecken"
           }
         },
@@ -510,9 +510,9 @@
       "block_order": [
         "item_z66qYR",
         "item_Kxm3Pt",
+        "item_MLNJjD",
         "item_taMpWb",
         "item_XRbJ6J",
-        "item_MLNJjD",
         "item_6XDWwm",
         "item_RKNkGi",
         "item_qcaWnE",

@@ -412,6 +412,16 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_6XDWwm": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Disana_Schlafsack.jpg",
+            "title": "Geborgen durch die Nacht",
+            "text": "<p>Wenn die Nächte kühler werden, schenken Schlafsäcke aus Merinowolle und weichem Wollstrick deinem Baby wohlige Wärme. Die atmungsaktiven und temperaturausgleichenden Materialien unterstützen ein angenehmes Schlafklima, ohne zu überhitzen. Für erholsame Nächte und ein rundum geborgenes Gefühl.</p>",
+            "url": "shopify://collections/schlafsacke",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
         "item_DYBGiU": {
           "type": "item",
           "settings": {
@@ -424,21 +434,12 @@
         },
         "item_MLNJjD": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Engel-Wollfleece.jpg",
             "title": "Warm von Kopf bis Fuss",
             "text": "<p>Der kuschelige Wollfleece-Overall von Engel hält dein Baby wohlig warm, ohne zu überhitzen. Kapuze und umklappbare Arm- und Beinabschlüsse schützen zusätzlich vor kühler Luft. Ideal für den Kinderwagen, die Trage und kleine Ausflüge an frischen Herbsttagen.</p>",
             "url": "shopify://collections/engel-herbst-winter",
-            "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_6XDWwm": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Disana_Schlafsack.jpg",
-            "title": "Geborgen durch die Nacht",
-            "text": "<p>Wenn die Nächte kühler werden, schenken Schlafsäcke aus Merinowolle und weichem Wollstrick deinem Baby wohlige Wärme. Die atmungsaktiven und temperaturausgleichenden Materialien unterstützen ein angenehmes Schlafklima, ohne zu überhitzen. Für erholsame Nächte und ein rundum geborgenes Gefühl.</p>",
-            "url": "shopify://collections/schlafsacke",
             "btn_name": "Jetzt entdecken"
           }
         },
@@ -466,6 +467,7 @@
         },
         "item_RKNkGi": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Slider-Bild-Barfuss-Schuhe-Warum.jpg",
             "title": "Warum Barfuss-Schuhe?",
@@ -513,9 +515,9 @@
         "item_Kxm3Pt",
         "item_MDJQWT",
         "item_taMpWb",
+        "item_6XDWwm",
         "item_DYBGiU",
         "item_MLNJjD",
-        "item_6XDWwm",
         "item_XRbJ6J",
         "item_VrDnVb",
         "item_RKNkGi",

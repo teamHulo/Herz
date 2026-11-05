@@ -533,14 +533,47 @@
     "section_our_hW8Uw7": {
       "type": "section-our",
       "blocks": {
+        "item_ENeina": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Grpat.jpg",
+            "title": "Adventskalender für Kinder",
+            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente?&nbsp;</p>",
+            "url": "shopify://collections/adventskalender",
+            "btn_name": "Adventskalender"
+          }
+        },
         "item_kfnk9a": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
             "title": "Adventskalender für Paare",
             "text": "<p>Der Paarzeit Adventskalender ist eine wunderschöne Idee für etwas bewusste Zweisamkeit im Advent. Mit inspirierenden, lustigen, nachdenklichen, romantischen Anregungen für eure Partnerschaft.</p>",
             "url": "shopify://collections/paarzeit",
             "btn_name": "Paarzeit verbringen"
+          }
+        },
+        "item_RDJDVL": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
+            "title": "Weltenbau & stundenlanges freies Spiel",
+            "text": "<p>Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie. Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.</p>",
+            "url": "shopify://collections/freies-spiel",
+            "btn_name": "Alles fürs freie Spiel"
+          }
+        },
+        "item_pdmF6i": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Slider-Bild-Advent-Spirale-Grimms.jpg",
+            "title": "Schöne Rituale im Advent",
+            "text": "<p>Feste & Rituale sind für Kinder wichtig für die Orientierung im Jahr. Um die Zeit bis Weihnachten sichtbar zu machen, könnt ihr eine Adventsspirale verwenden. Viele weitere Ideen findest du auf unserer Wissensseite dazu.</p>",
+            "url": "shopify://pages/themenseite",
+            "btn_name": "Adventsrituale"
           }
         },
         "item_d3thnR": {
@@ -603,17 +636,6 @@
             "btn_name": "Babypflege entdecken"
           }
         },
-        "item_RDJDVL": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
-            "title": "Weltenbau & stundenlanges freies Spiel",
-            "text": "<p>Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie. Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.</p>",
-            "url": "shopify://collections/freies-spiel",
-            "btn_name": "Alles fürs freie Spiel"
-          }
-        },
         "item_8PeDTn": {
           "type": "item",
           "disabled": true,
@@ -625,27 +647,6 @@
             "btn_name": "Geschenke entdecken"
           }
         },
-        "item_ENeina": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Advent-Kalender.jpg",
-            "title": "Adventskalender für Kinder",
-            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente? Oder einem Türchen-Kalender ohne Zahlen?</p>",
-            "url": "shopify://collections/adventskalender",
-            "btn_name": "Adventskalender"
-          }
-        },
-        "item_pdmF6i": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Slider-Bild-Advent-Spirale-Grimms.jpg",
-            "title": "Schöne Rituale im Advent",
-            "text": "<p>Feste & Rituale sind für Kinder wichtig für die Orientierung im Jahr. Um die Zeit bis Weihnachten sichtbar zu machen, könnt ihr eine Adventsspirale verwenden. Viele weitere Ideen findest du auf unserer Wissensseite dazu.</p>",
-            "url": "shopify://pages/themenseite",
-            "btn_name": "Adventsrituale"
-          }
-        },
         "item_jXDWYz": {
           "type": "item",
           "disabled": true,
@@ -655,17 +656,6 @@
             "text": "<p>Unsere Wissensseiten rund ums Familienleben bereiten dich bestens vor, so auch unser Weihnachtsgeschenke-Guide mit inspirierenden Geschenkideen und Tipps, wie du diese Zeit entspannt und bewusst gestalten kannst.</p>",
             "url": "shopify://pages/weihnachtsgeschenke-guide",
             "btn_name": "Inspirieren lassen"
-          }
-        },
-        "item_dK9gcB": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Infobild-Advent-Wichteltuer.jpg",
-            "title": "Wichteltürchen",
-            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!</p>",
-            "url": "shopify://collections/wichtelzauber",
-            "btn_name": "Wichtel einladen"
           }
         },
         "item_jf89B9": {
@@ -681,19 +671,18 @@
         }
       },
       "block_order": [
+        "item_ENeina",
         "item_kfnk9a",
+        "item_RDJDVL",
+        "item_pdmF6i",
         "item_d3thnR",
         "item_MRqUzR",
         "item_yGB6Yc",
         "item_YWtWKB",
         "item_DL76rn",
         "item_TEeLyH",
-        "item_RDJDVL",
         "item_8PeDTn",
-        "item_ENeina",
-        "item_pdmF6i",
         "item_jXDWYz",
-        "item_dK9gcB",
         "item_jf89B9"
       ],
       "settings": {

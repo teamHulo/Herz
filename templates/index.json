@@ -545,7 +545,6 @@
         },
         "item_kfnk9a": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
             "title": "Adventskalender für Paare",
@@ -556,7 +555,6 @@
         },
         "item_RDJDVL": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
             "title": "Weltenbau & stundenlanges freies Spiel",
@@ -567,7 +565,6 @@
         },
         "item_pdmF6i": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Rituale.jpg",
             "title": "Schöne Rituale im Advent",
@@ -578,6 +575,7 @@
         },
         "item_d3thnR": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Stillen-Stillkissen.jpg",
             "title": "Entspannt stillen",
@@ -588,6 +586,7 @@
         },
         "item_MRqUzR": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Slider-Bild-Erstausstattung-Baby-Schlafsack.jpg",
             "title": "Geborgen schlafen",
@@ -598,6 +597,7 @@
         },
         "item_yGB6Yc": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Tragen_Startseite.jpg",
             "title": "Nah bei dir",
@@ -608,6 +608,7 @@
         },
         "item_YWtWKB": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Engel_Startseite_d11503df-98a5-4ae0-aff0-944e93c110d3.jpg",
             "title": "Sanft zur Babyhaut",
@@ -618,6 +619,7 @@
         },
         "item_DL76rn": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Pfege.jpg",
             "title": "Natürlich gewickelt",
@@ -628,6 +630,7 @@
         },
         "item_TEeLyH": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/Pflege.jpg",
             "title": "Wohltuende Babypflege",

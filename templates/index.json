@@ -15,8 +15,8 @@
         "8fc6288d-372e-45df-a8da-4a794678a4f4": {
           "type": "item",
           "settings": {
-            "img1": "shopify://shop_images/Grapat_unten.jpg",
-            "img2": "shopify://shop_images/Grapat_Mitte.jpg",
+            "img1": "shopify://shop_images/Grapat_unten_39e2a8e3-6e9f-4e28-8b31-d8df48bbf48c.jpg",
+            "img2": "shopify://shop_images/Grapat_Mitte_27bc9c2a-1e48-48a6-aa24-60899deb8eb2.jpg",
             "img3": "shopify://shop_images/Grapat_oben.jpg",
             "title": "Advent voller kleiner Wunder",
             "text": "<p>Die Adventszeit steckt voller kleiner Wunder! Entdecke den wunderschönen Adventskalender von Grapat und viele weitere liebevoll gestaltete Holzschätze, die zum Spielen, Staunen und Entdecken einladen.</p>",
@@ -593,17 +593,6 @@
             "btn_name": "Babypflege entdecken"
           }
         },
-        "item_jf89B9": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Fridahild-Haarschmuck-Kinder-Haargummi-Haarschmuck-Stoff-1.webp",
-            "title": "Hübsche Mitbringsel",
-            "text": "<p>Es muss nicht immer etwas Grosses sein. Kleine, ausgewählte Mitbringsel machen genauso viel Freude! Wie wäre es mit wunderhübschen, handgemachten Spängeli? Einem hochwertigen Holzkreisel? Oder einem Kindertattoo?</p>",
-            "url": "shopify://collections/mitbringsel",
-            "btn_name": "Mitbringsel finden"
-          }
-        },
         "item_RDJDVL": {
           "type": "item",
           "disabled": true,
@@ -621,7 +610,7 @@
           "settings": {
             "img": "shopify://shop_images/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
             "title": "Geschenke, die von Herzen kommen",
-            "text": "<p>Wir glauben daran, dass Geschenke nicht nur schön sein sollten, sondern auch sinnvoll: Aus Naturmaterialien, langlebig, schadstofffrei, entwicklungsfördernd. Genau das macht unsere Auswahl aus. Lass dich von uns inspirieren. </p>",
+            "text": "<p>Wir glauben daran, dass Geschenke nicht nur schön sein sollten, sondern auch sinnvoll: Aus Naturmaterialien, langlebig, schadstofffrei, entwicklungsfördernd. Genau das macht unsere Auswahl aus. Lass dich von uns inspirieren.&nbsp;</p>",
             "url": "shopify://collections/weihnachtsgeschenke",
             "btn_name": "Geschenke entdecken"
           }
@@ -680,6 +669,17 @@
             "url": "shopify://collections/wichtelzauber",
             "btn_name": "Wichtel einladen"
           }
+        },
+        "item_jf89B9": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Winterthur-Babyladen-Gutschein-Fridahild-Haarschmuck-Kinder-Haargummi-Haarschmuck-Stoff-1.webp",
+            "title": "Hübsche Mitbringsel",
+            "text": "<p>Es muss nicht immer etwas Grosses sein. Kleine, ausgewählte Mitbringsel machen genauso viel Freude! Wie wäre es mit wunderhübschen, handgemachten Spängeli? Einem hochwertigen Holzkreisel? Oder einem Kindertattoo?</p>",
+            "url": "shopify://collections/mitbringsel",
+            "btn_name": "Mitbringsel finden"
+          }
         }
       },
       "block_order": [
@@ -689,14 +689,14 @@
         "item_YWtWKB",
         "item_DL76rn",
         "item_TEeLyH",
-        "item_jf89B9",
         "item_RDJDVL",
         "item_8PeDTn",
         "item_kfnk9a",
         "item_ENeina",
         "item_pdmF6i",
         "item_jXDWYz",
-        "item_dK9gcB"
+        "item_dK9gcB",
+        "item_jf89B9"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",

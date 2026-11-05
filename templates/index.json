@@ -416,10 +416,10 @@
           "type": "item",
           "settings": {
             "img": "shopify://shop_images/Collection-Kindermode-Muetzen.jpg",
-            "title": "Mützen",
+            "title": "Wollige Accesssoire",
             "text": "<p>Über den Kopf geht viel Wärme verloren. Eine Mütze ist bei kühlem Wetter daher sehr wichtig. Mützen aus Wolle halten die Temperatur angenehm warm. Neu eingetroffen sind auch die beliebten Schlupfmützen von ManyMonths.</p>",
-            "url": "shopify://collections/mutzen-stirnbander",
-            "btn_name": "Mützen & Stirnbänder"
+            "url": "shopify://collections/herbst-winter",
+            "btn_name": "Mützen, Schals und Co."
           }
         },
         "item_XRbJ6J": {

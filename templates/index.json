@@ -573,6 +573,16 @@
             "btn_name": "Adventsrituale"
           }
         },
+        "item_WcDFLV": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Karte.jpg",
+            "title": "Weihnachtspost mit Liebe",
+            "text": "<p>Ein handgeschriebener Weihnachtsgruss ist etwas ganz Besonderes. Entdecke unsere liebevoll illustrierten Karten und überrasche deine Lieblingsmenschen mit persönlichen Worten, die Freude schenken.</p>",
+            "url": "shopify://collections/advents-weihnachtskarten",
+            "btn_name": "Weihnachtskarten entdecken"
+          }
+        },
         "item_8PeDTn": {
           "type": "item",
           "settings": {
@@ -677,6 +687,7 @@
         "item_kfnk9a",
         "item_RDJDVL",
         "item_pdmF6i",
+        "item_WcDFLV",
         "item_8PeDTn",
         "item_jf89B9",
         "item_d3thnR",

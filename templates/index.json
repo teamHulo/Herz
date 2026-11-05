@@ -412,15 +412,14 @@
             "btn_name": "Jetzt entdecken"
           }
         },
-        "item_XRbJ6J": {
+        "item_DYBGiU": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "img": "shopify://shop_images/Stulpen_Pickapooh.webp",
-            "title": "Praktische Accessoires",
-            "text": "<p>Stulpen, Loops und leichte Mützen aus Wolle und Seide sind praktische Begleiter für wechselhafte Herbsttage. Sie wärmen sanft, schützen vor Wind und lassen sich bei Bedarf schnell an- und ausziehen. Dank ihrer temperaturausgleichenden Eigenschaften sorgen sie für ein angenehmes Körperklima unterwegs und im Alltag.</p>",
-            "url": "shopify://collections/wolle-seide-accessoires",
-            "btn_name": "Jetzt entdecken"
+            "img": "shopify://shop_images/Collection-Kindermode-Muetzen.jpg",
+            "title": "Wollige Accesssoire",
+            "text": "<p>Über den Kopf geht viel Wärme verloren. Deshalb sind Mützen aus Wolle bei kühlem Wetter besonders wichtig. Sie halten angenehm warm und sind gleichzeitig atmungsaktiv. Neu eingetroffen sind auch die beliebten Schlupfmützen von ManyMonths, die Kopf und Hals zuverlässig schützen.</p>",
+            "url": "shopify://collections/herbst-winter",
+            "btn_name": "Mützen, Schals und Co."
           }
         },
         "item_6XDWwm": {
@@ -433,16 +432,6 @@
             "btn_name": "Jetzt entdecken"
           }
         },
-        "item_DYBGiU": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Collection-Kindermode-Muetzen.jpg",
-            "title": "Wollige Accesssoire",
-            "text": "<p>Über den Kopf geht viel Wärme verloren. Deshalb sind Mützen aus Wolle bei kühlem Wetter besonders wichtig. Sie halten angenehm warm und sind gleichzeitig atmungsaktiv. Neu eingetroffen sind auch die beliebten Schlupfmützen von ManyMonths, die Kopf und Hals zuverlässig schützen.</p>",
-            "url": "shopify://collections/herbst-winter",
-            "btn_name": "Mützen, Schals und Co."
-          }
-        },
         "item_MLNJjD": {
           "type": "item",
           "disabled": true,
@@ -451,6 +440,17 @@
             "title": "Warm von Kopf bis Fuss",
             "text": "<p>Der kuschelige Wollfleece-Overall von Engel hält dein Baby wohlig warm, ohne zu überhitzen. Kapuze und umklappbare Arm- und Beinabschlüsse schützen zusätzlich vor kühler Luft. Ideal für den Kinderwagen, die Trage und kleine Ausflüge an frischen Herbsttagen.</p>",
             "url": "shopify://collections/engel-herbst-winter",
+            "btn_name": "Jetzt entdecken"
+          }
+        },
+        "item_XRbJ6J": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify://shop_images/Stulpen_Pickapooh.webp",
+            "title": "Praktische Accessoires",
+            "text": "<p>Stulpen, Loops und leichte Mützen aus Wolle und Seide sind praktische Begleiter für wechselhafte Herbsttage. Sie wärmen sanft, schützen vor Wind und lassen sich bei Bedarf schnell an- und ausziehen. Dank ihrer temperaturausgleichenden Eigenschaften sorgen sie für ein angenehmes Körperklima unterwegs und im Alltag.</p>",
+            "url": "shopify://collections/wolle-seide-accessoires",
             "btn_name": "Jetzt entdecken"
           }
         },
@@ -515,10 +515,10 @@
         "item_Kxm3Pt",
         "item_MDJQWT",
         "item_taMpWb",
-        "item_XRbJ6J",
-        "item_6XDWwm",
         "item_DYBGiU",
+        "item_6XDWwm",
         "item_MLNJjD",
+        "item_XRbJ6J",
         "item_VrDnVb",
         "item_RKNkGi",
         "item_qcaWnE",

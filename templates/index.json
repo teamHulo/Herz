@@ -392,6 +392,16 @@
             "btn_name": "Jetzt entdecken"
           }
         },
+        "item_MDJQWT": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Warme_Barfussschuhe.jpg",
+            "title": "Warme Barfuss-Schuhe",
+            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.</p>",
+            "url": "shopify://collections/warme-schuhe",
+            "btn_name": "Warme Barfuss-Schuhe"
+          }
+        },
         "item_taMpWb": {
           "type": "item",
           "settings": {
@@ -420,17 +430,6 @@
             "text": "<p>Der kuschelige Wollfleece-Overall von Engel hält dein Baby wohlig warm, ohne zu überhitzen. Kapuze und umklappbare Arm- und Beinabschlüsse schützen zusätzlich vor kühler Luft. Ideal für den Kinderwagen, die Trage und kleine Ausflüge an frischen Herbsttagen.</p>",
             "url": "shopify://collections/engel-herbst-winter",
             "btn_name": "Jetzt entdecken"
-          }
-        },
-        "item_MDJQWT": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/Warme_Barfussschuhe.jpg",
-            "title": "Warme Barfuss-Schuhe",
-            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.</p>",
-            "url": "shopify://collections/warme-schuhe",
-            "btn_name": "Warme Barfuss-Schuhe"
           }
         },
         "item_6XDWwm": {
@@ -510,10 +509,10 @@
       "block_order": [
         "item_z66qYR",
         "item_Kxm3Pt",
+        "item_MDJQWT",
         "item_taMpWb",
         "item_XRbJ6J",
         "item_MLNJjD",
-        "item_MDJQWT",
         "item_6XDWwm",
         "item_RKNkGi",
         "item_qcaWnE",

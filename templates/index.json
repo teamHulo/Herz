@@ -12,18 +12,6 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
-        "8fc6288d-372e-45df-a8da-4a794678a4f4": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Grapat_unten_39e2a8e3-6e9f-4e28-8b31-d8df48bbf48c.jpg",
-            "img2": "shopify://shop_images/Grapat_Mitte_27bc9c2a-1e48-48a6-aa24-60899deb8eb2.jpg",
-            "img3": "shopify://shop_images/Grapat_oben.jpg",
-            "title": "Advent voller kleiner Wunder",
-            "text": "<p>Die Adventszeit steckt voller kleiner Wunder! Entdecke den wunderschönen Adventskalender von Grapat und viele weitere liebevoll gestaltete Holzschätze, die zum Spielen, Staunen und Entdecken einladen.</p>",
-            "url": "https://herzanherz-shop.ch/collections/vendors?q=Grapat",
-            "btn_name": "Grapat entdecken"
-          }
-        },
         "item_4Rxt8b": {
           "type": "item",
           "settings": {
@@ -34,6 +22,18 @@
             "text": "<p>Die Merinokleidung von ManyMonths begleitet dein Kind über viele Monate. Dank durchdachter Schnitte und umschlagbaren Bündchen wachsen viele Kleidungsstücke einfach mit. Die weiche Wolle ist atmungsaktiv und temperaturausgleichend. Ob bequeme Hosen, kuschelige Mützen oder wärmende Accessoires: ManyMonths vereint natürliche Materialien, Komfort und langlebige Qualität.</p>",
             "url": "shopify://collections/manymonths-herbst-winter",
             "btn_name": "Jetzt entdecken"
+          }
+        },
+        "8fc6288d-372e-45df-a8da-4a794678a4f4": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/Grapat_unten_39e2a8e3-6e9f-4e28-8b31-d8df48bbf48c.jpg",
+            "img2": "shopify://shop_images/Grapat_Mitte_27bc9c2a-1e48-48a6-aa24-60899deb8eb2.jpg",
+            "img3": "shopify://shop_images/Grapat_oben.jpg",
+            "title": "Advent voller kleiner Wunder",
+            "text": "<p>Die Adventszeit steckt voller kleiner Wunder! Entdecke den wunderschönen Adventskalender von Grapat und viele weitere liebevoll gestaltete Holzschätze, die zum Spielen, Staunen und Entdecken einladen.</p>",
+            "url": "https://herzanherz-shop.ch/collections/vendors?q=Grapat",
+            "btn_name": "Grapat entdecken"
           }
         },
         "item_BTFeaX": {
@@ -352,8 +352,8 @@
         }
       },
       "block_order": [
-        "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "item_4Rxt8b",
+        "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "item_BTFeaX",
         "item_QbwG84",
         "item_JpLrNn",

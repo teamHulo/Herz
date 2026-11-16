@@ -50,6 +50,7 @@
         },
         "8fc6288d-372e-45df-a8da-4a794678a4f4": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify://shop_images/Grapat_unten_39e2a8e3-6e9f-4e28-8b31-d8df48bbf48c.jpg",
             "img2": "shopify://shop_images/Grapat_Mitte_27bc9c2a-1e48-48a6-aa24-60899deb8eb2.jpg",

@@ -50,15 +50,14 @@
         },
         "8fc6288d-372e-45df-a8da-4a794678a4f4": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "img1": "shopify://shop_images/Grapat_unten_39e2a8e3-6e9f-4e28-8b31-d8df48bbf48c.jpg",
-            "img2": "shopify://shop_images/Grapat_Mitte_27bc9c2a-1e48-48a6-aa24-60899deb8eb2.jpg",
-            "img3": "shopify://shop_images/Grapat_oben.jpg",
-            "title": "Advent voller kleiner Wunder",
-            "text": "<p>Die Adventszeit steckt voller kleiner Wunder! Entdecke den wunderschönen Adventskalender von Grapat und viele weitere liebevoll gestaltete Holzschätze, die zum Spielen, Staunen und Entdecken einladen.</p>",
-            "url": "https://herzanherz-shop.ch/collections/vendors?q=Grapat",
-            "btn_name": "Grapat entdecken"
+            "img1": "shopify://shop_images/oben_8c4ab16a-4d7e-4d30-8a0b-d56fc4448464.jpg",
+            "img2": "shopify://shop_images/Mitte_7214608a-9508-4432-8bbe-7c935089c9a3.jpg",
+            "img3": "shopify://shop_images/Unten_452c2feb-d30d-4829-ba10-ae065d04c64f.jpg",
+            "title": "Jeden Tag ein kleines Licht",
+            "text": "<p>Mit der Festtagsspirale von Grimms wird das Warten auf Weihnachten zu einem besonderen Familienritual. Jeden Tag wandert eine Kerze ein Stück weiter und die Spirale lässt sich mit liebevollen Steckfiguren und kleinen Naturschätzen schmücken. So wird die Vorfreude auf Weihnachten sichtbar und erlebbar. Und auch nach dem Advent begleitet euch die Spirale durch weitere Familienfeste.</p>",
+            "url": "shopify://collections/advent-weihnachten",
+            "btn_name": "Festtagsspirale entdecken"
           }
         },
         "item_JpLrNn": {

@@ -12,6 +12,18 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "8fc6288d-372e-45df-a8da-4a794678a4f4": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify://shop_images/oben_28302c0c-57f6-4c6f-a7cb-30fe7e7a7869.jpg",
+            "img2": "shopify://shop_images/Mitte_7214608a-9508-4432-8bbe-7c935089c9a3.jpg",
+            "img3": "shopify://shop_images/Unten_452c2feb-d30d-4829-ba10-ae065d04c64f.jpg",
+            "title": "Jeden Tag ein kleines Licht",
+            "text": "<p>Mit der Festtagsspirale von Grimms wird das Warten auf Weihnachten zu einem liebevollen Familienritual. Jeden Tag wandert eine Kerze ein Stück weiter und die Spirale lässt sich mit passenden Steckfiguren und kleinen Naturschätzen schmücken. So wird die Adventszeit für Kinder sichtbar und erlebbar. Und auch nach Weihnachten begleitet euch die Spirale durch viele weitere Familienfeste.</p>",
+            "url": "shopify://collections/festtagsring-zubehor",
+            "btn_name": "Festtagsspirale entdecken"
+          }
+        },
         "item_4Rxt8b": {
           "type": "item",
           "settings": {
@@ -46,18 +58,6 @@
             "text": "<p>Mit den Umstands- & Tragejacken von Fun2beMum geniesst ihr gemeinsame Ausflüge und die Nähe zueinander. Entdecke unterschiedliche Modelle und Farben für Mamas und Papas. Alle Tragejacken eignen sich sowohl fürs Tragen vorne als auch fürs Rückentragen. So bleibt dein Kind nah bei dir, während ihr zusammen die Welt entdeckt.</p>",
             "url": "shopify://collections/umstands-tragejacken",
             "btn_name": "Fun2beMum entdecken"
-          }
-        },
-        "8fc6288d-372e-45df-a8da-4a794678a4f4": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/oben_28302c0c-57f6-4c6f-a7cb-30fe7e7a7869.jpg",
-            "img2": "shopify://shop_images/Mitte_7214608a-9508-4432-8bbe-7c935089c9a3.jpg",
-            "img3": "shopify://shop_images/Unten_452c2feb-d30d-4829-ba10-ae065d04c64f.jpg",
-            "title": "Jeden Tag ein kleines Licht",
-            "text": "<p>Mit der Festtagsspirale von Grimms wird das Warten auf Weihnachten zu einem liebevollen Familienritual. Jeden Tag wandert eine Kerze ein Stück weiter und die Spirale lässt sich mit passenden Steckfiguren und kleinen Naturschätzen schmücken. So wird die Adventszeit für Kinder sichtbar und erlebbar. Und auch nach Weihnachten begleitet euch die Spirale durch viele weitere Familienfeste.</p>",
-            "url": "shopify://collections/advent-weihnachten",
-            "btn_name": "Festtagsspirale entdecken"
           }
         },
         "item_JpLrNn": {
@@ -352,10 +352,10 @@
         }
       },
       "block_order": [
+        "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "item_4Rxt8b",
         "item_BTFeaX",
         "item_QbwG84",
-        "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "item_JpLrNn",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
         "item_WxFtCe",

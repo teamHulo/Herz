@@ -84,18 +84,6 @@
             "btn_name": "Jetzt entdecken"
           }
         },
-        "item_WxFtCe": {
-          "type": "item",
-          "settings": {
-            "img1": "shopify://shop_images/Bild_rechts_Partnerschaft.jpg",
-            "img2": "shopify://shop_images/Bild_Mitte_Partnerschaft.jpg",
-            "img3": "shopify://shop_images/Bild_links_Partnerschaft.jpg",
-            "title": "Für mehr Zweisamkeit",
-            "text": "<p>Zwischen Wickeln, Spielen und Wäschebergen bleibt die Zeit zu zweit manchmal auf der Strecke. Der beliebte Adventskalender und die Kartensets von Paarzeit laden euch zum Reden, Lachen und gemeinsamen Entdecken ein. Dazu findest du bei uns weitere liebevolle Ideen für mehr Nähe und vertraute Momente im Familienalltag.</p>",
-            "url": "shopify://collections/partnerschaft",
-            "btn_name": "Zeit zu zweit entdecken"
-          }
-        },
         "item_PYBx6f": {
           "type": "item",
           "settings": {
@@ -167,6 +155,19 @@
             "text": "<p>Bei uns findest du alles, was dein Kind in den verschiedenen Phasen des Aufwachsens stärkt und begleitet. Von sorgfältig ausgewählten Produkten für Schlaf, Tragen, Essen und Spielen bis hin zu Wissen, <a href=\"https://www.herzanherz.ch/kurse/\" target=\"_blank\" title=\"https://www.herzanherz.ch/kurse/\">Kursen</a> und persönlicher <a href=\"https://www.herzanherz.ch/beratungen/\" target=\"_blank\" title=\"https://www.herzanherz.ch/beratungen/\">Beratung</a> : Wir denken Wohlbefinden ganzheitlich. Uns ist wichtig, dass Kinder sich sicher, gesehen und geborgen fühlen dürfen und dass Eltern im Alltag Unterstützung finden, die stärkt statt verunsichert.&nbsp;</p>",
             "url": "https://herzanherz-shop.ch/collections/babyzeit",
             "btn_name": "Alles für die Babyzeit"
+          }
+        },
+        "item_WxFtCe": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify://shop_images/Bild_rechts_Partnerschaft.jpg",
+            "img2": "shopify://shop_images/Bild_Mitte_Partnerschaft.jpg",
+            "img3": "shopify://shop_images/Bild_links_Partnerschaft.jpg",
+            "title": "Für mehr Zweisamkeit",
+            "text": "<p>Zwischen Wickeln, Spielen und Wäschebergen bleibt die Zeit zu zweit manchmal auf der Strecke. Der beliebte Adventskalender und die Kartensets von Paarzeit laden euch zum Reden, Lachen und gemeinsamen Entdecken ein. Dazu findest du bei uns weitere liebevolle Ideen für mehr Nähe und vertraute Momente im Familienalltag.</p>",
+            "url": "shopify://collections/partnerschaft",
+            "btn_name": "Zeit zu zweit entdecken"
           }
         },
         "item_CVq4Tq": {
@@ -358,13 +359,13 @@
         "item_QbwG84",
         "item_JpLrNn",
         "beb1387a-20df-4238-a01b-69c08fe7ba72",
-        "item_WxFtCe",
         "item_PYBx6f",
         "item_3DwhYH",
         "item_kjyRwm",
         "item_iFhkhf",
         "24910c9d-15a9-4196-9b65-cc074f34c723",
         "item_wkJFCy",
+        "item_WxFtCe",
         "item_CVq4Tq",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
         "item_Jc9eFD",

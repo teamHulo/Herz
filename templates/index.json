@@ -547,6 +547,16 @@
     "section_our_hW8Uw7": {
       "type": "section-our",
       "blocks": {
+        "item_pdmF6i": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Rituale.jpg",
+            "title": "Rituale im Advent",
+            "text": "<p>Ein Licht anzünden, zusammen staunen und die Tage bis Weihnachten bewusst erleben: Kleine Rituale schenken Kindern Orientierung und Geborgenheit. Entdecke unsere Ideen für die Adventszeit.</p>",
+            "url": "shopify://pages/themenseite",
+            "btn_name": "Adventsrituale"
+          }
+        },
         "item_8PeDTn": {
           "type": "item",
           "settings": {
@@ -565,16 +575,6 @@
             "text": "<p>Aus einfachen Holzfiguren entstehen ganze Welten. Sie lassen sich sortieren, stapeln und immer wieder neu kombinieren. So wird freies Spielen zu einer Reise voller Fantasie und Entdeckungen.</p>",
             "url": "shopify://collections/freies-spiel",
             "btn_name": "Alles fürs freie Spiel"
-          }
-        },
-        "item_pdmF6i": {
-          "type": "item",
-          "settings": {
-            "img": "shopify://shop_images/Rituale.jpg",
-            "title": "Rituale im Advent",
-            "text": "<p>Ein Licht anzünden, zusammen staunen und die Tage bis Weihnachten bewusst erleben: Kleine Rituale schenken Kindern Orientierung und Geborgenheit. Entdecke unsere Ideen für die Adventszeit.</p>",
-            "url": "shopify://pages/themenseite",
-            "btn_name": "Adventsrituale"
           }
         },
         "item_WcDFLV": {
@@ -698,9 +698,9 @@
         }
       },
       "block_order": [
+        "item_pdmF6i",
         "item_8PeDTn",
         "item_RDJDVL",
-        "item_pdmF6i",
         "item_WcDFLV",
         "item_jXDWYz",
         "item_ENeina",

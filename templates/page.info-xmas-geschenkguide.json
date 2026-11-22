@@ -146,7 +146,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
@@ -195,16 +195,6 @@
     "bba3a540-3843-43f1-9ae9-98143fcb7045": {
       "type": "multicolumn",
       "blocks": {
-        "column_yQPpy6": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Grapat.jpg",
-            "title": "Weltenbau mit Grapat",
-            "text": "<p>Eine “Handvoll” Magie schenkt euch die wundervolle Marke Grapat. Diese bunten und vielfältigen Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie.</p><p>Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.&nbsp;</p>",
-            "link_label": "Zu Grapat",
-            "link": "https://herzanherz-shop.ch/collections/all?gf_463293=Grapat"
-          }
-        },
         "4aea8ba4-937d-41f4-9e40-372ec7434fad": {
           "type": "column",
           "disabled": true,
@@ -229,7 +219,6 @@
         }
       },
       "block_order": [
-        "column_yQPpy6",
         "4aea8ba4-937d-41f4-9e40-372ec7434fad",
         "88aa3b98-c224-4b7c-9456-2eb5548dc0f1"
       ],
@@ -416,6 +405,16 @@
     "5bc36a9a-9ad0-4afb-9b4b-5c5656584986": {
       "type": "multicolumn",
       "blocks": {
+        "column_E8XkkN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Grapat.jpg",
+            "title": "Weltenbau mit Grapat",
+            "text": "<p>Eine “Handvoll” Magie schenkt euch die wundervolle Marke Grapat. Diese bunten und vielfältigen Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie.</p><p>Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.&nbsp;</p>",
+            "link_label": "Zu Grapat",
+            "link": "https://herzanherz-shop.ch/collections/all?gf_463293=Grapat"
+          }
+        },
         "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-1": {
           "type": "column",
           "settings": {
@@ -448,6 +447,7 @@
         },
         "40fd1100-8b0e-462f-b178-330cd5080e6f": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Malen.jpg",
             "title": "",
@@ -458,6 +458,7 @@
         }
       },
       "block_order": [
+        "column_E8XkkN",
         "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-1",
         "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-2",
         "template--21495327916347__5bc36a9a-9ad0-4afb-9b4b-5c5656584986-column-3",

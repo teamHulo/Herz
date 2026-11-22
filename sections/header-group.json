@@ -139,6 +139,15 @@
             "url": "shopify://collections/mensunterwasche"
           }
         },
+        "image_JaBDqg": {
+          "type": "image",
+          "settings": {
+            "menu_handle": "Familienalltag",
+            "new_tab": true,
+            "img": "shopify://shop_images/Megamenu-Lernturm.jpg",
+            "url": "shopify://collections/learning-tower"
+          }
+        },
         "image_Fajgcw": {
           "type": "image",
           "settings": {
@@ -204,15 +213,6 @@
             "url": "shopify://collections/feste-rituale"
           }
         },
-        "image_JaBDqg": {
-          "type": "image",
-          "settings": {
-            "menu_handle": "Familienalltag",
-            "new_tab": true,
-            "img": "shopify://shop_images/Megamenu-Lernturm.jpg",
-            "url": "shopify://collections/learning-tower"
-          }
-        },
         "image_zDcERJ": {
           "type": "image",
           "settings": {
@@ -236,6 +236,7 @@
         "image_DWX8nW",
         "image_YEdWz7",
         "image_V4yF97",
+        "image_JaBDqg",
         "image_Fajgcw",
         "image_dzPfPt",
         "image_KKjjhF",
@@ -243,7 +244,6 @@
         "image_VpEWKh",
         "image_zNM6qx",
         "image_me6bbX",
-        "image_JaBDqg",
         "image_zDcERJ",
         "mobile_menu_x8LVG3"
       ],

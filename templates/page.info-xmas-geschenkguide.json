@@ -233,6 +233,7 @@
         "4aea8ba4-937d-41f4-9e40-372ec7434fad",
         "88aa3b98-c224-4b7c-9456-2eb5548dc0f1"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",

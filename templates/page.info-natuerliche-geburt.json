@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -13,7 +22,7 @@
       "settings": {
         "padding_top": 60,
         "padding_bottom": 60,
-        "logo": "shopify:\/\/shop_images\/Group.png",
+        "logo": "shopify://shop_images/Group.png",
         "title": "Natürlich, sanft & selbstbestimmt gebären",
         "text": "",
         "max_width": 1050
@@ -25,7 +34,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h4>Überlasse dein Geburtserlebnis nicht dem Zufall.<\/h4><p>Es ist nicht egal, wie wir geboren werden, und es ist auch nicht egal, wie wir gebären! Eine gute Vorbereitung ist der Schlüssel zur natürlichen Geburt. Das moderne Leben legt uns einige Stolpersteine in den Weg. Räume sie aus dem Weg und kümmere dich um die 6 Zutaten, die es für eine natürliche Geburt braucht. So erhöht sich die Chance auf eine sanfte, natürliche und selbstbestimmte Geburt massiv.<\/p>",
+            "text": "<h4>Überlasse dein Geburtserlebnis nicht dem Zufall.</h4><p>Es ist nicht egal, wie wir geboren werden, und es ist auch nicht egal, wie wir gebären! Eine gute Vorbereitung ist der Schlüssel zur natürlichen Geburt. Das moderne Leben legt uns einige Stolpersteine in den Weg. Räume sie aus dem Weg und kümmere dich um die 6 Zutaten, die es für eine natürliche Geburt braucht. So erhöht sich die Chance auf eine sanfte, natürliche und selbstbestimmte Geburt massiv.</p>",
             "text_style": "body"
           }
         }
@@ -34,7 +43,7 @@
         "template--21490210636091__01bd0c23-c272-4bfe-9a96-88558e4ef1f1-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-SS-Geburt.jpg",
+        "image": "shopify://shop_images/Infobild-SS-Geburt.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -54,7 +63,7 @@
         "16dc5c7d-ef9f-451a-a8e2-f69d19bff972": {
           "type": "text",
           "settings": {
-            "text": "<h2>Ein Wunder der Natur<\/h2><p>Eine Geburt, wie die Natur sie vorgesehen hat, ist sanft und schön. Ein Wunder! Die Natur hat alles wunderbar eingerichtet. Deine Gebärmutter ist ein fabelhaftes Organ und dein Körper ist zum Gebären gemacht. Und doch will es  häufig nicht so recht klappen... Im Gegenteil: Geburt scheint heute ein risikoreiches Unterfangen zu sein. Ängste, Schmerzen und Komplikationen prägen unser Bild von Geburt.<\/p><p>Umso wichtiger ist eine gute Geburtsvorbereitung. Bereite dich optimal auf dieses Ereignis vor,<br\/>um deinem Baby den besten und einfachsten Start ins Leben zu ermöglichen. Und auch du selber verdienst ein Geburtserlebnis, das genau so ist, wie von der Natur vorgesehen: Du erlebst dich in deiner fantastischen Weiblichkeit. Du schenkst deinem Kind das Leben. Voller Mut, Freude, Zuversicht und purer Kraft.<\/p><p>Welche 6 Zutaten es für eine solche Geburt braucht, erfährst du unten.<\/p>"
+            "text": "<h2>Ein Wunder der Natur</h2><p>Eine Geburt, wie die Natur sie vorgesehen hat, ist sanft und schön. Ein Wunder! Die Natur hat alles wunderbar eingerichtet. Deine Gebärmutter ist ein fabelhaftes Organ und dein Körper ist zum Gebären gemacht. Und doch will es  häufig nicht so recht klappen... Im Gegenteil: Geburt scheint heute ein risikoreiches Unterfangen zu sein. Ängste, Schmerzen und Komplikationen prägen unser Bild von Geburt.</p><p>Umso wichtiger ist eine gute Geburtsvorbereitung. Bereite dich optimal auf dieses Ereignis vor,<br/>um deinem Baby den besten und einfachsten Start ins Leben zu ermöglichen. Und auch du selber verdienst ein Geburtserlebnis, das genau so ist, wie von der Natur vorgesehen: Du erlebst dich in deiner fantastischen Weiblichkeit. Du schenkst deinem Kind das Leben. Voller Mut, Freude, Zuversicht und purer Kraft.</p><p>Welche 6 Zutaten es für eine solche Geburt braucht, erfährst du unten.</p>"
           }
         }
       },
@@ -70,51 +79,13 @@
         "padding_bottom": 52
       }
     },
-    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>20 Strategien für eine schmerzarme Geburt<\/h3><p>In diesem kostenlosen Guide erfährst du, wie Schmerzen bei der Geburt entstehen und wie sie beeinflusst werden können. Und du bekommst 20 ganz praktische Strategien, um die Schmerzen zu reduzieren und gut mit ihnen umzugehen. So dass du eine wunderschöne Geburt erleben darfst.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Broschüre herunterladen",
-            "button_link": "https:\/\/herzanherz-academy.ch\/vsl-landingpage-natuerliche-geburt\/guide-geburt-schmerzen\/",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-text-1",
-        "template--21490210636091__7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/E-Book_Schmerzen_Buch.png",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "rich_text_UjMYrL": {
       "type": "rich-text",
       "blocks": {
         "text_yBar8n": {
           "type": "text",
           "settings": {
-            "text": "<h1>6 Zutaten für eine natürliche Geburt<\/h1><h3>1 - Eine komplikationslose Schwangerschaft<\/h3><p>Je natürlicher deine Schwangerschaft abläuft, desto wahrscheinlicher ist eine natürliche Geburt. Komplikationen in der Schwangerschaft deuten meistens darauf hin, dass etwas im Körper aus dem Gleichgewicht geraten ist. Dann ist auch bei der Geburt besondere Vorsicht geboten, vielleicht besteht eine Gefahr für dich oder dein Kind, du machst dir Sorgen, bist verunsichert, was das alles genau bedeutet, brauchst engere medizinische Überwachung, hörst viele vielleicht gegenteilige Meinungen und gerätst automatisch in die medizinische Maschinerie, in der eine natürliche Geburt nicht so einfach umsetzbar ist. Daher lohnt es sich, für eine reibungslose Schwangerschaft zu sorgen.<\/p><p>Der allerwichtigste Faktor - und Ursache von vielen Komplikationen in der Schwangerschaft - ist unsere Ernährung. Schau dir deine eigene Ernährung genau an und setze dich damit auseinander, wo du für dich etwas optimieren kannst. Zusätzlich kannst du dir mit Bewegung oder leichtem Sport etwas Gutes tun und positiv auf deine Schwangerschaft einwirken.<\/p><p>Und nicht zuletzt sind genügend Schlaf, Entspannung, Erholung und Ruhe wichtig. Dein Körper leistet während der Schwangerschaft Erstaunliches. Er lässt ein Baby entstehen und das kostet Energie. Gönne dir Pausen, wenn du sie brauchst.<\/p>"
+            "text": "<h1>6 Zutaten für eine natürliche Geburt</h1><h3>1 - Eine komplikationslose Schwangerschaft</h3><p>Je natürlicher deine Schwangerschaft abläuft, desto wahrscheinlicher ist eine natürliche Geburt. Komplikationen in der Schwangerschaft deuten meistens darauf hin, dass etwas im Körper aus dem Gleichgewicht geraten ist. Dann ist auch bei der Geburt besondere Vorsicht geboten, vielleicht besteht eine Gefahr für dich oder dein Kind, du machst dir Sorgen, bist verunsichert, was das alles genau bedeutet, brauchst engere medizinische Überwachung, hörst viele vielleicht gegenteilige Meinungen und gerätst automatisch in die medizinische Maschinerie, in der eine natürliche Geburt nicht so einfach umsetzbar ist. Daher lohnt es sich, für eine reibungslose Schwangerschaft zu sorgen.</p><p>Der allerwichtigste Faktor - und Ursache von vielen Komplikationen in der Schwangerschaft - ist unsere Ernährung. Schau dir deine eigene Ernährung genau an und setze dich damit auseinander, wo du für dich etwas optimieren kannst. Zusätzlich kannst du dir mit Bewegung oder leichtem Sport etwas Gutes tun und positiv auf deine Schwangerschaft einwirken.</p><p>Und nicht zuletzt sind genügend Schlaf, Entspannung, Erholung und Ruhe wichtig. Dein Körper leistet während der Schwangerschaft Erstaunliches. Er lässt ein Baby entstehen und das kostet Energie. Gönne dir Pausen, wenn du sie brauchst.</p>"
           }
         }
       },
@@ -136,13 +107,13 @@
         "image_JXgNzj": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-herzbauch.jpg"
+            "img": "shopify://shop_images/Infobild-SS-Geburt-herzbauch.jpg"
           }
         },
         "image_qRR3Wy": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-paar.jpg"
+            "img": "shopify://shop_images/Infobild-SS-Geburt-paar.jpg"
           }
         }
       },
@@ -162,7 +133,7 @@
         "text_FJKfYC": {
           "type": "text",
           "settings": {
-            "text": "<h3>2 - Die richtige mentale Einstellung<\/h3><p>Unsere Gedanken und Gefühle haben einen enormen Einfluss auf unser Erleben und sogar direkt auf unseren Körper und unser Wohlbefinden. Eine positive, vertrauensvolle, optimistische Herangehensweise und hohe Erwartungen an die Geburt erhöhen nachweislich die Chancen auf eine gute Geburt.<\/p><p>Lass dich also voll und ganz auf deinen Plan einer natürlichen Geburt ein und formuliere deine positiven Erwartungen so klar wie möglich. Je klarer, desto positiver wirst du deine Geburt erleben. Du musst keine Angst haben, dass hohe Erwartungen zu mehr Enttäuschung führen, wenn es anders kommt als geplant; Studien belegen, dass geringere Erwartungen an eine Geburt die Frauen eher unzufrieden sein liessen. Wichtig ist nur, dass du dich nicht auf ein bestimmtes, einzig richtiges Geburtserlebnis versteifst.<\/p><p>Bereite dich intensiv vor, sei zuversichtlich und lasse dann innerlich wieder los, um die Geburt anzunehmen, wie auch immer sie sein wird.<\/p><p>Nebst einer positiven Einstellung ist es wichtig, dass du dich mit noch vorhandenen Ängsten auseinandersetzt. Vielleicht hast du schon viel Schlimmes über die Geburten von anderen Frauen gehört, oder selber eine unschöne oder traumatische Geburt erlebt. Verdrängte Ängste können im blödsten Moment zutage treten und die Geburt durcheinander bringen. Stelle dich daher allen ungelösten Themen rechtzeitig und ersetze negative Glaubenssätze mit positiven.<\/p>"
+            "text": "<h3>2 - Die richtige mentale Einstellung</h3><p>Unsere Gedanken und Gefühle haben einen enormen Einfluss auf unser Erleben und sogar direkt auf unseren Körper und unser Wohlbefinden. Eine positive, vertrauensvolle, optimistische Herangehensweise und hohe Erwartungen an die Geburt erhöhen nachweislich die Chancen auf eine gute Geburt.</p><p>Lass dich also voll und ganz auf deinen Plan einer natürlichen Geburt ein und formuliere deine positiven Erwartungen so klar wie möglich. Je klarer, desto positiver wirst du deine Geburt erleben. Du musst keine Angst haben, dass hohe Erwartungen zu mehr Enttäuschung führen, wenn es anders kommt als geplant; Studien belegen, dass geringere Erwartungen an eine Geburt die Frauen eher unzufrieden sein liessen. Wichtig ist nur, dass du dich nicht auf ein bestimmtes, einzig richtiges Geburtserlebnis versteifst.</p><p>Bereite dich intensiv vor, sei zuversichtlich und lasse dann innerlich wieder los, um die Geburt anzunehmen, wie auch immer sie sein wird.</p><p>Nebst einer positiven Einstellung ist es wichtig, dass du dich mit noch vorhandenen Ängsten auseinandersetzt. Vielleicht hast du schon viel Schlimmes über die Geburten von anderen Frauen gehört, oder selber eine unschöne oder traumatische Geburt erlebt. Verdrängte Ängste können im blödsten Moment zutage treten und die Geburt durcheinander bringen. Stelle dich daher allen ungelösten Themen rechtzeitig und ersetze negative Glaubenssätze mit positiven.</p>"
           }
         }
       },
@@ -184,13 +155,13 @@
         "image_rk4YDz": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-affirmation.jpg"
+            "img": "shopify://shop_images/Infobild-SS-Geburt-affirmation.jpg"
           }
         },
         "image_ix6pnz": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-meditation.jpg"
+            "img": "shopify://shop_images/Infobild-SS-Geburt-meditation.jpg"
           }
         }
       },
@@ -210,7 +181,7 @@
         "template--21490210636091__6b097b85-0abe-47cb-8728-a6b07bd3d882-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h3>3 - Ein gut vorbereiteter Körper<\/h3><p>Unser Körper ist ein einzigartiges Wunderwerk. In der Schwangerschaft noch viel mehr als sonst. Eine natürliche Geburt bedeutet unter anderem, dass wir im Einklang mit unserem Körper sind; uns intuitiv bewegen und Signale instinktiv wahrnehmen. Dazu musst du vielleicht wieder ganz neu lernen, auf deinen Körper zu hören. Dich wieder mehr spüren, etwas Abstand nehmen vom Trubel des Alltags und in der Stille in dich hineinhorchen. Wenn du deinen Körper gut achtest und pflegst, stärkst du stetig den Zugang zu deiner weiblichen Intuition.<\/p><p>Gerade weil wir heute einen chronischen Bewegungsmangel haben, helfen Sport und ausreichend Bewegung unserem Körper, für die Geburt fit zu werden. Unsere Körperhaltung lässt ebenfalls häufig zu wünschen übrig. Dies ist ein zentraler Aspekt in der Geburtsvorbereitung, der oft vernachlässigt wird. Es kann den entscheidenen Unterschied bei der Geburt ausmachen, ob wir in den Wochen vor der Geburt ständig in einer ungünstigen Position auf dem Sofa lümmeln und krumm vor dem PC sitzen, oder ob wir uns auch im Alltag ganz bewusst darauf achten, welche Haltungen unserem Becken gut tun und dem Baby in eine ideale Geburtsposition verhelfen.<\/p>"
+            "text": "<h3>3 - Ein gut vorbereiteter Körper</h3><p>Unser Körper ist ein einzigartiges Wunderwerk. In der Schwangerschaft noch viel mehr als sonst. Eine natürliche Geburt bedeutet unter anderem, dass wir im Einklang mit unserem Körper sind; uns intuitiv bewegen und Signale instinktiv wahrnehmen. Dazu musst du vielleicht wieder ganz neu lernen, auf deinen Körper zu hören. Dich wieder mehr spüren, etwas Abstand nehmen vom Trubel des Alltags und in der Stille in dich hineinhorchen. Wenn du deinen Körper gut achtest und pflegst, stärkst du stetig den Zugang zu deiner weiblichen Intuition.</p><p>Gerade weil wir heute einen chronischen Bewegungsmangel haben, helfen Sport und ausreichend Bewegung unserem Körper, für die Geburt fit zu werden. Unsere Körperhaltung lässt ebenfalls häufig zu wünschen übrig. Dies ist ein zentraler Aspekt in der Geburtsvorbereitung, der oft vernachlässigt wird. Es kann den entscheidenen Unterschied bei der Geburt ausmachen, ob wir in den Wochen vor der Geburt ständig in einer ungünstigen Position auf dem Sofa lümmeln und krumm vor dem PC sitzen, oder ob wir uns auch im Alltag ganz bewusst darauf achten, welche Haltungen unserem Becken gut tun und dem Baby in eine ideale Geburtsposition verhelfen.</p>"
           }
         }
       },
@@ -232,13 +203,13 @@
         "image_EpieeW": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-gymball.jpg"
+            "img": "shopify://shop_images/Infobild-SS-Geburt-gymball.jpg"
           }
         },
         "image_Ap8ekp": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-yoga.jpg"
+            "img": "shopify://shop_images/Infobild-SS-Geburt-yoga.jpg"
           }
         }
       },
@@ -258,7 +229,7 @@
         "text_dUigJq": {
           "type": "text",
           "settings": {
-            "text": "<h3>4 - Ein idealer Geburtsort<\/h3><p>Welchen Ort du für die Geburt auswählst, ist von enormer Bedeutung für das Geburtserlebnis. Damit die Geburt gut voranschreitet sind nämlich zwei Bedingungen zentral:<\/p><p>Damit sich im ersten Teil der Geburt der Muttermund gut öffnen kann, musst du geistig und körperlich entspannt sein. Dafür brauchst du Ruhe, volle Konzentration, ein Gefühl von Sicherheit und deine Intimsphäre muss gewahrt werden. Damit im zweiten Teil der Geburt das Kind seinen Weg durchs Becken nach draussen gut meistern kann, benötigst du maximale Bewegungsfreiheit.<\/p><p>Heute finden die allermeisten Geburten in einem Krankenhaus statt. Auch dort kannst du dir so gut es eben geht die beiden genannten Rahmenbedingungen für eine natürliche Geburt schaffen.<\/p><p>Du musst allerdings bedenken, dass im Krankenhaus gewisse klinikinterne Regeln gelten, von Ärzten vorgegebene Standards eingehalten werden und viele Routinen die Handlungen der Geburtshelfer bestimmen.<\/p><p>Je weniger Umstände von externen Faktoren beeinflusst werden, desto einfacher ist es, eine natürliche Geburt zu erleben. Deswegen entscheiden sich viele Frauen mit dem Wunsch nach einer natürlichen Geburt für ein Geburtshaus oder eine Hausgeburt. Dort sind sie viel freier in der Gestaltung ihrer Wünsche und die begleitenden Hebammen sind mit den Prinzipien einer natürlichen Geburt oft vertrauter als das Krankenhauspersonal.<\/p><p>Entscheidest du dich für die Geburt in der Klinik, lohnt es sich vorab herauszufinden, in welcher Klinik deine Wünsche am besten umgesetzt werden können und wo du dich am wohlsten fühlst.<\/p>"
+            "text": "<h3>4 - Ein idealer Geburtsort</h3><p>Welchen Ort du für die Geburt auswählst, ist von enormer Bedeutung für das Geburtserlebnis. Damit die Geburt gut voranschreitet sind nämlich zwei Bedingungen zentral:</p><p>Damit sich im ersten Teil der Geburt der Muttermund gut öffnen kann, musst du geistig und körperlich entspannt sein. Dafür brauchst du Ruhe, volle Konzentration, ein Gefühl von Sicherheit und deine Intimsphäre muss gewahrt werden. Damit im zweiten Teil der Geburt das Kind seinen Weg durchs Becken nach draussen gut meistern kann, benötigst du maximale Bewegungsfreiheit.</p><p>Heute finden die allermeisten Geburten in einem Krankenhaus statt. Auch dort kannst du dir so gut es eben geht die beiden genannten Rahmenbedingungen für eine natürliche Geburt schaffen.</p><p>Du musst allerdings bedenken, dass im Krankenhaus gewisse klinikinterne Regeln gelten, von Ärzten vorgegebene Standards eingehalten werden und viele Routinen die Handlungen der Geburtshelfer bestimmen.</p><p>Je weniger Umstände von externen Faktoren beeinflusst werden, desto einfacher ist es, eine natürliche Geburt zu erleben. Deswegen entscheiden sich viele Frauen mit dem Wunsch nach einer natürlichen Geburt für ein Geburtshaus oder eine Hausgeburt. Dort sind sie viel freier in der Gestaltung ihrer Wünsche und die begleitenden Hebammen sind mit den Prinzipien einer natürlichen Geburt oft vertrauter als das Krankenhauspersonal.</p><p>Entscheidest du dich für die Geburt in der Klinik, lohnt es sich vorab herauszufinden, in welcher Klinik deine Wünsche am besten umgesetzt werden können und wo du dich am wohlsten fühlst.</p>"
           }
         }
       },
@@ -280,13 +251,13 @@
         "image_FW4hNp": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-bad.jpg"
+            "img": "shopify://shop_images/Infobild-SS-Geburt-bad.jpg"
           }
         },
         "image_eAMBaF": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-bett.jpg"
+            "img": "shopify://shop_images/Infobild-SS-Geburt-bett.jpg"
           }
         }
       },
@@ -306,7 +277,7 @@
         "text_LqT4Kk": {
           "type": "text",
           "settings": {
-            "text": "<h3>5 - Ein passendes Team<\/h3><p>Nicht nur wo du dein Kind zur Welt bringst ist wichtig, sondern auch wer dich dabei unterstützt. Einer der häufigsten Gründe für ein unbefriedigendes Geburtserlebnis ist es, während der Geburt nicht ernst genommen, nicht genügend unterstützt oder allein gelassen worden zu sein. Suche dir daher ein Team, bei dem du ein richtig gutes Gefühl hast.<\/p><p>Auch der Faktor Sicherheit hängt weniger vom Geburtsort sondern vielmehr von einer optimalen persönlichen Betreuung ab. Eine Hebamme, die nur für dich zuständig ist, während der ganzen Geburt an deiner Seite bleibt und sich als aufmerksame Beobachterin im Hintergrund hält, um dich nicht von deiner intuitiven Geburtsarbeit abzulenken, merkt oft früher als ein technisches Überwachungsgerät, wenn die Geburt kompliziert wird oder Unterstützung benötigt.<\/p>"
+            "text": "<h3>5 - Ein passendes Team</h3><p>Nicht nur wo du dein Kind zur Welt bringst ist wichtig, sondern auch wer dich dabei unterstützt. Einer der häufigsten Gründe für ein unbefriedigendes Geburtserlebnis ist es, während der Geburt nicht ernst genommen, nicht genügend unterstützt oder allein gelassen worden zu sein. Suche dir daher ein Team, bei dem du ein richtig gutes Gefühl hast.</p><p>Auch der Faktor Sicherheit hängt weniger vom Geburtsort sondern vielmehr von einer optimalen persönlichen Betreuung ab. Eine Hebamme, die nur für dich zuständig ist, während der ganzen Geburt an deiner Seite bleibt und sich als aufmerksame Beobachterin im Hintergrund hält, um dich nicht von deiner intuitiven Geburtsarbeit abzulenken, merkt oft früher als ein technisches Überwachungsgerät, wenn die Geburt kompliziert wird oder Unterstützung benötigt.</p>"
           }
         }
       },
@@ -328,13 +299,13 @@
         "image_qPLKFB": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-hebammehoch.jpg"
+            "img": "shopify://shop_images/Infobild-SS-Geburt-hebammehoch.jpg"
           }
         },
         "image_wr9LWc": {
           "type": "image",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-SS-Geburt-partner.jpg"
+            "img": "shopify://shop_images/Infobild-SS-Geburt-partner.jpg"
           }
         }
       },
@@ -354,7 +325,7 @@
         "text_axEdKp": {
           "type": "text",
           "settings": {
-            "text": "<h3>6 - Ein Quäntchen Glück<\/h3><p>Jede Geburt ist eine Wundertüte. Niemand kann dir vorher sagen, wie diese eine Geburt werden wird. „Erstens kommt es anders, zweitens als man denkt“ ist eine Redewendung, die ganz bestimmt auf Geburten zutrifft. Es gibt Dinge, die du nicht oder nur bedingt beeinflussen kannst und es kann jederzeit etwas Unvorhergesehenes geschehen.<\/p><p>Wie viele Geschichten gibt es von Frauen, die im Auto oder im Flugzeug geboren haben. Vielleicht beginnen die Wehen ausgerechnet wenn dein Mann auf einer Geschäftsreise ist oder die Betreuung für die älteren Kinder krank wird. Vielleicht erwartest du Zwillinge. Vielleicht leidest du an einer Krankheit, die Einfluss auf Schwangerschaft und Geburt hat.<\/p><p>Ein bisschen Glück ist somit immer mit im Spiel. Dieser Punkt steht aber mit Absicht am Ende der Liste für die Zutaten einer natürlichen Geburt. Denn es gibt wesentlich mehr Punkte, die du gut beeinflussen und Entscheidungen, die du bewusst treffen kannst.<\/p><p>Die Geburt dem Schicksal zu überlassen ist keine gute Idee, denn viele Frauen, die das getan haben, wünschen sich im Nachhinein, sie hätten sich besser vorbereitet. Wir können es nicht genug betonen: Bereite dich gut vor, erwarte das Bestmögliche und öffne dich dann für alles was kommt.<\/p>"
+            "text": "<h3>6 - Ein Quäntchen Glück</h3><p>Jede Geburt ist eine Wundertüte. Niemand kann dir vorher sagen, wie diese eine Geburt werden wird. „Erstens kommt es anders, zweitens als man denkt“ ist eine Redewendung, die ganz bestimmt auf Geburten zutrifft. Es gibt Dinge, die du nicht oder nur bedingt beeinflussen kannst und es kann jederzeit etwas Unvorhergesehenes geschehen.</p><p>Wie viele Geschichten gibt es von Frauen, die im Auto oder im Flugzeug geboren haben. Vielleicht beginnen die Wehen ausgerechnet wenn dein Mann auf einer Geschäftsreise ist oder die Betreuung für die älteren Kinder krank wird. Vielleicht erwartest du Zwillinge. Vielleicht leidest du an einer Krankheit, die Einfluss auf Schwangerschaft und Geburt hat.</p><p>Ein bisschen Glück ist somit immer mit im Spiel. Dieser Punkt steht aber mit Absicht am Ende der Liste für die Zutaten einer natürlichen Geburt. Denn es gibt wesentlich mehr Punkte, die du gut beeinflussen und Entscheidungen, die du bewusst treffen kannst.</p><p>Die Geburt dem Schicksal zu überlassen ist keine gute Idee, denn viele Frauen, die das getan haben, wünschen sich im Nachhinein, sie hätten sich besser vorbereitet. Wir können es nicht genug betonen: Bereite dich gut vor, erwarte das Bestmögliche und öffne dich dann für alles was kommt.</p>"
           }
         }
       },
@@ -369,44 +340,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "image_with_text_hWUQkL": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_dxXgQc": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Geburtsvorbereitungskurs<\/h3><p>In unserem ganzheitlichen Geburtsvorbereitungskurs erfährst du noch viel mehr über diese 6 Zutaten und wie du dich intensiv auf eine sanfte, natürliche und selbstbestimmte Geburt vorbereitest. Den Kurs gibt es als Live-Kurs in Winterthur sowie als Onlinekurs, den du von überall aus und zu jeder Zeit selber durchführen kannst.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_iqcVtw": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zum Geburtsvorbereitungskurs",
-            "button_link": "https:\/\/www.herzanherz.ch\/geburtsvorbereitung\/",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_dxXgQc",
-        "button_iqcVtw"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Infobild-SS-Geburt-geburtsvorbereitung.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "scheme-73cb3c28-5e2e-4e1a-bbc4-ab2147ab6620",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -414,7 +347,6 @@
     "16a27f16-b5b6-4838-b516-46c85c826eb0",
     "01bd0c23-c272-4bfe-9a96-88558e4ef1f1",
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
-    "7e5305a9-173d-49b5-a2eb-0fa08c2ecdc7",
     "rich_text_UjMYrL",
     "section_custom_image_cK8xwA",
     "rich_text_URzWh9",
@@ -425,7 +357,6 @@
     "section_custom_image_Fxey8h",
     "rich_text_ebEgRF",
     "section_custom_image_X9xwyg",
-    "rich_text_wcGKAF",
-    "image_with_text_hWUQkL"
+    "rich_text_wcGKAF"
   ]
 }

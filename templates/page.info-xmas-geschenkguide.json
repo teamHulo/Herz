@@ -140,7 +140,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Grapat.jpg",
-            "title": "Weltenbau mit den Holzspielsets von Grapat",
+            "title": "Weltenbau mit Grapat",
             "text": "<p>Eine “Handvoll” Magie schenkt euch die wundervolle Marke Grapat. Diese bunten und vielfältigen Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie.</p><p>Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.&nbsp;</p>",
             "link_label": "Zu Grapat",
             "link": "https://herzanherz-shop.ch/collections/all?gf_463293=Grapat"
@@ -250,6 +250,52 @@
         "padding_bottom": 36
       }
     },
+    "f258b20b-4472-4d7b-860a-9452a525641c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Der Klassiker: Grimms Regenbogen</h3><p>Der bunte, nachhaltig produzierte Regenbogen ist Grimms Markenzeichen und der Klassiker schlechthin, der in keinem Kinderzimmer fehlen darf. Mit diesem einfachen, schlichten Holzspielzeug sind der Fantasie keine Grenzen gesetzt. Ob Krabbelkind oder Schulkind, es finden sich immer neue, spannende Verwendungsmöglichkeiten.</p>",
+            "text_style": "body"
+          }
+        },
+        "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Grimms entdecken",
+            "button_link": "shopify://collections/freies-spiel",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-heading-1",
+        "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-text-1",
+        "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-button-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Grimms_354373bd-92df-4334-bd5f-0bad0fd39e53.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "e75477b7-827f-485c-95b4-564b7fc55799": {
       "type": "rich-text",
       "blocks": {
@@ -284,24 +330,24 @@
         "padding_bottom": 52
       }
     },
-    "f258b20b-4472-4d7b-860a-9452a525641c": {
+    "image_with_text_M3HHhE": {
       "type": "image-with-text",
       "blocks": {
-        "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-heading-1": {
+        "heading_PMYWz4": {
           "type": "heading",
           "settings": {
             "heading": "",
             "heading_size": "h1"
           }
         },
-        "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-text-1": {
+        "text_xM4Ph6": {
           "type": "text",
           "settings": {
             "text": "<h3>Der Klassiker: Grimms Regenbogen</h3><p>Der bunte, nachhaltig produzierte Regenbogen ist Grimms Markenzeichen und der Klassiker schlechthin, der in keinem Kinderzimmer fehlen darf. Mit diesem einfachen, schlichten Holzspielzeug sind der Fantasie keine Grenzen gesetzt. Ob Krabbelkind oder Schulkind, es finden sich immer neue, spannende Verwendungsmöglichkeiten.</p>",
             "text_style": "body"
           }
         },
-        "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-button-1": {
+        "button_MEQXPN": {
           "type": "button",
           "settings": {
             "button_label": "Grimms entdecken",
@@ -311,12 +357,12 @@
         }
       },
       "block_order": [
-        "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-heading-1",
-        "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-text-1",
-        "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-button-1"
+        "heading_PMYWz4",
+        "text_xM4Ph6",
+        "button_MEQXPN"
       ],
       "settings": {
-        "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Grimms_354373bd-92df-4334-bd5f-0bad0fd39e53.jpg",
+        "image": "shopify://shop_images/2Winterthur_Babyladen_Gutschein_Grimms_Bauwelt_Bauspiel_Gelb1_6ee403cd-7434-42b9-a2b3-1e9658680ada.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -508,8 +554,9 @@
     "d0be46a9-f2b1-43ab-9de5-7e2842eae724",
     "ae541e00-6b9d-4960-93cf-4ca18bbf1167",
     "bba3a540-3843-43f1-9ae9-98143fcb7045",
-    "e75477b7-827f-485c-95b4-564b7fc55799",
     "f258b20b-4472-4d7b-860a-9452a525641c",
+    "e75477b7-827f-485c-95b4-564b7fc55799",
+    "image_with_text_M3HHhE",
     "31be1a56-bd03-4057-a35e-b6591d4e77cd",
     "5bc36a9a-9ad0-4afb-9b4b-5c5656584986",
     "0aeb9c5e-761c-4ad4-b0ac-6897db54f59d"

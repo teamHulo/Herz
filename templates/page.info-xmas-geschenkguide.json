@@ -116,6 +116,16 @@
     "d0be46a9-f2b1-43ab-9de5-7e2842eae724": {
       "type": "multicolumn",
       "blocks": {
+        "column_HrzK8x": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-hoerbert.jpg",
+            "title": "Der nachhaltige MP3 Player",
+            "text": "<p>Der hörbert ist ein robuster, nachhaltig produzierter Kinder-MP3-Player aus Holz. Über die bunten Knöpfe können schon die Kleinsten ganz selbständig Musik oder Hörspiele in bester Qualität geniessen. Der hörbert kann vieles: Mit Bluetooth, Aufzeichnungs-Funktion, Mikrofon, Sleep Timer und der Möglichkeit Internetradio abzuspielen bleiben keine Wünsche offen. Und das alles ohne teure Folgekosten wie Abonnements oder Lizenzen. Auf Wunsch kann der Hörbert mit dem Namen des Kindes graviert werden.&nbsp;</p>",
+            "link_label": "Zum hörbert",
+            "link": "shopify://products/hoerbert-mp3player"
+          }
+        },
         "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-1": {
           "type": "column",
           "settings": {
@@ -128,41 +138,8 @@
         }
       },
       "block_order": [
+        "column_HrzK8x",
         "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-1"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "82b7987a-4763-4122-a519-d9e89ff60521": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-hoerbert.jpg",
-            "title": "Der nachhaltige MP3 Player",
-            "text": "<p>Der hörbert ist ein robuster, nachhaltig produzierter Kinder-MP3-Player aus Holz. Über die bunten Knöpfe können schon die Kleinsten ganz selbständig Musik oder Hörspiele in bester Qualität geniessen. Der hörbert kann vieles: Mit Bluetooth, Aufzeichnungs-Funktion, Mikrofon, Sleep Timer und der Möglichkeit Internetradio abzuspielen bleiben keine Wünsche offen. Und das alles ohne teure Folgekosten wie Abonnements oder Lizenzen. Auf Wunsch kann der Hörbert mit dem Namen des Kindes graviert werden.&nbsp;</p>",
-            "link_label": "Zum hörbert",
-            "link": "shopify://products/hoerbert-mp3player"
-          }
-        }
-      },
-      "block_order": [
-        "template--21493117714747__82b7987a-4763-4122-a519-d9e89ff60521-column-2"
       ],
       "settings": {
         "title": "",
@@ -527,7 +504,6 @@
     "e8baebdb-259f-4344-ad11-8a7c98b9fdb0",
     "44c01f17-18ce-4124-bc46-25f6a8583cc9",
     "d0be46a9-f2b1-43ab-9de5-7e2842eae724",
-    "82b7987a-4763-4122-a519-d9e89ff60521",
     "ae541e00-6b9d-4960-93cf-4ca18bbf1167",
     "bba3a540-3843-43f1-9ae9-98143fcb7045",
     "e75477b7-827f-485c-95b4-564b7fc55799",

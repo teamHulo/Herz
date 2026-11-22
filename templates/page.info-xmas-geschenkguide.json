@@ -208,6 +208,7 @@
       "blocks": {
         "4aea8ba4-937d-41f4-9e40-372ec7434fad": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Grimms.jpg",
             "title": "Der Klassiker: Grimms Regenbogen",
@@ -218,6 +219,7 @@
         },
         "88aa3b98-c224-4b7c-9456-2eb5548dc0f1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Winterthur_Babyladen_Gutschein_Sarahs_silk_Montessori_Waldorf_Spielseide_Ozean1.jpg",
             "title": "Vielfältig einsetzbar: Bunte Seidentücher",
@@ -295,7 +297,7 @@
         "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h3>Klassisch schlicht: Wooden Story</h3><p>Der bunte, nachhaltig produzierte Regenbogen ist Grimms Markenzeichen und der Klassiker schlechthin, der in keinem Kinderzimmer fehlen darf. Mit diesem einfachen, schlichten Holzspielzeug sind der Fantasie keine Grenzen gesetzt. Ob Krabbelkind oder Schulkind, es finden sich immer neue, spannende Verwendungsmöglichkeiten.</p>",
+            "text": "<h3>Der Klassiker: Grimms Regenbogen</h3><p>Der bunte, nachhaltig produzierte Regenbogen ist Grimms Markenzeichen und der Klassiker schlechthin, der in keinem Kinderzimmer fehlen darf. Mit diesem einfachen, schlichten Holzspielzeug sind der Fantasie keine Grenzen gesetzt. Ob Krabbelkind oder Schulkind, es finden sich immer neue, spannende Verwendungsmöglichkeiten.</p>",
             "text_style": "body"
           }
         },
@@ -314,7 +316,7 @@
         "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-button-1"
       ],
       "settings": {
-        "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Woodenstory.jpg",
+        "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-Grimms_354373bd-92df-4334-bd5f-0bad0fd39e53.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",

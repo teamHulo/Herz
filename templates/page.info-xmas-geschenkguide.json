@@ -322,6 +322,7 @@
         "9541f096-bbc4-46d0-90ae-6fa51e048ac4",
         "0d68558f-155c-4133-a2cc-0e33915a4a0d"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
@@ -362,6 +363,7 @@
         "text_xM4Ph6",
         "button_MEQXPN"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/2Winterthur_Babyladen_Gutschein_Grimms_Bauwelt_Bauspiel_Gelb1_6ee403cd-7434-42b9-a2b3-1e9658680ada.webp",
         "height": "adapt",

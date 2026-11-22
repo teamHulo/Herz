@@ -125,32 +125,10 @@
             "link_label": "Schaukeln entdecken",
             "link": "shopify://collections/hangematten-schaukeln"
           }
-        },
-        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-ette.jpg",
-            "title": "Das modifizierbare Pikler Dreieck",
-            "text": "<p>Das Pikler Dreieck, das mehr kann: Dank einem simplen, aber genialen Mechanismus kann es modifiziert werden und viele verschiedene Formen annehmen. Zum Beispiel die M-Form, eine Brücke, ein Haus und vieles mehr. Für noch mehr Lernerfahrungen, noch mehr Spass, noch mehr Spiel! Es ermöglicht den Kindern, ihre Beweglichkeit und die motorischen Fähigkeiten zu schulen. Dank der wandelbaren Form wird es nie langweilig und dein Kind darf immer wieder neue Herausforderungen meistern. </p>",
-            "link_label": "Zum Kletterdreieck",
-            "link": "shopify://products/ette-tete-kletterdreieck"
-          }
-        },
-        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Herzanherz-Winterthur-Babyladen-Gutschein-Montessori-Learning-Tower-Helpertower-Lernturm-stepnsit-mood2.png",
-            "title": "Step'n'sit Learning Tower",
-            "text": "<p>Dieser Learning Tower kann als klassischer Lernturm eingesetzt werden, so dass schon die Kleinsten im Haushalt auf Augenhöhe zusehen und mitmachen können. Damit sie all ihre Fähigkeiten entwickeln, die Welt entdecken, die Motorik schulen, die Selbständigkeit entfalten, kreativ werden und seinen Wissensdurst stillen können.</p><p>Das Spezielle daran: Mit wenigen Handgriffen wird der Tower vom Turm zum Tisch umgebaut und kann so noch lange nach der Learning Tower-Zeit weiterverwendet werden.</p>",
-            "link_label": "Zum Step'n'sit",
-            "link": "shopify://products/ette-tete-learningtower-stepnsit"
-          }
         }
       },
       "block_order": [
-        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-1",
-        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-2",
-        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-3"
+        "template--21493117714747__d0be46a9-f2b1-43ab-9de5-7e2842eae724-column-1"
       ],
       "settings": {
         "title": "",
@@ -177,7 +155,7 @@
           "settings": {
             "image": "shopify://shop_images/Infobild-Xmas-Guide-Geschenk-hoerbert.jpg",
             "title": "Der nachhaltige MP3 Player",
-            "text": "<p>Der hörbert ist ein robuster, nachhaltig produzierter Kinder-MP3-Player aus Holz. Über die bunten Knöpfe können schon die Kleinsten ganz selbständig Musik oder Hörspiele in bester Qualität geniessen. Der hörbert kann vieles: Mit Bluetooth, Aufzeichnungs-Funktion, Mikrofon, Sleep Timer und der Möglichkeit Internetradio abzuspielen bleiben keine Wünsche offen. Und das alles ohne teure Folgekosten wie Abonnements oder Lizenzen. Auf Wunsch kann der Hörbert mit dem Namen des Kindes graviert werden. </p>",
+            "text": "<p>Der hörbert ist ein robuster, nachhaltig produzierter Kinder-MP3-Player aus Holz. Über die bunten Knöpfe können schon die Kleinsten ganz selbständig Musik oder Hörspiele in bester Qualität geniessen. Der hörbert kann vieles: Mit Bluetooth, Aufzeichnungs-Funktion, Mikrofon, Sleep Timer und der Möglichkeit Internetradio abzuspielen bleiben keine Wünsche offen. Und das alles ohne teure Folgekosten wie Abonnements oder Lizenzen. Auf Wunsch kann der Hörbert mit dem Namen des Kindes graviert werden.&nbsp;</p>",
             "link_label": "Zum hörbert",
             "link": "shopify://products/hoerbert-mp3player"
           }

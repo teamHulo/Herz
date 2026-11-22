@@ -103,6 +103,15 @@
             "url": "https://www.herzanherz.ch/kurse/dein-weg-zur-nat%C3%BCrlichen-geburt/"
           }
         },
+        "image_DLbAqM": {
+          "type": "image",
+          "settings": {
+            "menu_handle": "Frausein",
+            "new_tab": true,
+            "img": "shopify://shop_images/Megamenu-Paarzeit.jpg",
+            "url": "shopify://collections/paarzeit"
+          }
+        },
         "image_DWX8nW": {
           "type": "image",
           "settings": {
@@ -119,6 +128,15 @@
             "new_tab": false,
             "img": "shopify://shop_images/Megamenu-Geschenkgutschein.jpg",
             "url": ""
+          }
+        },
+        "image_V4yF97": {
+          "type": "image",
+          "settings": {
+            "menu_handle": "Frausein",
+            "new_tab": true,
+            "img": "shopify://shop_images/Megamenu-Mensunterwasche.jpg",
+            "url": "shopify://collections/mensunterwasche"
           }
         },
         "image_Fajgcw": {
@@ -195,24 +213,6 @@
             "url": "shopify://collections/learning-tower"
           }
         },
-        "image_V4yF97": {
-          "type": "image",
-          "settings": {
-            "menu_handle": "Frausein",
-            "new_tab": true,
-            "img": "shopify://shop_images/Megamenu-Mensunterwasche.jpg",
-            "url": "shopify://collections/mensunterwasche"
-          }
-        },
-        "image_DLbAqM": {
-          "type": "image",
-          "settings": {
-            "menu_handle": "Frausein",
-            "new_tab": true,
-            "img": "shopify://shop_images/Megamenu-Paarzeit.jpg",
-            "url": "shopify://collections/paarzeit"
-          }
-        },
         "image_zDcERJ": {
           "type": "image",
           "settings": {
@@ -232,8 +232,10 @@
       "block_order": [
         "image_ngqb9j",
         "image_g9BcHj",
+        "image_DLbAqM",
         "image_DWX8nW",
         "image_YEdWz7",
+        "image_V4yF97",
         "image_Fajgcw",
         "image_dzPfPt",
         "image_KKjjhF",
@@ -242,8 +244,6 @@
         "image_zNM6qx",
         "image_me6bbX",
         "image_JaBDqg",
-        "image_V4yF97",
-        "image_DLbAqM",
         "image_zDcERJ",
         "mobile_menu_x8LVG3"
       ],

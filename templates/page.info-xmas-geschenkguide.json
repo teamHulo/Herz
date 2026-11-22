@@ -260,7 +260,7 @@
         "template--21495327916347__f258b20b-4472-4d7b-860a-9452a525641c-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Grimms entdecken",
+            "button_label": "Freies Spiel entdecken",
             "button_link": "shopify://collections/freies-spiel",
             "button_style_secondary": false
           }

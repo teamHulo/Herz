@@ -2735,4 +2735,57 @@ header-menu .mega-menu summary svg {
   height: 100vh !important;
   width: auto !important;
 }
+/* START: Herz an Herz – Jubiläumslabels */
 
+.product_image-wrap .hah-product-labels {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  z-index: 9;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3px;
+  max-width: calc(100% - 10px);
+  pointer-events: none;
+}
+
+.product_image-wrap .hah-product-labels > span {
+  position: static;
+  margin: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.product_image-wrap .hah-anniversary-label {
+  display: inline-block;
+  padding: 5px 12px;
+  border-radius: 0;
+  background: #BA7D5A;
+  color: #00281D;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.08em;
+  text-transform: none;
+  white-space: nowrap;
+}
+
+.product_image-wrap .hah-anniversary-label[hidden] {
+  display: none !important;
+}
+
+@media screen and (max-width: 749px) {
+  .product_image-wrap .hah-product-labels {
+    gap: 2px;
+  }
+
+  .product_image-wrap .hah-product-labels > span {
+    padding: 3px 7px;
+    font-size: 11px;
+    line-height: 1.2;
+  }
+}
+
+/* ENDE: Herz an Herz – Jubiläumslabels */

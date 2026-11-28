@@ -18,16 +18,72 @@
         {% if product.images.size > 0 %}
             <img  src="{{ product.images[0].src | product_img_url: 'large' }}" alt="{{ product.title }}">
         {% endif %}
-{% if product.tags contains 'AKTUALITÄT:New in' %}
-  <span class="new-label">NEU</span>
-{% endif %}
+<div class="hah-product-labels">
+  {% if product.tags contains 'Jubiläumsaktion' %}
+    <span class="hah-anniversary-label" hidden>
+      10 Jahre ♥
+    </span>
+  {% endif %}
 
-{% if product.compare_at_price > product.price %}
-  <span class="sale-label">Sale</span>
-{% endif %}
+  {% if product.tags contains 'AKTUALITÄT:New in' %}
+    <span class="new-label">NEU</span>
+  {% endif %}
 
-{% if product.available == false %}
-  <span class="sold-label">Ausverkauft</span>
+  {% if product.compare_at_price > product.price %}
+    <span class="sale-label">Sale</span>
+  {% endif %}
+
+  {% if product.available == false %}
+    <span class="sold-label">Ausverkauft</span>
+  {% endif %}
+</div>
+
+{% if product.tags contains 'Jubiläumsaktion' %}
+  <script>
+    (() => {
+      const labels = document.currentScript.previousElementSibling;
+      const anniversary = labels.querySelector('.hah-anniversary-label');
+
+      if (!anniversary) return;
+
+      const start = Date.parse('2026-12-01T00:00:00+01:00');
+      const end = Date.parse('2026-12-07T00:00:00+01:00');
+
+      // Testanzeige nur im Theme-Editor:
+      const preview = false;
+      const editorPreview = {{ request.design_mode | json }};
+
+      let timer;
+
+      function updateLabel() {
+        window.clearTimeout(timer);
+
+        const now = Date.now();
+        const forcePreview = preview && editorPreview;
+
+        anniversary.hidden =
+          !forcePreview && !(now >= start && now < end);
+
+        if (!forcePreview && now < end) {
+          const nextBoundary = now < start ? start : end;
+          const delay = Math.min(
+            Math.max(nextBoundary - now, 100),
+            2147483647
+          );
+
+          timer = window.setTimeout(updateLabel, delay);
+        }
+      }
+
+      updateLabel();
+
+      document.addEventListener('visibilitychange', () => {
+        if (!document.hidden && labels.isConnected) {
+          updateLabel();
+        }
+      });
+    })();
+  </script>
 {% endif %}
 
       </div>
